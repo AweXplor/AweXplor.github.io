@@ -4703,7 +4703,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2023-10-26T03:47:17.000Z",
-    "updatedAt": "2024-12-20T07:06:42.000Z"
+    "updatedAt": "2024-12-20T10:18:57.000Z"
   },
   {
     "id": "TheWaWaR/simple-http-server",
@@ -5336,7 +5336,7 @@
       "name": "alacritty",
       "avatarUrl": "https://avatars.githubusercontent.com/u/29714349?v=4"
     },
-    "stars": 56972,
+    "stars": 56976,
     "starsDetail": null,
     "license": "Apache License 2.0",
     "forks": 3044,
@@ -5348,7 +5348,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-02-18T05:02:30.000Z",
-    "updatedAt": "2024-12-20T03:50:12.000Z"
+    "updatedAt": "2024-12-20T10:25:36.000Z"
   },
   {
     "id": "alex/rust-asn1",
@@ -7808,7 +7808,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-11-30T18:57:01.000Z",
-    "updatedAt": "2024-12-20T07:11:43.000Z"
+    "updatedAt": "2024-12-20T10:24:08.000Z"
   },
   {
     "id": "buster/rrun",
@@ -9244,7 +9244,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2012-09-19T10:14:00.000Z",
-    "updatedAt": "2024-12-20T07:06:41.000Z"
+    "updatedAt": "2024-12-20T10:18:56.000Z"
   },
   {
     "id": "conradkleinespel/rooster",
@@ -13186,7 +13186,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-12-11T10:37:00.000Z",
-    "updatedAt": "2024-12-20T07:05:47.000Z"
+    "updatedAt": "2024-12-20T10:17:00.000Z"
   },
   {
     "id": "flxzt/rnote",
@@ -19623,7 +19623,7 @@
       "name": "lsd-rs",
       "avatarUrl": "https://avatars.githubusercontent.com/u/77716111?v=4"
     },
-    "stars": 13723,
+    "stars": 13724,
     "starsDetail": null,
     "license": "Apache License 2.0",
     "forks": 437,
@@ -19635,7 +19635,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-11-24T11:04:12.000Z",
-    "updatedAt": "2024-12-20T03:49:57.000Z"
+    "updatedAt": "2024-12-20T10:25:21.000Z"
   },
   {
     "id": "lucid-kv/lucid",
@@ -27067,7 +27067,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-08-18T16:25:26.000Z",
-    "updatedAt": "2024-12-20T07:11:24.000Z"
+    "updatedAt": "2024-12-20T10:23:49.000Z"
   },
   {
     "id": "rustic-rs/rustic",

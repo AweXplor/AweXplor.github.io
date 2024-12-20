@@ -695,10 +695,10 @@
       "name": "DopplerHQ",
       "avatarUrl": "https://avatars.githubusercontent.com/u/34022344?v=4"
     },
-    "stars": 72030,
+    "stars": 72035,
     "starsDetail": null,
     "license": null,
-    "forks": 8905,
+    "forks": 8907,
     "primaryLanguage": "",
     "pushedAt": "2024-07-29T14:21:23.000Z",
     "archived": true,
@@ -707,7 +707,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-11-28T09:48:17.000Z",
-    "updatedAt": "2024-12-20T07:06:54.000Z"
+    "updatedAt": "2024-12-20T10:19:10.000Z"
   },
   {
     "id": "Dvergar/awesome-haxe-gamedev",
@@ -760,10 +760,10 @@
       "name": "EbookFoundation",
       "avatarUrl": "https://avatars.githubusercontent.com/u/14127308?v=4"
     },
-    "stars": 342097,
+    "stars": 342152,
     "starsDetail": null,
     "license": "Creative Commons Attribution 4.0 International",
-    "forks": 62050,
+    "forks": 62055,
     "primaryLanguage": "HTML",
     "pushedAt": "2024-12-17T17:26:57.000Z",
     "archived": false,
@@ -772,7 +772,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2013-10-11T06:50:37.000Z",
-    "updatedAt": "2024-12-20T07:06:54.000Z"
+    "updatedAt": "2024-12-20T10:19:10.000Z"
   },
   {
     "id": "Famolus/awesome-sass",
@@ -3051,7 +3051,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-12-18T16:58:30.000Z",
-    "updatedAt": "2024-12-20T07:04:40.000Z"
+    "updatedAt": "2024-12-20T10:15:51.000Z"
   },
   {
     "id": "analyticalmonk/awesome-neuroscience",
@@ -4476,7 +4476,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2014-11-23T04:36:38.000Z",
-    "updatedAt": "2024-12-20T07:06:10.000Z"
+    "updatedAt": "2024-12-20T10:18:25.000Z"
   },
   {
     "id": "cjbarber/ToolsOfTheTrade",
@@ -8470,7 +8470,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-05-31T01:56:17.000Z",
-    "updatedAt": "2024-12-20T07:06:53.000Z"
+    "updatedAt": "2024-12-20T10:19:08.000Z"
   },
   {
     "id": "inputsh/awesome-linux",
@@ -9275,7 +9275,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-10-13T08:37:26.000Z",
-    "updatedAt": "2024-12-20T03:50:13.000Z"
+    "updatedAt": "2024-12-20T10:25:37.000Z"
   },
   {
     "id": "jthegedus/awesome-firebase",

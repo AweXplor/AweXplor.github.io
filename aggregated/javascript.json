@@ -958,7 +958,7 @@
       "name": "decaporg",
       "avatarUrl": "https://avatars.githubusercontent.com/u/37912219?v=4"
     },
-    "stars": 18023,
+    "stars": 18024,
     "starsDetail": {
       "total": 17883,
       "week": 27,
@@ -972,11 +972,11 @@
     "pushedAt": "2024-12-06T09:04:27.000Z",
     "archived": false,
     "npmPackage": "decap-cms",
-    "npmLastMonthDownloads": 4434,
+    "npmLastMonthDownloads": 4365,
     "goPackage": null,
     "goImportedBy": 0,
     "createdAt": "2015-01-20T05:47:47.000Z",
-    "updatedAt": "2024-12-20T04:00:57.000Z"
+    "updatedAt": "2024-12-20T10:28:57.000Z"
   },
   {
     "id": "infinitered/nsfwjs",
@@ -3881,14 +3881,14 @@
     "license": "GNU Affero General Public License v3.0",
     "forks": 658,
     "primaryLanguage": "Dockerfile",
-    "pushedAt": "2024-12-18T14:26:21.000Z",
+    "pushedAt": "2024-12-20T10:23:25.000Z",
     "archived": false,
     "npmPackage": "",
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2014-10-31T15:46:17.000Z",
-    "updatedAt": "2024-12-20T04:00:55.000Z"
+    "updatedAt": "2024-12-20T10:28:55.000Z"
   },
   {
     "id": "stalniy/casl",
@@ -6352,7 +6352,7 @@
       "name": "HeyPuter",
       "avatarUrl": "https://avatars.githubusercontent.com/u/103972607?v=4"
     },
-    "stars": 27023,
+    "stars": 27028,
     "starsDetail": {
       "total": 25432,
       "week": 240,
@@ -6370,7 +6370,7 @@
     "goPackage": null,
     "goImportedBy": 0,
     "createdAt": "2024-03-03T01:44:32.000Z",
-    "updatedAt": "2024-12-20T03:52:43.000Z"
+    "updatedAt": "2024-12-20T10:28:07.000Z"
   },
   {
     "id": "LazarSoft/jsqrcode",
@@ -8660,7 +8660,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-02-19T06:30:29.000Z",
-    "updatedAt": "2024-12-20T03:49:30.000Z"
+    "updatedAt": "2024-12-20T10:18:02.000Z"
   },
   {
     "id": "blueimp/JavaScript-MD5",
@@ -11560,11 +11560,11 @@
     "pushedAt": "2024-11-28T17:22:02.000Z",
     "archived": false,
     "npmPackage": "ziggy-js",
-    "npmLastMonthDownloads": 159899,
+    "npmLastMonthDownloads": 157826,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-08-02T21:07:04.000Z",
-    "updatedAt": "2024-12-20T07:12:26.000Z"
+    "updatedAt": "2024-12-20T10:24:53.000Z"
   },
   {
     "id": "Khan/aphrodite",
@@ -14160,7 +14160,7 @@
       "name": "jaywcjlove",
       "avatarUrl": "https://avatars.githubusercontent.com/u/1680273?v=4"
     },
-    "stars": 6710,
+    "stars": 6711,
     "starsDetail": {
       "total": 6662,
       "week": 9,
@@ -14178,7 +14178,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-05-18T17:49:52.000Z",
-    "updatedAt": "2024-12-20T04:00:53.000Z"
+    "updatedAt": "2024-12-20T10:28:54.000Z"
   },
   {
     "id": "lgwebdream/FE-Interview",
@@ -15223,11 +15223,11 @@
     "pushedAt": "2024-09-13T15:08:36.000Z",
     "archived": false,
     "npmPackage": "vue-multiselect",
-    "npmLastMonthDownloads": 1178949,
+    "npmLastMonthDownloads": 1173338,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-04-23T13:02:33.000Z",
-    "updatedAt": "2024-12-20T03:49:11.000Z"
+    "updatedAt": "2024-12-20T10:17:41.000Z"
   },
   {
     "id": "xojs/xo",
@@ -18406,7 +18406,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-01-05T19:05:31.000Z",
-    "updatedAt": "2024-12-20T07:06:45.000Z"
+    "updatedAt": "2024-12-20T10:19:00.000Z"
   },
   {
     "id": "clappr/clappr",
@@ -26131,7 +26131,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2012-08-24T15:19:20.000Z",
-    "updatedAt": "2024-12-20T04:01:01.000Z"
+    "updatedAt": "2024-12-20T10:29:03.000Z"
   },
   {
     "id": "mdaines/viz.js",
@@ -28589,7 +28589,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-11-05T14:30:37.000Z",
-    "updatedAt": "2024-12-20T03:49:18.000Z"
+    "updatedAt": "2024-12-20T10:17:50.000Z"
   },
   {
     "id": "waylaidwanderer/node-chatgpt-api",
@@ -31355,7 +31355,7 @@
       "name": "jimp-dev",
       "avatarUrl": "https://avatars.githubusercontent.com/u/124403982?v=4"
     },
-    "stars": 14099,
+    "stars": 14100,
     "starsDetail": {
       "total": 13988,
       "week": 22,
@@ -31373,7 +31373,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2014-09-13T22:53:45.000Z",
-    "updatedAt": "2024-12-20T04:01:01.000Z"
+    "updatedAt": "2024-12-20T10:29:01.000Z"
   },
   {
     "id": "knex/knex",
