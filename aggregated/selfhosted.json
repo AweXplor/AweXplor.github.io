@@ -133,7 +133,7 @@
       "name": "cryptpad",
       "avatarUrl": "https://avatars.githubusercontent.com/u/76949612?v=4"
     },
-    "stars": 5737,
+    "stars": 5738,
     "starsDetail": {
       "total": 5605,
       "week": 28,
@@ -144,14 +144,14 @@
     "license": "GNU Affero General Public License v3.0",
     "forks": 658,
     "primaryLanguage": "Dockerfile",
-    "pushedAt": "2024-12-20T10:23:25.000Z",
+    "pushedAt": "2024-12-20T10:29:56.000Z",
     "archived": false,
     "npmPackage": "",
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2014-10-31T15:46:17.000Z",
-    "updatedAt": "2024-12-20T10:28:55.000Z"
+    "updatedAt": "2024-12-20T13:45:47.000Z"
   },
   {
     "id": "Jermolene/TiddlyWiki5",
@@ -7189,10 +7189,10 @@
       "name": "apache",
       "avatarUrl": "https://avatars.githubusercontent.com/u/47359?v=4"
     },
-    "stars": 63429,
+    "stars": 63434,
     "starsDetail": null,
     "license": "Apache License 2.0",
-    "forks": 14085,
+    "forks": 14084,
     "primaryLanguage": "Mako",
     "pushedAt": "2024-12-20T03:32:19.000Z",
     "archived": false,
@@ -7201,7 +7201,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-07-21T18:55:34.000Z",
-    "updatedAt": "2024-12-20T10:27:09.000Z"
+    "updatedAt": "2024-12-20T13:44:21.000Z"
   },
   {
     "id": "apankrat/nullboard",
@@ -15263,7 +15263,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2013-03-10T06:00:31.000Z",
-    "updatedAt": "2024-12-20T10:20:27.000Z"
+    "updatedAt": "2024-12-20T13:37:06.000Z"
   },
   {
     "id": "humhub/humhub",
@@ -17591,7 +17591,7 @@
     "stars": 16125,
     "starsDetail": null,
     "license": "MIT License",
-    "forks": 1984,
+    "forks": 1983,
     "primaryLanguage": "JavaScript",
     "pushedAt": "2024-12-15T19:02:04.000Z",
     "archived": false,
@@ -17600,7 +17600,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-12-06T12:13:19.000Z",
-    "updatedAt": "2024-12-20T10:25:09.000Z"
+    "updatedAt": "2024-12-20T13:41:55.000Z"
   },
   {
     "id": "kovidgoyal/calibre",
@@ -23963,7 +23963,7 @@
       "name": "postalserver",
       "avatarUrl": "https://avatars.githubusercontent.com/u/58169103?v=4"
     },
-    "stars": 15027,
+    "stars": 15028,
     "starsDetail": null,
     "license": "MIT License",
     "forks": 1071,
@@ -23975,7 +23975,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-04-19T12:04:57.000Z",
-    "updatedAt": "2024-12-20T10:20:56.000Z"
+    "updatedAt": "2024-12-20T13:37:34.000Z"
   },
   {
     "id": "prasathmani/tinyfilemanager",
@@ -27676,7 +27676,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2013-04-06T04:51:27.000Z",
-    "updatedAt": "2024-12-20T10:21:31.000Z"
+    "updatedAt": "2024-12-20T13:38:10.000Z"
   },
   {
     "id": "stumpapp/stump",
@@ -30454,7 +30454,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2021-12-02T12:49:41.000Z",
-    "updatedAt": "2024-12-20T10:28:22.000Z"
+    "updatedAt": "2024-12-20T13:45:36.000Z"
   },
   {
     "id": "znc/znc",

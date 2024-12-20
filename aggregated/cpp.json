@@ -1580,10 +1580,10 @@
       "name": "EbookFoundation",
       "avatarUrl": "https://avatars.githubusercontent.com/u/14127308?v=4"
     },
-    "stars": 342152,
+    "stars": 342167,
     "starsDetail": null,
     "license": "Creative Commons Attribution 4.0 International",
-    "forks": 62055,
+    "forks": 62057,
     "primaryLanguage": "HTML",
     "pushedAt": "2024-12-17T17:26:57.000Z",
     "archived": false,
@@ -1592,7 +1592,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2013-10-11T06:50:37.000Z",
-    "updatedAt": "2024-12-20T10:19:10.000Z"
+    "updatedAt": "2024-12-20T13:35:47.000Z"
   },
   {
     "id": "Embarcadero/Dev-Cpp",
@@ -5309,7 +5309,7 @@
       "name": "auto-differentiation",
       "avatarUrl": "https://avatars.githubusercontent.com/u/134167429?v=4"
     },
-    "stars": 342,
+    "stars": 343,
     "starsDetail": null,
     "license": "GNU Affero General Public License v3.0",
     "forks": 41,
@@ -5321,7 +5321,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2022-07-07T14:00:21.000Z",
-    "updatedAt": "2024-12-20T10:26:24.000Z"
+    "updatedAt": "2024-12-20T13:43:34.000Z"
   },
   {
     "id": "autodiff/autodiff",
@@ -9715,7 +9715,7 @@
       "name": "flashlight",
       "avatarUrl": "https://avatars.githubusercontent.com/u/67613832?v=4"
     },
-    "stars": 5301,
+    "stars": 5302,
     "starsDetail": null,
     "license": "MIT License",
     "forks": 498,
@@ -9727,7 +9727,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-12-11T18:28:47.000Z",
-    "updatedAt": "2024-12-20T10:18:51.000Z"
+    "updatedAt": "2024-12-20T13:35:29.000Z"
   },
   {
     "id": "flavio/qjson",
@@ -15525,19 +15525,19 @@
       "name": "microsoft",
       "avatarUrl": "https://avatars.githubusercontent.com/u/6154722?v=4"
     },
-    "stars": 165461,
+    "stars": 165467,
     "starsDetail": null,
     "license": "MIT License",
-    "forks": 29715,
+    "forks": 29718,
     "primaryLanguage": "Hack",
-    "pushedAt": "2024-12-20T10:24:38.000Z",
+    "pushedAt": "2024-12-20T13:35:17.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-09-03T20:23:38.000Z",
-    "updatedAt": "2024-12-20T10:28:38.000Z"
+    "updatedAt": "2024-12-20T13:42:41.000Z"
   },
   {
     "id": "mikke89/RmlUi",
@@ -21437,7 +21437,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2011-02-27T20:00:51.000Z",
-    "updatedAt": "2024-12-20T10:16:14.000Z"
+    "updatedAt": "2024-12-20T13:32:50.000Z"
   },
   {
     "id": "uncrustify/uncrustify",
@@ -22494,7 +22494,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2012-04-16T03:12:14.000Z",
-    "updatedAt": "2024-12-20T10:15:57.000Z"
+    "updatedAt": "2024-12-20T13:32:33.000Z"
   },
   {
     "id": "yhirose/cpp-httplib",
@@ -22729,7 +22729,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2012-01-21T19:17:23.000Z",
-    "updatedAt": "2024-12-20T10:18:33.000Z"
+    "updatedAt": "2024-12-20T13:35:10.000Z"
   },
   {
     "id": "zlib-ng/zlib-ng",

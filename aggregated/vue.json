@@ -1884,7 +1884,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2021-04-01T09:24:55.000Z",
-    "updatedAt": "2024-12-20T10:26:18.000Z"
+    "updatedAt": "2024-12-20T13:43:28.000Z"
   },
   {
     "id": "MartinMalinda/vue-concurrency",
@@ -5405,7 +5405,7 @@
       "name": "ecomfe",
       "avatarUrl": "https://avatars.githubusercontent.com/u/2268460?v=4"
     },
-    "stars": 9822,
+    "stars": 9823,
     "starsDetail": null,
     "license": "MIT License",
     "forks": 1490,
@@ -5417,7 +5417,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-06-17T09:55:24.000Z",
-    "updatedAt": "2024-12-20T10:17:31.000Z"
+    "updatedAt": "2024-12-20T13:34:08.000Z"
   },
   {
     "id": "ecosia/vue-safe-html",
@@ -6866,7 +6866,7 @@
       "name": "ionic-team",
       "avatarUrl": "https://avatars.githubusercontent.com/u/3171503?v=4"
     },
-    "stars": 51213,
+    "stars": 51214,
     "starsDetail": null,
     "license": "MIT License",
     "forks": 13496,
@@ -6878,7 +6878,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2013-08-20T23:06:02.000Z",
-    "updatedAt": "2024-12-20T10:25:42.000Z"
+    "updatedAt": "2024-12-20T13:42:52.000Z"
   },
   {
     "id": "itsalb3rt/afterman",
@@ -9180,7 +9180,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-04-17T23:49:17.000Z",
-    "updatedAt": "2024-12-20T10:17:07.000Z"
+    "updatedAt": "2024-12-20T13:33:45.000Z"
   },
   {
     "id": "naver/egjs-flicking",
@@ -11318,16 +11318,16 @@
     "stars": 84014,
     "starsDetail": null,
     "license": "MIT License",
-    "forks": 4258,
+    "forks": 4259,
     "primaryLanguage": "HTML",
-    "pushedAt": "2024-12-19T20:50:27.000Z",
+    "pushedAt": "2024-12-20T12:29:19.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-10-06T14:59:14.000Z",
-    "updatedAt": "2024-12-20T10:22:15.000Z"
+    "updatedAt": "2024-12-20T13:38:54.000Z"
   },
   {
     "id": "tangbc/vue-virtual-scroll-list",
