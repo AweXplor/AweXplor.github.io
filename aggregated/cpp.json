@@ -1580,10 +1580,10 @@
       "name": "EbookFoundation",
       "avatarUrl": "https://avatars.githubusercontent.com/u/14127308?v=4"
     },
-    "stars": 341965,
+    "stars": 342097,
     "starsDetail": null,
     "license": "Creative Commons Attribution 4.0 International",
-    "forks": 62041,
+    "forks": 62050,
     "primaryLanguage": "HTML",
     "pushedAt": "2024-12-17T17:26:57.000Z",
     "archived": false,
@@ -1592,7 +1592,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2013-10-11T06:50:37.000Z",
-    "updatedAt": "2024-12-19T18:30:51.000Z"
+    "updatedAt": "2024-12-20T07:06:54.000Z"
   },
   {
     "id": "Embarcadero/Dev-Cpp",
@@ -5321,7 +5321,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2022-07-07T14:00:21.000Z",
-    "updatedAt": "2024-12-19T12:03:51.000Z"
+    "updatedAt": "2024-12-20T03:51:00.000Z"
   },
   {
     "id": "autodiff/autodiff",
@@ -9715,7 +9715,7 @@
       "name": "flashlight",
       "avatarUrl": "https://avatars.githubusercontent.com/u/67613832?v=4"
     },
-    "stars": 5300,
+    "stars": 5301,
     "starsDetail": null,
     "license": "MIT License",
     "forks": 498,
@@ -9727,7 +9727,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-12-11T18:28:47.000Z",
-    "updatedAt": "2024-12-19T18:30:33.000Z"
+    "updatedAt": "2024-12-20T07:06:36.000Z"
   },
   {
     "id": "flavio/qjson",
@@ -12151,6 +12151,36 @@
     "goImportedBy": null,
     "createdAt": "2020-01-28T16:11:18.000Z",
     "updatedAt": "2024-11-19T12:24:08.000Z"
+  },
+  {
+    "id": "jerryscript-project/jerryscript",
+    "name": "jerryscript-project/jerryscript",
+    "description": "Ultra-lightweight JavaScript engine for the Internet of Things.",
+    "topics": [
+      "internet-of-things",
+      "iot",
+      "javascript",
+      "javascript-engine",
+      "jerryscript",
+      "runtime"
+    ],
+    "owner": {
+      "name": "jerryscript-project",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/51901932?v=4"
+    },
+    "stars": 6990,
+    "starsDetail": null,
+    "license": "Apache License 2.0",
+    "forks": 675,
+    "primaryLanguage": "Assembly",
+    "pushedAt": "2024-12-18T13:00:01.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2015-04-03T01:10:31.000Z",
+    "updatedAt": "2024-12-20T03:54:39.000Z"
   },
   {
     "id": "jhasse/jngl",
@@ -15495,19 +15525,19 @@
       "name": "microsoft",
       "avatarUrl": "https://avatars.githubusercontent.com/u/6154722?v=4"
     },
-    "stars": 165435,
+    "stars": 165445,
     "starsDetail": null,
     "license": "MIT License",
-    "forks": 29701,
+    "forks": 29708,
     "primaryLanguage": "Hack",
-    "pushedAt": "2024-12-19T12:02:02.000Z",
+    "pushedAt": "2024-12-20T03:39:34.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-09-03T20:23:38.000Z",
-    "updatedAt": "2024-12-19T12:02:52.000Z"
+    "updatedAt": "2024-12-20T03:50:07.000Z"
   },
   {
     "id": "mikke89/RmlUi",
@@ -20969,6 +20999,38 @@
     "updatedAt": "2024-11-19T12:23:06.000Z"
   },
   {
+    "id": "tidesdb/tidesdb",
+    "name": "tidesdb/tidesdb",
+    "description": "High-performance, durable, transactional embedded storage engine designed for flash and RAM optimization.",
+    "topics": [
+      "c-library",
+      "column-store",
+      "database",
+      "keyvaluestore",
+      "library",
+      "lsm-tree",
+      "oltp",
+      "storage-engine"
+    ],
+    "owner": {
+      "name": "tidesdb",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/184959755?v=4"
+    },
+    "stars": 126,
+    "starsDetail": null,
+    "license": "Mozilla Public License 2.0",
+    "forks": 10,
+    "primaryLanguage": "Shell",
+    "pushedAt": "2024-12-20T03:53:08.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2024-10-14T20:04:39.000Z",
+    "updatedAt": "2024-12-20T03:54:20.000Z"
+  },
+  {
     "id": "tidwall/neco",
     "name": "tidwall/neco",
     "description": "Concurrency library for C (coroutines)",
@@ -21375,7 +21437,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2011-02-27T20:00:51.000Z",
-    "updatedAt": "2024-12-20T00:43:12.000Z"
+    "updatedAt": "2024-12-20T07:05:02.000Z"
   },
   {
     "id": "uncrustify/uncrustify",
@@ -22425,14 +22487,14 @@
     "license": "GNU General Public License v3.0",
     "forks": 2809,
     "primaryLanguage": "Makefile",
-    "pushedAt": "2024-12-19T23:06:37.000Z",
+    "pushedAt": "2024-12-20T05:35:41.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2012-04-16T03:12:14.000Z",
-    "updatedAt": "2024-12-20T00:42:56.000Z"
+    "updatedAt": "2024-12-20T07:04:46.000Z"
   },
   {
     "id": "yhirose/cpp-httplib",
@@ -22655,7 +22717,7 @@
       "name": "zlib-ng",
       "avatarUrl": "https://avatars.githubusercontent.com/u/45075615?v=4"
     },
-    "stars": 1250,
+    "stars": 1251,
     "starsDetail": null,
     "license": "Other",
     "forks": 435,
@@ -22667,7 +22729,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2012-01-21T19:17:23.000Z",
-    "updatedAt": "2024-12-19T18:30:14.000Z"
+    "updatedAt": "2024-12-20T07:06:18.000Z"
   },
   {
     "id": "zlib-ng/zlib-ng",
