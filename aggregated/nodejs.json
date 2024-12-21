@@ -4859,11 +4859,11 @@
     "pushedAt": "2024-08-29T22:24:11.000Z",
     "archived": false,
     "npmPackage": "ms",
-    "npmLastMonthDownloads": 1107747100,
+    "npmLastMonthDownloads": 1078887244,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2012-03-08T02:10:13.000Z",
-    "updatedAt": "2024-12-19T12:07:12.000Z"
+    "updatedAt": "2024-12-21T05:27:13.000Z"
   },
   {
     "id": "yargs/yargs",
@@ -8716,14 +8716,14 @@
     "license": "Other",
     "forks": 592,
     "primaryLanguage": "CSS",
-    "pushedAt": "2024-12-18T19:07:50.000Z",
+    "pushedAt": "2024-12-19T16:49:39.000Z",
     "archived": false,
     "npmPackage": "apostrophe",
-    "npmLastMonthDownloads": 9731,
+    "npmLastMonthDownloads": 9475,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2013-02-08T20:04:02.000Z",
-    "updatedAt": "2024-12-19T12:06:56.000Z"
+    "updatedAt": "2024-12-21T05:27:00.000Z"
   },
   {
     "id": "cheeriojs/cheerio",
@@ -12380,21 +12380,21 @@
       "name": "TryGhost",
       "avatarUrl": "https://avatars.githubusercontent.com/u/2178663?v=4"
     },
-    "stars": 47811,
+    "stars": 47828,
     "starsDetail": {
       "total": 47223
     },
     "license": "MIT License",
-    "forks": 10451,
+    "forks": 10449,
     "primaryLanguage": "Dockerfile",
-    "pushedAt": "2024-12-19T12:01:26.000Z",
+    "pushedAt": "2024-12-20T12:46:03.000Z",
     "archived": false,
     "npmPackage": "",
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": 0,
     "createdAt": "2013-05-04T11:09:13.000Z",
-    "updatedAt": "2024-12-19T12:06:54.000Z"
+    "updatedAt": "2024-12-21T05:26:57.000Z"
   },
   {
     "id": "Unitech/pm2",
@@ -13698,7 +13698,7 @@
       "name": "immutable-js",
       "avatarUrl": "https://avatars.githubusercontent.com/u/46405934?v=4"
     },
-    "stars": 32989,
+    "stars": 32985,
     "starsDetail": {
       "total": 32940
     },
@@ -13708,11 +13708,11 @@
     "pushedAt": "2024-11-19T21:29:05.000Z",
     "archived": false,
     "npmPackage": "immutable",
-    "npmLastMonthDownloads": 88635364,
+    "npmLastMonthDownloads": 87159892,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2014-07-02T06:02:29.000Z",
-    "updatedAt": "2024-12-19T12:07:09.000Z"
+    "updatedAt": "2024-12-21T05:27:11.000Z"
   },
   {
     "id": "infusion/GPS.js",
@@ -15208,21 +15208,21 @@
       "name": "puppeteer",
       "avatarUrl": "https://avatars.githubusercontent.com/u/6906516?v=4"
     },
-    "stars": 89125,
+    "stars": 89148,
     "starsDetail": {
       "total": 88528
     },
     "license": "Apache License 2.0",
-    "forks": 9103,
+    "forks": 9101,
     "primaryLanguage": "Shell",
-    "pushedAt": "2024-12-19T10:20:33.000Z",
+    "pushedAt": "2024-12-19T19:30:23.000Z",
     "archived": false,
     "npmPackage": "puppeteer",
-    "npmLastMonthDownloads": 17839096,
+    "npmLastMonthDownloads": 17714050,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-05-09T22:16:13.000Z",
-    "updatedAt": "2024-12-19T12:06:49.000Z"
+    "updatedAt": "2024-12-21T05:26:53.000Z"
   },
   {
     "id": "reactivex/rxjs",

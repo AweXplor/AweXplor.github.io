@@ -1580,10 +1580,10 @@
       "name": "EbookFoundation",
       "avatarUrl": "https://avatars.githubusercontent.com/u/14127308?v=4"
     },
-    "stars": 342197,
+    "stars": 342206,
     "starsDetail": null,
     "license": "Creative Commons Attribution 4.0 International",
-    "forks": 62059,
+    "forks": 62065,
     "primaryLanguage": "HTML",
     "pushedAt": "2024-12-20T19:48:53.000Z",
     "archived": false,
@@ -1592,7 +1592,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2013-10-11T06:50:37.000Z",
-    "updatedAt": "2024-12-21T02:05:16.000Z"
+    "updatedAt": "2024-12-21T05:20:40.000Z"
   },
   {
     "id": "Embarcadero/Dev-Cpp",
@@ -1778,19 +1778,19 @@
       "name": "Immediate-Mode-UI",
       "avatarUrl": "https://avatars.githubusercontent.com/u/58210959?v=4"
     },
-    "stars": 9210,
+    "stars": 9429,
     "starsDetail": null,
     "license": "Other",
-    "forks": 558,
+    "forks": 579,
     "primaryLanguage": "Batchfile",
-    "pushedAt": "2024-10-03T03:08:10.000Z",
+    "pushedAt": "2024-12-15T23:23:34.000Z",
     "archived": false,
     "npmPackage": "",
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-11-26T09:21:47.000Z",
-    "updatedAt": "2024-10-19T06:56:05.000Z"
+    "updatedAt": "2024-12-21T05:31:29.000Z"
   },
   {
     "id": "JanVanRyswyck/awesome-talks",
@@ -4498,10 +4498,10 @@
       "name": "andlabs",
       "avatarUrl": "https://avatars.githubusercontent.com/u/718242?v=4"
     },
-    "stars": 10722,
+    "stars": 10746,
     "starsDetail": null,
     "license": "Other",
-    "forks": 614,
+    "forks": 615,
     "primaryLanguage": "Shell",
     "pushedAt": "2024-05-29T04:55:35.000Z",
     "archived": false,
@@ -4510,7 +4510,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-04-17T00:35:54.000Z",
-    "updatedAt": "2024-10-19T06:56:04.000Z"
+    "updatedAt": "2024-12-21T05:31:24.000Z"
   },
   {
     "id": "andreiavrammsd/cpp-channel",
@@ -5054,19 +5054,19 @@
       "name": "ashvardanian",
       "avatarUrl": "https://avatars.githubusercontent.com/u/1983160?v=4"
     },
-    "stars": 936,
+    "stars": 1157,
     "starsDetail": null,
     "license": "Apache License 2.0",
-    "forks": 52,
+    "forks": 66,
     "primaryLanguage": "Jupyter Notebook",
-    "pushedAt": "2024-10-18T18:12:29.000Z",
+    "pushedAt": "2024-12-17T20:36:36.000Z",
     "archived": false,
     "npmPackage": "",
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2023-03-14T08:41:48.000Z",
-    "updatedAt": "2024-10-19T06:55:44.000Z"
+    "updatedAt": "2024-12-21T05:29:36.000Z"
   },
   {
     "id": "ashvardanian/StringZilla",
@@ -5321,7 +5321,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2022-07-07T14:00:21.000Z",
-    "updatedAt": "2024-12-20T13:43:34.000Z"
+    "updatedAt": "2024-12-21T05:17:03.000Z"
   },
   {
     "id": "autodiff/autodiff",
@@ -9727,7 +9727,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-12-11T18:28:47.000Z",
-    "updatedAt": "2024-12-21T02:04:58.000Z"
+    "updatedAt": "2024-12-21T05:20:23.000Z"
   },
   {
     "id": "flavio/qjson",
@@ -15525,19 +15525,19 @@
       "name": "microsoft",
       "avatarUrl": "https://avatars.githubusercontent.com/u/6154722?v=4"
     },
-    "stars": 165467,
+    "stars": 165489,
     "starsDetail": null,
     "license": "MIT License",
-    "forks": 29718,
+    "forks": 29724,
     "primaryLanguage": "Hack",
-    "pushedAt": "2024-12-20T13:35:17.000Z",
+    "pushedAt": "2024-12-21T04:23:37.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-09-03T20:23:38.000Z",
-    "updatedAt": "2024-12-20T13:42:41.000Z"
+    "updatedAt": "2024-12-21T05:16:13.000Z"
   },
   {
     "id": "mikke89/RmlUi",
@@ -15885,19 +15885,19 @@
       "name": "mozilla",
       "avatarUrl": "https://avatars.githubusercontent.com/u/131524?v=4"
     },
-    "stars": 5785,
+    "stars": 5914,
     "starsDetail": null,
     "license": "Apache License 2.0",
-    "forks": 545,
+    "forks": 552,
     "primaryLanguage": "Makefile",
-    "pushedAt": "2024-10-07T08:21:24.000Z",
+    "pushedAt": "2024-12-19T12:30:39.000Z",
     "archived": false,
     "npmPackage": "",
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-04-26T20:44:16.000Z",
-    "updatedAt": "2024-10-19T06:55:32.000Z"
+    "updatedAt": "2024-12-21T05:28:49.000Z"
   },
   {
     "id": "mreineck/pocketfft",
@@ -16632,10 +16632,10 @@
       "name": "nsf",
       "avatarUrl": "https://avatars.githubusercontent.com/u/12567?v=4"
     },
-    "stars": 1971,
+    "stars": 1974,
     "starsDetail": null,
     "license": "MIT License",
-    "forks": 186,
+    "forks": 187,
     "primaryLanguage": "Python",
     "pushedAt": "2020-08-25T15:20:53.000Z",
     "archived": false,
@@ -16644,7 +16644,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2010-01-22T12:52:15.000Z",
-    "updatedAt": "2024-10-19T06:55:37.000Z"
+    "updatedAt": "2024-12-21T05:29:07.000Z"
   },
   {
     "id": "ntop/PF_RING",
@@ -19858,19 +19858,19 @@
       "name": "slint-ui",
       "avatarUrl": "https://avatars.githubusercontent.com/u/64742117?v=4"
     },
-    "stars": 17252,
+    "stars": 17895,
     "starsDetail": null,
     "license": "Other",
-    "forks": 581,
+    "forks": 620,
     "primaryLanguage": "C",
-    "pushedAt": "2024-10-18T20:05:23.000Z",
+    "pushedAt": "2024-12-20T17:39:29.000Z",
     "archived": false,
     "npmPackage": "",
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2020-05-04T08:53:03.000Z",
-    "updatedAt": "2024-10-19T06:56:06.000Z"
+    "updatedAt": "2024-12-21T05:31:36.000Z"
   },
   {
     "id": "sofa-framework/sofa",
@@ -20467,10 +20467,10 @@
       "name": "symisc",
       "avatarUrl": "https://avatars.githubusercontent.com/u/4615920?v=4"
     },
-    "stars": 2104,
+    "stars": 2129,
     "starsDetail": null,
     "license": "Other",
-    "forks": 164,
+    "forks": 167,
     "primaryLanguage": "CMake",
     "pushedAt": "2024-05-25T05:05:25.000Z",
     "archived": false,
@@ -20479,7 +20479,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2014-08-08T15:03:23.000Z",
-    "updatedAt": "2024-10-19T06:55:48.000Z"
+    "updatedAt": "2024-12-21T05:29:49.000Z"
   },
   {
     "id": "syoyo/tinydng",
@@ -21437,7 +21437,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2011-02-27T20:00:51.000Z",
-    "updatedAt": "2024-12-21T02:02:27.000Z"
+    "updatedAt": "2024-12-21T05:14:32.000Z"
   },
   {
     "id": "uncrustify/uncrustify",
@@ -21977,10 +21977,10 @@
       "name": "vstakhov",
       "avatarUrl": "https://avatars.githubusercontent.com/u/487344?v=4"
     },
-    "stars": 1624,
+    "stars": 1637,
     "starsDetail": null,
     "license": "BSD 2-Clause \"Simplified\" License",
-    "forks": 140,
+    "forks": 138,
     "primaryLanguage": "NASL",
     "pushedAt": "2024-04-25T14:25:50.000Z",
     "archived": false,
@@ -21989,7 +21989,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2013-10-11T01:04:47.000Z",
-    "updatedAt": "2024-10-19T06:55:40.000Z"
+    "updatedAt": "2024-12-21T05:29:19.000Z"
   },
   {
     "id": "walkerje/C-Turtle",
@@ -22494,7 +22494,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2012-04-16T03:12:14.000Z",
-    "updatedAt": "2024-12-21T02:02:11.000Z"
+    "updatedAt": "2024-12-21T05:14:15.000Z"
   },
   {
     "id": "yhirose/cpp-httplib",
@@ -22729,7 +22729,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2012-01-21T19:17:23.000Z",
-    "updatedAt": "2024-12-21T02:04:41.000Z"
+    "updatedAt": "2024-12-21T05:20:06.000Z"
   },
   {
     "id": "zlib-ng/zlib-ng",

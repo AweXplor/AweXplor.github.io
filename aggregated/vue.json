@@ -1872,7 +1872,7 @@
       "name": "Marcisbee",
       "avatarUrl": "https://avatars.githubusercontent.com/u/16621507?v=4"
     },
-    "stars": 241,
+    "stars": 242,
     "starsDetail": null,
     "license": "MIT License",
     "forks": 9,
@@ -1884,7 +1884,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2021-04-01T09:24:55.000Z",
-    "updatedAt": "2024-12-20T13:43:28.000Z"
+    "updatedAt": "2024-12-21T05:16:58.000Z"
   },
   {
     "id": "MartinMalinda/vue-concurrency",
@@ -5417,7 +5417,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-06-17T09:55:24.000Z",
-    "updatedAt": "2024-12-21T02:03:42.000Z"
+    "updatedAt": "2024-12-21T05:15:09.000Z"
   },
   {
     "id": "ecosia/vue-safe-html",
@@ -6866,19 +6866,19 @@
       "name": "ionic-team",
       "avatarUrl": "https://avatars.githubusercontent.com/u/3171503?v=4"
     },
-    "stars": 51214,
+    "stars": 51217,
     "starsDetail": null,
     "license": "MIT License",
-    "forks": 13496,
+    "forks": 13497,
     "primaryLanguage": "Dockerfile",
-    "pushedAt": "2024-12-19T16:01:34.000Z",
+    "pushedAt": "2024-12-20T17:05:10.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2013-08-20T23:06:02.000Z",
-    "updatedAt": "2024-12-20T13:42:52.000Z"
+    "updatedAt": "2024-12-21T05:16:23.000Z"
   },
   {
     "id": "itsalb3rt/afterman",
@@ -9180,7 +9180,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-04-17T23:49:17.000Z",
-    "updatedAt": "2024-12-21T02:03:19.000Z"
+    "updatedAt": "2024-12-21T05:14:47.000Z"
   },
   {
     "id": "naver/egjs-flicking",
@@ -9494,10 +9494,10 @@
       "name": "nolimits4web",
       "avatarUrl": "https://avatars.githubusercontent.com/u/999588?v=4"
     },
-    "stars": 40165,
+    "stars": 40185,
     "starsDetail": null,
     "license": "MIT License",
-    "forks": 9745,
+    "forks": 9743,
     "primaryLanguage": "Vue",
     "pushedAt": "2024-11-18T19:57:48.000Z",
     "archived": false,
@@ -9506,7 +9506,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2012-03-14T19:11:45.000Z",
-    "updatedAt": "2024-12-19T12:07:32.000Z"
+    "updatedAt": "2024-12-21T05:27:32.000Z"
   },
   {
     "id": "noru/vue-easy-toast",
@@ -11315,7 +11315,7 @@
       "name": "tailwindlabs",
       "avatarUrl": "https://avatars.githubusercontent.com/u/67109815?v=4"
     },
-    "stars": 84022,
+    "stars": 84024,
     "starsDetail": null,
     "license": "MIT License",
     "forks": 4258,
@@ -11327,7 +11327,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-10-06T14:59:14.000Z",
-    "updatedAt": "2024-12-21T02:08:13.000Z"
+    "updatedAt": "2024-12-21T05:23:33.000Z"
   },
   {
     "id": "tangbc/vue-virtual-scroll-list",

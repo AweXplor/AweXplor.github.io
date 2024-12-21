@@ -2851,19 +2851,19 @@
       "name": "LaurentMazare",
       "avatarUrl": "https://avatars.githubusercontent.com/u/1041292?v=4"
     },
-    "stars": 4270,
+    "stars": 4435,
     "starsDetail": null,
     "license": "Apache License 2.0",
-    "forks": 340,
+    "forks": 348,
     "primaryLanguage": "Dune",
-    "pushedAt": "2024-10-17T16:58:04.000Z",
+    "pushedAt": "2024-12-10T10:38:36.000Z",
     "archived": false,
     "npmPackage": "",
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-02-16T21:08:44.000Z",
-    "updatedAt": "2024-10-19T06:55:28.000Z"
+    "updatedAt": "2024-12-21T05:28:31.000Z"
   },
   {
     "id": "LaurentMazare/tensorflow-ocaml",
@@ -4242,7 +4242,7 @@
       "name": "VowpalWabbit",
       "avatarUrl": "https://avatars.githubusercontent.com/u/43754238?v=4"
     },
-    "stars": 8497,
+    "stars": 8498,
     "starsDetail": null,
     "license": "Other",
     "forks": 1925,
@@ -4254,7 +4254,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2009-07-31T19:36:58.000Z",
-    "updatedAt": "2024-12-21T02:02:19.000Z"
+    "updatedAt": "2024-12-21T05:14:24.000Z"
   },
   {
     "id": "Western-OC2-Lab/AutoML-Implementation-for-Static-and-Dynamic-Data-Analytics",
@@ -5569,7 +5569,7 @@
     "stars": 5556,
     "starsDetail": null,
     "license": "Apache License 2.0",
-    "forks": 272,
+    "forks": 270,
     "primaryLanguage": "Shell",
     "pushedAt": "2024-03-20T09:51:14.000Z",
     "archived": false,
@@ -5578,7 +5578,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-10-26T08:20:56.000Z",
-    "updatedAt": "2024-10-19T06:55:27.000Z"
+    "updatedAt": "2024-12-21T05:28:28.000Z"
   },
   {
     "id": "avinashshenoy97/RusticSOM",
@@ -7248,25 +7248,36 @@
   {
     "id": "comet-ml/opik",
     "name": "comet-ml/opik",
-    "description": "Open-source end-to-end LLM Development Platform",
-    "topics": [],
+    "description": "From RAG chatbots to code assistants to complex agentic pipelines and beyond, build LLM systems that run better, faster, and cheaper with tracing, evaluations, and dashboards.",
+    "topics": [
+      "langchain",
+      "llama-index",
+      "llm",
+      "llm-evaluation",
+      "llm-observability",
+      "llmops",
+      "open-source",
+      "openai",
+      "playground",
+      "prompt-engineering"
+    ],
     "owner": {
       "name": "comet-ml",
       "avatarUrl": "https://avatars.githubusercontent.com/u/31487821?v=4"
     },
-    "stars": 3035,
+    "stars": 3402,
     "starsDetail": null,
     "license": "Apache License 2.0",
-    "forks": 182,
+    "forks": 196,
     "primaryLanguage": "Makefile",
-    "pushedAt": "2024-12-20T11:36:20.000Z",
+    "pushedAt": "2024-12-21T00:59:43.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2023-05-10T12:57:13.000Z",
-    "updatedAt": "2024-12-20T13:44:01.000Z"
+    "updatedAt": "2024-12-21T05:17:28.000Z"
   },
   {
     "id": "compressed/BackpropNeuralNet.jl",
@@ -7320,7 +7331,7 @@
       "name": "coreylowman",
       "avatarUrl": "https://avatars.githubusercontent.com/u/7787278?v=4"
     },
-    "stars": 1720,
+    "stars": 1759,
     "starsDetail": null,
     "license": "Other",
     "forks": 99,
@@ -7332,7 +7343,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2021-10-12T02:58:54.000Z",
-    "updatedAt": "2024-10-19T06:55:28.000Z"
+    "updatedAt": "2024-12-21T05:28:30.000Z"
   },
   {
     "id": "cortexlabs/cortex",
@@ -10061,10 +10072,10 @@
       "name": "guillaume-be",
       "avatarUrl": "https://avatars.githubusercontent.com/u/27071604?v=4"
     },
-    "stars": 2616,
+    "stars": 2701,
     "starsDetail": null,
     "license": "Apache License 2.0",
-    "forks": 215,
+    "forks": 217,
     "primaryLanguage": "Python",
     "pushedAt": "2024-09-29T14:13:25.000Z",
     "archived": false,
@@ -10073,7 +10084,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2020-01-25T09:40:07.000Z",
-    "updatedAt": "2024-10-19T06:55:27.000Z"
+    "updatedAt": "2024-12-21T05:28:29.000Z"
   },
   {
     "id": "guofei9987/scikit-opt",
@@ -10405,19 +10416,19 @@
       "name": "huggingface",
       "avatarUrl": "https://avatars.githubusercontent.com/u/25720743?v=4"
     },
-    "stars": 15584,
+    "stars": 16104,
     "starsDetail": null,
     "license": "Apache License 2.0",
-    "forks": 921,
+    "forks": 980,
     "primaryLanguage": "RenderScript",
-    "pushedAt": "2024-10-17T18:22:51.000Z",
+    "pushedAt": "2024-12-07T16:04:23.000Z",
     "archived": false,
     "npmPackage": "",
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2023-06-19T16:06:31.000Z",
-    "updatedAt": "2024-10-19T06:55:28.000Z"
+    "updatedAt": "2024-12-21T05:28:31.000Z"
   },
   {
     "id": "huggingface/tokenizers",
@@ -10436,19 +10447,19 @@
       "name": "huggingface",
       "avatarUrl": "https://avatars.githubusercontent.com/u/25720743?v=4"
     },
-    "stars": 8992,
+    "stars": 9164,
     "starsDetail": null,
     "license": "Apache License 2.0",
-    "forks": 789,
+    "forks": 816,
     "primaryLanguage": "HTML",
-    "pushedAt": "2024-10-14T20:19:11.000Z",
+    "pushedAt": "2024-11-27T15:01:51.000Z",
     "archived": false,
     "npmPackage": "tokenizers",
-    "npmLastMonthDownloads": 1484,
+    "npmLastMonthDownloads": 1836,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-11-01T17:52:20.000Z",
-    "updatedAt": "2024-10-19T06:55:28.000Z"
+    "updatedAt": "2024-12-21T05:28:30.000Z"
   },
   {
     "id": "huggingface/transformers",
@@ -12733,10 +12744,10 @@
       "name": "maciejkula",
       "avatarUrl": "https://avatars.githubusercontent.com/u/2392579?v=4"
     },
-    "stars": 618,
+    "stars": 627,
     "starsDetail": null,
     "license": "Apache License 2.0",
-    "forks": 53,
+    "forks": 54,
     "primaryLanguage": "Shell",
     "pushedAt": "2021-06-07T09:09:59.000Z",
     "archived": false,
@@ -12745,7 +12756,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-12-03T21:48:17.000Z",
-    "updatedAt": "2024-10-19T06:55:28.000Z"
+    "updatedAt": "2024-12-21T05:28:32.000Z"
   },
   {
     "id": "madhusudancs/sentiment-analyzer",
@@ -15076,10 +15087,10 @@
       "name": "opencv",
       "avatarUrl": "https://avatars.githubusercontent.com/u/5009934?v=4"
     },
-    "stars": 79720,
+    "stars": 79721,
     "starsDetail": null,
     "license": "Apache License 2.0",
-    "forks": 55882,
+    "forks": 55883,
     "primaryLanguage": "Dockerfile",
     "pushedAt": "2024-12-20T10:10:03.000Z",
     "archived": false,
@@ -15088,7 +15099,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2012-07-19T09:40:17.000Z",
-    "updatedAt": "2024-12-21T02:04:59.000Z"
+    "updatedAt": "2024-12-21T05:20:24.000Z"
   },
   {
     "id": "opendilab/DI-engine",
@@ -15948,7 +15959,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2009-05-05T09:43:50.000Z",
-    "updatedAt": "2024-12-21T02:02:26.000Z"
+    "updatedAt": "2024-12-21T05:14:30.000Z"
   },
   {
     "id": "pyqtgraph/pyqtgraph",
@@ -16836,10 +16847,10 @@
       "name": "rust-ml",
       "avatarUrl": "https://avatars.githubusercontent.com/u/50020044?v=4"
     },
-    "stars": 3717,
+    "stars": 3815,
     "starsDetail": null,
     "license": "Apache License 2.0",
-    "forks": 244,
+    "forks": 253,
     "primaryLanguage": "Gnuplot",
     "pushedAt": "2024-08-17T20:08:54.000Z",
     "archived": false,
@@ -16848,7 +16859,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-04-05T07:03:30.000Z",
-    "updatedAt": "2024-10-19T06:55:28.000Z"
+    "updatedAt": "2024-12-21T05:28:33.000Z"
   },
   {
     "id": "ryanbressler/CloudForest",
@@ -17747,19 +17758,19 @@
       "name": "smartcorelib",
       "avatarUrl": "https://avatars.githubusercontent.com/u/70176448?v=4"
     },
-    "stars": 700,
+    "stars": 721,
     "starsDetail": null,
     "license": "Apache License 2.0",
-    "forks": 75,
+    "forks": 79,
     "primaryLanguage": "Rust",
-    "pushedAt": "2024-08-05T15:08:26.000Z",
+    "pushedAt": "2024-11-26T15:19:50.000Z",
     "archived": false,
     "npmPackage": "",
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-05-08T05:14:51.000Z",
-    "updatedAt": "2024-10-19T06:55:28.000Z"
+    "updatedAt": "2024-12-21T05:28:32.000Z"
   },
   {
     "id": "snipsco/snips-nlu",
@@ -18906,19 +18917,19 @@
       "name": "tracel-ai",
       "avatarUrl": "https://avatars.githubusercontent.com/u/111992358?v=4"
     },
-    "stars": 8650,
+    "stars": 9202,
     "starsDetail": null,
     "license": "Apache License 2.0",
-    "forks": 430,
+    "forks": 458,
     "primaryLanguage": "RenderScript",
-    "pushedAt": "2024-10-18T20:47:27.000Z",
+    "pushedAt": "2024-12-20T21:06:23.000Z",
     "archived": false,
     "npmPackage": "",
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2022-07-18T23:11:45.000Z",
-    "updatedAt": "2024-10-19T06:55:27.000Z"
+    "updatedAt": "2024-12-21T05:28:29.000Z"
   },
   {
     "id": "trekhleb/homemade-machine-learning",

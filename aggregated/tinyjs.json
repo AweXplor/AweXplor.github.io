@@ -126,11 +126,11 @@
     "pushedAt": "2024-08-29T22:24:11.000Z",
     "archived": false,
     "npmPackage": "ms",
-    "npmLastMonthDownloads": 1107747100,
+    "npmLastMonthDownloads": 1078887244,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2012-03-08T02:10:13.000Z",
-    "updatedAt": "2024-12-19T12:07:12.000Z"
+    "updatedAt": "2024-12-21T05:27:13.000Z"
   },
   {
     "id": "angus-c/just",
@@ -311,7 +311,7 @@
       "name": "jorgebucaran",
       "avatarUrl": "https://avatars.githubusercontent.com/u/56996?v=4"
     },
-    "stars": 19096,
+    "stars": 19099,
     "starsDetail": {
       "total": 19071,
       "week": 4,
@@ -325,11 +325,11 @@
     "pushedAt": "2024-10-17T21:49:39.000Z",
     "archived": false,
     "npmPackage": "hyperapp",
-    "npmLastMonthDownloads": 33738,
+    "npmLastMonthDownloads": 32206,
     "goPackage": null,
     "goImportedBy": 0,
     "createdAt": "2017-01-20T05:20:21.000Z",
-    "updatedAt": "2024-12-19T12:06:52.000Z"
+    "updatedAt": "2024-12-21T05:26:56.000Z"
   },
   {
     "id": "AlloyTeam/AlloyFinger",
@@ -1961,14 +1961,14 @@
     "license": "MIT License",
     "forks": 1958,
     "primaryLanguage": "TypeScript",
-    "pushedAt": "2024-12-18T20:56:04.000Z",
+    "pushedAt": "2024-12-20T23:17:38.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-09-11T02:40:18.000Z",
-    "updatedAt": "2024-12-19T12:06:53.000Z"
+    "updatedAt": "2024-12-21T05:26:57.000Z"
   },
   {
     "id": "preactjs/signals",
