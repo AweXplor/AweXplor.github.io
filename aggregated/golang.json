@@ -18788,35 +18788,6 @@
     "updatedAt": "2024-10-19T07:14:00.000Z"
   },
   {
-    "id": "creativecreature/sturdyc",
-    "name": "creativecreature/sturdyc",
-    "description": "A caching library with advanced concurrency features designed to make I/O heavy applications robust and highly performant",
-    "topics": [
-      "cache",
-      "concurrency",
-      "go",
-      "golang",
-      "performance"
-    ],
-    "owner": {
-      "name": "creativecreature",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/12787673?v=4"
-    },
-    "stars": 331,
-    "starsDetail": null,
-    "license": "MIT License",
-    "forks": 11,
-    "primaryLanguage": "Makefile",
-    "pushedAt": "2024-10-12T17:14:59.000Z",
-    "archived": false,
-    "npmPackage": "",
-    "npmLastMonthDownloads": null,
-    "goPackage": "github.com/creativecreature/sturdyc",
-    "goImportedBy": 5,
-    "createdAt": "2024-04-06T17:00:40.000Z",
-    "updatedAt": "2024-10-19T06:57:04.000Z"
-  },
-  {
     "id": "cristalhq/acmd",
     "name": "cristalhq/acmd",
     "description": "Simple, useful and opinionated CLI package in Go.",
