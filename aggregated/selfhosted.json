@@ -15251,7 +15251,7 @@
       "name": "huginn",
       "avatarUrl": "https://avatars.githubusercontent.com/u/23225142?v=4"
     },
-    "stars": 43997,
+    "stars": 43998,
     "starsDetail": null,
     "license": "MIT License",
     "forks": 3810,
@@ -15263,7 +15263,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2013-03-10T06:00:31.000Z",
-    "updatedAt": "2024-12-21T05:21:51.000Z"
+    "updatedAt": "2024-12-21T08:40:31.000Z"
   },
   {
     "id": "humhub/humhub",
@@ -23975,7 +23975,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-04-19T12:04:57.000Z",
-    "updatedAt": "2024-12-21T05:22:19.000Z"
+    "updatedAt": "2024-12-21T08:40:58.000Z"
   },
   {
     "id": "prasathmani/tinyfilemanager",
@@ -27676,7 +27676,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2013-04-06T04:51:27.000Z",
-    "updatedAt": "2024-12-21T05:22:52.000Z"
+    "updatedAt": "2024-12-21T08:41:30.000Z"
   },
   {
     "id": "stumpapp/stump",
