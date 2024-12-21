@@ -1580,19 +1580,19 @@
       "name": "EbookFoundation",
       "avatarUrl": "https://avatars.githubusercontent.com/u/14127308?v=4"
     },
-    "stars": 342167,
+    "stars": 342197,
     "starsDetail": null,
     "license": "Creative Commons Attribution 4.0 International",
-    "forks": 62057,
+    "forks": 62059,
     "primaryLanguage": "HTML",
-    "pushedAt": "2024-12-17T17:26:57.000Z",
+    "pushedAt": "2024-12-20T19:48:53.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2013-10-11T06:50:37.000Z",
-    "updatedAt": "2024-12-20T13:35:47.000Z"
+    "updatedAt": "2024-12-21T02:05:16.000Z"
   },
   {
     "id": "Embarcadero/Dev-Cpp",
@@ -9715,19 +9715,19 @@
       "name": "flashlight",
       "avatarUrl": "https://avatars.githubusercontent.com/u/67613832?v=4"
     },
-    "stars": 5302,
+    "stars": 5304,
     "starsDetail": null,
     "license": "MIT License",
     "forks": 498,
     "primaryLanguage": "Shell",
-    "pushedAt": "2024-11-23T22:13:12.000Z",
+    "pushedAt": "2024-12-20T23:11:29.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-12-11T18:28:47.000Z",
-    "updatedAt": "2024-12-20T13:35:29.000Z"
+    "updatedAt": "2024-12-21T02:04:58.000Z"
   },
   {
     "id": "flavio/qjson",
@@ -21437,7 +21437,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2011-02-27T20:00:51.000Z",
-    "updatedAt": "2024-12-20T19:54:50.000Z"
+    "updatedAt": "2024-12-21T02:02:27.000Z"
   },
   {
     "id": "uncrustify/uncrustify",
@@ -22482,19 +22482,19 @@
       "name": "ycm-core",
       "avatarUrl": "https://avatars.githubusercontent.com/u/52140259?v=4"
     },
-    "stars": 25507,
+    "stars": 25506,
     "starsDetail": null,
     "license": "GNU General Public License v3.0",
     "forks": 2809,
     "primaryLanguage": "Makefile",
-    "pushedAt": "2024-12-20T05:35:41.000Z",
+    "pushedAt": "2024-12-20T21:43:51.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2012-04-16T03:12:14.000Z",
-    "updatedAt": "2024-12-20T19:54:34.000Z"
+    "updatedAt": "2024-12-21T02:02:11.000Z"
   },
   {
     "id": "yhirose/cpp-httplib",
@@ -22717,7 +22717,7 @@
       "name": "zlib-ng",
       "avatarUrl": "https://avatars.githubusercontent.com/u/45075615?v=4"
     },
-    "stars": 1251,
+    "stars": 1252,
     "starsDetail": null,
     "license": "Other",
     "forks": 435,
@@ -22729,7 +22729,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2012-01-21T19:17:23.000Z",
-    "updatedAt": "2024-12-20T13:35:10.000Z"
+    "updatedAt": "2024-12-21T02:04:41.000Z"
   },
   {
     "id": "zlib-ng/zlib-ng",
