@@ -21437,7 +21437,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2011-02-27T20:00:51.000Z",
-    "updatedAt": "2024-12-21T08:37:33.000Z"
+    "updatedAt": "2024-12-21T11:48:27.000Z"
   },
   {
     "id": "uncrustify/uncrustify",
@@ -22482,7 +22482,7 @@
       "name": "ycm-core",
       "avatarUrl": "https://avatars.githubusercontent.com/u/52140259?v=4"
     },
-    "stars": 25507,
+    "stars": 25508,
     "starsDetail": null,
     "license": "GNU General Public License v3.0",
     "forks": 2809,
@@ -22494,7 +22494,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2012-04-16T03:12:14.000Z",
-    "updatedAt": "2024-12-21T08:37:18.000Z"
+    "updatedAt": "2024-12-21T11:48:11.000Z"
   },
   {
     "id": "yhirose/cpp-httplib",
