@@ -69623,6 +69623,35 @@
     "updatedAt": "2024-10-19T07:14:15.000Z"
   },
   {
+    "id": "viccon/sturdyc",
+    "name": "viccon/sturdyc",
+    "description": "A caching library with advanced concurrency features designed to make I/O heavy applications robust and highly performant",
+    "topics": [
+      "cache",
+      "concurrency",
+      "go",
+      "golang",
+      "performance"
+    ],
+    "owner": {
+      "name": "viccon",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/12787673?v=4"
+    },
+    "stars": 349,
+    "starsDetail": null,
+    "license": "MIT License",
+    "forks": 13,
+    "primaryLanguage": "Makefile",
+    "pushedAt": "2024-12-21T07:32:23.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2024-04-06T17:00:40.000Z",
+    "updatedAt": "2024-12-22T00:08:54.000Z"
+  },
+  {
     "id": "vimeda/pletter",
     "name": "vimeda/pletter",
     "description": "A standard way to wrap a proto message",
