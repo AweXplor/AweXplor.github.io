@@ -707,7 +707,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-11-28T09:48:17.000Z",
-    "updatedAt": "2024-12-22T09:37:39.000Z"
+    "updatedAt": "2024-12-22T12:50:15.000Z"
   },
   {
     "id": "Dvergar/awesome-haxe-gamedev",
@@ -760,10 +760,10 @@
       "name": "EbookFoundation",
       "avatarUrl": "https://avatars.githubusercontent.com/u/14127308?v=4"
     },
-    "stars": 342284,
+    "stars": 342305,
     "starsDetail": null,
     "license": "Creative Commons Attribution 4.0 International",
-    "forks": 62065,
+    "forks": 62064,
     "primaryLanguage": "HTML",
     "pushedAt": "2024-12-21T23:30:22.000Z",
     "archived": false,
@@ -772,7 +772,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2013-10-11T06:50:37.000Z",
-    "updatedAt": "2024-12-22T09:37:39.000Z"
+    "updatedAt": "2024-12-22T12:50:14.000Z"
   },
   {
     "id": "Famolus/awesome-sass",
@@ -3051,7 +3051,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-12-18T16:58:30.000Z",
-    "updatedAt": "2024-12-22T09:35:25.000Z"
+    "updatedAt": "2024-12-22T12:46:46.000Z"
   },
   {
     "id": "analyticalmonk/awesome-neuroscience",
@@ -4476,7 +4476,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2014-11-23T04:36:38.000Z",
-    "updatedAt": "2024-12-22T09:36:55.000Z"
+    "updatedAt": "2024-12-22T12:49:28.000Z"
   },
   {
     "id": "cjbarber/ToolsOfTheTrade",
@@ -8470,7 +8470,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-05-31T01:56:17.000Z",
-    "updatedAt": "2024-12-22T09:37:38.000Z"
+    "updatedAt": "2024-12-22T12:50:13.000Z"
   },
   {
     "id": "inputsh/awesome-linux",
