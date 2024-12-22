@@ -1884,7 +1884,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2021-04-01T09:24:55.000Z",
-    "updatedAt": "2024-12-21T05:16:58.000Z"
+    "updatedAt": "2024-12-22T06:22:13.000Z"
   },
   {
     "id": "MartinMalinda/vue-concurrency",
@@ -5417,7 +5417,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-06-17T09:55:24.000Z",
-    "updatedAt": "2024-12-22T03:15:30.000Z"
+    "updatedAt": "2024-12-22T06:20:17.000Z"
   },
   {
     "id": "ecosia/vue-safe-html",
@@ -6866,10 +6866,10 @@
       "name": "ionic-team",
       "avatarUrl": "https://avatars.githubusercontent.com/u/3171503?v=4"
     },
-    "stars": 51217,
+    "stars": 51218,
     "starsDetail": null,
     "license": "MIT License",
-    "forks": 13497,
+    "forks": 13495,
     "primaryLanguage": "Dockerfile",
     "pushedAt": "2024-12-20T17:05:10.000Z",
     "archived": false,
@@ -6878,7 +6878,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2013-08-20T23:06:02.000Z",
-    "updatedAt": "2024-12-21T05:16:23.000Z"
+    "updatedAt": "2024-12-22T06:21:36.000Z"
   },
   {
     "id": "itsalb3rt/afterman",
@@ -9180,7 +9180,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-04-17T23:49:17.000Z",
-    "updatedAt": "2024-12-22T03:15:05.000Z"
+    "updatedAt": "2024-12-22T06:19:52.000Z"
   },
   {
     "id": "naver/egjs-flicking",
@@ -11315,10 +11315,10 @@
       "name": "tailwindlabs",
       "avatarUrl": "https://avatars.githubusercontent.com/u/67109815?v=4"
     },
-    "stars": 84027,
+    "stars": 84038,
     "starsDetail": null,
     "license": "MIT License",
-    "forks": 4258,
+    "forks": 4259,
     "primaryLanguage": "HTML",
     "pushedAt": "2024-12-20T19:40:43.000Z",
     "archived": false,
@@ -11327,7 +11327,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-10-06T14:59:14.000Z",
-    "updatedAt": "2024-12-21T08:42:11.000Z"
+    "updatedAt": "2024-12-22T06:29:20.000Z"
   },
   {
     "id": "tangbc/vue-virtual-scroll-list",

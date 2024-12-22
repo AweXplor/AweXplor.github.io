@@ -695,10 +695,10 @@
       "name": "DopplerHQ",
       "avatarUrl": "https://avatars.githubusercontent.com/u/34022344?v=4"
     },
-    "stars": 72049,
+    "stars": 72066,
     "starsDetail": null,
     "license": null,
-    "forks": 8909,
+    "forks": 8911,
     "primaryLanguage": "",
     "pushedAt": "2024-07-29T14:21:23.000Z",
     "archived": true,
@@ -707,7 +707,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-11-28T09:48:17.000Z",
-    "updatedAt": "2024-12-21T08:39:21.000Z"
+    "updatedAt": "2024-12-22T06:26:36.000Z"
   },
   {
     "id": "Dvergar/awesome-haxe-gamedev",
@@ -760,19 +760,19 @@
       "name": "EbookFoundation",
       "avatarUrl": "https://avatars.githubusercontent.com/u/14127308?v=4"
     },
-    "stars": 342215,
+    "stars": 342268,
     "starsDetail": null,
     "license": "Creative Commons Attribution 4.0 International",
-    "forks": 62066,
+    "forks": 62063,
     "primaryLanguage": "HTML",
-    "pushedAt": "2024-12-20T19:48:53.000Z",
+    "pushedAt": "2024-12-21T23:30:22.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2013-10-11T06:50:37.000Z",
-    "updatedAt": "2024-12-21T08:39:20.000Z"
+    "updatedAt": "2024-12-22T06:26:36.000Z"
   },
   {
     "id": "Famolus/awesome-sass",
@@ -3051,7 +3051,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-12-18T16:58:30.000Z",
-    "updatedAt": "2024-12-22T03:13:46.000Z"
+    "updatedAt": "2024-12-22T06:19:13.000Z"
   },
   {
     "id": "analyticalmonk/awesome-neuroscience",
@@ -4476,7 +4476,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2014-11-23T04:36:38.000Z",
-    "updatedAt": "2024-12-21T08:38:38.000Z"
+    "updatedAt": "2024-12-22T06:25:29.000Z"
   },
   {
     "id": "cjbarber/ToolsOfTheTrade",
@@ -8470,7 +8470,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-05-31T01:56:17.000Z",
-    "updatedAt": "2024-12-21T08:39:19.000Z"
+    "updatedAt": "2024-12-22T06:26:34.000Z"
   },
   {
     "id": "inputsh/awesome-linux",
@@ -9263,7 +9263,7 @@
       "name": "jorgebucaran",
       "avatarUrl": "https://avatars.githubusercontent.com/u/56996?v=4"
     },
-    "stars": 4254,
+    "stars": 4255,
     "starsDetail": null,
     "license": "Creative Commons Zero v1.0 Universal",
     "forks": 129,
@@ -9275,7 +9275,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-10-13T08:37:26.000Z",
-    "updatedAt": "2024-12-21T05:16:19.000Z"
+    "updatedAt": "2024-12-22T06:21:31.000Z"
   },
   {
     "id": "jthegedus/awesome-firebase",
