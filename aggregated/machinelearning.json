@@ -4254,7 +4254,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2009-07-31T19:36:58.000Z",
-    "updatedAt": "2024-12-22T12:47:01.000Z"
+    "updatedAt": "2024-12-22T15:59:48.000Z"
   },
   {
     "id": "Western-OC2-Lab/AutoML-Implementation-for-Static-and-Dynamic-Data-Analytics",
@@ -15087,7 +15087,7 @@
       "name": "opencv",
       "avatarUrl": "https://avatars.githubusercontent.com/u/5009934?v=4"
     },
-    "stars": 79727,
+    "stars": 79729,
     "starsDetail": null,
     "license": "Apache License 2.0",
     "forks": 55887,
@@ -15099,7 +15099,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2012-07-19T09:40:17.000Z",
-    "updatedAt": "2024-12-22T12:49:56.000Z"
+    "updatedAt": "2024-12-22T16:02:30.000Z"
   },
   {
     "id": "opendilab/DI-engine",
@@ -15947,19 +15947,19 @@
       "name": "pymc-devs",
       "avatarUrl": "https://avatars.githubusercontent.com/u/81121?v=4"
     },
-    "stars": 8797,
+    "stars": 8798,
     "starsDetail": null,
     "license": "Other",
     "forks": 2033,
     "primaryLanguage": "Dockerfile",
-    "pushedAt": "2024-12-19T12:38:00.000Z",
+    "pushedAt": "2024-12-22T14:59:26.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2009-05-05T09:43:50.000Z",
-    "updatedAt": "2024-12-22T12:47:09.000Z"
+    "updatedAt": "2024-12-22T15:59:55.000Z"
   },
   {
     "id": "pyqtgraph/pyqtgraph",

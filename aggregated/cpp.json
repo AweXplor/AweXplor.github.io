@@ -1580,7 +1580,7 @@
       "name": "EbookFoundation",
       "avatarUrl": "https://avatars.githubusercontent.com/u/14127308?v=4"
     },
-    "stars": 342305,
+    "stars": 342336,
     "starsDetail": null,
     "license": "Creative Commons Attribution 4.0 International",
     "forks": 62064,
@@ -1592,7 +1592,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2013-10-11T06:50:37.000Z",
-    "updatedAt": "2024-12-22T12:50:14.000Z"
+    "updatedAt": "2024-12-22T16:02:47.000Z"
   },
   {
     "id": "Embarcadero/Dev-Cpp",
@@ -9727,7 +9727,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-12-11T18:28:47.000Z",
-    "updatedAt": "2024-12-22T12:49:55.000Z"
+    "updatedAt": "2024-12-22T16:02:29.000Z"
   },
   {
     "id": "flavio/qjson",
@@ -21437,7 +21437,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2011-02-27T20:00:51.000Z",
-    "updatedAt": "2024-12-22T12:47:11.000Z"
+    "updatedAt": "2024-12-22T15:59:56.000Z"
   },
   {
     "id": "uncrustify/uncrustify",
@@ -22494,7 +22494,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2012-04-16T03:12:14.000Z",
-    "updatedAt": "2024-12-22T12:46:53.000Z"
+    "updatedAt": "2024-12-22T15:59:40.000Z"
   },
   {
     "id": "yhirose/cpp-httplib",
@@ -22729,7 +22729,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2012-01-21T19:17:23.000Z",
-    "updatedAt": "2024-12-22T12:49:36.000Z"
+    "updatedAt": "2024-12-22T16:02:11.000Z"
   },
   {
     "id": "zlib-ng/zlib-ng",
