@@ -11315,10 +11315,10 @@
       "name": "tailwindlabs",
       "avatarUrl": "https://avatars.githubusercontent.com/u/67109815?v=4"
     },
-    "stars": 84038,
+    "stars": 84041,
     "starsDetail": null,
     "license": "MIT License",
-    "forks": 4259,
+    "forks": 4260,
     "primaryLanguage": "HTML",
     "pushedAt": "2024-12-20T19:40:43.000Z",
     "archived": false,
@@ -11327,7 +11327,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-10-06T14:59:14.000Z",
-    "updatedAt": "2024-12-22T06:29:20.000Z"
+    "updatedAt": "2024-12-22T09:40:39.000Z"
   },
   {
     "id": "tangbc/vue-virtual-scroll-list",
