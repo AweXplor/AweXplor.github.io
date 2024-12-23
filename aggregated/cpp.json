@@ -1580,10 +1580,10 @@
       "name": "EbookFoundation",
       "avatarUrl": "https://avatars.githubusercontent.com/u/14127308?v=4"
     },
-    "stars": 342361,
+    "stars": 342421,
     "starsDetail": null,
     "license": "Creative Commons Attribution 4.0 International",
-    "forks": 62063,
+    "forks": 62075,
     "primaryLanguage": "HTML",
     "pushedAt": "2024-12-21T23:30:22.000Z",
     "archived": false,
@@ -1592,7 +1592,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2013-10-11T06:50:37.000Z",
-    "updatedAt": "2024-12-22T19:15:33.000Z"
+    "updatedAt": "2024-12-23T07:45:34.000Z"
   },
   {
     "id": "Embarcadero/Dev-Cpp",
@@ -2298,6 +2298,29 @@
     "updatedAt": "2024-11-19T12:26:28.000Z"
   },
   {
+    "id": "NLnetLabs/simdzone",
+    "name": "NLnetLabs/simdzone",
+    "description": "Fast and standards compliant DNS zone parser",
+    "topics": [],
+    "owner": {
+      "name": "NLnetLabs",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1895545?v=4"
+    },
+    "stars": 121,
+    "starsDetail": null,
+    "license": "BSD 3-Clause \"New\" or \"Revised\" License",
+    "forks": 18,
+    "primaryLanguage": "Makefile",
+    "pushedAt": "2024-12-12T11:34:39.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2022-07-20T17:39:09.000Z",
+    "updatedAt": "2024-12-23T07:45:30.000Z"
+  },
+  {
     "id": "NVIDIA/MatX",
     "name": "NVIDIA/MatX",
     "description": "An efficient C++17 GPU numerical computing library with Python-like syntax",
@@ -2827,6 +2850,35 @@
     "goImportedBy": null,
     "createdAt": "2020-10-21T03:19:26.000Z",
     "updatedAt": "2024-11-30T09:22:11.000Z"
+  },
+  {
+    "id": "Privatehive/libONVIF",
+    "name": "Privatehive/libONVIF",
+    "description": "Yet another ONVIF library",
+    "topics": [
+      "cpp",
+      "gsoap",
+      "library",
+      "onvif",
+      "qt"
+    ],
+    "owner": {
+      "name": "Privatehive",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/175746296?v=4"
+    },
+    "stars": 168,
+    "starsDetail": null,
+    "license": "GNU General Public License v3.0",
+    "forks": 49,
+    "primaryLanguage": "Python",
+    "pushedAt": "2024-12-22T15:03:57.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2018-03-19T22:29:22.000Z",
+    "updatedAt": "2024-12-23T07:45:29.000Z"
   },
   {
     "id": "Qihoo360/evpp",
@@ -5247,6 +5299,32 @@
     "updatedAt": "2024-11-19T12:20:38.000Z"
   },
   {
+    "id": "aui-framework/aui",
+    "name": "aui-framework/aui",
+    "description": "Declarative UI toolkit for modern C++20",
+    "topics": [
+      "c-plus-plus",
+      "c-plus-plus-20"
+    ],
+    "owner": {
+      "name": "aui-framework",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/90616644?v=4"
+    },
+    "stars": 91,
+    "starsDetail": null,
+    "license": "Mozilla Public License 2.0",
+    "forks": 13,
+    "primaryLanguage": "Slash",
+    "pushedAt": "2024-12-22T20:53:32.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2021-01-05T05:59:01.000Z",
+    "updatedAt": "2024-12-23T07:44:47.000Z"
+  },
+  {
     "id": "aurora-opensource/au",
     "name": "aurora-opensource/au",
     "description": "A C++14-compatible physical units library with no dependencies and a single-file delivery option.  Emphasis on safety, accessibility, performance, and developer experience.",
@@ -5309,7 +5387,7 @@
       "name": "auto-differentiation",
       "avatarUrl": "https://avatars.githubusercontent.com/u/134167429?v=4"
     },
-    "stars": 343,
+    "stars": 344,
     "starsDetail": null,
     "license": "GNU Affero General Public License v3.0",
     "forks": 42,
@@ -5321,7 +5399,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2022-07-07T14:00:21.000Z",
-    "updatedAt": "2024-12-22T06:22:19.000Z"
+    "updatedAt": "2024-12-23T07:41:16.000Z"
   },
   {
     "id": "autodiff/autodiff",
@@ -9727,7 +9805,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-12-11T18:28:47.000Z",
-    "updatedAt": "2024-12-22T19:15:14.000Z"
+    "updatedAt": "2024-12-23T07:45:16.000Z"
   },
   {
     "id": "flavio/qjson",
@@ -15525,19 +15603,19 @@
       "name": "microsoft",
       "avatarUrl": "https://avatars.githubusercontent.com/u/6154722?v=4"
     },
-    "stars": 165503,
+    "stars": 165532,
     "starsDetail": null,
     "license": "MIT License",
-    "forks": 29740,
+    "forks": 29748,
     "primaryLanguage": "Hack",
-    "pushedAt": "2024-12-21T21:01:01.000Z",
+    "pushedAt": "2024-12-23T07:17:42.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-09-03T20:23:38.000Z",
-    "updatedAt": "2024-12-22T06:21:25.000Z"
+    "updatedAt": "2024-12-23T07:40:22.000Z"
   },
   {
     "id": "mikke89/RmlUi",
@@ -21437,7 +21515,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2011-02-27T20:00:51.000Z",
-    "updatedAt": "2024-12-23T04:33:12.000Z"
+    "updatedAt": "2024-12-23T07:38:31.000Z"
   },
   {
     "id": "uncrustify/uncrustify",
@@ -22487,14 +22565,14 @@
     "license": "GNU General Public License v3.0",
     "forks": 2809,
     "primaryLanguage": "Makefile",
-    "pushedAt": "2024-12-23T03:02:10.000Z",
+    "pushedAt": "2024-12-23T05:28:04.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2012-04-16T03:12:14.000Z",
-    "updatedAt": "2024-12-23T04:32:54.000Z"
+    "updatedAt": "2024-12-23T07:38:14.000Z"
   },
   {
     "id": "yhirose/cpp-httplib",
@@ -22729,7 +22807,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2012-01-21T19:17:23.000Z",
-    "updatedAt": "2024-12-22T19:14:54.000Z"
+    "updatedAt": "2024-12-23T07:44:57.000Z"
   },
   {
     "id": "zlib-ng/zlib-ng",

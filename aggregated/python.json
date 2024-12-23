@@ -546,7 +546,7 @@
       "name": "Lightning-AI",
       "avatarUrl": "https://avatars.githubusercontent.com/u/58386951?v=4"
     },
-    "stars": 28662,
+    "stars": 28668,
     "starsDetail": null,
     "license": "Apache License 2.0",
     "forks": 3407,
@@ -558,7 +558,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-03-31T00:45:57.000Z",
-    "updatedAt": "2024-12-22T06:22:53.000Z"
+    "updatedAt": "2024-12-23T07:41:50.000Z"
   },
   {
     "id": "MagicStack/uvloop",
@@ -1258,7 +1258,7 @@
       "name": "Tencent",
       "avatarUrl": "https://avatars.githubusercontent.com/u/18461506?v=4"
     },
-    "stars": 14441,
+    "stars": 14442,
     "starsDetail": null,
     "license": "Other",
     "forks": 3541,
@@ -1270,7 +1270,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2014-03-04T05:53:37.000Z",
-    "updatedAt": "2024-12-22T19:15:12.000Z"
+    "updatedAt": "2024-12-23T07:45:14.000Z"
   },
   {
     "id": "Textualize/rich",
@@ -5256,10 +5256,10 @@
       "name": "httpie",
       "avatarUrl": "https://avatars.githubusercontent.com/u/24454777?v=4"
     },
-    "stars": 34220,
+    "stars": 34226,
     "starsDetail": null,
     "license": "BSD 3-Clause \"New\" or \"Revised\" License",
-    "forks": 3689,
+    "forks": 3690,
     "primaryLanguage": "Dockerfile",
     "pushedAt": "2024-12-17T17:30:35.000Z",
     "archived": false,
@@ -5268,7 +5268,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2012-02-25T12:39:13.000Z",
-    "updatedAt": "2024-12-22T06:21:31.000Z"
+    "updatedAt": "2024-12-23T07:40:28.000Z"
   },
   {
     "id": "hugapi/hug",
@@ -6852,7 +6852,7 @@
       "name": "magenta",
       "avatarUrl": "https://avatars.githubusercontent.com/u/17187941?v=4"
     },
-    "stars": 19248,
+    "stars": 19249,
     "starsDetail": null,
     "license": "Apache License 2.0",
     "forks": 3748,
@@ -6864,7 +6864,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-05-05T20:10:40.000Z",
-    "updatedAt": "2024-12-22T19:18:32.000Z"
+    "updatedAt": "2024-12-23T07:48:06.000Z"
   },
   {
     "id": "mahmoud/boltons",
@@ -12725,10 +12725,10 @@
       "name": "ytdl-org",
       "avatarUrl": "https://avatars.githubusercontent.com/u/48381040?v=4"
     },
-    "stars": 133124,
+    "stars": 133164,
     "starsDetail": null,
     "license": "The Unlicense",
-    "forks": 10111,
+    "forks": 10114,
     "primaryLanguage": "Batchfile",
     "pushedAt": "2024-12-16T12:38:51.000Z",
     "archived": false,
@@ -12737,7 +12737,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2010-10-31T14:35:07.000Z",
-    "updatedAt": "2024-12-22T06:21:45.000Z"
+    "updatedAt": "2024-12-23T07:40:42.000Z"
   },
   {
     "id": "zappa/Zappa",

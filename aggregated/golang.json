@@ -103,7 +103,7 @@
       "name": "hapijs",
       "avatarUrl": "https://avatars.githubusercontent.com/u/3774533?v=4"
     },
-    "stars": 20981,
+    "stars": 20984,
     "starsDetail": {
       "total": 20908,
       "week": 10,
@@ -117,11 +117,11 @@
     "pushedAt": "2024-08-28T16:08:36.000Z",
     "archived": false,
     "npmPackage": "joi",
-    "npmLastMonthDownloads": 45803290,
+    "npmLastMonthDownloads": 42590806,
     "goPackage": "",
     "goImportedBy": 0,
     "createdAt": "2012-09-16T16:38:06.000Z",
-    "updatedAt": "2024-12-21T05:26:42.000Z"
+    "updatedAt": "2024-12-23T07:51:48.000Z"
   },
   {
     "id": "yaronn/blessed-contrib",
@@ -58750,7 +58750,7 @@
     "goPackage": "",
     "goImportedBy": 0,
     "createdAt": "2012-09-29T16:06:58.000Z",
-    "updatedAt": "2024-12-22T06:22:21.000Z"
+    "updatedAt": "2024-12-23T07:41:18.000Z"
   },
   {
     "id": "root-gg/plik",
@@ -69646,8 +69646,8 @@
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
+    "goPackage": "github.com/viccon/sturdyc",
+    "goImportedBy": 0,
     "createdAt": "2024-04-06T17:00:40.000Z",
     "updatedAt": "2024-12-22T00:08:54.000Z"
   },

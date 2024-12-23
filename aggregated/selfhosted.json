@@ -133,7 +133,7 @@
       "name": "cryptpad",
       "avatarUrl": "https://avatars.githubusercontent.com/u/76949612?v=4"
     },
-    "stars": 5739,
+    "stars": 5744,
     "starsDetail": {
       "total": 5605,
       "week": 28,
@@ -142,7 +142,7 @@
       "updatedAt": 1729322595
     },
     "license": "GNU Affero General Public License v3.0",
-    "forks": 658,
+    "forks": 657,
     "primaryLanguage": "Dockerfile",
     "pushedAt": "2024-12-20T10:29:56.000Z",
     "archived": false,
@@ -151,7 +151,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2014-10-31T15:46:17.000Z",
-    "updatedAt": "2024-12-21T05:26:28.000Z"
+    "updatedAt": "2024-12-23T07:51:33.000Z"
   },
   {
     "id": "Jermolene/TiddlyWiki5",
@@ -368,16 +368,16 @@
       "updatedAt": 1729322634
     },
     "license": "Other",
-    "forks": 592,
+    "forks": 593,
     "primaryLanguage": "CSS",
     "pushedAt": "2024-12-19T16:49:39.000Z",
     "archived": false,
     "npmPackage": "apostrophe",
-    "npmLastMonthDownloads": 9475,
+    "npmLastMonthDownloads": 9619,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2013-02-08T20:04:02.000Z",
-    "updatedAt": "2024-12-21T05:27:00.000Z"
+    "updatedAt": "2024-12-23T07:52:09.000Z"
   },
   {
     "id": "HabitRPG/habitica",
@@ -5656,21 +5656,21 @@
       "name": "TryGhost",
       "avatarUrl": "https://avatars.githubusercontent.com/u/2178663?v=4"
     },
-    "stars": 47828,
+    "stars": 47844,
     "starsDetail": {
       "total": 47223
     },
     "license": "MIT License",
     "forks": 10449,
     "primaryLanguage": "Dockerfile",
-    "pushedAt": "2024-12-20T12:46:03.000Z",
+    "pushedAt": "2024-12-23T03:16:40.000Z",
     "archived": false,
     "npmPackage": "",
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": 0,
     "createdAt": "2013-05-04T11:09:13.000Z",
-    "updatedAt": "2024-12-21T05:26:57.000Z"
+    "updatedAt": "2024-12-23T07:52:07.000Z"
   },
   {
     "id": "TwiN/gatus",
@@ -7189,19 +7189,19 @@
       "name": "apache",
       "avatarUrl": "https://avatars.githubusercontent.com/u/47359?v=4"
     },
-    "stars": 63453,
+    "stars": 63460,
     "starsDetail": null,
     "license": "Apache License 2.0",
-    "forks": 14095,
+    "forks": 14102,
     "primaryLanguage": "Mako",
-    "pushedAt": "2024-12-22T00:03:10.000Z",
+    "pushedAt": "2024-12-22T23:11:17.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-07-21T18:55:34.000Z",
-    "updatedAt": "2024-12-22T06:23:04.000Z"
+    "updatedAt": "2024-12-23T07:42:01.000Z"
   },
   {
     "id": "apankrat/nullboard",
@@ -11297,6 +11297,39 @@
     "updatedAt": "2024-11-26T02:57:36.000Z"
   },
   {
+    "id": "dmunozv04/iSponsorBlockTV",
+    "name": "dmunozv04/iSponsorBlockTV",
+    "description": "SponsorBlock client for all YouTube TV clients.",
+    "topics": [
+      "androidtv",
+      "appletv",
+      "chromecast",
+      "python",
+      "roku",
+      "samsungtv",
+      "sponsorblock",
+      "tizen-tv",
+      "youtube"
+    ],
+    "owner": {
+      "name": "dmunozv04",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/39565245?v=4"
+    },
+    "stars": 2574,
+    "starsDetail": null,
+    "license": "GNU General Public License v3.0",
+    "forks": 109,
+    "primaryLanguage": "Dockerfile",
+    "pushedAt": "2024-12-15T13:00:48.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2022-01-15T18:26:33.000Z",
+    "updatedAt": "2024-12-23T07:43:10.000Z"
+  },
+  {
     "id": "dnote/dnote",
     "name": "dnote/dnote",
     "description": "A simple command line notebook for programmers",
@@ -15251,10 +15284,10 @@
       "name": "huginn",
       "avatarUrl": "https://avatars.githubusercontent.com/u/23225142?v=4"
     },
-    "stars": 44011,
+    "stars": 44015,
     "starsDetail": null,
     "license": "MIT License",
-    "forks": 3808,
+    "forks": 3807,
     "primaryLanguage": "Makefile",
     "pushedAt": "2024-12-19T20:33:38.000Z",
     "archived": false,
@@ -15263,7 +15296,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2013-03-10T06:00:31.000Z",
-    "updatedAt": "2024-12-22T19:16:53.000Z"
+    "updatedAt": "2024-12-23T07:46:30.000Z"
   },
   {
     "id": "humhub/humhub",
@@ -17600,7 +17633,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-12-06T12:13:19.000Z",
-    "updatedAt": "2024-12-23T04:34:04.000Z"
+    "updatedAt": "2024-12-23T07:51:20.000Z"
   },
   {
     "id": "kovidgoyal/calibre",
@@ -23963,7 +23996,7 @@
       "name": "postalserver",
       "avatarUrl": "https://avatars.githubusercontent.com/u/58169103?v=4"
     },
-    "stars": 15029,
+    "stars": 15028,
     "starsDetail": null,
     "license": "MIT License",
     "forks": 1071,
@@ -23975,7 +24008,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-04-19T12:04:57.000Z",
-    "updatedAt": "2024-12-22T19:17:24.000Z"
+    "updatedAt": "2024-12-23T07:46:59.000Z"
   },
   {
     "id": "prasathmani/tinyfilemanager",
@@ -27669,14 +27702,14 @@
     "license": "MIT License",
     "forks": 396,
     "primaryLanguage": "Procfile",
-    "pushedAt": "2024-12-16T06:26:44.000Z",
+    "pushedAt": "2024-12-23T06:27:20.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2013-04-06T04:51:27.000Z",
-    "updatedAt": "2024-12-22T19:18:01.000Z"
+    "updatedAt": "2024-12-23T07:47:36.000Z"
   },
   {
     "id": "stumpapp/stump",
@@ -30422,7 +30455,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2021-12-02T12:49:41.000Z",
-    "updatedAt": "2024-12-22T06:24:20.000Z"
+    "updatedAt": "2024-12-23T07:43:17.000Z"
   },
   {
     "id": "znc/znc",

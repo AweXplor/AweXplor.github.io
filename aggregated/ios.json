@@ -9680,7 +9680,7 @@
       "name": "Mijick",
       "avatarUrl": "https://avatars.githubusercontent.com/u/125037042?v=4"
     },
-    "stars": 1415,
+    "stars": 1416,
     "starsDetail": null,
     "license": "Apache License 2.0",
     "forks": 64,
@@ -9692,7 +9692,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2023-02-10T22:48:37.000Z",
-    "updatedAt": "2024-12-22T19:15:49.000Z"
+    "updatedAt": "2024-12-23T07:44:41.000Z"
   },
   {
     "id": "MillmanY/MMCardView",
@@ -10621,7 +10621,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-06-22T18:56:17.000Z",
-    "updatedAt": "2024-12-22T19:15:49.000Z"
+    "updatedAt": "2024-12-23T07:44:41.000Z"
   },
   {
     "id": "Otbivnoe/CodableAlamofire",
@@ -11610,7 +11610,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-04-08T14:57:55.000Z",
-    "updatedAt": "2024-12-22T19:15:39.000Z"
+    "updatedAt": "2024-12-23T07:44:32.000Z"
   },
   {
     "id": "PrideChung/FontAwesomeKit",
@@ -12362,19 +12362,19 @@
       "name": "Ranchero-Software",
       "avatarUrl": "https://avatars.githubusercontent.com/u/59430456?v=4"
     },
-    "stars": 8487,
+    "stars": 8492,
     "starsDetail": null,
     "license": "MIT License",
     "forks": 540,
     "primaryLanguage": "C",
-    "pushedAt": "2024-12-19T21:10:24.000Z",
+    "pushedAt": "2024-12-23T06:16:38.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-05-21T17:59:23.000Z",
-    "updatedAt": "2024-12-22T06:21:25.000Z"
+    "updatedAt": "2024-12-23T07:40:22.000Z"
   },
   {
     "id": "ReSwift/ReSwift",
@@ -28644,7 +28644,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2022-05-23T07:29:19.000Z",
-    "updatedAt": "2024-12-22T19:15:35.000Z"
+    "updatedAt": "2024-12-23T07:44:28.000Z"
   },
   {
     "id": "exyte/ConcentricOnboarding",
@@ -43581,7 +43581,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-12-01T03:59:46.000Z",
-    "updatedAt": "2024-12-22T19:15:46.000Z"
+    "updatedAt": "2024-12-23T07:44:38.000Z"
   },
   {
     "id": "mukeshthawani/TriLabelView",
@@ -52429,7 +52429,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-03-31T19:10:54.000Z",
-    "updatedAt": "2024-12-22T19:15:43.000Z"
+    "updatedAt": "2024-12-23T07:44:35.000Z"
   },
   {
     "id": "sgr-ksmt/Alertift",
@@ -52952,7 +52952,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-04-11T20:52:23.000Z",
-    "updatedAt": "2024-12-22T19:15:34.000Z"
+    "updatedAt": "2024-12-23T07:44:26.000Z"
   },
   {
     "id": "shu223/PulsingHalo",
@@ -54744,7 +54744,7 @@
       "name": "sushinoya",
       "avatarUrl": "https://avatars.githubusercontent.com/u/23443586?v=4"
     },
-    "stars": 154,
+    "stars": 155,
     "starsDetail": null,
     "license": "Apache License 2.0",
     "forks": 8,
@@ -54756,7 +54756,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-07-14T13:20:19.000Z",
-    "updatedAt": "2024-12-22T19:15:54.000Z"
+    "updatedAt": "2024-12-23T07:44:46.000Z"
   },
   {
     "id": "suzuki-0000/AnimatablePlayButton",
