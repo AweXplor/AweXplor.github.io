@@ -958,7 +958,7 @@
       "name": "decaporg",
       "avatarUrl": "https://avatars.githubusercontent.com/u/37912219?v=4"
     },
-    "stars": 18028,
+    "stars": 18030,
     "starsDetail": {
       "total": 17883,
       "week": 27,
@@ -967,7 +967,7 @@
       "updatedAt": 1729322171
     },
     "license": "MIT License",
-    "forks": 3052,
+    "forks": 3053,
     "primaryLanguage": "Shell",
     "pushedAt": "2024-12-06T09:04:27.000Z",
     "archived": false,
@@ -976,7 +976,7 @@
     "goPackage": null,
     "goImportedBy": 0,
     "createdAt": "2015-01-20T05:47:47.000Z",
-    "updatedAt": "2024-12-23T07:51:34.000Z"
+    "updatedAt": "2024-12-23T11:09:53.000Z"
   },
   {
     "id": "infinitered/nsfwjs",
@@ -3888,7 +3888,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2014-10-31T15:46:17.000Z",
-    "updatedAt": "2024-12-23T07:51:33.000Z"
+    "updatedAt": "2024-12-23T11:09:51.000Z"
   },
   {
     "id": "stalniy/casl",
@@ -6352,7 +6352,7 @@
       "name": "HeyPuter",
       "avatarUrl": "https://avatars.githubusercontent.com/u/103972607?v=4"
     },
-    "stars": 27107,
+    "stars": 27110,
     "starsDetail": {
       "total": 25432,
       "week": 240,
@@ -6361,7 +6361,7 @@
       "updatedAt": 1729322130
     },
     "license": "GNU Affero General Public License v3.0",
-    "forks": 1925,
+    "forks": 1924,
     "primaryLanguage": "C",
     "pushedAt": "2024-12-22T20:07:29.000Z",
     "archived": false,
@@ -6370,7 +6370,7 @@
     "goPackage": null,
     "goImportedBy": 0,
     "createdAt": "2024-03-03T01:44:32.000Z",
-    "updatedAt": "2024-12-23T07:43:02.000Z"
+    "updatedAt": "2024-12-23T11:09:22.000Z"
   },
   {
     "id": "LazarSoft/jsqrcode",
@@ -8660,7 +8660,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-02-19T06:30:29.000Z",
-    "updatedAt": "2024-12-23T07:39:42.000Z"
+    "updatedAt": "2024-12-23T11:06:35.000Z"
   },
   {
     "id": "blueimp/JavaScript-MD5",
@@ -11555,7 +11555,7 @@
       "updatedAt": 1729322665
     },
     "license": "MIT License",
-    "forks": 253,
+    "forks": 252,
     "primaryLanguage": "TypeScript",
     "pushedAt": "2024-11-28T17:22:02.000Z",
     "archived": false,
@@ -11564,7 +11564,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-08-02T21:07:04.000Z",
-    "updatedAt": "2024-12-23T07:51:05.000Z"
+    "updatedAt": "2024-12-23T11:04:27.000Z"
   },
   {
     "id": "Khan/aphrodite",
@@ -14178,7 +14178,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-05-18T17:49:52.000Z",
-    "updatedAt": "2024-12-23T07:51:32.000Z"
+    "updatedAt": "2024-12-23T11:09:50.000Z"
   },
   {
     "id": "lgwebdream/FE-Interview",
@@ -15227,7 +15227,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-04-23T13:02:33.000Z",
-    "updatedAt": "2024-12-23T07:39:22.000Z"
+    "updatedAt": "2024-12-23T11:06:09.000Z"
   },
   {
     "id": "xojs/xo",
@@ -18406,7 +18406,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-01-05T19:05:31.000Z",
-    "updatedAt": "2024-12-23T07:45:25.000Z"
+    "updatedAt": "2024-12-23T10:58:21.000Z"
   },
   {
     "id": "clappr/clappr",
@@ -28589,7 +28589,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-11-05T14:30:37.000Z",
-    "updatedAt": "2024-12-23T07:39:30.000Z"
+    "updatedAt": "2024-12-23T11:06:20.000Z"
   },
   {
     "id": "waylaidwanderer/node-chatgpt-api",

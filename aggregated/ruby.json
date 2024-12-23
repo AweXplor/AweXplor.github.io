@@ -1325,14 +1325,14 @@
     "license": "GNU Affero General Public License v3.0",
     "forks": 37,
     "primaryLanguage": "Shell",
-    "pushedAt": "2024-12-16T09:27:23.000Z",
+    "pushedAt": "2024-12-23T09:37:41.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-07-06T15:34:36.000Z",
-    "updatedAt": "2024-12-23T07:42:57.000Z"
+    "updatedAt": "2024-12-23T11:09:18.000Z"
   },
   {
     "id": "RubyMoney/eu_central_bank",

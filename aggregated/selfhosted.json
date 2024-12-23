@@ -151,7 +151,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2014-10-31T15:46:17.000Z",
-    "updatedAt": "2024-12-23T07:51:33.000Z"
+    "updatedAt": "2024-12-23T11:09:51.000Z"
   },
   {
     "id": "Jermolene/TiddlyWiki5",
@@ -3853,6 +3853,40 @@
     "updatedAt": "2024-11-26T02:56:53.000Z"
   },
   {
+    "id": "Mozzo1000/booklogr",
+    "name": "Mozzo1000/booklogr",
+    "description": " A simple, self-hosted service to keep track of your personal library 📚",
+    "topics": [
+      "books",
+      "bookshelf",
+      "catalog",
+      "flask",
+      "library",
+      "logging",
+      "python",
+      "react",
+      "self-hosted",
+      "selfhosted"
+    ],
+    "owner": {
+      "name": "Mozzo1000",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/3440776?v=4"
+    },
+    "stars": 197,
+    "starsDetail": null,
+    "license": "Apache License 2.0",
+    "forks": 1,
+    "primaryLanguage": "CSS",
+    "pushedAt": "2024-10-14T18:23:54.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2024-03-24T18:04:46.000Z",
+    "updatedAt": "2024-12-23T11:09:22.000Z"
+  },
+  {
     "id": "MrBrax/LiveStreamDVR",
     "name": "MrBrax/LiveStreamDVR",
     "description": "An automatic livestream recorder",
@@ -7189,19 +7223,19 @@
       "name": "apache",
       "avatarUrl": "https://avatars.githubusercontent.com/u/47359?v=4"
     },
-    "stars": 63460,
+    "stars": 63463,
     "starsDetail": null,
     "license": "Apache License 2.0",
     "forks": 14102,
     "primaryLanguage": "Mako",
-    "pushedAt": "2024-12-22T23:11:17.000Z",
+    "pushedAt": "2024-12-23T09:09:02.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-07-21T18:55:34.000Z",
-    "updatedAt": "2024-12-23T07:42:01.000Z"
+    "updatedAt": "2024-12-23T11:08:21.000Z"
   },
   {
     "id": "apankrat/nullboard",
@@ -11649,6 +11683,39 @@
     "updatedAt": "2024-11-26T02:54:55.000Z"
   },
   {
+    "id": "donetick/donetick",
+    "name": "donetick/donetick",
+    "description": "Donetick An open-source, user-friendly app for managing tasks and chores, featuring customizable options to help you and others stay organized",
+    "topics": [
+      "chore",
+      "docker",
+      "go",
+      "golang",
+      "react",
+      "selfhosted",
+      "task-manager",
+      "tasks",
+      "todolist"
+    ],
+    "owner": {
+      "name": "donetick",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/172952750?v=4"
+    },
+    "stars": 197,
+    "starsDetail": null,
+    "license": "GNU Affero General Public License v3.0",
+    "forks": 4,
+    "primaryLanguage": "Dockerfile",
+    "pushedAt": "2024-12-22T21:08:49.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2024-06-30T23:49:46.000Z",
+    "updatedAt": "2024-12-23T11:09:44.000Z"
+  },
+  {
     "id": "doublespeakgames/adarkroom",
     "name": "doublespeakgames/adarkroom",
     "description": "A Dark Room - A Minimalist Text Adventure",
@@ -15284,7 +15351,7 @@
       "name": "huginn",
       "avatarUrl": "https://avatars.githubusercontent.com/u/23225142?v=4"
     },
-    "stars": 44015,
+    "stars": 44017,
     "starsDetail": null,
     "license": "MIT License",
     "forks": 3807,
@@ -15296,7 +15363,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2013-03-10T06:00:31.000Z",
-    "updatedAt": "2024-12-23T07:46:30.000Z"
+    "updatedAt": "2024-12-23T10:59:48.000Z"
   },
   {
     "id": "humhub/humhub",
@@ -17225,6 +17292,33 @@
     "updatedAt": "2024-11-26T02:56:39.000Z"
   },
   {
+    "id": "kassner/whattocook",
+    "name": "kassner/whattocook",
+    "description": "Get a recipe to cook today, based on the ingredients you have at home.",
+    "topics": [
+      "hacktoberfest",
+      "recipes",
+      "self-hosted"
+    ],
+    "owner": {
+      "name": "kassner",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/301255?v=4"
+    },
+    "stars": 6,
+    "starsDetail": null,
+    "license": "GNU Affero General Public License v3.0",
+    "forks": 0,
+    "primaryLanguage": "Dockerfile",
+    "pushedAt": "2024-12-17T17:04:46.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2023-09-12T19:47:02.000Z",
+    "updatedAt": "2024-12-23T11:09:38.000Z"
+  },
+  {
     "id": "kaythomas0/noisedash",
     "name": "kaythomas0/noisedash",
     "description": "Self-hostable web tool for generating ambient noises",
@@ -17633,7 +17727,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-12-06T12:13:19.000Z",
-    "updatedAt": "2024-12-23T07:51:20.000Z"
+    "updatedAt": "2024-12-23T11:05:31.000Z"
   },
   {
     "id": "kovidgoyal/calibre",
@@ -21723,6 +21817,34 @@
     "updatedAt": "2024-11-26T02:56:57.000Z"
   },
   {
+    "id": "not-three/main",
+    "name": "not-three/main",
+    "description": "!3 is a simple, secure and open source paste sharing platform.",
+    "topics": [
+      "hastebin",
+      "monaco-editor",
+      "notes",
+      "pastebin"
+    ],
+    "owner": {
+      "name": "not-three",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/162714088?v=4"
+    },
+    "stars": 2,
+    "starsDetail": null,
+    "license": "Other",
+    "forks": 1,
+    "primaryLanguage": "JavaScript",
+    "pushedAt": "2024-11-11T01:08:06.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2024-03-08T13:33:06.000Z",
+    "updatedAt": "2024-12-23T11:09:35.000Z"
+  },
+  {
     "id": "notclickable-jordan/starbase-80",
     "name": "notclickable-jordan/starbase-80",
     "description": "A nice Docker homepage",
@@ -22702,29 +22824,6 @@
     "goImportedBy": null,
     "createdAt": "2021-07-27T10:29:28.000Z",
     "updatedAt": "2024-12-19T12:08:31.000Z"
-  },
-  {
-    "id": "osTicket/osTicket",
-    "name": "osTicket/osTicket",
-    "description": "The osTicket open source ticketing system official project repository, for versions 1.8 and later",
-    "topics": [],
-    "owner": {
-      "name": "osTicket",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/371413?v=4"
-    },
-    "stars": 3255,
-    "starsDetail": null,
-    "license": "GNU General Public License v2.0",
-    "forks": 1671,
-    "primaryLanguage": "Standard ML",
-    "pushedAt": "2024-11-14T16:43:24.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2013-08-12T19:10:14.000Z",
-    "updatedAt": "2024-11-26T02:57:26.000Z"
   },
   {
     "id": "osm-search/Nominatim",
@@ -23996,7 +24095,7 @@
       "name": "postalserver",
       "avatarUrl": "https://avatars.githubusercontent.com/u/58169103?v=4"
     },
-    "stars": 15028,
+    "stars": 15029,
     "starsDetail": null,
     "license": "MIT License",
     "forks": 1071,
@@ -24008,7 +24107,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-04-19T12:04:57.000Z",
-    "updatedAt": "2024-12-23T07:46:59.000Z"
+    "updatedAt": "2024-12-23T11:00:18.000Z"
   },
   {
     "id": "prasathmani/tinyfilemanager",
@@ -25948,6 +26047,43 @@
     "updatedAt": "2024-11-26T02:52:54.000Z"
   },
   {
+    "id": "scribble-rs/scribble.rs",
+    "name": "scribble-rs/scribble.rs",
+    "description": "The free and privacy respecting pictionary game - Play at https://scribblers.bios-marcel.link",
+    "topics": [
+      "drawing",
+      "drawing-game",
+      "guessing-game",
+      "hacktoberfest-accepted",
+      "montagsmaler",
+      "multiplayer",
+      "pictionary",
+      "scribble",
+      "self-hosted",
+      "selfhosted",
+      "sketchful",
+      "skribbl",
+      "skribbl-io"
+    ],
+    "owner": {
+      "name": "scribble-rs",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/51542026?v=4"
+    },
+    "stars": 472,
+    "starsDetail": null,
+    "license": "BSD 3-Clause \"New\" or \"Revised\" License",
+    "forks": 189,
+    "primaryLanguage": "Shell",
+    "pushedAt": "2024-12-21T16:50:00.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2019-06-12T13:17:48.000Z",
+    "updatedAt": "2024-12-23T11:09:25.000Z"
+  },
+  {
     "id": "sct/overseerr",
     "name": "sct/overseerr",
     "description": "Request management and media discovery tool for the Plex ecosystem",
@@ -26971,6 +27107,34 @@
     "updatedAt": "2024-11-26T02:53:05.000Z"
   },
   {
+    "id": "slskd/slskd",
+    "name": "slskd/slskd",
+    "description": "A modern client-server application for the Soulseek file sharing network.",
+    "topics": [
+      "hacktoberfest",
+      "soulseek",
+      "soulseek-network",
+      "soulseek-web"
+    ],
+    "owner": {
+      "name": "slskd",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/76762370?v=4"
+    },
+    "stars": 1157,
+    "starsDetail": null,
+    "license": "GNU Affero General Public License v3.0",
+    "forks": 66,
+    "primaryLanguage": "HTML",
+    "pushedAt": "2024-12-18T23:24:19.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2020-12-30T18:22:48.000Z",
+    "updatedAt": "2024-12-23T11:09:23.000Z"
+  },
+  {
     "id": "slurdge/goeland",
     "name": "slurdge/goeland",
     "description": "An alternative to rss2email written in golang with many filters",
@@ -27709,7 +27873,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2013-04-06T04:51:27.000Z",
-    "updatedAt": "2024-12-23T07:47:36.000Z"
+    "updatedAt": "2024-12-23T11:00:55.000Z"
   },
   {
     "id": "stumpapp/stump",
@@ -29360,6 +29524,43 @@
     "updatedAt": "2024-11-26T02:55:39.000Z"
   },
   {
+    "id": "vincent-peugnet/wcms",
+    "name": "vincent-peugnet/wcms",
+    "description": "⧉ light-weight experimental wiki",
+    "topics": [
+      "cms",
+      "content-management-system",
+      "ideas",
+      "interactive-fiction",
+      "labyrinth",
+      "lightweight",
+      "link",
+      "markdown",
+      "mindmap",
+      "no-js",
+      "php",
+      "point-and-click",
+      "wiki"
+    ],
+    "owner": {
+      "name": "vincent-peugnet",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/33429034?v=4"
+    },
+    "stars": 22,
+    "starsDetail": null,
+    "license": "GNU Affero General Public License v3.0",
+    "forks": 5,
+    "primaryLanguage": "Makefile",
+    "pushedAt": "2024-12-22T14:17:16.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2018-03-17T11:39:19.000Z",
+    "updatedAt": "2024-12-23T11:09:46.000Z"
+  },
+  {
     "id": "w4/bin",
     "name": "w4/bin",
     "description": ":wastebasket: a paste bin.",
@@ -30443,7 +30644,7 @@
       "name": "zincsearch",
       "avatarUrl": "https://avatars.githubusercontent.com/u/129023705?v=4"
     },
-    "stars": 17100,
+    "stars": 17101,
     "starsDetail": null,
     "license": "Other",
     "forks": 747,
@@ -30455,7 +30656,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2021-12-02T12:49:41.000Z",
-    "updatedAt": "2024-12-23T07:43:17.000Z"
+    "updatedAt": "2024-12-23T11:09:39.000Z"
   },
   {
     "id": "znc/znc",
