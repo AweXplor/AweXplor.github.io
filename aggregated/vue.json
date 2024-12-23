@@ -5417,7 +5417,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-06-17T09:55:24.000Z",
-    "updatedAt": "2024-12-23T14:15:20.000Z"
+    "updatedAt": "2024-12-23T17:20:38.000Z"
   },
   {
     "id": "ecosia/vue-safe-html",
@@ -9198,7 +9198,7 @@
       "name": "nativescript-vue",
       "avatarUrl": "https://avatars.githubusercontent.com/u/32681046?v=4"
     },
-    "stars": 5409,
+    "stars": 5410,
     "starsDetail": null,
     "license": "MIT License",
     "forks": 243,
@@ -9210,7 +9210,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-04-17T23:49:17.000Z",
-    "updatedAt": "2024-12-23T14:14:53.000Z"
+    "updatedAt": "2024-12-23T17:20:13.000Z"
   },
   {
     "id": "naver/egjs-flicking",
@@ -11345,10 +11345,10 @@
       "name": "tailwindlabs",
       "avatarUrl": "https://avatars.githubusercontent.com/u/67109815?v=4"
     },
-    "stars": 84064,
+    "stars": 84073,
     "starsDetail": null,
     "license": "MIT License",
-    "forks": 4259,
+    "forks": 4262,
     "primaryLanguage": "HTML",
     "pushedAt": "2024-12-22T23:21:35.000Z",
     "archived": false,
@@ -11357,7 +11357,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-10-06T14:59:14.000Z",
-    "updatedAt": "2024-12-23T11:01:42.000Z"
+    "updatedAt": "2024-12-23T17:25:25.000Z"
   },
   {
     "id": "tangbc/vue-virtual-scroll-list",
