@@ -1580,10 +1580,10 @@
       "name": "EbookFoundation",
       "avatarUrl": "https://avatars.githubusercontent.com/u/14127308?v=4"
     },
-    "stars": 342496,
+    "stars": 342517,
     "starsDetail": null,
     "license": "Creative Commons Attribution 4.0 International",
-    "forks": 62089,
+    "forks": 62094,
     "primaryLanguage": "HTML",
     "pushedAt": "2024-12-21T23:30:22.000Z",
     "archived": false,
@@ -1592,7 +1592,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2013-10-11T06:50:37.000Z",
-    "updatedAt": "2024-12-24T05:51:38.000Z"
+    "updatedAt": "2024-12-24T12:10:39.000Z"
   },
   {
     "id": "Embarcadero/Dev-Cpp",
@@ -9805,7 +9805,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-12-11T18:28:47.000Z",
-    "updatedAt": "2024-12-24T05:51:20.000Z"
+    "updatedAt": "2024-12-24T12:10:20.000Z"
   },
   {
     "id": "flavio/qjson",
@@ -14428,6 +14428,33 @@
     "updatedAt": "2024-11-19T12:24:33.000Z"
   },
   {
+    "id": "luau-lang/luau",
+    "name": "luau-lang/luau",
+    "description": "A fast, small, safe, gradually typed embeddable scripting language derived from Lua",
+    "topics": [
+      "lua",
+      "programming-language",
+      "scripting-language"
+    ],
+    "owner": {
+      "name": "luau-lang",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/104525888?v=4"
+    },
+    "stars": 4138,
+    "starsDetail": null,
+    "license": "MIT License",
+    "forks": 392,
+    "primaryLanguage": "Shell",
+    "pushedAt": "2024-12-20T19:30:46.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2018-09-14T17:29:29.000Z",
+    "updatedAt": "2024-12-24T12:10:28.000Z"
+  },
+  {
     "id": "luca3m/redis3m",
     "name": "luca3m/redis3m",
     "description": "A C++ Redis client",
@@ -15603,10 +15630,10 @@
       "name": "microsoft",
       "avatarUrl": "https://avatars.githubusercontent.com/u/6154722?v=4"
     },
-    "stars": 165565,
+    "stars": 165571,
     "starsDetail": null,
     "license": "MIT License",
-    "forks": 29760,
+    "forks": 29765,
     "primaryLanguage": "Hack",
     "pushedAt": "2024-12-24T03:11:09.000Z",
     "archived": false,
@@ -15615,7 +15642,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-09-03T20:23:38.000Z",
-    "updatedAt": "2024-12-24T05:58:13.000Z"
+    "updatedAt": "2024-12-24T12:07:26.000Z"
   },
   {
     "id": "mikke89/RmlUi",
@@ -21515,7 +21542,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2011-02-27T20:00:51.000Z",
-    "updatedAt": "2024-12-24T05:48:44.000Z"
+    "updatedAt": "2024-12-24T12:07:07.000Z"
   },
   {
     "id": "uncrustify/uncrustify",
@@ -22572,7 +22599,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2012-04-16T03:12:14.000Z",
-    "updatedAt": "2024-12-24T05:48:27.000Z"
+    "updatedAt": "2024-12-24T12:06:50.000Z"
   },
   {
     "id": "yhirose/cpp-httplib",
@@ -22795,7 +22822,7 @@
       "name": "zlib-ng",
       "avatarUrl": "https://avatars.githubusercontent.com/u/45075615?v=4"
     },
-    "stars": 1253,
+    "stars": 1254,
     "starsDetail": null,
     "license": "Other",
     "forks": 435,
@@ -22807,7 +22834,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2012-01-21T19:17:23.000Z",
-    "updatedAt": "2024-12-24T05:51:02.000Z"
+    "updatedAt": "2024-12-24T12:10:00.000Z"
   },
   {
     "id": "zlib-ng/zlib-ng",

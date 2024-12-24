@@ -1972,7 +1972,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-09-09T10:57:33.000Z",
-    "updatedAt": "2024-12-24T05:46:43.000Z"
+    "updatedAt": "2024-12-24T12:05:00.000Z"
   },
   {
     "id": "Eugeny/tabby",
@@ -2626,19 +2626,19 @@
       "name": "Homebrew",
       "avatarUrl": "https://avatars.githubusercontent.com/u/1503512?v=4"
     },
-    "stars": 21005,
+    "stars": 21006,
     "starsDetail": null,
     "license": "BSD 2-Clause \"Simplified\" License",
-    "forks": 10774,
+    "forks": 10775,
     "primaryLanguage": "Python",
-    "pushedAt": "2024-12-24T04:43:09.000Z",
+    "pushedAt": "2024-12-24T12:00:16.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2012-03-05T02:05:17.000Z",
-    "updatedAt": "2024-12-24T05:53:48.000Z"
+    "updatedAt": "2024-12-24T12:12:56.000Z"
   },
   {
     "id": "ImageOptim/ImageOptim",
@@ -4255,7 +4255,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2021-07-14T09:54:07.000Z",
-    "updatedAt": "2024-12-24T05:57:46.000Z"
+    "updatedAt": "2024-12-24T12:07:27.000Z"
   },
   {
     "id": "PasteBar/PasteBarApp",
@@ -5134,7 +5134,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2011-03-20T07:17:31.000Z",
-    "updatedAt": "2024-12-24T05:57:50.000Z"
+    "updatedAt": "2024-12-24T12:07:31.000Z"
   },
   {
     "id": "ThatGuySam/doesitarm",
@@ -6224,7 +6224,7 @@
       "name": "alin23",
       "avatarUrl": "https://avatars.githubusercontent.com/u/3819725?v=4"
     },
-    "stars": 4772,
+    "stars": 4773,
     "starsDetail": null,
     "license": "MIT License",
     "forks": 107,
@@ -6236,7 +6236,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-07-03T17:23:54.000Z",
-    "updatedAt": "2024-12-24T05:57:55.000Z"
+    "updatedAt": "2024-12-24T12:07:36.000Z"
   },
   {
     "id": "alvesjtiago/airpass",
