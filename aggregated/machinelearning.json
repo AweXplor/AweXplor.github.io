@@ -4254,7 +4254,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2009-07-31T19:36:58.000Z",
-    "updatedAt": "2024-12-24T12:06:58.000Z"
+    "updatedAt": "2024-12-24T21:24:39.000Z"
   },
   {
     "id": "Western-OC2-Lab/AutoML-Implementation-for-Static-and-Dynamic-Data-Analytics",
@@ -15947,19 +15947,19 @@
       "name": "pymc-devs",
       "avatarUrl": "https://avatars.githubusercontent.com/u/81121?v=4"
     },
-    "stars": 8799,
+    "stars": 8798,
     "starsDetail": null,
     "license": "Other",
     "forks": 2035,
     "primaryLanguage": "Dockerfile",
-    "pushedAt": "2024-12-23T22:57:38.000Z",
+    "pushedAt": "2024-12-24T13:36:47.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2009-05-05T09:43:50.000Z",
-    "updatedAt": "2024-12-24T12:07:06.000Z"
+    "updatedAt": "2024-12-24T21:24:46.000Z"
   },
   {
     "id": "pyqtgraph/pyqtgraph",

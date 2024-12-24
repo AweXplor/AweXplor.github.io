@@ -17715,7 +17715,7 @@
       "name": "koel",
       "avatarUrl": "https://avatars.githubusercontent.com/u/20983373?v=4"
     },
-    "stars": 16128,
+    "stars": 16129,
     "starsDetail": null,
     "license": "MIT License",
     "forks": 1982,
@@ -17727,7 +17727,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-12-06T12:13:19.000Z",
-    "updatedAt": "2024-12-24T12:08:27.000Z"
+    "updatedAt": "2024-12-24T21:25:38.000Z"
   },
   {
     "id": "kovidgoyal/calibre",
