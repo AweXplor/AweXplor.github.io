@@ -4692,7 +4692,7 @@
       "name": "Tencent",
       "avatarUrl": "https://avatars.githubusercontent.com/u/18461506?v=4"
     },
-    "stars": 1152,
+    "stars": 1153,
     "starsDetail": null,
     "license": "Other",
     "forks": 96,
@@ -4704,7 +4704,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2023-10-26T03:47:17.000Z",
-    "updatedAt": "2024-12-23T17:22:04.000Z"
+    "updatedAt": "2024-12-24T05:51:26.000Z"
   },
   {
     "id": "TheWaWaR/simple-http-server",
@@ -5337,7 +5337,7 @@
       "name": "alacritty",
       "avatarUrl": "https://avatars.githubusercontent.com/u/29714349?v=4"
     },
-    "stars": 57011,
+    "stars": 57013,
     "starsDetail": null,
     "license": "Apache License 2.0",
     "forks": 3042,
@@ -5349,7 +5349,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-02-18T05:02:30.000Z",
-    "updatedAt": "2024-12-23T11:07:00.000Z"
+    "updatedAt": "2024-12-24T05:58:18.000Z"
   },
   {
     "id": "alex/rust-asn1",
@@ -7801,14 +7801,14 @@
     "license": "Apache License 2.0",
     "forks": 563,
     "primaryLanguage": "RenderScript",
-    "pushedAt": "2024-12-23T16:35:16.000Z",
+    "pushedAt": "2024-12-23T19:50:54.000Z",
     "archived": false,
     "npmPackage": "",
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-11-30T18:57:01.000Z",
-    "updatedAt": "2024-12-23T17:27:19.000Z"
+    "updatedAt": "2024-12-24T05:56:31.000Z"
   },
   {
     "id": "buster/rrun",
@@ -9239,14 +9239,14 @@
     "license": "Other",
     "forks": 3166,
     "primaryLanguage": "GDB",
-    "pushedAt": "2024-12-23T02:20:36.000Z",
+    "pushedAt": "2024-12-24T02:14:10.000Z",
     "archived": false,
     "npmPackage": "",
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2012-09-19T10:14:00.000Z",
-    "updatedAt": "2024-12-23T17:22:03.000Z"
+    "updatedAt": "2024-12-24T05:51:25.000Z"
   },
   {
     "id": "conradkleinespel/rooster",
@@ -13191,7 +13191,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-12-11T10:37:00.000Z",
-    "updatedAt": "2024-12-24T02:44:08.000Z"
+    "updatedAt": "2024-12-24T05:49:30.000Z"
   },
   {
     "id": "flxzt/rnote",
@@ -14087,6 +14087,34 @@
     "goImportedBy": null,
     "createdAt": "2015-08-02T12:35:56.000Z",
     "updatedAt": "2024-12-21T05:32:50.000Z"
+  },
+  {
+    "id": "godot-rust/gdext",
+    "name": "godot-rust/gdext",
+    "description": "Rust bindings for Godot 4",
+    "topics": [
+      "game-development",
+      "gamedev",
+      "godot",
+      "rust"
+    ],
+    "owner": {
+      "name": "godot-rust",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/66136469?v=4"
+    },
+    "stars": 3236,
+    "starsDetail": null,
+    "license": "Mozilla Public License 2.0",
+    "forks": 209,
+    "primaryLanguage": "Shell",
+    "pushedAt": "2024-12-22T22:56:27.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2022-07-06T22:34:36.000Z",
+    "updatedAt": "2024-12-24T05:46:04.000Z"
   },
   {
     "id": "godot-rust/gdnative",
@@ -19631,10 +19659,10 @@
       "name": "lsd-rs",
       "avatarUrl": "https://avatars.githubusercontent.com/u/77716111?v=4"
     },
-    "stars": 13737,
+    "stars": 13741,
     "starsDetail": null,
     "license": "Apache License 2.0",
-    "forks": 437,
+    "forks": 438,
     "primaryLanguage": "Shell",
     "pushedAt": "2024-11-24T07:22:58.000Z",
     "archived": false,
@@ -19643,7 +19671,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-11-24T11:04:12.000Z",
-    "updatedAt": "2024-12-23T11:05:19.000Z"
+    "updatedAt": "2024-12-24T05:58:03.000Z"
   },
   {
     "id": "lucid-kv/lucid",
@@ -21998,6 +22026,29 @@
     "goImportedBy": null,
     "createdAt": "2021-06-11T19:11:53.000Z",
     "updatedAt": "2024-12-21T05:31:02.000Z"
+  },
+  {
+    "id": "neogenie/fastnum",
+    "name": "neogenie/fastnum",
+    "description": "",
+    "topics": [],
+    "owner": {
+      "name": "neogenie",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/58473459?v=4"
+    },
+    "stars": 101,
+    "starsDetail": null,
+    "license": "MIT License",
+    "forks": 2,
+    "primaryLanguage": "RenderScript",
+    "pushedAt": "2024-12-22T23:14:52.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2024-10-21T08:13:22.000Z",
+    "updatedAt": "2024-12-24T05:46:04.000Z"
   },
   {
     "id": "neondatabase/neon",
@@ -27066,7 +27117,7 @@
       "name": "rusterlium",
       "avatarUrl": "https://avatars.githubusercontent.com/u/47984965?v=4"
     },
-    "stars": 4389,
+    "stars": 4390,
     "starsDetail": null,
     "license": "Apache License 2.0",
     "forks": 226,
@@ -27078,7 +27129,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-08-18T16:25:26.000Z",
-    "updatedAt": "2024-12-23T17:27:00.000Z"
+    "updatedAt": "2024-12-24T05:56:12.000Z"
   },
   {
     "id": "rustic-rs/rustic",

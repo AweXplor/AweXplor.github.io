@@ -7223,19 +7223,19 @@
       "name": "apache",
       "avatarUrl": "https://avatars.githubusercontent.com/u/47359?v=4"
     },
-    "stars": 63463,
+    "stars": 63474,
     "starsDetail": null,
     "license": "Apache License 2.0",
-    "forks": 14102,
+    "forks": 14105,
     "primaryLanguage": "Mako",
-    "pushedAt": "2024-12-23T09:09:02.000Z",
+    "pushedAt": "2024-12-24T04:49:58.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-07-21T18:55:34.000Z",
-    "updatedAt": "2024-12-23T11:08:21.000Z"
+    "updatedAt": "2024-12-24T05:59:50.000Z"
   },
   {
     "id": "apankrat/nullboard",
@@ -15351,19 +15351,19 @@
       "name": "huginn",
       "avatarUrl": "https://avatars.githubusercontent.com/u/23225142?v=4"
     },
-    "stars": 44020,
+    "stars": 44027,
     "starsDetail": null,
     "license": "MIT License",
-    "forks": 3807,
+    "forks": 3808,
     "primaryLanguage": "Makefile",
-    "pushedAt": "2024-12-19T20:33:38.000Z",
+    "pushedAt": "2024-12-23T17:31:02.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2013-03-10T06:00:31.000Z",
-    "updatedAt": "2024-12-23T17:23:36.000Z"
+    "updatedAt": "2024-12-24T05:52:53.000Z"
   },
   {
     "id": "humhub/humhub",
@@ -17727,7 +17727,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-12-06T12:13:19.000Z",
-    "updatedAt": "2024-12-24T02:44:14.000Z"
+    "updatedAt": "2024-12-24T05:57:31.000Z"
   },
   {
     "id": "kovidgoyal/calibre",
@@ -24100,14 +24100,14 @@
     "license": "MIT License",
     "forks": 1071,
     "primaryLanguage": "JavaScript",
-    "pushedAt": "2024-12-02T22:42:50.000Z",
+    "pushedAt": "2024-12-24T02:01:27.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-04-19T12:04:57.000Z",
-    "updatedAt": "2024-12-23T17:24:04.000Z"
+    "updatedAt": "2024-12-24T05:53:21.000Z"
   },
   {
     "id": "prasathmani/tinyfilemanager",
@@ -27873,7 +27873,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2013-04-06T04:51:27.000Z",
-    "updatedAt": "2024-12-23T17:24:40.000Z"
+    "updatedAt": "2024-12-24T05:53:56.000Z"
   },
   {
     "id": "stumpapp/stump",
@@ -30656,7 +30656,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2021-12-02T12:49:41.000Z",
-    "updatedAt": "2024-12-23T11:09:39.000Z"
+    "updatedAt": "2024-12-24T06:01:04.000Z"
   },
   {
     "id": "znc/znc",

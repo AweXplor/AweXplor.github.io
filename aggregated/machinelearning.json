@@ -4242,7 +4242,7 @@
       "name": "VowpalWabbit",
       "avatarUrl": "https://avatars.githubusercontent.com/u/43754238?v=4"
     },
-    "stars": 8498,
+    "stars": 8499,
     "starsDetail": null,
     "license": "Other",
     "forks": 1925,
@@ -4254,7 +4254,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2009-07-31T19:36:58.000Z",
-    "updatedAt": "2024-12-23T23:40:17.000Z"
+    "updatedAt": "2024-12-24T05:48:35.000Z"
   },
   {
     "id": "Western-OC2-Lab/AutoML-Implementation-for-Static-and-Dynamic-Data-Analytics",
@@ -7265,19 +7265,19 @@
       "name": "comet-ml",
       "avatarUrl": "https://avatars.githubusercontent.com/u/31487821?v=4"
     },
-    "stars": 3619,
+    "stars": 3658,
     "starsDetail": null,
     "license": "Apache License 2.0",
-    "forks": 209,
+    "forks": 210,
     "primaryLanguage": "Makefile",
-    "pushedAt": "2024-12-23T09:54:15.000Z",
+    "pushedAt": "2024-12-23T21:22:16.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2023-05-10T12:57:13.000Z",
-    "updatedAt": "2024-12-23T11:08:02.000Z"
+    "updatedAt": "2024-12-24T05:59:32.000Z"
   },
   {
     "id": "compressed/BackpropNeuralNet.jl",
@@ -15087,10 +15087,10 @@
       "name": "opencv",
       "avatarUrl": "https://avatars.githubusercontent.com/u/5009934?v=4"
     },
-    "stars": 79752,
+    "stars": 79755,
     "starsDetail": null,
     "license": "Apache License 2.0",
-    "forks": 55894,
+    "forks": 55897,
     "primaryLanguage": "Dockerfile",
     "pushedAt": "2024-12-23T12:35:02.000Z",
     "archived": false,
@@ -15099,7 +15099,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2012-07-19T09:40:17.000Z",
-    "updatedAt": "2024-12-23T17:21:59.000Z"
+    "updatedAt": "2024-12-24T05:51:21.000Z"
   },
   {
     "id": "opendilab/DI-engine",
@@ -15959,7 +15959,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2009-05-05T09:43:50.000Z",
-    "updatedAt": "2024-12-23T23:40:25.000Z"
+    "updatedAt": "2024-12-24T05:48:42.000Z"
   },
   {
     "id": "pyqtgraph/pyqtgraph",
