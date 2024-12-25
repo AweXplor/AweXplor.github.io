@@ -4242,7 +4242,7 @@
       "name": "VowpalWabbit",
       "avatarUrl": "https://avatars.githubusercontent.com/u/43754238?v=4"
     },
-    "stars": 8499,
+    "stars": 8500,
     "starsDetail": null,
     "license": "Other",
     "forks": 1925,
@@ -4254,7 +4254,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2009-07-31T19:36:58.000Z",
-    "updatedAt": "2024-12-25T16:06:03.000Z"
+    "updatedAt": "2024-12-25T19:11:25.000Z"
   },
   {
     "id": "Western-OC2-Lab/AutoML-Implementation-for-Static-and-Dynamic-Data-Analytics",
@@ -15947,7 +15947,7 @@
       "name": "pymc-devs",
       "avatarUrl": "https://avatars.githubusercontent.com/u/81121?v=4"
     },
-    "stars": 8799,
+    "stars": 8800,
     "starsDetail": null,
     "license": "Other",
     "forks": 2035,
@@ -15959,7 +15959,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2009-05-05T09:43:50.000Z",
-    "updatedAt": "2024-12-25T16:06:11.000Z"
+    "updatedAt": "2024-12-25T19:11:33.000Z"
   },
   {
     "id": "pyqtgraph/pyqtgraph",
