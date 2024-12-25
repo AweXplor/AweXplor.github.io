@@ -15351,7 +15351,7 @@
       "name": "huginn",
       "avatarUrl": "https://avatars.githubusercontent.com/u/23225142?v=4"
     },
-    "stars": 44029,
+    "stars": 44034,
     "starsDetail": null,
     "license": "MIT License",
     "forks": 3808,
@@ -15363,7 +15363,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2013-03-10T06:00:31.000Z",
-    "updatedAt": "2024-12-24T12:11:58.000Z"
+    "updatedAt": "2024-12-25T06:43:47.000Z"
   },
   {
     "id": "humhub/humhub",
@@ -17715,7 +17715,7 @@
       "name": "koel",
       "avatarUrl": "https://avatars.githubusercontent.com/u/20983373?v=4"
     },
-    "stars": 16129,
+    "stars": 16130,
     "starsDetail": null,
     "license": "MIT License",
     "forks": 1982,
@@ -17727,7 +17727,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-12-06T12:13:19.000Z",
-    "updatedAt": "2024-12-25T03:34:14.000Z"
+    "updatedAt": "2024-12-25T06:40:02.000Z"
   },
   {
     "id": "kovidgoyal/calibre",
@@ -24095,7 +24095,7 @@
       "name": "postalserver",
       "avatarUrl": "https://avatars.githubusercontent.com/u/58169103?v=4"
     },
-    "stars": 15030,
+    "stars": 15031,
     "starsDetail": null,
     "license": "MIT License",
     "forks": 1071,
@@ -24107,7 +24107,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-04-19T12:04:57.000Z",
-    "updatedAt": "2024-12-24T12:12:28.000Z"
+    "updatedAt": "2024-12-25T06:44:17.000Z"
   },
   {
     "id": "prasathmani/tinyfilemanager",
@@ -27873,7 +27873,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2013-04-06T04:51:27.000Z",
-    "updatedAt": "2024-12-24T12:13:05.000Z"
+    "updatedAt": "2024-12-25T06:44:55.000Z"
   },
   {
     "id": "stumpapp/stump",

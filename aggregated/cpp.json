@@ -1580,19 +1580,19 @@
       "name": "EbookFoundation",
       "avatarUrl": "https://avatars.githubusercontent.com/u/14127308?v=4"
     },
-    "stars": 342517,
+    "stars": 342557,
     "starsDetail": null,
     "license": "Creative Commons Attribution 4.0 International",
-    "forks": 62094,
+    "forks": 62102,
     "primaryLanguage": "HTML",
-    "pushedAt": "2024-12-21T23:30:22.000Z",
+    "pushedAt": "2024-12-24T20:21:26.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2013-10-11T06:50:37.000Z",
-    "updatedAt": "2024-12-24T12:10:39.000Z"
+    "updatedAt": "2024-12-25T06:42:21.000Z"
   },
   {
     "id": "Embarcadero/Dev-Cpp",
@@ -9793,7 +9793,7 @@
       "name": "flashlight",
       "avatarUrl": "https://avatars.githubusercontent.com/u/67613832?v=4"
     },
-    "stars": 5306,
+    "stars": 5307,
     "starsDetail": null,
     "license": "MIT License",
     "forks": 498,
@@ -9805,7 +9805,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-12-11T18:28:47.000Z",
-    "updatedAt": "2024-12-24T12:10:20.000Z"
+    "updatedAt": "2024-12-25T06:42:01.000Z"
   },
   {
     "id": "flavio/qjson",
@@ -21542,7 +21542,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2011-02-27T20:00:51.000Z",
-    "updatedAt": "2024-12-25T00:30:17.000Z"
+    "updatedAt": "2024-12-25T06:39:05.000Z"
   },
   {
     "id": "uncrustify/uncrustify",
@@ -22599,7 +22599,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2012-04-16T03:12:14.000Z",
-    "updatedAt": "2024-12-25T00:30:01.000Z"
+    "updatedAt": "2024-12-25T06:38:46.000Z"
   },
   {
     "id": "yhirose/cpp-httplib",
@@ -22822,7 +22822,7 @@
       "name": "zlib-ng",
       "avatarUrl": "https://avatars.githubusercontent.com/u/45075615?v=4"
     },
-    "stars": 1254,
+    "stars": 1255,
     "starsDetail": null,
     "license": "Other",
     "forks": 435,
@@ -22834,7 +22834,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2012-01-21T19:17:23.000Z",
-    "updatedAt": "2024-12-24T12:10:00.000Z"
+    "updatedAt": "2024-12-25T06:41:39.000Z"
   },
   {
     "id": "zlib-ng/zlib-ng",

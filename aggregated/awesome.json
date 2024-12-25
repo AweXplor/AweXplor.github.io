@@ -695,10 +695,10 @@
       "name": "DopplerHQ",
       "avatarUrl": "https://avatars.githubusercontent.com/u/34022344?v=4"
     },
-    "stars": 72107,
+    "stars": 72126,
     "starsDetail": null,
     "license": null,
-    "forks": 8914,
+    "forks": 8918,
     "primaryLanguage": "",
     "pushedAt": "2024-07-29T14:21:23.000Z",
     "archived": true,
@@ -707,7 +707,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-11-28T09:48:17.000Z",
-    "updatedAt": "2024-12-24T12:10:40.000Z"
+    "updatedAt": "2024-12-25T06:42:21.000Z"
   },
   {
     "id": "Dvergar/awesome-haxe-gamedev",
@@ -760,19 +760,19 @@
       "name": "EbookFoundation",
       "avatarUrl": "https://avatars.githubusercontent.com/u/14127308?v=4"
     },
-    "stars": 342517,
+    "stars": 342557,
     "starsDetail": null,
     "license": "Creative Commons Attribution 4.0 International",
-    "forks": 62094,
+    "forks": 62102,
     "primaryLanguage": "HTML",
-    "pushedAt": "2024-12-21T23:30:22.000Z",
+    "pushedAt": "2024-12-24T20:21:26.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2013-10-11T06:50:37.000Z",
-    "updatedAt": "2024-12-24T12:10:39.000Z"
+    "updatedAt": "2024-12-25T06:42:21.000Z"
   },
   {
     "id": "Famolus/awesome-sass",
@@ -3039,7 +3039,7 @@
       "name": "analysis-tools-dev",
       "avatarUrl": "https://avatars.githubusercontent.com/u/62759712?v=4"
     },
-    "stars": 13451,
+    "stars": 13452,
     "starsDetail": null,
     "license": "MIT License",
     "forks": 1361,
@@ -3051,7 +3051,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-12-18T16:58:30.000Z",
-    "updatedAt": "2024-12-25T00:29:55.000Z"
+    "updatedAt": "2024-12-25T06:38:39.000Z"
   },
   {
     "id": "analyticalmonk/awesome-neuroscience",
@@ -4476,7 +4476,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2014-11-23T04:36:38.000Z",
-    "updatedAt": "2024-12-24T12:09:51.000Z"
+    "updatedAt": "2024-12-25T06:41:30.000Z"
   },
   {
     "id": "cjbarber/ToolsOfTheTrade",
@@ -8470,7 +8470,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-05-31T01:56:17.000Z",
-    "updatedAt": "2024-12-24T12:10:38.000Z"
+    "updatedAt": "2024-12-25T06:42:20.000Z"
   },
   {
     "id": "inputsh/awesome-linux",
