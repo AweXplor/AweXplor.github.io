@@ -1241,6 +1241,43 @@
     "updatedAt": "2024-11-19T12:21:07.000Z"
   },
   {
+    "id": "DOSAYGO-Research/rain",
+    "name": "DOSAYGO-Research/rain",
+    "description": "The fastest 128-bit and 256-bit hash, passes all tests, and under 140 source lines of code. API library and CLI tool in C++ and NodeJS/Wasm",
+    "topics": [
+      "call-for-papers",
+      "cpp",
+      "cryptanalysis",
+      "cryptanalysis-tasks",
+      "cryptography",
+      "cryptohash",
+      "emscripten",
+      "hash",
+      "rain",
+      "rainbow",
+      "rainhash",
+      "rainstorm",
+      "wasm"
+    ],
+    "owner": {
+      "name": "DOSAYGO-Research",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/179304995?v=4"
+    },
+    "stars": 121,
+    "starsDetail": null,
+    "license": "Apache License 2.0",
+    "forks": 8,
+    "primaryLanguage": "Shell",
+    "pushedAt": "2024-12-23T16:59:51.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2023-07-10T04:54:59.000Z",
+    "updatedAt": "2024-12-25T13:01:31.000Z"
+  },
+  {
     "id": "DPDK/dpdk",
     "name": "DPDK/dpdk",
     "description": "Data Plane Development Kit",
@@ -1580,10 +1617,10 @@
       "name": "EbookFoundation",
       "avatarUrl": "https://avatars.githubusercontent.com/u/14127308?v=4"
     },
-    "stars": 342557,
+    "stars": 342574,
     "starsDetail": null,
     "license": "Creative Commons Attribution 4.0 International",
-    "forks": 62102,
+    "forks": 62103,
     "primaryLanguage": "HTML",
     "pushedAt": "2024-12-24T20:21:26.000Z",
     "archived": false,
@@ -1592,7 +1629,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2013-10-11T06:50:37.000Z",
-    "updatedAt": "2024-12-25T06:42:21.000Z"
+    "updatedAt": "2024-12-25T13:01:36.000Z"
   },
   {
     "id": "Embarcadero/Dev-Cpp",
@@ -9805,7 +9842,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-12-11T18:28:47.000Z",
-    "updatedAt": "2024-12-25T06:42:01.000Z"
+    "updatedAt": "2024-12-25T13:01:15.000Z"
   },
   {
     "id": "flavio/qjson",
@@ -15630,19 +15667,19 @@
       "name": "microsoft",
       "avatarUrl": "https://avatars.githubusercontent.com/u/6154722?v=4"
     },
-    "stars": 165571,
+    "stars": 165606,
     "starsDetail": null,
     "license": "MIT License",
-    "forks": 29765,
+    "forks": 29782,
     "primaryLanguage": "Hack",
-    "pushedAt": "2024-12-24T03:11:09.000Z",
+    "pushedAt": "2024-12-25T08:55:17.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-09-03T20:23:38.000Z",
-    "updatedAt": "2024-12-24T12:07:26.000Z"
+    "updatedAt": "2024-12-25T12:59:18.000Z"
   },
   {
     "id": "mikke89/RmlUi",
@@ -21542,7 +21579,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2011-02-27T20:00:51.000Z",
-    "updatedAt": "2024-12-25T06:39:05.000Z"
+    "updatedAt": "2024-12-25T12:58:58.000Z"
   },
   {
     "id": "uncrustify/uncrustify",
@@ -22599,7 +22636,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2012-04-16T03:12:14.000Z",
-    "updatedAt": "2024-12-25T06:38:46.000Z"
+    "updatedAt": "2024-12-25T12:58:38.000Z"
   },
   {
     "id": "yhirose/cpp-httplib",
@@ -22834,7 +22871,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2012-01-21T19:17:23.000Z",
-    "updatedAt": "2024-12-25T06:41:39.000Z"
+    "updatedAt": "2024-12-25T13:00:52.000Z"
   },
   {
     "id": "zlib-ng/zlib-ng",
