@@ -1557,6 +1557,37 @@
     "updatedAt": "2024-11-26T02:53:42.000Z"
   },
   {
+    "id": "CorentinTh/enclosed",
+    "name": "CorentinTh/enclosed",
+    "description": "Minimalistic web app designed for sending private and secure notes.",
+    "topics": [
+      "end-to-end-encryption",
+      "minimalist",
+      "note",
+      "pastebin",
+      "secure",
+      "self-hosted",
+      "share"
+    ],
+    "owner": {
+      "name": "CorentinTh",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/25065347?v=4"
+    },
+    "stars": 1076,
+    "starsDetail": null,
+    "license": "Apache License 2.0",
+    "forks": 74,
+    "primaryLanguage": "Shell",
+    "pushedAt": "2024-12-19T20:48:12.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2024-08-22T23:26:01.000Z",
+    "updatedAt": "2024-12-26T04:41:10.000Z"
+  },
+  {
     "id": "CouchCMS/CouchCMS",
     "name": "CouchCMS/CouchCMS",
     "description": "Simple Open-Source CMS for designers",
@@ -7223,10 +7254,10 @@
       "name": "apache",
       "avatarUrl": "https://avatars.githubusercontent.com/u/47359?v=4"
     },
-    "stars": 63474,
+    "stars": 63506,
     "starsDetail": null,
     "license": "Apache License 2.0",
-    "forks": 14105,
+    "forks": 14117,
     "primaryLanguage": "Mako",
     "pushedAt": "2024-12-24T04:49:58.000Z",
     "archived": false,
@@ -7235,7 +7266,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-07-21T18:55:34.000Z",
-    "updatedAt": "2024-12-24T05:59:50.000Z"
+    "updatedAt": "2024-12-26T04:40:10.000Z"
   },
   {
     "id": "apankrat/nullboard",
@@ -15351,7 +15382,7 @@
       "name": "huginn",
       "avatarUrl": "https://avatars.githubusercontent.com/u/23225142?v=4"
     },
-    "stars": 44042,
+    "stars": 44043,
     "starsDetail": null,
     "license": "MIT License",
     "forks": 3810,
@@ -15363,7 +15394,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2013-03-10T06:00:31.000Z",
-    "updatedAt": "2024-12-26T01:23:22.000Z"
+    "updatedAt": "2024-12-26T04:33:01.000Z"
   },
   {
     "id": "humhub/humhub",
@@ -17261,6 +17292,29 @@
     "updatedAt": "2024-11-26T02:57:20.000Z"
   },
   {
+    "id": "kantorge/yaffa",
+    "name": "kantorge/yaffa",
+    "description": "Yaffa is a personal finance web application, focusing on the support of long term financial planning.",
+    "topics": [],
+    "owner": {
+      "name": "kantorge",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/12487243?v=4"
+    },
+    "stars": 3,
+    "starsDetail": null,
+    "license": "MIT License",
+    "forks": 0,
+    "primaryLanguage": "Blade",
+    "pushedAt": "2024-12-24T20:34:50.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2020-09-21T18:41:45.000Z",
+    "updatedAt": "2024-12-26T04:41:21.000Z"
+  },
+  {
     "id": "karlomikus/bar-assistant",
     "name": "karlomikus/bar-assistant",
     "description": "Bar assistant is a all-in-one solution for managing your home bar",
@@ -17727,7 +17781,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-12-06T12:13:19.000Z",
-    "updatedAt": "2024-12-26T01:20:03.000Z"
+    "updatedAt": "2024-12-26T04:37:46.000Z"
   },
   {
     "id": "kovidgoyal/calibre",
@@ -24107,7 +24161,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-04-19T12:04:57.000Z",
-    "updatedAt": "2024-12-26T01:23:51.000Z"
+    "updatedAt": "2024-12-26T04:33:30.000Z"
   },
   {
     "id": "prasathmani/tinyfilemanager",
@@ -27873,7 +27927,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2013-04-06T04:51:27.000Z",
-    "updatedAt": "2024-12-26T01:24:26.000Z"
+    "updatedAt": "2024-12-26T04:34:05.000Z"
   },
   {
     "id": "stumpapp/stump",
@@ -30644,7 +30698,7 @@
       "name": "zincsearch",
       "avatarUrl": "https://avatars.githubusercontent.com/u/129023705?v=4"
     },
-    "stars": 17101,
+    "stars": 17105,
     "starsDetail": null,
     "license": "Other",
     "forks": 747,
@@ -30656,7 +30710,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2021-12-02T12:49:41.000Z",
-    "updatedAt": "2024-12-24T06:01:04.000Z"
+    "updatedAt": "2024-12-26T04:41:25.000Z"
   },
   {
     "id": "znc/znc",

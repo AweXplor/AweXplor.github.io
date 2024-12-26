@@ -1617,10 +1617,10 @@
       "name": "EbookFoundation",
       "avatarUrl": "https://avatars.githubusercontent.com/u/14127308?v=4"
     },
-    "stars": 342604,
+    "stars": 342617,
     "starsDetail": null,
     "license": "Creative Commons Attribution 4.0 International",
-    "forks": 62104,
+    "forks": 62108,
     "primaryLanguage": "HTML",
     "pushedAt": "2024-12-24T20:21:26.000Z",
     "archived": false,
@@ -1629,7 +1629,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2013-10-11T06:50:37.000Z",
-    "updatedAt": "2024-12-26T01:22:07.000Z"
+    "updatedAt": "2024-12-26T04:31:44.000Z"
   },
   {
     "id": "Embarcadero/Dev-Cpp",
@@ -5436,7 +5436,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2022-07-07T14:00:21.000Z",
-    "updatedAt": "2024-12-24T05:59:06.000Z"
+    "updatedAt": "2024-12-26T04:39:25.000Z"
   },
   {
     "id": "autodiff/autodiff",
@@ -9842,7 +9842,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-12-11T18:28:47.000Z",
-    "updatedAt": "2024-12-26T01:21:49.000Z"
+    "updatedAt": "2024-12-26T04:31:25.000Z"
   },
   {
     "id": "flavio/qjson",
@@ -15667,10 +15667,10 @@
       "name": "microsoft",
       "avatarUrl": "https://avatars.githubusercontent.com/u/6154722?v=4"
     },
-    "stars": 165606,
+    "stars": 165621,
     "starsDetail": null,
     "license": "MIT License",
-    "forks": 29782,
+    "forks": 29787,
     "primaryLanguage": "Hack",
     "pushedAt": "2024-12-25T08:55:17.000Z",
     "archived": false,
@@ -15679,7 +15679,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-09-03T20:23:38.000Z",
-    "updatedAt": "2024-12-25T12:59:18.000Z"
+    "updatedAt": "2024-12-26T04:38:31.000Z"
   },
   {
     "id": "mikke89/RmlUi",
@@ -21579,7 +21579,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2011-02-27T20:00:51.000Z",
-    "updatedAt": "2024-12-26T01:19:11.000Z"
+    "updatedAt": "2024-12-26T04:44:14.000Z"
   },
   {
     "id": "uncrustify/uncrustify",
@@ -22624,7 +22624,7 @@
       "name": "ycm-core",
       "avatarUrl": "https://avatars.githubusercontent.com/u/52140259?v=4"
     },
-    "stars": 25507,
+    "stars": 25506,
     "starsDetail": null,
     "license": "GNU General Public License v3.0",
     "forks": 2809,
@@ -22636,7 +22636,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2012-04-16T03:12:14.000Z",
-    "updatedAt": "2024-12-26T01:18:55.000Z"
+    "updatedAt": "2024-12-26T04:43:58.000Z"
   },
   {
     "id": "yhirose/cpp-httplib",
@@ -22859,7 +22859,7 @@
       "name": "zlib-ng",
       "avatarUrl": "https://avatars.githubusercontent.com/u/45075615?v=4"
     },
-    "stars": 1255,
+    "stars": 1256,
     "starsDetail": null,
     "license": "Other",
     "forks": 435,
@@ -22871,7 +22871,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2012-01-21T19:17:23.000Z",
-    "updatedAt": "2024-12-26T01:21:31.000Z"
+    "updatedAt": "2024-12-26T04:31:07.000Z"
   },
   {
     "id": "zlib-ng/zlib-ng",
