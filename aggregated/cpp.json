@@ -15667,10 +15667,10 @@
       "name": "microsoft",
       "avatarUrl": "https://avatars.githubusercontent.com/u/6154722?v=4"
     },
-    "stars": 165621,
+    "stars": 165638,
     "starsDetail": null,
     "license": "MIT License",
-    "forks": 29787,
+    "forks": 29790,
     "primaryLanguage": "Hack",
     "pushedAt": "2024-12-25T08:55:17.000Z",
     "archived": false,
@@ -15679,7 +15679,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-09-03T20:23:38.000Z",
-    "updatedAt": "2024-12-26T04:38:31.000Z"
+    "updatedAt": "2024-12-26T13:58:29.000Z"
   },
   {
     "id": "mikke89/RmlUi",
@@ -21579,7 +21579,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2011-02-27T20:00:51.000Z",
-    "updatedAt": "2024-12-26T04:44:14.000Z"
+    "updatedAt": "2024-12-26T13:58:11.000Z"
   },
   {
     "id": "uncrustify/uncrustify",
@@ -22624,10 +22624,10 @@
       "name": "ycm-core",
       "avatarUrl": "https://avatars.githubusercontent.com/u/52140259?v=4"
     },
-    "stars": 25506,
+    "stars": 25507,
     "starsDetail": null,
     "license": "GNU General Public License v3.0",
-    "forks": 2809,
+    "forks": 2807,
     "primaryLanguage": "Makefile",
     "pushedAt": "2024-12-25T21:38:53.000Z",
     "archived": false,
@@ -22636,7 +22636,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2012-04-16T03:12:14.000Z",
-    "updatedAt": "2024-12-26T04:43:58.000Z"
+    "updatedAt": "2024-12-26T13:57:53.000Z"
   },
   {
     "id": "yhirose/cpp-httplib",
