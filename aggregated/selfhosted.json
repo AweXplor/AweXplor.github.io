@@ -15351,19 +15351,19 @@
       "name": "huginn",
       "avatarUrl": "https://avatars.githubusercontent.com/u/23225142?v=4"
     },
-    "stars": 44034,
+    "stars": 44042,
     "starsDetail": null,
     "license": "MIT License",
-    "forks": 3808,
+    "forks": 3810,
     "primaryLanguage": "Makefile",
-    "pushedAt": "2024-12-23T17:31:02.000Z",
+    "pushedAt": "2024-12-25T18:22:13.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2013-03-10T06:00:31.000Z",
-    "updatedAt": "2024-12-25T06:43:47.000Z"
+    "updatedAt": "2024-12-26T01:23:22.000Z"
   },
   {
     "id": "humhub/humhub",
@@ -17727,7 +17727,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-12-06T12:13:19.000Z",
-    "updatedAt": "2024-12-25T19:12:28.000Z"
+    "updatedAt": "2024-12-26T01:20:03.000Z"
   },
   {
     "id": "kovidgoyal/calibre",
@@ -24098,7 +24098,7 @@
     "stars": 15031,
     "starsDetail": null,
     "license": "MIT License",
-    "forks": 1071,
+    "forks": 1073,
     "primaryLanguage": "JavaScript",
     "pushedAt": "2024-12-24T02:01:27.000Z",
     "archived": false,
@@ -24107,7 +24107,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-04-19T12:04:57.000Z",
-    "updatedAt": "2024-12-25T06:44:17.000Z"
+    "updatedAt": "2024-12-26T01:23:51.000Z"
   },
   {
     "id": "prasathmani/tinyfilemanager",
@@ -27873,7 +27873,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2013-04-06T04:51:27.000Z",
-    "updatedAt": "2024-12-25T06:44:55.000Z"
+    "updatedAt": "2024-12-26T01:24:26.000Z"
   },
   {
     "id": "stumpapp/stump",

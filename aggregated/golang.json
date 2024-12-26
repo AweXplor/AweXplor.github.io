@@ -13590,36 +13590,6 @@
     "updatedAt": "2024-10-19T07:13:13.000Z"
   },
   {
-    "id": "bigfile/bigfile",
-    "name": "bigfile/bigfile",
-    "description": "Bigfile -- a file transfer system that supports http, rpc and ftp protocol   https://bigfile.site  ",
-    "topics": [
-      "bigfile",
-      "file-system",
-      "ftp",
-      "golang",
-      "http",
-      "rpc"
-    ],
-    "owner": {
-      "name": "bigfile",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/52916753?v=4"
-    },
-    "stars": 251,
-    "starsDetail": null,
-    "license": "MIT License",
-    "forks": 52,
-    "primaryLanguage": "Dockerfile",
-    "pushedAt": "2023-02-15T02:22:16.000Z",
-    "archived": true,
-    "npmPackage": "",
-    "npmLastMonthDownloads": null,
-    "goPackage": "github.com/bigfile/bigfile",
-    "goImportedBy": 0,
-    "createdAt": "2019-07-15T10:43:50.000Z",
-    "updatedAt": "2024-10-19T06:57:35.000Z"
-  },
-  {
     "id": "bit4bit/gami",
     "name": "bit4bit/gami",
     "description": "GO - Asterisk AMI Interface",
@@ -20119,29 +20089,6 @@
     "updatedAt": "2024-10-19T07:14:36.000Z"
   },
   {
-    "id": "davemeehan/Neo4j-GO",
-    "name": "davemeehan/Neo4j-GO",
-    "description": "Neo4j REST Client in golang",
-    "topics": [],
-    "owner": {
-      "name": "davemeehan",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/829529?v=4"
-    },
-    "stars": 78,
-    "starsDetail": null,
-    "license": null,
-    "forks": 17,
-    "primaryLanguage": "Makefile",
-    "pushedAt": "2018-06-20T12:15:38.000Z",
-    "archived": true,
-    "npmPackage": "",
-    "npmLastMonthDownloads": null,
-    "goPackage": "",
-    "goImportedBy": 0,
-    "createdAt": "2011-06-04T16:08:35.000Z",
-    "updatedAt": "2024-10-19T06:57:19.000Z"
-  },
-  {
     "id": "daveshanley/vacuum",
     "name": "daveshanley/vacuum",
     "description": "vacuum is the worlds fastest OpenAPI 3, OpenAPI 2 / Swagger linter and quality analysis tool. Built in go, it tears through API specs faster than you can think. vacuum is compatible with Spectral rulesets and generates compatible reports.",
@@ -22581,29 +22528,6 @@
     "goImportedBy": 0,
     "createdAt": "2020-03-24T21:02:44.000Z",
     "updatedAt": "2024-10-19T07:14:43.000Z"
-  },
-  {
-    "id": "dtm-labs/dtf",
-    "name": "dtm-labs/dtf",
-    "description": "大家好，dtm最终跟原公司谈下来了知识产权转让，现已恢复维护，请大家访问 https://github.com/dtm-labs/dtm 。中间给大家带来的不便，敬请谅解！",
-    "topics": [],
-    "owner": {
-      "name": "yedf2",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/43027375?v=4"
-    },
-    "stars": 212,
-    "starsDetail": null,
-    "license": "BSD 3-Clause \"New\" or \"Revised\" License",
-    "forks": 30,
-    "primaryLanguage": "JavaScript",
-    "pushedAt": "2022-03-29T07:45:14.000Z",
-    "archived": true,
-    "npmPackage": "",
-    "npmLastMonthDownloads": null,
-    "goPackage": "github.com/dtm-labs/dtm",
-    "goImportedBy": 0,
-    "createdAt": "2022-03-04T11:55:37.000Z",
-    "updatedAt": "2024-10-19T06:57:07.000Z"
   },
   {
     "id": "dtylman/gowd",
@@ -26045,29 +25969,6 @@
     "goImportedBy": 0,
     "createdAt": "2017-03-13T04:15:17.000Z",
     "updatedAt": "2024-10-19T07:12:43.000Z"
-  },
-  {
-    "id": "ftrvxmtrx/tga",
-    "name": "ftrvxmtrx/tga",
-    "description": "Go package for decoding and encoding TARGA image format",
-    "topics": [],
-    "owner": {
-      "name": "ftrvxmtrx",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/248148?v=4"
-    },
-    "stars": 33,
-    "starsDetail": null,
-    "license": "MIT License",
-    "forks": 14,
-    "primaryLanguage": "Go",
-    "pushedAt": "2015-05-24T08:11:41.000Z",
-    "archived": true,
-    "npmPackage": "",
-    "npmLastMonthDownloads": null,
-    "goPackage": "",
-    "goImportedBy": 0,
-    "createdAt": "2012-10-08T01:09:20.000Z",
-    "updatedAt": "2024-10-19T06:58:00.000Z"
   },
   {
     "id": "fulldump/biff",
