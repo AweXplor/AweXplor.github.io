@@ -5417,7 +5417,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-06-17T09:55:24.000Z",
-    "updatedAt": "2024-12-27T17:52:13.000Z"
+    "updatedAt": "2024-12-27T20:57:37.000Z"
   },
   {
     "id": "ecosia/vue-safe-html",
@@ -9210,7 +9210,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-04-17T23:49:17.000Z",
-    "updatedAt": "2024-12-27T17:51:50.000Z"
+    "updatedAt": "2024-12-27T20:57:12.000Z"
   },
   {
     "id": "naver/egjs-flicking",
