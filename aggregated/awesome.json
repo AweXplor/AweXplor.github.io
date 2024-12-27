@@ -695,10 +695,10 @@
       "name": "DopplerHQ",
       "avatarUrl": "https://avatars.githubusercontent.com/u/34022344?v=4"
     },
-    "stars": 72146,
+    "stars": 72158,
     "starsDetail": null,
     "license": null,
-    "forks": 8918,
+    "forks": 8919,
     "primaryLanguage": "",
     "pushedAt": "2024-07-29T14:21:23.000Z",
     "archived": true,
@@ -707,7 +707,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-11-28T09:48:17.000Z",
-    "updatedAt": "2024-12-26T04:31:44.000Z"
+    "updatedAt": "2024-12-27T02:22:42.000Z"
   },
   {
     "id": "Dvergar/awesome-haxe-gamedev",
@@ -760,10 +760,10 @@
       "name": "EbookFoundation",
       "avatarUrl": "https://avatars.githubusercontent.com/u/14127308?v=4"
     },
-    "stars": 342617,
+    "stars": 342667,
     "starsDetail": null,
     "license": "Creative Commons Attribution 4.0 International",
-    "forks": 62108,
+    "forks": 62110,
     "primaryLanguage": "HTML",
     "pushedAt": "2024-12-24T20:21:26.000Z",
     "archived": false,
@@ -772,7 +772,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2013-10-11T06:50:37.000Z",
-    "updatedAt": "2024-12-26T04:31:44.000Z"
+    "updatedAt": "2024-12-27T02:22:42.000Z"
   },
   {
     "id": "Famolus/awesome-sass",
@@ -3051,7 +3051,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-12-18T16:58:30.000Z",
-    "updatedAt": "2024-12-26T23:14:09.000Z"
+    "updatedAt": "2024-12-27T02:19:17.000Z"
   },
   {
     "id": "analyticalmonk/awesome-neuroscience",
@@ -4476,7 +4476,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2014-11-23T04:36:38.000Z",
-    "updatedAt": "2024-12-26T04:30:59.000Z"
+    "updatedAt": "2024-12-27T02:21:54.000Z"
   },
   {
     "id": "cjbarber/ToolsOfTheTrade",
@@ -8470,7 +8470,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-05-31T01:56:17.000Z",
-    "updatedAt": "2024-12-26T04:31:43.000Z"
+    "updatedAt": "2024-12-27T02:22:40.000Z"
   },
   {
     "id": "inputsh/awesome-linux",

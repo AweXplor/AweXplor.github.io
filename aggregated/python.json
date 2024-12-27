@@ -1258,10 +1258,10 @@
       "name": "Tencent",
       "avatarUrl": "https://avatars.githubusercontent.com/u/18461506?v=4"
     },
-    "stars": 14446,
+    "stars": 14447,
     "starsDetail": null,
     "license": "Other",
-    "forks": 3541,
+    "forks": 3543,
     "primaryLanguage": "JavaScript",
     "pushedAt": "2024-12-18T11:30:59.000Z",
     "archived": false,
@@ -1270,7 +1270,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2014-03-04T05:53:37.000Z",
-    "updatedAt": "2024-12-26T04:31:23.000Z"
+    "updatedAt": "2024-12-27T02:22:20.000Z"
   },
   {
     "id": "Textualize/rich",
@@ -6852,10 +6852,10 @@
       "name": "magenta",
       "avatarUrl": "https://avatars.githubusercontent.com/u/17187941?v=4"
     },
-    "stars": 19254,
+    "stars": 19255,
     "starsDetail": null,
     "license": "Apache License 2.0",
-    "forks": 3747,
+    "forks": 3748,
     "primaryLanguage": "Shell",
     "pushedAt": "2024-11-19T19:28:48.000Z",
     "archived": false,
@@ -6864,7 +6864,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-05-05T20:10:40.000Z",
-    "updatedAt": "2024-12-26T04:34:35.000Z"
+    "updatedAt": "2024-12-27T02:25:37.000Z"
   },
   {
     "id": "mahmoud/boltons",

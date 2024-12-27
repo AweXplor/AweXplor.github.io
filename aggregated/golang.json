@@ -10846,6 +10846,33 @@
     "updatedAt": "2024-10-19T06:57:32.000Z"
   },
   {
+    "id": "antonmedv/fx",
+    "name": "antonmedv/fx",
+    "description": "Terminal JSON viewer & processor",
+    "topics": [
+      "cli",
+      "command-line",
+      "json"
+    ],
+    "owner": {
+      "name": "antonmedv",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/141232?v=4"
+    },
+    "stars": 19043,
+    "starsDetail": null,
+    "license": "MIT License",
+    "forks": 439,
+    "primaryLanguage": "Dockerfile",
+    "pushedAt": "2024-08-07T04:20:48.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2018-01-25T17:29:43.000Z",
+    "updatedAt": "2024-11-20T03:50:44.000Z"
+  },
+  {
     "id": "aofei/cameron",
     "name": "aofei/cameron",
     "description": "An avatar generator for Go.",

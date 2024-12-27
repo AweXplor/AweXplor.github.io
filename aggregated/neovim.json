@@ -493,7 +493,7 @@
       "name": "Abstract-IDE",
       "avatarUrl": "https://avatars.githubusercontent.com/u/107783343?v=4"
     },
-    "stars": 188,
+    "stars": 189,
     "starsDetail": null,
     "license": "MIT License",
     "forks": 13,
@@ -505,7 +505,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2021-07-22T05:32:15.000Z",
-    "updatedAt": "2024-12-26T04:34:47.000Z"
+    "updatedAt": "2024-12-27T02:25:49.000Z"
   },
   {
     "id": "Abstract-IDE/Abstract-cs",
@@ -9772,6 +9772,35 @@
     "goImportedBy": 35,
     "createdAt": "2016-01-19T05:06:02.000Z",
     "updatedAt": "2024-10-19T07:14:40.000Z"
+  },
+  {
+    "id": "cxwx/lazyUrlUpdate.nvim",
+    "name": "cxwx/lazyUrlUpdate.nvim",
+    "description": "a neovim plug for easy update plugins using lazy.nvim",
+    "topics": [
+      "lazy",
+      "lazy-loading",
+      "lua",
+      "neovim",
+      "neovim-plugin"
+    ],
+    "owner": {
+      "name": "cxwx",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/6235641?v=4"
+    },
+    "stars": 2,
+    "starsDetail": null,
+    "license": "MIT License",
+    "forks": 0,
+    "primaryLanguage": "Lua",
+    "pushedAt": "2024-12-14T13:12:15.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2024-12-14T13:05:29.000Z",
+    "updatedAt": "2024-12-27T02:25:45.000Z"
   },
   {
     "id": "cxwx/specs.nvim",
