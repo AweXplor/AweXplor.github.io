@@ -6352,7 +6352,7 @@
       "name": "HeyPuter",
       "avatarUrl": "https://avatars.githubusercontent.com/u/103972607?v=4"
     },
-    "stars": 27132,
+    "stars": 27195,
     "starsDetail": {
       "total": 25432,
       "week": 240,
@@ -6361,16 +6361,16 @@
       "updatedAt": 1729322130
     },
     "license": "GNU Affero General Public License v3.0",
-    "forks": 1924,
+    "forks": 1925,
     "primaryLanguage": "C",
-    "pushedAt": "2024-12-26T02:26:22.000Z",
+    "pushedAt": "2024-12-28T06:05:17.000Z",
     "archived": false,
     "npmPackage": "",
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": 0,
     "createdAt": "2024-03-03T01:44:32.000Z",
-    "updatedAt": "2024-12-26T04:41:09.000Z"
+    "updatedAt": "2024-12-28T12:34:11.000Z"
   },
   {
     "id": "LazarSoft/jsqrcode",
@@ -8660,7 +8660,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-02-19T06:30:29.000Z",
-    "updatedAt": "2024-12-28T09:10:53.000Z"
+    "updatedAt": "2024-12-28T12:23:18.000Z"
   },
   {
     "id": "blueimp/JavaScript-MD5",
@@ -11560,11 +11560,11 @@
     "pushedAt": "2024-11-28T17:22:02.000Z",
     "archived": false,
     "npmPackage": "ziggy-js",
-    "npmLastMonthDownloads": 142279,
+    "npmLastMonthDownloads": 133559,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-08-02T21:07:04.000Z",
-    "updatedAt": "2024-12-28T09:17:32.000Z"
+    "updatedAt": "2024-12-28T12:30:25.000Z"
   },
   {
     "id": "Khan/aphrodite",
@@ -15227,7 +15227,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-04-23T13:02:33.000Z",
-    "updatedAt": "2024-12-28T09:10:34.000Z"
+    "updatedAt": "2024-12-28T12:22:58.000Z"
   },
   {
     "id": "xojs/xo",
@@ -18406,7 +18406,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-01-05T19:05:31.000Z",
-    "updatedAt": "2024-12-28T09:11:51.000Z"
+    "updatedAt": "2024-12-28T12:24:19.000Z"
   },
   {
     "id": "clappr/clappr",
@@ -28589,7 +28589,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-11-05T14:30:37.000Z",
-    "updatedAt": "2024-12-28T09:10:41.000Z"
+    "updatedAt": "2024-12-28T12:23:05.000Z"
   },
   {
     "id": "waylaidwanderer/node-chatgpt-api",
