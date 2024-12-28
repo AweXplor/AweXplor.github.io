@@ -1617,10 +1617,10 @@
       "name": "EbookFoundation",
       "avatarUrl": "https://avatars.githubusercontent.com/u/14127308?v=4"
     },
-    "stars": 342667,
+    "stars": 342809,
     "starsDetail": null,
     "license": "Creative Commons Attribution 4.0 International",
-    "forks": 62110,
+    "forks": 62136,
     "primaryLanguage": "HTML",
     "pushedAt": "2024-12-24T20:21:26.000Z",
     "archived": false,
@@ -1629,7 +1629,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2013-10-11T06:50:37.000Z",
-    "updatedAt": "2024-12-27T02:22:42.000Z"
+    "updatedAt": "2024-12-28T09:12:01.000Z"
   },
   {
     "id": "Embarcadero/Dev-Cpp",
@@ -3390,6 +3390,38 @@
     "goImportedBy": null,
     "createdAt": "2015-01-20T07:47:20.000Z",
     "updatedAt": "2024-11-19T12:23:12.000Z"
+  },
+  {
+    "id": "Siv3D/OpenSiv3D",
+    "name": "Siv3D/OpenSiv3D",
+    "description": "C++20 framework for creative coding 🎮🎨🎹 / Cross-platform support (Windows, macOS, Linux, and the Web) ",
+    "topics": [
+      "c-plus-plus",
+      "cpp",
+      "cpp20",
+      "cross-platform",
+      "game",
+      "game-developement",
+      "game-engine",
+      "gamedev"
+    ],
+    "owner": {
+      "name": "Siv3D",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/7557228?v=4"
+    },
+    "stars": 1033,
+    "starsDetail": null,
+    "license": "MIT License",
+    "forks": 144,
+    "primaryLanguage": "Metal",
+    "pushedAt": "2024-12-23T12:44:36.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2016-03-19T06:02:02.000Z",
+    "updatedAt": "2024-12-28T09:11:16.000Z"
   },
   {
     "id": "Snaipe/libcsptr",
@@ -9842,7 +9874,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-12-11T18:28:47.000Z",
-    "updatedAt": "2024-12-27T02:22:22.000Z"
+    "updatedAt": "2024-12-28T09:11:42.000Z"
   },
   {
     "id": "flavio/qjson",
@@ -21612,7 +21644,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2011-02-27T20:00:51.000Z",
-    "updatedAt": "2024-12-27T20:56:16.000Z"
+    "updatedAt": "2024-12-28T09:09:10.000Z"
   },
   {
     "id": "uncrustify/uncrustify",
@@ -22621,6 +22653,34 @@
     "updatedAt": "2024-11-19T12:24:16.000Z"
   },
   {
+    "id": "yaml/libyaml",
+    "name": "yaml/libyaml",
+    "description": "Canonical source repository for LibYAML",
+    "topics": [
+      "c",
+      "yaml",
+      "yaml-emitter",
+      "yaml-parser"
+    ],
+    "owner": {
+      "name": "yaml",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/69535?v=4"
+    },
+    "stars": 982,
+    "starsDetail": null,
+    "license": "MIT License",
+    "forks": 327,
+    "primaryLanguage": "Shell",
+    "pushedAt": "2024-08-08T11:31:38.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2011-11-03T00:13:19.000Z",
+    "updatedAt": "2024-12-28T09:11:54.000Z"
+  },
+  {
     "id": "yandex/pire",
     "name": "yandex/pire",
     "description": "Perl Incompatible Regular Expressions library",
@@ -22657,7 +22717,7 @@
       "name": "ycm-core",
       "avatarUrl": "https://avatars.githubusercontent.com/u/52140259?v=4"
     },
-    "stars": 25509,
+    "stars": 25508,
     "starsDetail": null,
     "license": "GNU General Public License v3.0",
     "forks": 2807,
@@ -22669,7 +22729,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2012-04-16T03:12:14.000Z",
-    "updatedAt": "2024-12-27T20:55:58.000Z"
+    "updatedAt": "2024-12-28T09:08:53.000Z"
   },
   {
     "id": "yhirose/cpp-httplib",
@@ -22892,7 +22952,7 @@
       "name": "zlib-ng",
       "avatarUrl": "https://avatars.githubusercontent.com/u/45075615?v=4"
     },
-    "stars": 1257,
+    "stars": 1258,
     "starsDetail": null,
     "license": "Other",
     "forks": 435,
@@ -22904,7 +22964,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2012-01-21T19:17:23.000Z",
-    "updatedAt": "2024-12-27T02:22:03.000Z"
+    "updatedAt": "2024-12-28T09:11:23.000Z"
   },
   {
     "id": "zlib-ng/zlib-ng",

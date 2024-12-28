@@ -50129,6 +50129,48 @@
     "updatedAt": "2024-10-19T06:58:06.000Z"
   },
   {
+    "id": "neilotoole/sq",
+    "name": "neilotoole/sq",
+    "description": "sq data wrangler",
+    "topics": [
+      "azure-sql-edge",
+      "csv",
+      "data-wrangler",
+      "database",
+      "excel",
+      "go",
+      "golang",
+      "json",
+      "jsona",
+      "jsonl",
+      "markdown",
+      "mysql",
+      "postgres",
+      "sql",
+      "sqlserver",
+      "tsv",
+      "xlsx",
+      "xml"
+    ],
+    "owner": {
+      "name": "neilotoole",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/6013203?v=4"
+    },
+    "stars": 2185,
+    "starsDetail": null,
+    "license": "MIT License",
+    "forks": 32,
+    "primaryLanguage": "Dockerfile",
+    "pushedAt": "2024-12-23T21:50:56.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2016-02-16T02:01:18.000Z",
+    "updatedAt": "2024-12-28T09:06:29.000Z"
+  },
+  {
     "id": "neotoolkit/dummy",
     "name": "neotoolkit/dummy",
     "description": "Run mock server based off an API contract with one command",
