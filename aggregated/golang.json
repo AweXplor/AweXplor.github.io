@@ -68939,6 +68939,35 @@
     "updatedAt": "2024-10-19T07:13:52.000Z"
   },
   {
+    "id": "vadiminshakov/committer",
+    "name": "vadiminshakov/committer",
+    "description": "Two-phase (2PC) and three-phase (3PC) protocols implementaion in Golang",
+    "topics": [
+      "2pc",
+      "3pc",
+      "distributed-systems",
+      "three-phase-commit",
+      "two-phase-commit"
+    ],
+    "owner": {
+      "name": "vadiminshakov",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/26391516?v=4"
+    },
+    "stars": 31,
+    "starsDetail": null,
+    "license": "Apache License 2.0",
+    "forks": 5,
+    "primaryLanguage": "Makefile",
+    "pushedAt": "2024-12-28T14:56:37.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2020-08-02T09:50:12.000Z",
+    "updatedAt": "2024-12-29T07:03:19.000Z"
+  },
+  {
     "id": "vaelen/iot",
     "name": "vaelen/iot",
     "description": "A Go client for Google IoT Core",
