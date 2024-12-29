@@ -1972,7 +1972,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-09-09T10:57:33.000Z",
-    "updatedAt": "2024-12-29T13:11:31.000Z"
+    "updatedAt": "2024-12-29T16:17:42.000Z"
   },
   {
     "id": "Eugeny/tabby",
@@ -4255,7 +4255,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2021-07-14T09:54:07.000Z",
-    "updatedAt": "2024-12-28T15:39:45.000Z"
+    "updatedAt": "2024-12-29T16:20:22.000Z"
   },
   {
     "id": "PasteBar/PasteBarApp",
@@ -5122,7 +5122,7 @@
       "name": "TermiT",
       "avatarUrl": "https://avatars.githubusercontent.com/u/87338?v=4"
     },
-    "stars": 2504,
+    "stars": 2505,
     "starsDetail": null,
     "license": "MIT License",
     "forks": 208,
@@ -5134,7 +5134,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2011-03-20T07:17:31.000Z",
-    "updatedAt": "2024-12-28T15:39:49.000Z"
+    "updatedAt": "2024-12-29T16:20:26.000Z"
   },
   {
     "id": "ThatGuySam/doesitarm",
@@ -6236,7 +6236,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-07-03T17:23:54.000Z",
-    "updatedAt": "2024-12-28T15:39:54.000Z"
+    "updatedAt": "2024-12-29T16:20:31.000Z"
   },
   {
     "id": "alvesjtiago/airpass",
@@ -21183,6 +21183,37 @@
     "goImportedBy": null,
     "createdAt": "2019-12-05T05:08:18.000Z",
     "updatedAt": "2024-11-20T03:53:02.000Z"
+  },
+  {
+    "id": "tauri-apps/tauri",
+    "name": "tauri-apps/tauri",
+    "description": "Build smaller, faster, and more secure desktop and mobile applications with a web frontend.",
+    "topics": [
+      "desktop-app",
+      "high-performance",
+      "mobile-app",
+      "native-app",
+      "rust",
+      "web-frontend",
+      "webview"
+    ],
+    "owner": {
+      "name": "tauri-apps",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/54536011?v=4"
+    },
+    "stars": 87273,
+    "starsDetail": null,
+    "license": "Apache License 2.0",
+    "forks": 2648,
+    "primaryLanguage": "C++",
+    "pushedAt": "2024-12-21T01:06:06.000Z",
+    "archived": false,
+    "npmPackage": "tauri",
+    "npmLastMonthDownloads": 1491,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2019-07-13T09:09:37.000Z",
+    "updatedAt": "2024-12-21T05:31:37.000Z"
   },
   {
     "id": "telegramdesktop/tdesktop",
