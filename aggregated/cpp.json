@@ -1617,10 +1617,10 @@
       "name": "EbookFoundation",
       "avatarUrl": "https://avatars.githubusercontent.com/u/14127308?v=4"
     },
-    "stars": 342840,
+    "stars": 343323,
     "starsDetail": null,
     "license": "Creative Commons Attribution 4.0 International",
-    "forks": 62142,
+    "forks": 62169,
     "primaryLanguage": "HTML",
     "pushedAt": "2024-12-24T20:21:26.000Z",
     "archived": false,
@@ -1629,7 +1629,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2013-10-11T06:50:37.000Z",
-    "updatedAt": "2024-12-28T12:24:29.000Z"
+    "updatedAt": "2024-12-30T04:59:44.000Z"
   },
   {
     "id": "Embarcadero/Dev-Cpp",
@@ -5032,6 +5032,36 @@
     "goImportedBy": null,
     "createdAt": "2024-03-01T18:59:08.000Z",
     "updatedAt": "2024-11-19T12:25:08.000Z"
+  },
+  {
+    "id": "arun11299/cpp-jwt",
+    "name": "arun11299/cpp-jwt",
+    "description": "JSON Web Token library for C++",
+    "topics": [
+      "cpp11",
+      "cpp14",
+      "cpp17",
+      "jwt",
+      "jwt-header",
+      "security"
+    ],
+    "owner": {
+      "name": "arun11299",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/214426?v=4"
+    },
+    "stars": 400,
+    "starsDetail": null,
+    "license": "MIT License",
+    "forks": 112,
+    "primaryLanguage": "C",
+    "pushedAt": "2024-02-11T03:03:40.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2017-10-17T17:22:06.000Z",
+    "updatedAt": "2024-12-30T04:59:38.000Z"
   },
   {
     "id": "arvidn/access_profiler",
@@ -8524,6 +8554,29 @@
     "updatedAt": "2024-11-19T12:26:26.000Z"
   },
   {
+    "id": "dascandy/hippomocks",
+    "name": "dascandy/hippomocks",
+    "description": "",
+    "topics": [],
+    "owner": {
+      "name": "dascandy",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1306517?v=4"
+    },
+    "stars": 196,
+    "starsDetail": null,
+    "license": "GNU Lesser General Public License v2.1",
+    "forks": 68,
+    "primaryLanguage": "C",
+    "pushedAt": "2024-12-09T15:04:16.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2012-05-18T08:54:31.000Z",
+    "updatedAt": "2024-12-30T04:59:15.000Z"
+  },
+  {
     "id": "datenwolf/linmath.h",
     "name": "datenwolf/linmath.h",
     "description": "a lean linear math library, aimed at graphics programming. Supports vec3, vec4, mat4x4 and quaternions",
@@ -9862,7 +9915,7 @@
       "name": "flashlight",
       "avatarUrl": "https://avatars.githubusercontent.com/u/67613832?v=4"
     },
-    "stars": 5308,
+    "stars": 5309,
     "starsDetail": null,
     "license": "MIT License",
     "forks": 498,
@@ -9874,7 +9927,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-12-11T18:28:47.000Z",
-    "updatedAt": "2024-12-28T12:24:09.000Z"
+    "updatedAt": "2024-12-30T04:59:26.000Z"
   },
   {
     "id": "flavio/qjson",
@@ -21644,7 +21697,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2011-02-27T20:00:51.000Z",
-    "updatedAt": "2024-12-30T01:51:26.000Z"
+    "updatedAt": "2024-12-30T04:56:45.000Z"
   },
   {
     "id": "uncrustify/uncrustify",
@@ -22729,7 +22782,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2012-04-16T03:12:14.000Z",
-    "updatedAt": "2024-12-30T01:51:09.000Z"
+    "updatedAt": "2024-12-30T04:56:28.000Z"
   },
   {
     "id": "yhirose/cpp-httplib",
@@ -22952,7 +23005,7 @@
       "name": "zlib-ng",
       "avatarUrl": "https://avatars.githubusercontent.com/u/45075615?v=4"
     },
-    "stars": 1258,
+    "stars": 1260,
     "starsDetail": null,
     "license": "Other",
     "forks": 435,
@@ -22964,7 +23017,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2012-01-21T19:17:23.000Z",
-    "updatedAt": "2024-12-28T12:23:50.000Z"
+    "updatedAt": "2024-12-30T04:59:07.000Z"
   },
   {
     "id": "zlib-ng/zlib-ng",

@@ -1972,7 +1972,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-09-09T10:57:33.000Z",
-    "updatedAt": "2024-12-30T01:49:22.000Z"
+    "updatedAt": "2024-12-30T04:54:38.000Z"
   },
   {
     "id": "Eugeny/tabby",
@@ -2626,19 +2626,19 @@
       "name": "Homebrew",
       "avatarUrl": "https://avatars.githubusercontent.com/u/1503512?v=4"
     },
-    "stars": 21016,
+    "stars": 21020,
     "starsDetail": null,
     "license": "BSD 2-Clause \"Simplified\" License",
     "forks": 10785,
     "primaryLanguage": "Python",
-    "pushedAt": "2024-12-28T11:00:26.000Z",
+    "pushedAt": "2024-12-30T04:56:14.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2012-03-05T02:05:17.000Z",
-    "updatedAt": "2024-12-28T12:26:44.000Z"
+    "updatedAt": "2024-12-30T05:01:59.000Z"
   },
   {
     "id": "ImageOptim/ImageOptim",

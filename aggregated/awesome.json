@@ -695,7 +695,7 @@
       "name": "DopplerHQ",
       "avatarUrl": "https://avatars.githubusercontent.com/u/34022344?v=4"
     },
-    "stars": 72181,
+    "stars": 72208,
     "starsDetail": null,
     "license": null,
     "forks": 8923,
@@ -707,7 +707,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-11-28T09:48:17.000Z",
-    "updatedAt": "2024-12-28T12:24:29.000Z"
+    "updatedAt": "2024-12-30T04:59:45.000Z"
   },
   {
     "id": "Dvergar/awesome-haxe-gamedev",
@@ -760,10 +760,10 @@
       "name": "EbookFoundation",
       "avatarUrl": "https://avatars.githubusercontent.com/u/14127308?v=4"
     },
-    "stars": 342840,
+    "stars": 343323,
     "starsDetail": null,
     "license": "Creative Commons Attribution 4.0 International",
-    "forks": 62142,
+    "forks": 62169,
     "primaryLanguage": "HTML",
     "pushedAt": "2024-12-24T20:21:26.000Z",
     "archived": false,
@@ -772,7 +772,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2013-10-11T06:50:37.000Z",
-    "updatedAt": "2024-12-28T12:24:29.000Z"
+    "updatedAt": "2024-12-30T04:59:44.000Z"
   },
   {
     "id": "Famolus/awesome-sass",
@@ -3051,7 +3051,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-12-18T16:58:30.000Z",
-    "updatedAt": "2024-12-30T01:51:03.000Z"
+    "updatedAt": "2024-12-30T04:56:21.000Z"
   },
   {
     "id": "analyticalmonk/awesome-neuroscience",
@@ -4464,10 +4464,10 @@
       "name": "cicdops",
       "avatarUrl": "https://avatars.githubusercontent.com/u/11013015?v=4"
     },
-    "stars": 1891,
+    "stars": 1892,
     "starsDetail": null,
     "license": "GNU General Public License v2.0",
-    "forks": 208,
+    "forks": 207,
     "primaryLanguage": "",
     "pushedAt": "2024-04-01T18:08:23.000Z",
     "archived": false,
@@ -4476,7 +4476,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2014-11-23T04:36:38.000Z",
-    "updatedAt": "2024-12-28T12:23:42.000Z"
+    "updatedAt": "2024-12-30T04:58:59.000Z"
   },
   {
     "id": "cjbarber/ToolsOfTheTrade",
@@ -8458,10 +8458,10 @@
       "name": "inputsh",
       "avatarUrl": "https://avatars.githubusercontent.com/u/4890548?v=4"
     },
-    "stars": 3510,
+    "stars": 3511,
     "starsDetail": null,
     "license": "Other",
-    "forks": 359,
+    "forks": 358,
     "primaryLanguage": "",
     "pushedAt": "2022-09-27T14:10:08.000Z",
     "archived": true,
@@ -8470,7 +8470,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-05-31T01:56:17.000Z",
-    "updatedAt": "2024-12-28T12:24:27.000Z"
+    "updatedAt": "2024-12-30T04:59:44.000Z"
   },
   {
     "id": "inputsh/awesome-linux",
