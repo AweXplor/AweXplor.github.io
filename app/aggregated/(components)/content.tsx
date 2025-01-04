@@ -27,7 +27,7 @@ export function ExplorerMainContent(props: { url: string }) {
         // topics: Object.entries(topics).toSorted((a, b) => b[1] - a[1]),
       };
     },
-    { suspense: true },
+    { suspense: true }
   );
   const state = useSnapshot(ExplorerState);
   const searcher = useRef<MiniSearch | null>(null);
@@ -56,13 +56,20 @@ export function ExplorerMainContent(props: { url: string }) {
   const filtered = useMemo(() => {
     const cur = dayjs();
     return data.items.filter(({ time, stars, forks }) => {
-      const wellMaintained = time.add(2, "year").isAfter(cur);
-      const popular = stars > 3000 || forks > 3000;
+      const wellMaintained = time
+        .add(
+          state.wellMaintainedThreshold.count,
+          state.wellMaintainedThreshold.unit
+        )
+        .isAfter(cur);
+      const popular =
+        stars > state.popularThreshold.starsMoreThan ||
+        forks > state.popularThreshold.forksMoreThan;
       if (state.popularOnly && !popular) return false;
       if (state.wellMaintainedOnly && !wellMaintained) return false;
       return true;
     });
-  }, [data.items, state.popularOnly, state.wellMaintainedOnly]);
+  }, [data.items, state.popularOnly, state.wellMaintainedOnly, state.popularThreshold,state.wellMaintainedThreshold]);
   const sorted = useMemo(() => {
     if (state.search !== "" && searcher.current) {
       const result = searcher.current.search(state.search, {

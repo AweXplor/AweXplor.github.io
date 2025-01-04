@@ -4,9 +4,12 @@ import {
   ActionIcon,
   Checkbox,
   NavLink,
+  Popover,
   Radio,
+  Select,
   Stack,
   Switch,
+  TextInput,
   Tooltip,
 } from "@mantine/core";
 
@@ -14,11 +17,95 @@ import {
   IconBrandTelegram,
   IconBrandTwitter,
   IconExternalLink,
+  IconSettings,
 } from "@tabler/icons-react";
-import { useEffect } from "react";
+import { PropsWithChildren, useEffect } from "react";
 import { useSnapshot } from "valtio";
 import { MoreItem } from "../[slug]/page";
 import { ExplorerState } from "./state";
+
+export const WellMaintainedThresholdEditor = (
+  props: PropsWithChildren<{ disabled?: boolean }>
+) => {
+  const state = useSnapshot(ExplorerState.wellMaintainedThreshold);
+  return (
+    <Popover
+      width={350}
+      position="bottom"
+      trapFocus
+      withArrow
+      shadow="md"
+      disabled={props.disabled}
+    >
+      <Popover.Target>{props.children}</Popover.Target>
+      <Popover.Dropdown>
+        <div className="text-sm flex flex-row  gap-2 items-center">
+          <span className="flex-none">Last pushed before</span>
+          <TextInput
+            variant="filled"
+            size="xs"
+            value={state.count || ""}
+            onChange={(v) =>
+              (ExplorerState.wellMaintainedThreshold.count =
+                parseInt(v.target.value, 10) ?? 2)
+            }
+          />
+          <Select
+            size="xs"
+            value={state.unit}
+            comboboxProps={{ withinPortal: false }}
+            onChange={(v) =>
+              (ExplorerState.wellMaintainedThreshold.unit =
+                (v as any) ?? "year")
+            }
+            data={["year", "month", "day"]}
+          />
+        </div>
+      </Popover.Dropdown>
+    </Popover>
+  );
+};
+export const PopularThresholdEditor = (
+  props: PropsWithChildren<{ disabled?: boolean }>
+) => {
+  const state = useSnapshot(ExplorerState.popularThreshold);
+  return (
+    <Popover
+      width={400}
+      trapFocus
+      position="bottom"
+      withArrow
+      shadow="md"
+      disabled={props.disabled}
+    >
+      <Popover.Target>{props.children}</Popover.Target>
+      <Popover.Dropdown>
+        <div className="text-sm flex flex-row  gap-2 items-center">
+          <span className="flex-none">Stars more than</span>
+          <TextInput
+            variant="filled"
+            size="xs"
+            value={state.starsMoreThan || ""}
+            onChange={(v) =>
+              (ExplorerState.popularThreshold.starsMoreThan =
+                parseInt(v.target.value, 10) ?? 3000)
+            }
+          />
+          <span className="flex-none">or forks more than</span>
+          <TextInput
+            variant="filled"
+            size="xs"
+            value={state.forksMoreThan || ""}
+            onChange={(v) =>
+              (ExplorerState.popularThreshold.forksMoreThan =
+                parseInt(v.target.value, 10) ?? 3000)
+            }
+          />
+        </div>
+      </Popover.Dropdown>
+    </Popover>
+  );
+};
 
 export const SideBar = (props: {
   sources: { name: string; license: string | null }[];
@@ -92,7 +179,21 @@ export const SideBar = (props: {
                         ev.currentTarget.checked)
                     }
                     labelPosition="left"
-                    label="Well maintained only"
+                    label={
+                      <div className="flex flex-row items-center gap-2">
+                        <span>Well maintained only</span>
+                        <WellMaintainedThresholdEditor disabled={searchEnable}>
+                          <ActionIcon
+                            variant="subtle"
+                            size="md"
+                            color="gray"
+                            disabled={searchEnable}
+                          >
+                            <IconSettings className="size-4" />
+                          </ActionIcon>
+                        </WellMaintainedThresholdEditor>
+                      </div>
+                    }
                   />
                   <Switch
                     disabled={searchEnable}
@@ -106,7 +207,21 @@ export const SideBar = (props: {
                       (ExplorerState.popularOnly = ev.currentTarget.checked)
                     }
                     labelPosition="left"
-                    label="Polular only"
+                    label={
+                      <div className="flex flex-row items-center gap-2">
+                        <span>Polular only</span>
+                        <PopularThresholdEditor disabled={searchEnable}>
+                          <ActionIcon
+                            variant="subtle"
+                            size="md"
+                            color="gray"
+                            disabled={searchEnable}
+                          >
+                            <IconSettings className="size-4" />
+                          </ActionIcon>
+                        </PopularThresholdEditor>
+                      </div>
+                    }
                   />
                 </Stack>
               </Accordion.Panel>
@@ -141,7 +256,7 @@ export const SideBar = (props: {
                               if (included && state.sources!.length > 1)
                                 ExplorerState.sources =
                                   ExplorerState.sources!.filter(
-                                    (x) => x !== source.name,
+                                    (x) => x !== source.name
                                   );
                             }
                           }}

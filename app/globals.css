@@ -3,6 +3,16 @@
 @tailwind utilities;
 
 html {
+  overflow: hidden;
+  height: 100%;
+}
+
+body {
+  height: 100%;
+  overflow: auto;
+}
+
+html {
   font-family:
     Inter var,
     ui-sans-serif,
