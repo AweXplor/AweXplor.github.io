@@ -493,19 +493,19 @@
       "name": "Abstract-IDE",
       "avatarUrl": "https://avatars.githubusercontent.com/u/107783343?v=4"
     },
-    "stars": 190,
+    "stars": 192,
     "starsDetail": null,
     "license": "MIT License",
     "forks": 13,
     "primaryLanguage": "Python",
-    "pushedAt": "2024-12-29T20:48:25.000Z",
+    "pushedAt": "2025-01-03T19:06:26.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2021-07-22T05:32:15.000Z",
-    "updatedAt": "2024-12-30T05:02:51.000Z"
+    "updatedAt": "2025-01-04T12:08:11.000Z"
   },
   {
     "id": "Abstract-IDE/Abstract-cs",
@@ -7149,6 +7149,33 @@
     "updatedAt": "2024-11-20T03:23:32.000Z"
   },
   {
+    "id": "athar-qadri/scratchpad.nvim",
+    "name": "athar-qadri/scratchpad.nvim",
+    "description": "Effortlessly manage scratchpads in Neovim ",
+    "topics": [
+      "lua",
+      "neovim",
+      "plugin"
+    ],
+    "owner": {
+      "name": "athar-qadri",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/81479236?v=4"
+    },
+    "stars": 4,
+    "starsDetail": null,
+    "license": "MIT License",
+    "forks": 0,
+    "primaryLanguage": "Lua",
+    "pushedAt": "2025-01-04T03:39:01.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2024-12-31T17:59:45.000Z",
+    "updatedAt": "2025-01-04T12:08:06.000Z"
+  },
+  {
     "id": "atusy/treemonkey.nvim",
     "name": "atusy/treemonkey.nvim",
     "description": "",
@@ -8176,6 +8203,33 @@
     "goImportedBy": null,
     "createdAt": "2016-06-17T06:08:08.000Z",
     "updatedAt": "2024-12-19T12:08:43.000Z"
+  },
+  {
+    "id": "catgoose/nvim-colorizer.lua",
+    "name": "catgoose/nvim-colorizer.lua",
+    "description": "The fastest Neovim colorizer",
+    "topics": [
+      "colorizer",
+      "neovim",
+      "neovim-plugin"
+    ],
+    "owner": {
+      "name": "catgoose",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/21010072?v=4"
+    },
+    "stars": 795,
+    "starsDetail": null,
+    "license": "Other",
+    "forks": 46,
+    "primaryLanguage": "Sass",
+    "pushedAt": "2025-01-03T23:10:41.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2022-02-07T13:33:50.000Z",
+    "updatedAt": "2025-01-04T12:08:04.000Z"
   },
   {
     "id": "catppuccin/nvim",
@@ -13421,6 +13475,33 @@
     "updatedAt": "2024-11-20T03:26:12.000Z"
   },
   {
+    "id": "isak102/ghostty.nvim",
+    "name": "isak102/ghostty.nvim",
+    "description": "Automatically validate your Ghostty configuration on save",
+    "topics": [
+      "nvim",
+      "nvim-plugin",
+      "terminal"
+    ],
+    "owner": {
+      "name": "isak102",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/90389894?v=4"
+    },
+    "stars": 15,
+    "starsDetail": null,
+    "license": null,
+    "forks": 0,
+    "primaryLanguage": "Lua",
+    "pushedAt": "2024-12-30T18:48:12.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2024-12-30T17:50:07.000Z",
+    "updatedAt": "2025-01-04T12:08:07.000Z"
+  },
+  {
     "id": "isak102/telescope-git-file-history.nvim",
     "name": "isak102/telescope-git-file-history.nvim",
     "description": "Open/preview contents of the current file at a specific commit, without using git checkout",
@@ -15261,6 +15342,29 @@
     "goImportedBy": null,
     "createdAt": "2021-12-30T11:38:18.000Z",
     "updatedAt": "2024-11-20T03:26:09.000Z"
+  },
+  {
+    "id": "kobbikobb/move-lines.nvim",
+    "name": "kobbikobb/move-lines.nvim",
+    "description": "Simple Neovim plugin to move selected lines up or down",
+    "topics": [],
+    "owner": {
+      "name": "kobbikobb",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1474466?v=4"
+    },
+    "stars": 3,
+    "starsDetail": null,
+    "license": "MIT License",
+    "forks": 1,
+    "primaryLanguage": "Lua",
+    "pushedAt": "2025-01-01T17:45:34.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2024-12-28T23:34:01.000Z",
+    "updatedAt": "2025-01-04T12:08:07.000Z"
   },
   {
     "id": "koenverburg/peepsight.nvim",
@@ -28332,6 +28436,31 @@
     "goImportedBy": null,
     "createdAt": "2024-05-23T18:26:46.000Z",
     "updatedAt": "2024-12-24T12:13:45.000Z"
+  },
+  {
+    "id": "zongben/navimark.nvim",
+    "name": "zongben/navimark.nvim",
+    "description": "An easy and powerful bookmark manager with telescope",
+    "topics": [
+      "neovim-plugin"
+    ],
+    "owner": {
+      "name": "zongben",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/119837502?v=4"
+    },
+    "stars": 5,
+    "starsDetail": null,
+    "license": "MIT License",
+    "forks": 0,
+    "primaryLanguage": "Lua",
+    "pushedAt": "2025-01-03T17:22:52.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2024-12-30T13:10:27.000Z",
+    "updatedAt": "2025-01-04T12:08:03.000Z"
   },
   {
     "id": "zootedb0t/citruszest.nvim",

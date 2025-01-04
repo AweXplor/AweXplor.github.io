@@ -1287,19 +1287,19 @@
       "name": "apiato",
       "avatarUrl": "https://avatars.githubusercontent.com/u/23198877?v=4"
     },
-    "stars": 3032,
+    "stars": 3033,
     "starsDetail": null,
     "license": "MIT License",
     "forks": 486,
     "primaryLanguage": "JavaScript",
-    "pushedAt": "2024-12-22T17:52:11.000Z",
+    "pushedAt": "2024-12-28T15:44:53.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-04-17T10:30:15.000Z",
-    "updatedAt": "2024-12-28T12:30:38.000Z"
+    "updatedAt": "2025-01-04T12:11:00.000Z"
   },
   {
     "id": "area17/twill",

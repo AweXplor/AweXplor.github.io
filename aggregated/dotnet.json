@@ -1169,7 +1169,7 @@
       "name": "CommunityToolkit",
       "avatarUrl": "https://avatars.githubusercontent.com/u/41346473?v=4"
     },
-    "stars": 5915,
+    "stars": 5919,
     "starsDetail": null,
     "license": "Other",
     "forks": 1376,
@@ -1181,7 +1181,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-06-17T21:29:46.000Z",
-    "updatedAt": "2024-12-30T05:00:25.000Z"
+    "updatedAt": "2025-01-04T12:05:50.000Z"
   },
   {
     "id": "CommunityToolkit/dotnet",
@@ -4199,7 +4199,7 @@
       "name": "PrismLibrary",
       "avatarUrl": "https://avatars.githubusercontent.com/u/10503161?v=4"
     },
-    "stars": 6401,
+    "stars": 6405,
     "starsDetail": null,
     "license": "Other",
     "forks": 1642,
@@ -4211,7 +4211,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-02-25T20:54:32.000Z",
-    "updatedAt": "2024-12-30T11:09:36.000Z"
+    "updatedAt": "2025-01-04T11:59:48.000Z"
   },
   {
     "id": "Prolucid/FsShelter",
@@ -13804,7 +13804,7 @@
       "name": "ligershark",
       "avatarUrl": "https://avatars.githubusercontent.com/u/3195020?v=4"
     },
-    "stars": 657,
+    "stars": 656,
     "starsDetail": null,
     "license": "Other",
     "forks": 205,
@@ -13816,7 +13816,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2013-08-09T15:39:52.000Z",
-    "updatedAt": "2024-12-30T05:00:08.000Z"
+    "updatedAt": "2025-01-04T12:05:33.000Z"
   },
   {
     "id": "linq2db/linq2db",
@@ -16588,14 +16588,14 @@
     "license": "MIT License",
     "forks": 288,
     "primaryLanguage": "C#",
-    "pushedAt": "2024-12-29T13:04:57.000Z",
+    "pushedAt": "2025-01-01T15:34:34.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2011-12-02T05:15:37.000Z",
-    "updatedAt": "2024-12-30T11:09:36.000Z"
+    "updatedAt": "2025-01-04T11:59:46.000Z"
   },
   {
     "id": "reactiveui/refit",

@@ -1617,19 +1617,19 @@
       "name": "EbookFoundation",
       "avatarUrl": "https://avatars.githubusercontent.com/u/14127308?v=4"
     },
-    "stars": 343323,
+    "stars": 345931,
     "starsDetail": null,
     "license": "Creative Commons Attribution 4.0 International",
-    "forks": 62169,
+    "forks": 62363,
     "primaryLanguage": "HTML",
-    "pushedAt": "2024-12-24T20:21:26.000Z",
+    "pushedAt": "2025-01-03T18:27:26.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2013-10-11T06:50:37.000Z",
-    "updatedAt": "2024-12-30T04:59:44.000Z"
+    "updatedAt": "2025-01-04T12:05:11.000Z"
   },
   {
     "id": "Embarcadero/Dev-Cpp",
@@ -5486,7 +5486,7 @@
       "name": "auto-differentiation",
       "avatarUrl": "https://avatars.githubusercontent.com/u/134167429?v=4"
     },
-    "stars": 346,
+    "stars": 348,
     "starsDetail": null,
     "license": "GNU Affero General Public License v3.0",
     "forks": 42,
@@ -5498,7 +5498,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2022-07-07T14:00:21.000Z",
-    "updatedAt": "2024-12-28T12:32:23.000Z"
+    "updatedAt": "2025-01-04T12:12:36.000Z"
   },
   {
     "id": "autodiff/autodiff",
@@ -8654,6 +8654,29 @@
     "updatedAt": "2024-11-19T12:20:15.000Z"
   },
   {
+    "id": "dbartolini/crown",
+    "name": "dbartolini/crown",
+    "description": "Crown Engine",
+    "topics": [],
+    "owner": {
+      "name": "dbartolini",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/2070946?v=4"
+    },
+    "stars": 0,
+    "starsDetail": null,
+    "license": "Other",
+    "forks": 0,
+    "primaryLanguage": "Meson",
+    "pushedAt": "2025-01-03T22:06:54.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2025-01-02T22:07:26.000Z",
+    "updatedAt": "2025-01-04T12:04:45.000Z"
+  },
+  {
     "id": "ddemidov/amgcl",
     "name": "ddemidov/amgcl",
     "description": "C++ library for solving large sparse linear systems with algebraic multigrid method",
@@ -9867,6 +9890,41 @@
     "updatedAt": "2024-11-19T12:26:47.000Z"
   },
   {
+    "id": "fktn-k/fkYAML",
+    "name": "fktn-k/fkYAML",
+    "description": "A C++ header-only YAML library",
+    "topics": [
+      "cmake",
+      "cpp",
+      "cpp11",
+      "cpp14",
+      "cpp17",
+      "cpp20",
+      "fkyaml",
+      "header-only",
+      "header-only-library",
+      "yaml",
+      "yaml-parser"
+    ],
+    "owner": {
+      "name": "fktn-k",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/141519741?v=4"
+    },
+    "stars": 82,
+    "starsDetail": null,
+    "license": "MIT License",
+    "forks": 7,
+    "primaryLanguage": "Batchfile",
+    "pushedAt": "2025-01-02T16:20:34.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2023-08-05T19:06:46.000Z",
+    "updatedAt": "2025-01-04T12:05:04.000Z"
+  },
+  {
     "id": "flanglet/kanzi-cpp",
     "name": "flanglet/kanzi-cpp",
     "description": "Fast lossless data compression in C++",
@@ -9915,10 +9973,10 @@
       "name": "flashlight",
       "avatarUrl": "https://avatars.githubusercontent.com/u/67613832?v=4"
     },
-    "stars": 5309,
+    "stars": 5310,
     "starsDetail": null,
     "license": "MIT License",
-    "forks": 498,
+    "forks": 499,
     "primaryLanguage": "Shell",
     "pushedAt": "2024-12-20T23:11:29.000Z",
     "archived": false,
@@ -9927,7 +9985,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-12-11T18:28:47.000Z",
-    "updatedAt": "2024-12-30T04:59:26.000Z"
+    "updatedAt": "2025-01-04T12:04:52.000Z"
   },
   {
     "id": "flavio/qjson",
@@ -10725,19 +10783,19 @@
       "name": "google",
       "avatarUrl": "https://avatars.githubusercontent.com/u/1342004?v=4"
     },
-    "stars": 36395,
+    "stars": 36896,
     "starsDetail": null,
     "license": "BSD 3-Clause \"New\" or \"Revised\" License",
-    "forks": 7802,
+    "forks": 7898,
     "primaryLanguage": "CMake",
-    "pushedAt": "2024-08-23T16:56:43.000Z",
+    "pushedAt": "2025-01-02T19:02:29.000Z",
     "archived": false,
     "npmPackage": "",
     "npmLastMonthDownloads": null,
     "goPackage": "",
     "goImportedBy": 0,
     "createdAt": "2014-08-27T21:17:52.000Z",
-    "updatedAt": "2024-10-19T06:57:06.000Z"
+    "updatedAt": "2025-01-04T12:37:37.000Z"
   },
   {
     "id": "google/liquidfun",
@@ -15785,19 +15843,19 @@
       "name": "microsoft",
       "avatarUrl": "https://avatars.githubusercontent.com/u/6154722?v=4"
     },
-    "stars": 165716,
+    "stars": 165846,
     "starsDetail": null,
     "license": "MIT License",
-    "forks": 29832,
+    "forks": 29908,
     "primaryLanguage": "Hack",
-    "pushedAt": "2024-12-29T07:44:20.000Z",
+    "pushedAt": "2025-01-02T15:46:11.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-09-03T20:23:38.000Z",
-    "updatedAt": "2024-12-29T16:20:20.000Z"
+    "updatedAt": "2025-01-04T12:11:45.000Z"
   },
   {
     "id": "mikke89/RmlUi",
@@ -16158,6 +16216,38 @@
     "goImportedBy": null,
     "createdAt": "2016-04-26T20:44:16.000Z",
     "updatedAt": "2024-12-21T05:28:49.000Z"
+  },
+  {
+    "id": "mpark/variant",
+    "name": "mpark/variant",
+    "description": "C++17 `std::variant` for C++11/14/17",
+    "topics": [
+      "cpp",
+      "cpp11",
+      "cpp14",
+      "cpp17",
+      "cpp20",
+      "discriminated-unions",
+      "polymorphism",
+      "variant"
+    ],
+    "owner": {
+      "name": "mpark",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/2275240?v=4"
+    },
+    "stars": 679,
+    "starsDetail": null,
+    "license": "Boost Software License 1.0",
+    "forks": 90,
+    "primaryLanguage": "Shell",
+    "pushedAt": "2022-12-07T10:28:31.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2015-05-24T23:29:39.000Z",
+    "updatedAt": "2025-01-04T12:05:07.000Z"
   },
   {
     "id": "mreineck/pocketfft",
@@ -17698,6 +17788,29 @@
     "goImportedBy": null,
     "createdAt": "2013-09-30T10:20:25.000Z",
     "updatedAt": "2024-11-19T12:22:46.000Z"
+  },
+  {
+    "id": "pantoniou/libfyaml",
+    "name": "pantoniou/libfyaml",
+    "description": "Fully feature complete YAML parser and emitter, supporting the latest YAML spec and passing the full YAML testsuite.",
+    "topics": [],
+    "owner": {
+      "name": "pantoniou",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/2122970?v=4"
+    },
+    "stars": 254,
+    "starsDetail": null,
+    "license": "MIT License",
+    "forks": 72,
+    "primaryLanguage": "Dockerfile",
+    "pushedAt": "2025-01-02T19:06:35.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2019-09-16T11:13:33.000Z",
+    "updatedAt": "2025-01-04T12:05:05.000Z"
   },
   {
     "id": "pantor/inja",
@@ -21342,6 +21455,33 @@
     "updatedAt": "2024-11-19T12:20:31.000Z"
   },
   {
+    "id": "tlsa/libcyaml",
+    "name": "tlsa/libcyaml",
+    "description": "C library for reading and writing YAML.",
+    "topics": [
+      "c",
+      "library",
+      "yaml"
+    ],
+    "owner": {
+      "name": "tlsa",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/8228915?v=4"
+    },
+    "stars": 266,
+    "starsDetail": null,
+    "license": "ISC License",
+    "forks": 58,
+    "primaryLanguage": "Makefile",
+    "pushedAt": "2024-10-02T16:35:12.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2018-03-04T11:58:09.000Z",
+    "updatedAt": "2025-01-04T12:05:05.000Z"
+  },
+  {
     "id": "tomolt/libschrift",
     "name": "tomolt/libschrift",
     "description": "A lightweight TrueType font rendering library",
@@ -21685,7 +21825,7 @@
       "name": "ultrajson",
       "avatarUrl": "https://avatars.githubusercontent.com/u/61062879?v=4"
     },
-    "stars": 4351,
+    "stars": 4353,
     "starsDetail": null,
     "license": "Other",
     "forks": 365,
@@ -21697,7 +21837,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2011-02-27T20:00:51.000Z",
-    "updatedAt": "2024-12-30T11:12:29.000Z"
+    "updatedAt": "2025-01-04T12:02:22.000Z"
   },
   {
     "id": "uncrustify/uncrustify",
@@ -22770,19 +22910,19 @@
       "name": "ycm-core",
       "avatarUrl": "https://avatars.githubusercontent.com/u/52140259?v=4"
     },
-    "stars": 25511,
+    "stars": 25509,
     "starsDetail": null,
     "license": "GNU General Public License v3.0",
     "forks": 2808,
     "primaryLanguage": "Makefile",
-    "pushedAt": "2024-12-29T11:42:22.000Z",
+    "pushedAt": "2025-01-04T04:00:31.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2012-04-16T03:12:14.000Z",
-    "updatedAt": "2024-12-30T11:12:11.000Z"
+    "updatedAt": "2025-01-04T12:02:05.000Z"
   },
   {
     "id": "yhirose/cpp-httplib",
@@ -23005,7 +23145,7 @@
       "name": "zlib-ng",
       "avatarUrl": "https://avatars.githubusercontent.com/u/45075615?v=4"
     },
-    "stars": 1260,
+    "stars": 1261,
     "starsDetail": null,
     "license": "Other",
     "forks": 435,
@@ -23017,7 +23157,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2012-01-21T19:17:23.000Z",
-    "updatedAt": "2024-12-30T04:59:07.000Z"
+    "updatedAt": "2025-01-04T12:04:35.000Z"
   },
   {
     "id": "zlib-ng/zlib-ng",

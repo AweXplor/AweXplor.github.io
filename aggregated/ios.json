@@ -9680,7 +9680,7 @@
       "name": "Mijick",
       "avatarUrl": "https://avatars.githubusercontent.com/u/125037042?v=4"
     },
-    "stars": 1422,
+    "stars": 1428,
     "starsDetail": null,
     "license": "Apache License 2.0",
     "forks": 65,
@@ -9692,7 +9692,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2023-02-10T22:48:37.000Z",
-    "updatedAt": "2024-12-30T05:00:01.000Z"
+    "updatedAt": "2025-01-04T12:05:26.000Z"
   },
   {
     "id": "MillmanY/MMCardView",
@@ -10609,7 +10609,7 @@
       "name": "Orderella",
       "avatarUrl": "https://avatars.githubusercontent.com/u/20091236?v=4"
     },
-    "stars": 3967,
+    "stars": 3969,
     "starsDetail": null,
     "license": "Other",
     "forks": 523,
@@ -10621,7 +10621,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-06-22T18:56:17.000Z",
-    "updatedAt": "2024-12-30T05:00:00.000Z"
+    "updatedAt": "2025-01-04T12:05:26.000Z"
   },
   {
     "id": "Otbivnoe/CodableAlamofire",
@@ -11610,7 +11610,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-04-08T14:57:55.000Z",
-    "updatedAt": "2024-12-30T04:59:51.000Z"
+    "updatedAt": "2025-01-04T12:05:17.000Z"
   },
   {
     "id": "PrideChung/FontAwesomeKit",
@@ -12362,19 +12362,19 @@
       "name": "Ranchero-Software",
       "avatarUrl": "https://avatars.githubusercontent.com/u/59430456?v=4"
     },
-    "stars": 8497,
+    "stars": 8516,
     "starsDetail": null,
     "license": "MIT License",
-    "forks": 539,
+    "forks": 541,
     "primaryLanguage": "C",
-    "pushedAt": "2024-12-27T04:14:54.000Z",
+    "pushedAt": "2025-01-03T06:18:59.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-05-21T17:59:23.000Z",
-    "updatedAt": "2024-12-28T12:31:26.000Z"
+    "updatedAt": "2025-01-04T12:11:45.000Z"
   },
   {
     "id": "ReSwift/ReSwift",
@@ -28632,10 +28632,10 @@
       "name": "exyte",
       "avatarUrl": "https://avatars.githubusercontent.com/u/10406525?v=4"
     },
-    "stars": 1006,
+    "stars": 1015,
     "starsDetail": null,
     "license": "MIT License",
-    "forks": 158,
+    "forks": 159,
     "primaryLanguage": "Ruby",
     "pushedAt": "2024-12-04T06:33:21.000Z",
     "archived": false,
@@ -28644,7 +28644,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2022-05-23T07:29:19.000Z",
-    "updatedAt": "2024-12-30T04:59:47.000Z"
+    "updatedAt": "2025-01-04T12:05:13.000Z"
   },
   {
     "id": "exyte/ConcentricOnboarding",
@@ -43581,7 +43581,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-12-01T03:59:46.000Z",
-    "updatedAt": "2024-12-30T04:59:57.000Z"
+    "updatedAt": "2025-01-04T12:05:23.000Z"
   },
   {
     "id": "mukeshthawani/TriLabelView",
@@ -52420,7 +52420,7 @@
     "stars": 38,
     "starsDetail": null,
     "license": "MIT License",
-    "forks": 16,
+    "forks": 14,
     "primaryLanguage": "Objective-C",
     "pushedAt": "2020-04-07T18:51:33.000Z",
     "archived": false,
@@ -52429,7 +52429,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-03-31T19:10:54.000Z",
-    "updatedAt": "2024-12-30T04:59:54.000Z"
+    "updatedAt": "2025-01-04T12:05:21.000Z"
   },
   {
     "id": "sgr-ksmt/Alertift",
@@ -52952,7 +52952,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-04-11T20:52:23.000Z",
-    "updatedAt": "2024-12-30T04:59:46.000Z"
+    "updatedAt": "2025-01-04T12:05:12.000Z"
   },
   {
     "id": "shu223/PulsingHalo",
@@ -54756,7 +54756,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-07-14T13:20:19.000Z",
-    "updatedAt": "2024-12-30T05:00:05.000Z"
+    "updatedAt": "2025-01-04T12:05:31.000Z"
   },
   {
     "id": "suzuki-0000/AnimatablePlayButton",

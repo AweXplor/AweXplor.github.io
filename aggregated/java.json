@@ -1726,7 +1726,7 @@
       "name": "OryxProject",
       "avatarUrl": "https://avatars.githubusercontent.com/u/8270649?v=4"
     },
-    "stars": 1784,
+    "stars": 1783,
     "starsDetail": null,
     "license": "Apache License 2.0",
     "forks": 404,
@@ -1738,7 +1738,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2014-07-25T20:08:44.000Z",
-    "updatedAt": "2024-12-28T12:32:28.000Z"
+    "updatedAt": "2025-01-04T12:12:41.000Z"
   },
   {
     "id": "Password4j/password4j",
@@ -10176,19 +10176,19 @@
       "name": "svix",
       "avatarUrl": "https://avatars.githubusercontent.com/u/80175132?v=4"
     },
-    "stars": 2348,
+    "stars": 2475,
     "starsDetail": null,
     "license": "MIT License",
-    "forks": 163,
+    "forks": 171,
     "primaryLanguage": "HTML",
-    "pushedAt": "2024-10-18T13:49:41.000Z",
+    "pushedAt": "2025-01-04T01:25:51.000Z",
     "archived": false,
     "npmPackage": "",
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2021-02-25T13:49:38.000Z",
-    "updatedAt": "2024-10-19T06:56:24.000Z"
+    "updatedAt": "2025-01-04T12:22:05.000Z"
   },
   {
     "id": "ta4j/ta4j",

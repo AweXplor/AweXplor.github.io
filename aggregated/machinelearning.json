@@ -4242,7 +4242,7 @@
       "name": "VowpalWabbit",
       "avatarUrl": "https://avatars.githubusercontent.com/u/43754238?v=4"
     },
-    "stars": 8503,
+    "stars": 8506,
     "starsDetail": null,
     "license": "Other",
     "forks": 1923,
@@ -4254,7 +4254,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2009-07-31T19:36:58.000Z",
-    "updatedAt": "2024-12-30T11:12:20.000Z"
+    "updatedAt": "2025-01-04T12:02:13.000Z"
   },
   {
     "id": "Western-OC2-Lab/AutoML-Implementation-for-Static-and-Dynamic-Data-Analytics",
@@ -7265,19 +7265,19 @@
       "name": "comet-ml",
       "avatarUrl": "https://avatars.githubusercontent.com/u/31487821?v=4"
     },
-    "stars": 3805,
+    "stars": 3970,
     "starsDetail": null,
     "license": "Apache License 2.0",
-    "forks": 214,
+    "forks": 229,
     "primaryLanguage": "Makefile",
-    "pushedAt": "2024-12-27T18:11:05.000Z",
+    "pushedAt": "2025-01-03T16:48:26.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2023-05-10T12:57:13.000Z",
-    "updatedAt": "2024-12-28T12:32:52.000Z"
+    "updatedAt": "2025-01-04T12:13:01.000Z"
   },
   {
     "id": "compressed/BackpropNeuralNet.jl",
@@ -9736,10 +9736,10 @@
       "name": "go-gota",
       "avatarUrl": "https://avatars.githubusercontent.com/u/47326457?v=4"
     },
-    "stars": 3081,
+    "stars": 3095,
     "starsDetail": null,
     "license": "Other",
-    "forks": 281,
+    "forks": 284,
     "primaryLanguage": "Go",
     "pushedAt": "2023-08-09T06:59:36.000Z",
     "archived": false,
@@ -9748,7 +9748,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-02-06T17:23:25.000Z",
-    "updatedAt": "2024-11-20T03:57:34.000Z"
+    "updatedAt": "2025-01-04T12:35:24.000Z"
   },
   {
     "id": "golang/geo",
@@ -13464,10 +13464,11 @@
   {
     "id": "milvus-io/milvus",
     "name": "milvus-io/milvus",
-    "description": "A cloud-native vector database, storage for next generation AI applications",
+    "description": "Milvus is a high-performance, cloud-native vector database designed to scale vector search.",
     "topics": [
       "anns",
       "cloud-native",
+      "diskann",
       "distributed",
       "embedding-database",
       "embedding-similarity",
@@ -13478,7 +13479,7 @@
       "image-search",
       "llm",
       "nearest-neighbor-search",
-      "tensor-database",
+      "rag",
       "vector-database",
       "vector-search",
       "vector-similarity",
@@ -13488,19 +13489,19 @@
       "name": "milvus-io",
       "avatarUrl": "https://avatars.githubusercontent.com/u/51735404?v=4"
     },
-    "stars": 30008,
+    "stars": 31635,
     "starsDetail": null,
     "license": "Apache License 2.0",
-    "forks": 2878,
-    "primaryLanguage": "Batchfile",
-    "pushedAt": "2024-10-18T10:13:26.000Z",
+    "forks": 2988,
+    "primaryLanguage": "Assembly",
+    "pushedAt": "2025-01-03T17:16:55.000Z",
     "archived": false,
     "npmPackage": "",
     "npmLastMonthDownloads": null,
     "goPackage": "github.com/milvus-io/milvus",
     "goImportedBy": 0,
     "createdAt": "2019-09-16T06:43:43.000Z",
-    "updatedAt": "2024-10-19T06:57:07.000Z"
+    "updatedAt": "2025-01-04T12:38:14.000Z"
   },
   {
     "id": "mindsdb/lightwood",
@@ -15087,19 +15088,19 @@
       "name": "opencv",
       "avatarUrl": "https://avatars.githubusercontent.com/u/5009934?v=4"
     },
-    "stars": 79846,
+    "stars": 79919,
     "starsDetail": null,
     "license": "Apache License 2.0",
-    "forks": 55902,
+    "forks": 55907,
     "primaryLanguage": "Dockerfile",
-    "pushedAt": "2024-12-29T15:10:03.000Z",
+    "pushedAt": "2025-01-03T14:55:03.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2012-07-19T09:40:17.000Z",
-    "updatedAt": "2024-12-30T04:59:27.000Z"
+    "updatedAt": "2025-01-04T12:04:53.000Z"
   },
   {
     "id": "opendilab/DI-engine",
@@ -15947,7 +15948,7 @@
       "name": "pymc-devs",
       "avatarUrl": "https://avatars.githubusercontent.com/u/81121?v=4"
     },
-    "stars": 8805,
+    "stars": 8811,
     "starsDetail": null,
     "license": "Other",
     "forks": 2037,
@@ -15959,7 +15960,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2009-05-05T09:43:50.000Z",
-    "updatedAt": "2024-12-30T11:12:28.000Z"
+    "updatedAt": "2025-01-04T12:02:20.000Z"
   },
   {
     "id": "pyqtgraph/pyqtgraph",

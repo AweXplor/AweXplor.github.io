@@ -695,10 +695,10 @@
       "name": "DopplerHQ",
       "avatarUrl": "https://avatars.githubusercontent.com/u/34022344?v=4"
     },
-    "stars": 72208,
+    "stars": 72294,
     "starsDetail": null,
     "license": null,
-    "forks": 8923,
+    "forks": 8930,
     "primaryLanguage": "",
     "pushedAt": "2024-07-29T14:21:23.000Z",
     "archived": true,
@@ -707,7 +707,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-11-28T09:48:17.000Z",
-    "updatedAt": "2024-12-30T04:59:45.000Z"
+    "updatedAt": "2025-01-04T12:21:40.000Z"
   },
   {
     "id": "Dvergar/awesome-haxe-gamedev",
@@ -760,19 +760,19 @@
       "name": "EbookFoundation",
       "avatarUrl": "https://avatars.githubusercontent.com/u/14127308?v=4"
     },
-    "stars": 343323,
+    "stars": 345931,
     "starsDetail": null,
     "license": "Creative Commons Attribution 4.0 International",
-    "forks": 62169,
+    "forks": 62363,
     "primaryLanguage": "HTML",
-    "pushedAt": "2024-12-24T20:21:26.000Z",
+    "pushedAt": "2025-01-03T18:27:26.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2013-10-11T06:50:37.000Z",
-    "updatedAt": "2024-12-30T04:59:44.000Z"
+    "updatedAt": "2025-01-04T12:05:11.000Z"
   },
   {
     "id": "Famolus/awesome-sass",
@@ -3039,19 +3039,19 @@
       "name": "analysis-tools-dev",
       "avatarUrl": "https://avatars.githubusercontent.com/u/62759712?v=4"
     },
-    "stars": 13462,
+    "stars": 13470,
     "starsDetail": null,
     "license": "MIT License",
-    "forks": 1362,
+    "forks": 1365,
     "primaryLanguage": "Makefile",
-    "pushedAt": "2024-12-23T11:33:45.000Z",
+    "pushedAt": "2024-12-30T12:03:27.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-12-18T16:58:30.000Z",
-    "updatedAt": "2024-12-30T11:12:05.000Z"
+    "updatedAt": "2025-01-04T12:01:59.000Z"
   },
   {
     "id": "analyticalmonk/awesome-neuroscience",
@@ -3533,10 +3533,10 @@
       "name": "awesome-css-group",
       "avatarUrl": "https://avatars.githubusercontent.com/u/38369791?v=4"
     },
-    "stars": 5106,
+    "stars": 5116,
     "starsDetail": null,
     "license": "Creative Commons Attribution Share Alike 4.0 International",
-    "forks": 424,
+    "forks": 423,
     "primaryLanguage": "",
     "pushedAt": "2024-10-30T07:00:24.000Z",
     "archived": false,
@@ -3545,7 +3545,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-01-31T10:04:29.000Z",
-    "updatedAt": "2024-12-21T05:28:00.000Z"
+    "updatedAt": "2025-01-04T12:21:38.000Z"
   },
   {
     "id": "awesome-spark/awesome-spark",
@@ -4464,7 +4464,7 @@
       "name": "cicdops",
       "avatarUrl": "https://avatars.githubusercontent.com/u/11013015?v=4"
     },
-    "stars": 1892,
+    "stars": 1893,
     "starsDetail": null,
     "license": "GNU General Public License v2.0",
     "forks": 207,
@@ -4476,7 +4476,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2014-11-23T04:36:38.000Z",
-    "updatedAt": "2024-12-30T04:58:59.000Z"
+    "updatedAt": "2025-01-04T12:04:27.000Z"
   },
   {
     "id": "cjbarber/ToolsOfTheTrade",
@@ -8458,7 +8458,7 @@
       "name": "inputsh",
       "avatarUrl": "https://avatars.githubusercontent.com/u/4890548?v=4"
     },
-    "stars": 3511,
+    "stars": 3516,
     "starsDetail": null,
     "license": "Other",
     "forks": 358,
@@ -8470,7 +8470,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-05-31T01:56:17.000Z",
-    "updatedAt": "2024-12-30T04:59:44.000Z"
+    "updatedAt": "2025-01-04T12:05:10.000Z"
   },
   {
     "id": "inputsh/awesome-linux",
@@ -9263,10 +9263,10 @@
       "name": "jorgebucaran",
       "avatarUrl": "https://avatars.githubusercontent.com/u/56996?v=4"
     },
-    "stars": 4261,
+    "stars": 4278,
     "starsDetail": null,
     "license": "Creative Commons Zero v1.0 Universal",
-    "forks": 129,
+    "forks": 132,
     "primaryLanguage": "",
     "pushedAt": "2024-08-02T22:19:52.000Z",
     "archived": false,
@@ -9275,7 +9275,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-10-13T08:37:26.000Z",
-    "updatedAt": "2024-12-28T12:31:32.000Z"
+    "updatedAt": "2025-01-04T12:11:51.000Z"
   },
   {
     "id": "jthegedus/awesome-firebase",
@@ -13022,7 +13022,7 @@
       "name": "petk",
       "avatarUrl": "https://avatars.githubusercontent.com/u/1614009?v=4"
     },
-    "stars": 89,
+    "stars": 90,
     "starsDetail": null,
     "license": null,
     "forks": 16,
@@ -13034,7 +13034,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2014-10-22T11:11:18.000Z",
-    "updatedAt": "2024-12-21T05:28:00.000Z"
+    "updatedAt": "2025-01-04T12:21:38.000Z"
   },
   {
     "id": "petk/awesome-jquery",
@@ -13050,7 +13050,7 @@
       "name": "petk",
       "avatarUrl": "https://avatars.githubusercontent.com/u/1614009?v=4"
     },
-    "stars": 938,
+    "stars": 942,
     "starsDetail": null,
     "license": null,
     "forks": 143,
@@ -13062,7 +13062,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2014-10-30T08:06:08.000Z",
-    "updatedAt": "2024-12-21T05:28:01.000Z"
+    "updatedAt": "2025-01-04T12:21:40.000Z"
   },
   {
     "id": "phalcon/awesome-phalcon",

@@ -3577,7 +3577,7 @@
       "name": "jonataslaw",
       "avatarUrl": "https://avatars.githubusercontent.com/u/35742643?v=4"
     },
-    "stars": 10506,
+    "stars": 10521,
     "starsDetail": null,
     "license": "MIT License",
     "forks": 1641,
@@ -3589,7 +3589,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-11-14T01:16:25.000Z",
-    "updatedAt": "2024-12-30T11:12:52.000Z"
+    "updatedAt": "2025-01-04T12:02:42.000Z"
   },
   {
     "id": "jpnurmi/awesome-flutter-linux",
@@ -4811,19 +4811,19 @@
       "name": "simolus3",
       "avatarUrl": "https://avatars.githubusercontent.com/u/5738860?v=4"
     },
-    "stars": 2713,
+    "stars": 2725,
     "starsDetail": null,
     "license": "MIT License",
-    "forks": 377,
+    "forks": 378,
     "primaryLanguage": "Objective-C",
-    "pushedAt": "2024-12-29T20:59:13.000Z",
+    "pushedAt": "2025-01-02T22:47:55.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-02-03T12:42:56.000Z",
-    "updatedAt": "2024-12-30T11:13:14.000Z"
+    "updatedAt": "2025-01-04T12:03:00.000Z"
   },
   {
     "id": "skkallayath/photofilters",
