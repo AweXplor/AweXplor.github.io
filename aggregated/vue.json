@@ -5405,7 +5405,7 @@
       "name": "ecomfe",
       "avatarUrl": "https://avatars.githubusercontent.com/u/2268460?v=4"
     },
-    "stars": 9846,
+    "stars": 9847,
     "starsDetail": null,
     "license": "MIT License",
     "forks": 1491,
@@ -5417,7 +5417,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-06-17T09:55:24.000Z",
-    "updatedAt": "2024-12-30T08:08:10.000Z"
+    "updatedAt": "2024-12-30T11:13:53.000Z"
   },
   {
     "id": "ecosia/vue-safe-html",
@@ -9198,7 +9198,7 @@
       "name": "nativescript-vue",
       "avatarUrl": "https://avatars.githubusercontent.com/u/32681046?v=4"
     },
-    "stars": 5410,
+    "stars": 5411,
     "starsDetail": null,
     "license": "MIT License",
     "forks": 243,
@@ -9210,7 +9210,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-04-17T23:49:17.000Z",
-    "updatedAt": "2024-12-30T08:07:44.000Z"
+    "updatedAt": "2024-12-30T11:13:28.000Z"
   },
   {
     "id": "naver/egjs-flicking",

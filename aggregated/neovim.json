@@ -3669,33 +3669,6 @@
     "updatedAt": "2024-11-20T03:28:25.000Z"
   },
   {
-    "id": "NvChad/nvim-colorizer.lua",
-    "name": "NvChad/nvim-colorizer.lua",
-    "description": "The fastest Neovim colorizer",
-    "topics": [
-      "colorizer",
-      "hacktoberfest",
-      "neovim"
-    ],
-    "owner": {
-      "name": "NvChad",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/88978340?v=4"
-    },
-    "stars": 736,
-    "starsDetail": null,
-    "license": "Other",
-    "forks": 47,
-    "primaryLanguage": "Sass",
-    "pushedAt": "2024-11-19T13:24:35.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2022-02-07T13:33:50.000Z",
-    "updatedAt": "2024-11-20T03:23:23.000Z"
-  },
-  {
     "id": "OXY2DEV/foldtext.nvim",
     "name": "OXY2DEV/foldtext.nvim",
     "description": "Dynamic & stylized foldtext for Neovim",

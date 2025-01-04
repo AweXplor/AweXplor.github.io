@@ -15220,14 +15220,14 @@
     "license": "MIT License",
     "forks": 996,
     "primaryLanguage": "HTML",
-    "pushedAt": "2024-09-13T15:08:36.000Z",
+    "pushedAt": "2024-12-30T09:49:04.000Z",
     "archived": false,
     "npmPackage": "vue-multiselect",
     "npmLastMonthDownloads": 958056,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-04-23T13:02:33.000Z",
-    "updatedAt": "2024-12-30T08:08:21.000Z"
+    "updatedAt": "2024-12-30T11:14:03.000Z"
   },
   {
     "id": "xojs/xo",

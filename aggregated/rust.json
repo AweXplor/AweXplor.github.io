@@ -212,6 +212,35 @@
     "updatedAt": "2024-12-19T05:29:52.000Z"
   },
   {
+    "id": "0xdea/rhabdomancer",
+    "name": "0xdea/rhabdomancer",
+    "description": "Vulnerability research assistant that locates all calls to potentially insecure API functions in a binary file.",
+    "topics": [
+      "ida-plugin",
+      "ida-pro",
+      "idalib",
+      "reverse-engineering",
+      "vulnerability-research"
+    ],
+    "owner": {
+      "name": "0xdea",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/30093440?v=4"
+    },
+    "stars": 12,
+    "starsDetail": null,
+    "license": "MIT License",
+    "forks": 4,
+    "primaryLanguage": "Rust",
+    "pushedAt": "2024-12-20T08:09:56.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2024-10-20T19:48:22.000Z",
+    "updatedAt": "2025-01-04T11:57:29.000Z"
+  },
+  {
     "id": "0xlane/pe-sign",
     "name": "0xlane/pe-sign",
     "description": "A cross-platform rust no-std library for verifying and extracting signature information from PE files.",
@@ -10224,40 +10253,6 @@
     "updatedAt": "2024-12-19T12:08:38.000Z"
   },
   {
-    "id": "dancixx/stochastic-rs",
-    "name": "dancixx/stochastic-rs",
-    "description": "stochastic-rs is a Rust library designed for high-performance simulation and analysis of stochastic processes and models in quant finance.",
-    "topics": [
-      "ai",
-      "finance",
-      "malliavin-calculus",
-      "quant",
-      "quantitative-finance",
-      "rust",
-      "simulation",
-      "statistics",
-      "stochastic",
-      "stochastic-processes"
-    ],
-    "owner": {
-      "name": "dancixx",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/56868953?v=4"
-    },
-    "stars": 29,
-    "starsDetail": null,
-    "license": null,
-    "forks": 3,
-    "primaryLanguage": "Rust",
-    "pushedAt": "2024-11-09T17:00:57.000Z",
-    "archived": false,
-    "npmPackage": "",
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2023-05-21T18:53:19.000Z",
-    "updatedAt": "2024-12-21T05:30:40.000Z"
-  },
-  {
     "id": "danclive/sincere",
     "name": "danclive/sincere",
     "description": "Sincere is a micro web framework for Rust(stable) based on hyper and multithreading",
@@ -11719,6 +11714,37 @@
     "goImportedBy": null,
     "createdAt": "2016-09-11T05:27:14.000Z",
     "updatedAt": "2024-12-21T05:32:05.000Z"
+  },
+  {
+    "id": "e257-fi/tackler-ng",
+    "name": "e257-fi/tackler-ng",
+    "description": "Fast, reliable bookkeeping engine with native GIT SCM support for plain text accounting",
+    "topics": [
+      "accounting",
+      "auditing",
+      "git",
+      "ledger",
+      "plaintext",
+      "plaintext-accounting",
+      "rust"
+    ],
+    "owner": {
+      "name": "e257-fi",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/49097672?v=4"
+    },
+    "stars": 58,
+    "starsDetail": null,
+    "license": "Apache License 2.0",
+    "forks": 2,
+    "primaryLanguage": "Python",
+    "pushedAt": "2025-01-03T22:25:29.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2023-04-07T06:30:04.000Z",
+    "updatedAt": "2025-01-04T11:57:29.000Z"
   },
   {
     "id": "eclipse-corrosion/corrosion",
@@ -13222,7 +13248,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-12-11T10:37:00.000Z",
-    "updatedAt": "2024-12-30T08:07:36.000Z"
+    "updatedAt": "2024-12-30T11:13:21.000Z"
   },
   {
     "id": "flxzt/rnote",
@@ -24203,6 +24229,40 @@
     "updatedAt": "2024-12-19T05:30:25.000Z"
   },
   {
+    "id": "plabayo/rama",
+    "name": "plabayo/rama",
+    "description": "modular service framework to move and transform network packets",
+    "topics": [
+      "http",
+      "https",
+      "mitm",
+      "network",
+      "network-programming",
+      "networking",
+      "proxy",
+      "rust",
+      "scraping",
+      "tls"
+    ],
+    "owner": {
+      "name": "plabayo",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/87996217?v=4"
+    },
+    "stars": 220,
+    "starsDetail": null,
+    "license": "Apache License 2.0",
+    "forks": 26,
+    "primaryLanguage": "Dockerfile",
+    "pushedAt": "2025-01-03T22:07:58.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2022-08-07T21:24:56.000Z",
+    "updatedAt": "2025-01-04T11:57:30.000Z"
+  },
+  {
     "id": "plotly/plotly.rs",
     "name": "plotly/plotly.rs",
     "description": "Plotly for Rust",
@@ -32182,6 +32242,35 @@
     "goImportedBy": null,
     "createdAt": "2017-04-28T21:17:12.000Z",
     "updatedAt": "2024-12-19T05:29:44.000Z"
+  },
+  {
+    "id": "tursodatabase/limbo",
+    "name": "tursodatabase/limbo",
+    "description": "Limbo is a work-in-progress, in-process OLTP database management system, compatible with SQLite.",
+    "topics": [
+      "database",
+      "embedded-database",
+      "sql",
+      "sqlite3",
+      "webassembly"
+    ],
+    "owner": {
+      "name": "tursodatabase",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/139391156?v=4"
+    },
+    "stars": 8290,
+    "starsDetail": null,
+    "license": "MIT License",
+    "forks": 273,
+    "primaryLanguage": "CMake",
+    "pushedAt": "2025-01-04T11:56:18.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2023-08-26T09:21:36.000Z",
+    "updatedAt": "2025-01-04T11:57:28.000Z"
   },
   {
     "id": "tversteeg/emplace",
