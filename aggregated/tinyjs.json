@@ -1,5 +1,177 @@
 [
   {
+    "id": "developit/mitt",
+    "name": "developit/mitt",
+    "description": "🥊 Tiny 200 byte functional event emitter / pubsub.",
+    "topics": [
+      "event",
+      "event-bus",
+      "event-handlers",
+      "event-listener",
+      "eventemitter",
+      "mitt",
+      "pubsub",
+      "tiny"
+    ],
+    "owner": {
+      "name": "developit",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/105127?v=4"
+    },
+    "stars": 10990,
+    "starsDetail": {
+      "total": 10990,
+      "week": 11,
+      "month": 92,
+      "year": 1196,
+      "updatedAt": 1736035963
+    },
+    "license": "MIT License",
+    "forks": 446,
+    "primaryLanguage": "TypeScript",
+    "pushedAt": "2024-08-14T08:58:20.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2017-01-15T01:10:50.000Z",
+    "updatedAt": "2025-01-04T15:21:41.000Z"
+  },
+  {
+    "id": "davidmerfield/randomColor",
+    "name": "davidmerfield/randomColor",
+    "description": "A tiny script for generating attractive colors",
+    "topics": [],
+    "owner": {
+      "name": "davidmerfield",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/747928?v=4"
+    },
+    "stars": 6099,
+    "starsDetail": {
+      "total": 6099,
+      "week": 2,
+      "month": 8,
+      "year": 110,
+      "updatedAt": 1736031292
+    },
+    "license": "Creative Commons Zero v1.0 Universal",
+    "forks": 403,
+    "primaryLanguage": "JavaScript",
+    "pushedAt": "2024-02-08T08:25:12.000Z",
+    "archived": false,
+    "npmPackage": "randomcolor",
+    "npmLastMonthDownloads": 517370,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2014-04-08T20:25:02.000Z",
+    "updatedAt": "2025-01-04T22:44:26.000Z"
+  },
+  {
+    "id": "marpple/FxTS",
+    "name": "marpple/FxTS",
+    "description": "A functional programming library for TypeScript/JavaScript",
+    "topics": [
+      "concurrency",
+      "fp",
+      "javascript",
+      "lazy",
+      "typescript"
+    ],
+    "owner": {
+      "name": "marpple",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/27278709?v=4"
+    },
+    "stars": 943,
+    "starsDetail": {
+      "total": 943,
+      "week": 2,
+      "month": 7,
+      "year": 274,
+      "updatedAt": 1736031263
+    },
+    "license": "Apache License 2.0",
+    "forks": 70,
+    "primaryLanguage": "Makefile",
+    "pushedAt": "2024-11-26T01:32:31.000Z",
+    "archived": false,
+    "npmPackage": "",
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2021-09-30T06:00:50.000Z",
+    "updatedAt": "2025-01-04T22:44:09.000Z"
+  },
+  {
+    "id": "selfrefactor/rambda",
+    "name": "selfrefactor/rambda",
+    "description": "Faster and smaller alternative to Ramda",
+    "topics": [
+      "fp",
+      "functional-programming",
+      "lodash",
+      "ramda",
+      "utils"
+    ],
+    "owner": {
+      "name": "selfrefactor",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/2149294?v=4"
+    },
+    "stars": 1670,
+    "starsDetail": {
+      "total": 1670,
+      "week": 2,
+      "month": 6,
+      "year": 139,
+      "updatedAt": 1736031263
+    },
+    "license": "MIT License",
+    "forks": 89,
+    "primaryLanguage": "Shell",
+    "pushedAt": "2025-01-04T13:04:46.000Z",
+    "archived": false,
+    "npmPackage": "rambda",
+    "npmLastMonthDownloads": 5933557,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2017-01-15T13:50:45.000Z",
+    "updatedAt": "2025-01-04T22:44:08.000Z"
+  },
+  {
+    "id": "lukeed/navaid",
+    "name": "lukeed/navaid",
+    "description": "A navigation aid (aka, router) for the browser in 850 bytes~!",
+    "topics": [
+      "browser",
+      "client-side",
+      "history",
+      "navigation",
+      "router"
+    ],
+    "owner": {
+      "name": "lukeed",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/5855893?v=4"
+    },
+    "stars": 786,
+    "starsDetail": {
+      "total": 786,
+      "week": 1,
+      "month": 5,
+      "year": 40,
+      "updatedAt": 1736031301
+    },
+    "license": "MIT License",
+    "forks": 25,
+    "primaryLanguage": "JavaScript",
+    "pushedAt": "2024-01-20T17:33:27.000Z",
+    "archived": false,
+    "npmPackage": "navaid",
+    "npmLastMonthDownloads": 519,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2018-06-21T08:16:56.000Z",
+    "updatedAt": "2025-01-04T22:44:32.000Z"
+  },
+  {
     "id": "olivernn/lunr.js",
     "name": "olivernn/lunr.js",
     "description": "A bit like Solr, but much smaller and not as bright",
@@ -13,7 +185,7 @@
       "name": "olivernn",
       "avatarUrl": "https://avatars.githubusercontent.com/u/35913?v=4"
     },
-    "stars": 8955,
+    "stars": 9009,
     "starsDetail": {
       "total": 8955,
       "week": 11,
@@ -22,7 +194,7 @@
       "updatedAt": 1729322524
     },
     "license": "MIT License",
-    "forks": 548,
+    "forks": 551,
     "primaryLanguage": "CSS",
     "pushedAt": "2024-07-31T11:57:09.000Z",
     "archived": false,
@@ -31,7 +203,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2011-06-23T20:53:57.000Z",
-    "updatedAt": "2024-10-19T07:22:04.000Z"
+    "updatedAt": "2025-01-04T14:49:41.000Z"
   },
   {
     "id": "ianstormtaylor/superstruct",
@@ -50,7 +222,7 @@
       "name": "ianstormtaylor",
       "avatarUrl": "https://avatars.githubusercontent.com/u/311752?v=4"
     },
-    "stars": 7043,
+    "stars": 7055,
     "starsDetail": {
       "total": 7004,
       "week": 8,
@@ -59,7 +231,7 @@
       "updatedAt": 1729329215
     },
     "license": "MIT License",
-    "forks": 224,
+    "forks": 223,
     "primaryLanguage": "JavaScript",
     "pushedAt": "2024-10-01T02:42:53.000Z",
     "archived": false,
@@ -68,7 +240,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-11-23T03:03:25.000Z",
-    "updatedAt": "2024-12-11T01:32:46.000Z"
+    "updatedAt": "2025-01-04T22:42:15.000Z"
   },
   {
     "id": "jashkenas/underscore",
@@ -79,7 +251,7 @@
       "name": "jashkenas",
       "avatarUrl": "https://avatars.githubusercontent.com/u/4732?v=4"
     },
-    "stars": 27323,
+    "stars": 27356,
     "starsDetail": {
       "total": 27323,
       "week": 9,
@@ -88,7 +260,7 @@
       "updatedAt": 1729322123
     },
     "license": "MIT License",
-    "forks": 5532,
+    "forks": 5520,
     "primaryLanguage": "HTML",
     "pushedAt": "2024-10-16T10:57:01.000Z",
     "archived": false,
@@ -97,7 +269,7 @@
     "goPackage": null,
     "goImportedBy": 0,
     "createdAt": "2009-10-25T18:31:06.000Z",
-    "updatedAt": "2024-10-19T07:15:23.000Z"
+    "updatedAt": "2025-01-04T14:47:56.000Z"
   },
   {
     "id": "vercel/ms",
@@ -130,7 +302,49 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2012-03-08T02:10:13.000Z",
-    "updatedAt": "2025-01-04T12:20:54.000Z"
+    "updatedAt": "2025-01-04T14:19:08.000Z"
+  },
+  {
+    "id": "elbywan/wretch",
+    "name": "elbywan/wretch",
+    "description": "A tiny wrapper built around fetch with an intuitive syntax. :candy:",
+    "topics": [
+      "ajax",
+      "fetch",
+      "formdata",
+      "http",
+      "http-client",
+      "http-request",
+      "javascript",
+      "json",
+      "nodejs",
+      "promise",
+      "request",
+      "typescript"
+    ],
+    "owner": {
+      "name": "elbywan",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/3428394?v=4"
+    },
+    "stars": 4874,
+    "starsDetail": {
+      "total": 4874,
+      "week": 5,
+      "month": 33,
+      "year": 611,
+      "updatedAt": 1736031313
+    },
+    "license": "MIT License",
+    "forks": 99,
+    "primaryLanguage": "Handlebars",
+    "pushedAt": "2024-12-11T07:49:34.000Z",
+    "archived": false,
+    "npmPackage": "wretch",
+    "npmLastMonthDownloads": 321557,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2017-09-13T18:27:25.000Z",
+    "updatedAt": "2025-01-04T22:44:38.000Z"
   },
   {
     "id": "angus-c/just",
@@ -150,7 +364,7 @@
       "name": "angus-c",
       "avatarUrl": "https://avatars.githubusercontent.com/u/604030?v=4"
     },
-    "stars": 6026,
+    "stars": 6081,
     "starsDetail": {
       "total": 6026,
       "week": 8,
@@ -159,7 +373,7 @@
       "updatedAt": 1729322582
     },
     "license": "MIT License",
-    "forks": 208,
+    "forks": 207,
     "primaryLanguage": "TypeScript",
     "pushedAt": "2024-02-11T12:23:37.000Z",
     "archived": false,
@@ -168,7 +382,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-06-26T02:04:54.000Z",
-    "updatedAt": "2024-10-19T07:23:02.000Z"
+    "updatedAt": "2025-01-04T14:50:37.000Z"
   },
   {
     "id": "NaturalNode/natural",
@@ -179,7 +393,7 @@
       "name": "NaturalNode",
       "avatarUrl": "https://avatars.githubusercontent.com/u/1005344?v=4"
     },
-    "stars": 10663,
+    "stars": 10678,
     "starsDetail": {
       "total": 10597,
       "week": 8,
@@ -188,7 +402,7 @@
       "updatedAt": 1729334126
     },
     "license": "MIT License",
-    "forks": 857,
+    "forks": 858,
     "primaryLanguage": "PEG.js",
     "pushedAt": "2024-08-09T12:01:09.000Z",
     "archived": false,
@@ -197,7 +411,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2011-05-07T02:35:16.000Z",
-    "updatedAt": "2024-12-11T01:33:53.000Z"
+    "updatedAt": "2025-01-04T22:42:56.000Z"
   },
   {
     "id": "imbrn/v8n",
@@ -212,7 +426,7 @@
       "name": "imbrn",
       "avatarUrl": "https://avatars.githubusercontent.com/u/1906977?v=4"
     },
-    "stars": 4172,
+    "stars": 4169,
     "starsDetail": {
       "total": 4172,
       "week": 0,
@@ -221,16 +435,16 @@
       "updatedAt": 1729322637
     },
     "license": "MIT License",
-    "forks": 110,
+    "forks": 111,
     "primaryLanguage": "Shell",
-    "pushedAt": "2024-09-17T13:17:16.000Z",
+    "pushedAt": "2025-01-01T14:55:40.000Z",
     "archived": false,
     "npmPackage": "v8n",
     "npmLastMonthDownloads": 374442,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-06-25T20:06:33.000Z",
-    "updatedAt": "2024-10-19T07:23:57.000Z"
+    "updatedAt": "2025-01-04T14:51:45.000Z"
   },
   {
     "id": "redom/redom",
@@ -248,7 +462,7 @@
       "name": "redom",
       "avatarUrl": "https://avatars.githubusercontent.com/u/21295422?v=4"
     },
-    "stars": 3422,
+    "stars": 3425,
     "starsDetail": {
       "total": 3422,
       "week": 1,
@@ -257,16 +471,16 @@
       "updatedAt": 1729322681
     },
     "license": "MIT License",
-    "forks": 127,
+    "forks": 129,
     "primaryLanguage": "JavaScript",
-    "pushedAt": "2024-07-04T13:48:03.000Z",
+    "pushedAt": "2025-01-03T13:03:19.000Z",
     "archived": false,
     "npmPackage": "redom",
     "npmLastMonthDownloads": 9049,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-08-28T17:32:43.000Z",
-    "updatedAt": "2024-10-19T07:24:41.000Z"
+    "updatedAt": "2025-01-04T14:52:43.000Z"
   },
   {
     "id": "ai/nanoid",
@@ -277,7 +491,7 @@
       "name": "ai",
       "avatarUrl": "https://avatars.githubusercontent.com/u/19343?v=4"
     },
-    "stars": 24515,
+    "stars": 24900,
     "starsDetail": {
       "total": 24515,
       "week": 28,
@@ -286,16 +500,16 @@
       "updatedAt": 1729322135
     },
     "license": "MIT License",
-    "forks": 788,
+    "forks": 801,
     "primaryLanguage": "HTML",
-    "pushedAt": "2024-08-28T21:31:00.000Z",
+    "pushedAt": "2024-12-09T11:32:02.000Z",
     "archived": false,
     "npmPackage": "nanoid",
     "npmLastMonthDownloads": 171791474,
     "goPackage": null,
     "goImportedBy": 0,
     "createdAt": "2017-08-05T05:24:35.000Z",
-    "updatedAt": "2024-10-19T07:15:35.000Z"
+    "updatedAt": "2025-01-04T14:48:02.000Z"
   },
   {
     "id": "jorgebucaran/hyperapp",
@@ -329,7 +543,44 @@
     "goPackage": null,
     "goImportedBy": 0,
     "createdAt": "2017-01-20T05:20:21.000Z",
-    "updatedAt": "2025-01-04T12:20:38.000Z"
+    "updatedAt": "2025-01-04T14:18:50.000Z"
+  },
+  {
+    "id": "hustcc/timeago.js",
+    "name": "hustcc/timeago.js",
+    "description": ":clock8: :hourglass: timeago.js is a tiny(2.0 kb) library used to format date with `*** time ago` statement.",
+    "topics": [
+      "date-format",
+      "datetime",
+      "i18n",
+      "multi-language",
+      "real-time",
+      "timeago",
+      "tiny"
+    ],
+    "owner": {
+      "name": "hustcc",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/7856674?v=4"
+    },
+    "stars": 5342,
+    "starsDetail": {
+      "total": 5342,
+      "week": 4,
+      "month": 14,
+      "year": 322,
+      "updatedAt": 1736031276
+    },
+    "license": "MIT License",
+    "forks": 411,
+    "primaryLanguage": "CSS",
+    "pushedAt": "2024-07-24T03:59:52.000Z",
+    "archived": false,
+    "npmPackage": "timeago.js",
+    "npmLastMonthDownloads": 1416323,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2016-06-23T02:06:23.000Z",
+    "updatedAt": "2025-01-04T22:44:15.000Z"
   },
   {
     "id": "AlloyTeam/AlloyFinger",
@@ -348,7 +599,7 @@
     "stars": 3431,
     "starsDetail": null,
     "license": "MIT License",
-    "forks": 540,
+    "forks": 542,
     "primaryLanguage": "HTML",
     "pushedAt": "2019-01-03T07:05:23.000Z",
     "archived": false,
@@ -357,7 +608,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-05-25T23:17:03.000Z",
-    "updatedAt": "2024-11-20T03:56:39.000Z"
+    "updatedAt": "2025-01-04T16:21:47.000Z"
   },
   {
     "id": "Glench/fuzzyset.js",
@@ -368,7 +619,7 @@
       "name": "Glench",
       "avatarUrl": "https://avatars.githubusercontent.com/u/451461?v=4"
     },
-    "stars": 1369,
+    "stars": 1372,
     "starsDetail": null,
     "license": "Other",
     "forks": 105,
@@ -380,7 +631,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2012-12-27T02:07:33.000Z",
-    "updatedAt": "2024-11-20T03:56:47.000Z"
+    "updatedAt": "2025-01-04T16:21:54.000Z"
   },
   {
     "id": "GoogleChromeLabs/pointer-tracker",
@@ -391,7 +642,7 @@
       "name": "GoogleChromeLabs",
       "avatarUrl": "https://avatars.githubusercontent.com/u/31970254?v=4"
     },
-    "stars": 185,
+    "stars": 186,
     "starsDetail": null,
     "license": "Apache License 2.0",
     "forks": 24,
@@ -403,7 +654,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-10-10T18:16:47.000Z",
-    "updatedAt": "2024-11-20T03:56:40.000Z"
+    "updatedAt": "2025-01-04T16:21:48.000Z"
   },
   {
     "id": "MihaiValentin/lunr-languages",
@@ -421,7 +672,7 @@
       "name": "MihaiValentin",
       "avatarUrl": "https://avatars.githubusercontent.com/u/3695685?v=4"
     },
-    "stars": 431,
+    "stars": 434,
     "starsDetail": null,
     "license": "Other",
     "forks": 163,
@@ -433,7 +684,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2014-04-20T15:41:13.000Z",
-    "updatedAt": "2024-11-20T03:56:45.000Z"
+    "updatedAt": "2025-01-04T16:21:52.000Z"
   },
   {
     "id": "WebReflection/usignal",
@@ -444,7 +695,7 @@
       "name": "WebReflection",
       "avatarUrl": "https://avatars.githubusercontent.com/u/85749?v=4"
     },
-    "stars": 221,
+    "stars": 225,
     "starsDetail": null,
     "license": "ISC License",
     "forks": 15,
@@ -456,7 +707,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2022-09-09T07:37:44.000Z",
-    "updatedAt": "2024-11-20T03:56:26.000Z"
+    "updatedAt": "2025-01-04T16:21:35.000Z"
   },
   {
     "id": "ai/nanoevents",
@@ -467,19 +718,19 @@
       "name": "ai",
       "avatarUrl": "https://avatars.githubusercontent.com/u/19343?v=4"
     },
-    "stars": 1489,
+    "stars": 1504,
     "starsDetail": null,
     "license": "MIT License",
-    "forks": 48,
+    "forks": 47,
     "primaryLanguage": "JavaScript",
-    "pushedAt": "2024-11-15T21:48:57.000Z",
+    "pushedAt": "2024-12-10T07:00:27.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-09-20T05:47:44.000Z",
-    "updatedAt": "2024-11-20T03:56:23.000Z"
+    "updatedAt": "2025-01-04T16:21:32.000Z"
   },
   {
     "id": "antonioru/deep-waters",
@@ -499,7 +750,7 @@
       "name": "antonioru",
       "avatarUrl": "https://avatars.githubusercontent.com/u/6342784?v=4"
     },
-    "stars": 200,
+    "stars": 201,
     "starsDetail": null,
     "license": "MIT License",
     "forks": 9,
@@ -511,7 +762,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2020-04-25T14:46:54.000Z",
-    "updatedAt": "2024-11-20T03:56:36.000Z"
+    "updatedAt": "2025-01-04T16:21:44.000Z"
   },
   {
     "id": "any86/any-touch",
@@ -540,7 +791,7 @@
       "name": "any86",
       "avatarUrl": "https://avatars.githubusercontent.com/u/8264787?v=4"
     },
-    "stars": 1230,
+    "stars": 1234,
     "starsDetail": null,
     "license": "MIT License",
     "forks": 122,
@@ -552,7 +803,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-08-29T06:34:52.000Z",
-    "updatedAt": "2024-11-20T03:56:41.000Z"
+    "updatedAt": "2025-01-04T16:21:48.000Z"
   },
   {
     "id": "aweary/tinytime",
@@ -567,10 +818,10 @@
       "name": "aweary",
       "avatarUrl": "https://avatars.githubusercontent.com/u/6886061?v=4"
     },
-    "stars": 1338,
+    "stars": 1337,
     "starsDetail": null,
     "license": "MIT License",
-    "forks": 38,
+    "forks": 37,
     "primaryLanguage": "Makefile",
     "pushedAt": "2023-01-12T05:12:08.000Z",
     "archived": false,
@@ -579,7 +830,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-01-19T23:37:50.000Z",
-    "updatedAt": "2024-11-20T03:56:33.000Z"
+    "updatedAt": "2025-01-04T16:21:41.000Z"
   },
   {
     "id": "bevacqua/fuzzysearch",
@@ -590,7 +841,7 @@
       "name": "bevacqua",
       "avatarUrl": "https://avatars.githubusercontent.com/u/934293?v=4"
     },
-    "stars": 2713,
+    "stars": 2717,
     "starsDetail": null,
     "license": "MIT License",
     "forks": 87,
@@ -602,7 +853,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-03-03T19:52:53.000Z",
-    "updatedAt": "2024-11-20T03:56:46.000Z"
+    "updatedAt": "2025-01-04T16:21:53.000Z"
   },
   {
     "id": "bvaughn/js-search",
@@ -618,7 +869,7 @@
       "name": "bvaughn",
       "avatarUrl": "https://avatars.githubusercontent.com/u/29597?v=4"
     },
-    "stars": 2209,
+    "stars": 2217,
     "starsDetail": null,
     "license": "MIT License",
     "forks": 113,
@@ -630,7 +881,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-07-31T00:37:40.000Z",
-    "updatedAt": "2024-11-20T03:56:41.000Z"
+    "updatedAt": "2025-01-04T16:21:49.000Z"
   },
   {
     "id": "cdonohue/polychrome",
@@ -661,7 +912,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-03-21T14:06:26.000Z",
-    "updatedAt": "2024-11-20T03:56:39.000Z"
+    "updatedAt": "2025-01-04T16:21:46.000Z"
   },
   {
     "id": "date-fns/date-fns",
@@ -681,12 +932,12 @@
       "name": "date-fns",
       "avatarUrl": "https://avatars.githubusercontent.com/u/14921202?v=4"
     },
-    "stars": 35005,
+    "stars": 35097,
     "starsDetail": {
-      "total": 34679
+      "total": 35097
     },
     "license": "MIT License",
-    "forks": 1798,
+    "forks": 1799,
     "primaryLanguage": "JavaScript",
     "pushedAt": "2024-09-23T08:07:29.000Z",
     "archived": false,
@@ -695,62 +946,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2014-10-06T10:24:22.000Z",
-    "updatedAt": "2024-12-11T01:36:08.000Z"
-  },
-  {
-    "id": "davidmerfield/randomColor",
-    "name": "davidmerfield/randomColor",
-    "description": "A tiny script for generating attractive colors",
-    "topics": [],
-    "owner": {
-      "name": "davidmerfield",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/747928?v=4"
-    },
-    "stars": 6099,
-    "starsDetail": null,
-    "license": "Creative Commons Zero v1.0 Universal",
-    "forks": 402,
-    "primaryLanguage": "JavaScript",
-    "pushedAt": "2024-02-08T08:25:12.000Z",
-    "archived": false,
-    "npmPackage": "randomcolor",
-    "npmLastMonthDownloads": 517370,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2014-04-08T20:25:02.000Z",
-    "updatedAt": "2024-12-11T01:36:35.000Z"
-  },
-  {
-    "id": "developit/mitt",
-    "name": "developit/mitt",
-    "description": "🥊 Tiny 200 byte functional event emitter / pubsub.",
-    "topics": [
-      "event",
-      "event-bus",
-      "event-handlers",
-      "event-listener",
-      "eventemitter",
-      "mitt",
-      "pubsub",
-      "tiny"
-    ],
-    "owner": {
-      "name": "developit",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/105127?v=4"
-    },
-    "stars": 10856,
-    "starsDetail": null,
-    "license": "MIT License",
-    "forks": 440,
-    "primaryLanguage": "TypeScript",
-    "pushedAt": "2024-08-14T08:58:20.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2017-01-15T01:10:50.000Z",
-    "updatedAt": "2024-11-19T12:13:15.000Z"
+    "updatedAt": "2025-01-04T22:44:14.000Z"
   },
   {
     "id": "developit/redaxios",
@@ -761,7 +957,7 @@
       "name": "developit",
       "avatarUrl": "https://avatars.githubusercontent.com/u/105127?v=4"
     },
-    "stars": 4716,
+    "stars": 4736,
     "starsDetail": null,
     "license": "Apache License 2.0",
     "forks": 100,
@@ -773,7 +969,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-08-23T22:00:17.000Z",
-    "updatedAt": "2024-11-20T03:56:31.000Z"
+    "updatedAt": "2025-01-04T16:21:39.000Z"
   },
   {
     "id": "developit/unfetch",
@@ -792,10 +988,10 @@
       "name": "developit",
       "avatarUrl": "https://avatars.githubusercontent.com/u/105127?v=4"
     },
-    "stars": 5708,
+    "stars": 5710,
     "starsDetail": null,
     "license": "MIT License",
-    "forks": 201,
+    "forks": 202,
     "primaryLanguage": "TypeScript",
     "pushedAt": "2023-07-23T07:46:45.000Z",
     "archived": false,
@@ -804,7 +1000,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-02-22T05:59:42.000Z",
-    "updatedAt": "2024-11-20T03:56:32.000Z"
+    "updatedAt": "2025-01-04T16:21:40.000Z"
   },
   {
     "id": "developit/unistore",
@@ -822,7 +1018,7 @@
       "name": "developit",
       "avatarUrl": "https://avatars.githubusercontent.com/u/105127?v=4"
     },
-    "stars": 2858,
+    "stars": 2857,
     "starsDetail": null,
     "license": null,
     "forks": 139,
@@ -834,7 +1030,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-12-06T18:15:34.000Z",
-    "updatedAt": "2024-11-20T03:56:25.000Z"
+    "updatedAt": "2025-01-04T16:21:34.000Z"
   },
   {
     "id": "elbywan/hyperactiv",
@@ -852,7 +1048,7 @@
       "name": "elbywan",
       "avatarUrl": "https://avatars.githubusercontent.com/u/3428394?v=4"
     },
-    "stars": 439,
+    "stars": 440,
     "starsDetail": null,
     "license": "MIT License",
     "forks": 25,
@@ -864,43 +1060,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-12-31T15:13:10.000Z",
-    "updatedAt": "2024-11-20T03:56:27.000Z"
-  },
-  {
-    "id": "elbywan/wretch",
-    "name": "elbywan/wretch",
-    "description": "A tiny wrapper built around fetch with an intuitive syntax. :candy:",
-    "topics": [
-      "ajax",
-      "fetch",
-      "formdata",
-      "http",
-      "http-client",
-      "http-request",
-      "javascript",
-      "json",
-      "nodejs",
-      "promise",
-      "request",
-      "typescript"
-    ],
-    "owner": {
-      "name": "elbywan",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/3428394?v=4"
-    },
-    "stars": 4852,
-    "starsDetail": null,
-    "license": "MIT License",
-    "forks": 98,
-    "primaryLanguage": "Handlebars",
-    "pushedAt": "2024-11-15T07:53:06.000Z",
-    "archived": false,
-    "npmPackage": "wretch",
-    "npmLastMonthDownloads": 321557,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2017-09-13T18:27:25.000Z",
-    "updatedAt": "2024-12-11T01:36:52.000Z"
+    "updatedAt": "2025-01-04T16:21:36.000Z"
   },
   {
     "id": "fabian-hiller/valibot",
@@ -908,7 +1068,6 @@
     "description": "The modular and type safe schema library for validating structural data 🤖",
     "topics": [
       "bundle-size",
-      "hacktoberfest",
       "modular",
       "parsing",
       "runtime",
@@ -921,19 +1080,19 @@
       "name": "fabian-hiller",
       "avatarUrl": "https://avatars.githubusercontent.com/u/35291865?v=4"
     },
-    "stars": 6303,
+    "stars": 6719,
     "starsDetail": null,
     "license": "MIT License",
-    "forks": 202,
+    "forks": 218,
     "primaryLanguage": "CSS",
-    "pushedAt": "2024-11-17T04:43:41.000Z",
+    "pushedAt": "2025-01-04T01:47:04.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2023-07-07T10:31:24.000Z",
-    "updatedAt": "2024-11-20T03:56:36.000Z"
+    "updatedAt": "2025-01-04T16:21:44.000Z"
   },
   {
     "id": "fabiospampinato/flimsy",
@@ -949,7 +1108,7 @@
       "name": "fabiospampinato",
       "avatarUrl": "https://avatars.githubusercontent.com/u/1812093?v=4"
     },
-    "stars": 187,
+    "stars": 189,
     "starsDetail": null,
     "license": "MIT License",
     "forks": 7,
@@ -961,7 +1120,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2022-08-13T14:18:30.000Z",
-    "updatedAt": "2024-11-20T03:56:27.000Z"
+    "updatedAt": "2025-01-04T16:21:35.000Z"
   },
   {
     "id": "fortnightlabs/snowball-js",
@@ -984,7 +1143,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2011-03-09T23:16:34.000Z",
-    "updatedAt": "2024-11-20T03:56:44.000Z"
+    "updatedAt": "2025-01-04T16:21:51.000Z"
   },
   {
     "id": "franciscop/umbrella",
@@ -995,7 +1154,7 @@
       "name": "franciscop",
       "avatarUrl": "https://avatars.githubusercontent.com/u/2801252?v=4"
     },
-    "stars": 2302,
+    "stars": 2303,
     "starsDetail": null,
     "license": "MIT License",
     "forks": 108,
@@ -1007,7 +1166,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2014-10-21T19:19:27.000Z",
-    "updatedAt": "2024-11-20T03:56:22.000Z"
+    "updatedAt": "2025-01-04T16:21:32.000Z"
   },
   {
     "id": "frejs/fre",
@@ -1031,7 +1190,7 @@
       "name": "frejs",
       "avatarUrl": "https://avatars.githubusercontent.com/u/58691454?v=4"
     },
-    "stars": 3715,
+    "stars": 3720,
     "starsDetail": null,
     "license": "MIT License",
     "forks": 350,
@@ -1043,7 +1202,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-07-28T06:46:46.000Z",
-    "updatedAt": "2024-11-20T03:56:20.000Z"
+    "updatedAt": "2025-01-04T16:21:30.000Z"
   },
   {
     "id": "fwextensions/quick-score",
@@ -1060,7 +1219,7 @@
       "name": "fwextensions",
       "avatarUrl": "https://avatars.githubusercontent.com/u/61631?v=4"
     },
-    "stars": 158,
+    "stars": 159,
     "starsDetail": null,
     "license": "MIT License",
     "forks": 6,
@@ -1072,7 +1231,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-07-14T21:40:29.000Z",
-    "updatedAt": "2024-11-20T03:56:47.000Z"
+    "updatedAt": "2025-01-04T16:21:54.000Z"
   },
   {
     "id": "hustcc/onfire.js",
@@ -1088,7 +1247,7 @@
       "name": "hustcc",
       "avatarUrl": "https://avatars.githubusercontent.com/u/7856674?v=4"
     },
-    "stars": 498,
+    "stars": 499,
     "starsDetail": null,
     "license": "MIT License",
     "forks": 109,
@@ -1100,38 +1259,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-07-15T07:10:34.000Z",
-    "updatedAt": "2024-11-20T03:56:23.000Z"
-  },
-  {
-    "id": "hustcc/timeago.js",
-    "name": "hustcc/timeago.js",
-    "description": ":clock8: :hourglass: timeago.js is a tiny(2.0 kb) library used to format date with `*** time ago` statement.",
-    "topics": [
-      "date-format",
-      "datetime",
-      "i18n",
-      "multi-language",
-      "real-time",
-      "timeago",
-      "tiny"
-    ],
-    "owner": {
-      "name": "hustcc",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/7856674?v=4"
-    },
-    "stars": 5331,
-    "starsDetail": null,
-    "license": "MIT License",
-    "forks": 411,
-    "primaryLanguage": "CSS",
-    "pushedAt": "2024-07-24T03:59:52.000Z",
-    "archived": false,
-    "npmPackage": "timeago.js",
-    "npmLastMonthDownloads": 1416323,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2016-06-23T02:06:23.000Z",
-    "updatedAt": "2024-12-11T01:36:12.000Z"
+    "updatedAt": "2025-01-04T16:21:32.000Z"
   },
   {
     "id": "iamkun/dayjs",
@@ -1149,21 +1277,21 @@
       "name": "iamkun",
       "avatarUrl": "https://avatars.githubusercontent.com/u/17680888?v=4"
     },
-    "stars": 47140,
+    "stars": 47232,
     "starsDetail": {
-      "total": 46843
+      "total": 47232
     },
     "license": "MIT License",
-    "forks": 2307,
+    "forks": 2312,
     "primaryLanguage": "JavaScript",
-    "pushedAt": "2024-11-20T10:56:33.000Z",
+    "pushedAt": "2024-12-20T05:15:21.000Z",
     "archived": false,
     "npmPackage": "dayjs",
     "npmLastMonthDownloads": 91999829,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-04-10T09:26:44.000Z",
-    "updatedAt": "2024-12-11T01:36:07.000Z"
+    "updatedAt": "2025-01-04T22:44:13.000Z"
   },
   {
     "id": "ibitcy/eo-locale",
@@ -1198,14 +1326,14 @@
     "license": "MIT License",
     "forks": 12,
     "primaryLanguage": "Shell",
-    "pushedAt": "2024-11-18T22:43:30.000Z",
+    "pushedAt": "2024-12-10T20:29:42.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-05-10T13:59:53.000Z",
-    "updatedAt": "2024-11-20T03:56:33.000Z"
+    "updatedAt": "2025-01-04T16:21:41.000Z"
   },
   {
     "id": "jedp/porter-stemmer",
@@ -1228,7 +1356,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2011-04-20T03:58:26.000Z",
-    "updatedAt": "2024-11-20T03:56:44.000Z"
+    "updatedAt": "2025-01-04T16:21:51.000Z"
   },
   {
     "id": "jhawthorn/fzy.js",
@@ -1244,7 +1372,7 @@
       "name": "jhawthorn",
       "avatarUrl": "https://avatars.githubusercontent.com/u/131752?v=4"
     },
-    "stars": 152,
+    "stars": 154,
     "starsDetail": null,
     "license": "MIT License",
     "forks": 10,
@@ -1256,7 +1384,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-11-04T00:34:12.000Z",
-    "updatedAt": "2024-11-20T03:56:45.000Z"
+    "updatedAt": "2025-01-04T16:21:53.000Z"
   },
   {
     "id": "jonschlinkert/time-stamp",
@@ -1293,7 +1421,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-05-01T09:01:49.000Z",
-    "updatedAt": "2024-11-20T03:56:34.000Z"
+    "updatedAt": "2025-01-04T16:21:43.000Z"
   },
   {
     "id": "jorgebucaran/superfine",
@@ -1309,7 +1437,7 @@
       "name": "jorgebucaran",
       "avatarUrl": "https://avatars.githubusercontent.com/u/56996?v=4"
     },
-    "stars": 1597,
+    "stars": 1596,
     "starsDetail": null,
     "license": "MIT License",
     "forks": 79,
@@ -1321,7 +1449,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-05-19T12:53:23.000Z",
-    "updatedAt": "2024-11-20T03:56:21.000Z"
+    "updatedAt": "2025-01-04T16:21:31.000Z"
   },
   {
     "id": "justin-schroeder/arrow-js",
@@ -1340,10 +1468,10 @@
       "name": "justin-schroeder",
       "avatarUrl": "https://avatars.githubusercontent.com/u/1950463?v=4"
     },
-    "stars": 2407,
+    "stars": 2429,
     "starsDetail": null,
     "license": "MIT License",
-    "forks": 49,
+    "forks": 50,
     "primaryLanguage": "JavaScript",
     "pushedAt": "2024-05-23T13:52:52.000Z",
     "archived": false,
@@ -1352,7 +1480,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2022-11-08T22:29:40.000Z",
-    "updatedAt": "2024-11-20T03:56:22.000Z"
+    "updatedAt": "2025-01-04T16:21:31.000Z"
   },
   {
     "id": "kbrsh/wade",
@@ -1375,7 +1503,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-05-21T01:53:54.000Z",
-    "updatedAt": "2024-11-20T03:56:42.000Z"
+    "updatedAt": "2025-01-04T16:21:50.000Z"
   },
   {
     "id": "lingui/js-lingui",
@@ -1399,19 +1527,19 @@
       "name": "lingui",
       "avatarUrl": "https://avatars.githubusercontent.com/u/11225539?v=4"
     },
-    "stars": 4621,
+    "stars": 4801,
     "starsDetail": null,
     "license": "MIT License",
-    "forks": 382,
+    "forks": 386,
     "primaryLanguage": "Shell",
-    "pushedAt": "2024-11-18T08:39:11.000Z",
+    "pushedAt": "2024-12-27T15:28:50.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-01-17T17:26:46.000Z",
-    "updatedAt": "2024-11-20T03:56:33.000Z"
+    "updatedAt": "2025-01-04T16:21:42.000Z"
   },
   {
     "id": "localvoid/ndx",
@@ -1428,7 +1556,7 @@
       "name": "localvoid",
       "avatarUrl": "https://avatars.githubusercontent.com/u/132045?v=4"
     },
-    "stars": 153,
+    "stars": 154,
     "starsDetail": null,
     "license": "MIT License",
     "forks": 11,
@@ -1440,7 +1568,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-10-21T11:13:53.000Z",
-    "updatedAt": "2024-11-20T03:56:42.000Z"
+    "updatedAt": "2025-01-04T16:21:50.000Z"
   },
   {
     "id": "lukeed/fromnow",
@@ -1451,7 +1579,7 @@
       "name": "lukeed",
       "avatarUrl": "https://avatars.githubusercontent.com/u/5855893?v=4"
     },
-    "stars": 190,
+    "stars": 191,
     "starsDetail": null,
     "license": null,
     "forks": 11,
@@ -1463,7 +1591,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2014-10-22T05:02:50.000Z",
-    "updatedAt": "2024-11-20T03:56:35.000Z"
+    "updatedAt": "2025-01-04T16:21:43.000Z"
   },
   {
     "id": "lukeed/hexoid",
@@ -1474,7 +1602,7 @@
       "name": "lukeed",
       "avatarUrl": "https://avatars.githubusercontent.com/u/5855893?v=4"
     },
-    "stars": 195,
+    "stars": 197,
     "starsDetail": null,
     "license": "MIT License",
     "forks": 6,
@@ -1486,7 +1614,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2020-03-03T09:32:39.000Z",
-    "updatedAt": "2024-11-20T03:56:37.000Z"
+    "updatedAt": "2025-01-04T16:21:46.000Z"
   },
   {
     "id": "lukeed/matchit",
@@ -1509,36 +1637,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-11-05T18:37:41.000Z",
-    "updatedAt": "2024-11-20T03:56:29.000Z"
-  },
-  {
-    "id": "lukeed/navaid",
-    "name": "lukeed/navaid",
-    "description": "A navigation aid (aka, router) for the browser in 850 bytes~!",
-    "topics": [
-      "browser",
-      "client-side",
-      "history",
-      "navigation",
-      "router"
-    ],
-    "owner": {
-      "name": "lukeed",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/5855893?v=4"
-    },
-    "stars": 783,
-    "starsDetail": null,
-    "license": "MIT License",
-    "forks": 25,
-    "primaryLanguage": "JavaScript",
-    "pushedAt": "2024-01-20T17:33:27.000Z",
-    "archived": false,
-    "npmPackage": "navaid",
-    "npmLastMonthDownloads": 519,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2018-06-21T08:16:56.000Z",
-    "updatedAt": "2024-12-11T01:36:43.000Z"
+    "updatedAt": "2025-01-04T16:21:38.000Z"
   },
   {
     "id": "lukeed/qss",
@@ -1549,7 +1648,7 @@
       "name": "lukeed",
       "avatarUrl": "https://avatars.githubusercontent.com/u/5855893?v=4"
     },
-    "stars": 445,
+    "stars": 449,
     "starsDetail": null,
     "license": "MIT License",
     "forks": 17,
@@ -1561,7 +1660,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-10-23T06:26:30.000Z",
-    "updatedAt": "2024-11-20T03:56:30.000Z"
+    "updatedAt": "2025-01-04T16:21:39.000Z"
   },
   {
     "id": "lukeed/regexparam",
@@ -1577,7 +1676,7 @@
       "name": "lukeed",
       "avatarUrl": "https://avatars.githubusercontent.com/u/5855893?v=4"
     },
-    "stars": 568,
+    "stars": 572,
     "starsDetail": null,
     "license": "MIT License",
     "forks": 23,
@@ -1589,7 +1688,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-04-08T21:02:42.000Z",
-    "updatedAt": "2024-11-20T03:56:30.000Z"
+    "updatedAt": "2025-01-04T16:21:38.000Z"
   },
   {
     "id": "lukeed/rosetta",
@@ -1600,7 +1699,7 @@
       "name": "lukeed",
       "avatarUrl": "https://avatars.githubusercontent.com/u/5855893?v=4"
     },
-    "stars": 790,
+    "stars": 792,
     "starsDetail": null,
     "license": "MIT License",
     "forks": 15,
@@ -1612,7 +1711,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2020-03-19T01:29:35.000Z",
-    "updatedAt": "2024-11-20T03:56:33.000Z"
+    "updatedAt": "2025-01-04T16:21:41.000Z"
   },
   {
     "id": "lukeed/tinydate",
@@ -1630,7 +1729,7 @@
       "name": "lukeed",
       "avatarUrl": "https://avatars.githubusercontent.com/u/5855893?v=4"
     },
-    "stars": 1066,
+    "stars": 1067,
     "starsDetail": null,
     "license": "MIT License",
     "forks": 16,
@@ -1642,7 +1741,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-05-02T01:09:25.000Z",
-    "updatedAt": "2024-11-20T03:56:34.000Z"
+    "updatedAt": "2025-01-04T16:21:42.000Z"
   },
   {
     "id": "lukeed/uid",
@@ -1653,7 +1752,7 @@
       "name": "lukeed",
       "avatarUrl": "https://avatars.githubusercontent.com/u/5855893?v=4"
     },
-    "stars": 655,
+    "stars": 659,
     "starsDetail": null,
     "license": "MIT License",
     "forks": 14,
@@ -1665,7 +1764,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2020-03-03T07:51:36.000Z",
-    "updatedAt": "2024-11-20T03:56:37.000Z"
+    "updatedAt": "2025-01-04T16:21:45.000Z"
   },
   {
     "id": "lukeed/uuid",
@@ -1676,7 +1775,7 @@
       "name": "lukeed",
       "avatarUrl": "https://avatars.githubusercontent.com/u/5855893?v=4"
     },
-    "stars": 397,
+    "stars": 399,
     "starsDetail": null,
     "license": "MIT License",
     "forks": 12,
@@ -1688,36 +1787,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2020-02-28T09:11:03.000Z",
-    "updatedAt": "2024-11-20T03:56:37.000Z"
-  },
-  {
-    "id": "marpple/FxTS",
-    "name": "marpple/FxTS",
-    "description": "A functional programming library for TypeScript/JavaScript",
-    "topics": [
-      "concurrency",
-      "fp",
-      "javascript",
-      "lazy",
-      "typescript"
-    ],
-    "owner": {
-      "name": "marpple",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/27278709?v=4"
-    },
-    "stars": 939,
-    "starsDetail": null,
-    "license": "Apache License 2.0",
-    "forks": 71,
-    "primaryLanguage": "Makefile",
-    "pushedAt": "2024-11-26T01:32:31.000Z",
-    "archived": false,
-    "npmPackage": "",
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2021-09-30T06:00:50.000Z",
-    "updatedAt": "2024-12-11T01:36:00.000Z"
+    "updatedAt": "2025-01-04T16:21:45.000Z"
   },
   {
     "id": "mattyork/fuzzy",
@@ -1728,7 +1798,7 @@
       "name": "mattyork",
       "avatarUrl": "https://avatars.githubusercontent.com/u/666259?v=4"
     },
-    "stars": 831,
+    "stars": 833,
     "starsDetail": null,
     "license": "MIT License",
     "forks": 86,
@@ -1740,7 +1810,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2012-07-15T08:31:52.000Z",
-    "updatedAt": "2024-11-20T03:56:45.000Z"
+    "updatedAt": "2025-01-04T16:21:52.000Z"
   },
   {
     "id": "molefrog/wouter",
@@ -1761,19 +1831,19 @@
       "name": "molefrog",
       "avatarUrl": "https://avatars.githubusercontent.com/u/671276?v=4"
     },
-    "stars": 6749,
+    "stars": 6859,
     "starsDetail": null,
     "license": "The Unlicense",
-    "forks": 155,
+    "forks": 156,
     "primaryLanguage": "JavaScript",
-    "pushedAt": "2024-09-27T07:59:28.000Z",
+    "pushedAt": "2024-12-20T10:23:19.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-04-09T17:36:41.000Z",
-    "updatedAt": "2024-11-20T03:56:29.000Z"
+    "updatedAt": "2025-01-04T16:21:37.000Z"
   },
   {
     "id": "nanostores/i18n",
@@ -1784,7 +1854,7 @@
       "name": "nanostores",
       "avatarUrl": "https://avatars.githubusercontent.com/u/85066968?v=4"
     },
-    "stars": 229,
+    "stars": 231,
     "starsDetail": null,
     "license": "MIT License",
     "forks": 12,
@@ -1796,7 +1866,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2021-10-24T01:19:45.000Z",
-    "updatedAt": "2024-11-20T03:56:32.000Z"
+    "updatedAt": "2025-01-04T16:21:40.000Z"
   },
   {
     "id": "nanostores/nanostores",
@@ -1807,10 +1877,10 @@
       "name": "nanostores",
       "avatarUrl": "https://avatars.githubusercontent.com/u/85066968?v=4"
     },
-    "stars": 5412,
+    "stars": 5660,
     "starsDetail": null,
     "license": "MIT License",
-    "forks": 109,
+    "forks": 110,
     "primaryLanguage": "JavaScript",
     "pushedAt": "2024-09-10T19:47:27.000Z",
     "archived": false,
@@ -1819,7 +1889,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2020-10-14T19:51:28.000Z",
-    "updatedAt": "2024-11-20T03:56:24.000Z"
+    "updatedAt": "2025-01-04T16:21:33.000Z"
   },
   {
     "id": "nanostores/router",
@@ -1830,7 +1900,7 @@
       "name": "nanostores",
       "avatarUrl": "https://avatars.githubusercontent.com/u/85066968?v=4"
     },
-    "stars": 246,
+    "stars": 248,
     "starsDetail": null,
     "license": "MIT License",
     "forks": 19,
@@ -1842,7 +1912,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2021-06-24T01:08:53.000Z",
-    "updatedAt": "2024-11-20T03:56:29.000Z"
+    "updatedAt": "2025-01-04T16:21:38.000Z"
   },
   {
     "id": "omgovich/colord",
@@ -1871,10 +1941,10 @@
       "name": "omgovich",
       "avatarUrl": "https://avatars.githubusercontent.com/u/206567?v=4"
     },
-    "stars": 1692,
+    "stars": 1706,
     "starsDetail": null,
     "license": "MIT License",
-    "forks": 51,
+    "forks": 54,
     "primaryLanguage": "JavaScript",
     "pushedAt": "2023-10-02T00:32:53.000Z",
     "archived": false,
@@ -1883,7 +1953,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2020-11-27T10:47:20.000Z",
-    "updatedAt": "2024-11-20T03:56:38.000Z"
+    "updatedAt": "2025-01-04T16:21:46.000Z"
   },
   {
     "id": "paldepind/flyd",
@@ -1894,7 +1964,7 @@
       "name": "paldepind",
       "avatarUrl": "https://avatars.githubusercontent.com/u/521604?v=4"
     },
-    "stars": 1563,
+    "stars": 1562,
     "starsDetail": null,
     "license": "MIT License",
     "forks": 84,
@@ -1906,7 +1976,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-02-25T21:50:16.000Z",
-    "updatedAt": "2024-11-20T03:56:28.000Z"
+    "updatedAt": "2025-01-04T16:21:37.000Z"
   },
   {
     "id": "pmndrs/zustand",
@@ -1925,19 +1995,19 @@
       "name": "pmndrs",
       "avatarUrl": "https://avatars.githubusercontent.com/u/45790596?v=4"
     },
-    "stars": 48066,
+    "stars": 49074,
     "starsDetail": null,
     "license": "MIT License",
-    "forks": 1487,
+    "forks": 1542,
     "primaryLanguage": "JavaScript",
-    "pushedAt": "2024-11-17T23:28:55.000Z",
+    "pushedAt": "2025-01-04T02:27:41.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-04-09T09:10:06.000Z",
-    "updatedAt": "2024-11-20T03:56:24.000Z"
+    "updatedAt": "2025-01-04T16:21:33.000Z"
   },
   {
     "id": "preactjs/preact",
@@ -1956,10 +2026,10 @@
       "name": "preactjs",
       "avatarUrl": "https://avatars.githubusercontent.com/u/26872990?v=4"
     },
-    "stars": 36997,
+    "stars": 36998,
     "starsDetail": null,
     "license": "MIT License",
-    "forks": 1958,
+    "forks": 1960,
     "primaryLanguage": "TypeScript",
     "pushedAt": "2024-12-31T19:31:31.000Z",
     "archived": false,
@@ -1968,7 +2038,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-09-11T02:40:18.000Z",
-    "updatedAt": "2025-01-04T12:20:38.000Z"
+    "updatedAt": "2025-01-04T14:18:50.000Z"
   },
   {
     "id": "preactjs/signals",
@@ -1985,19 +2055,19 @@
       "name": "preactjs",
       "avatarUrl": "https://avatars.githubusercontent.com/u/26872990?v=4"
     },
-    "stars": 3805,
+    "stars": 3868,
     "starsDetail": null,
     "license": "MIT License",
-    "forks": 93,
+    "forks": 98,
     "primaryLanguage": "Shell",
-    "pushedAt": "2024-11-19T17:32:16.000Z",
+    "pushedAt": "2025-01-02T09:14:22.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2022-08-08T21:29:28.000Z",
-    "updatedAt": "2024-11-20T03:56:26.000Z"
+    "updatedAt": "2025-01-04T16:21:35.000Z"
   },
   {
     "id": "rafgraph/detect-it",
@@ -2031,7 +2101,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-07-07T03:34:05.000Z",
-    "updatedAt": "2024-11-20T03:56:41.000Z"
+    "updatedAt": "2025-01-04T16:21:48.000Z"
   },
   {
     "id": "react-component/gesture",
@@ -2054,7 +2124,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-07-19T09:30:18.000Z",
-    "updatedAt": "2024-11-20T03:56:41.000Z"
+    "updatedAt": "2025-01-04T16:21:49.000Z"
   },
   {
     "id": "remeda/remeda",
@@ -2070,19 +2140,19 @@
       "name": "remeda",
       "avatarUrl": "https://avatars.githubusercontent.com/u/39049333?v=4"
     },
-    "stars": 4535,
+    "stars": 4651,
     "starsDetail": null,
     "license": "MIT License",
-    "forks": 139,
+    "forks": 141,
     "primaryLanguage": "JavaScript",
-    "pushedAt": "2024-11-17T08:13:38.000Z",
+    "pushedAt": "2025-01-04T14:28:05.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-05-07T08:56:53.000Z",
-    "updatedAt": "2024-11-20T03:56:35.000Z"
+    "updatedAt": "2025-01-04T16:21:43.000Z"
   },
   {
     "id": "rmm5t/liquidmetal",
@@ -2097,7 +2167,7 @@
       "name": "rmm5t",
       "avatarUrl": "https://avatars.githubusercontent.com/u/740?v=4"
     },
-    "stars": 295,
+    "stars": 296,
     "starsDetail": null,
     "license": "MIT License",
     "forks": 25,
@@ -2109,7 +2179,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2009-02-06T00:16:49.000Z",
-    "updatedAt": "2024-11-20T03:56:46.000Z"
+    "updatedAt": "2025-01-04T16:21:54.000Z"
   },
   {
     "id": "sciactive/tinygesture",
@@ -2134,7 +2204,7 @@
       "name": "sciactive",
       "avatarUrl": "https://avatars.githubusercontent.com/u/1653611?v=4"
     },
-    "stars": 210,
+    "stars": 211,
     "starsDetail": null,
     "license": "Apache License 2.0",
     "forks": 18,
@@ -2146,36 +2216,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-09-07T01:22:17.000Z",
-    "updatedAt": "2024-11-20T03:56:40.000Z"
-  },
-  {
-    "id": "selfrefactor/rambda",
-    "name": "selfrefactor/rambda",
-    "description": "Faster and smaller alternative to Ramda",
-    "topics": [
-      "fp",
-      "functional-programming",
-      "lodash",
-      "ramda",
-      "utils"
-    ],
-    "owner": {
-      "name": "selfrefactor",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/2149294?v=4"
-    },
-    "stars": 1665,
-    "starsDetail": null,
-    "license": "MIT License",
-    "forks": 89,
-    "primaryLanguage": "Shell",
-    "pushedAt": "2024-12-04T07:53:49.000Z",
-    "archived": false,
-    "npmPackage": "rambda",
-    "npmLastMonthDownloads": 5933557,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2017-01-15T13:50:45.000Z",
-    "updatedAt": "2024-12-11T01:35:59.000Z"
+    "updatedAt": "2025-01-04T16:21:47.000Z"
   },
   {
     "id": "staltz/callbag-basics",
@@ -2192,7 +2233,7 @@
       "name": "staltz",
       "avatarUrl": "https://avatars.githubusercontent.com/u/90512?v=4"
     },
-    "stars": 1650,
+    "stars": 1652,
     "starsDetail": null,
     "license": "MIT License",
     "forks": 43,
@@ -2204,7 +2245,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-01-29T10:58:59.000Z",
-    "updatedAt": "2024-11-20T03:56:28.000Z"
+    "updatedAt": "2025-01-04T16:21:37.000Z"
   },
   {
     "id": "stayradiated/colr",
@@ -2227,7 +2268,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2014-08-22T08:23:20.000Z",
-    "updatedAt": "2024-11-20T03:56:38.000Z"
+    "updatedAt": "2025-01-04T16:21:46.000Z"
   },
   {
     "id": "storeon/storeon",
@@ -2238,19 +2279,19 @@
       "name": "storeon",
       "avatarUrl": "https://avatars.githubusercontent.com/u/50117058?v=4"
     },
-    "stars": 1977,
+    "stars": 1978,
     "starsDetail": null,
     "license": "MIT License",
     "forks": 67,
     "primaryLanguage": "HTML",
-    "pushedAt": "2024-10-30T15:49:21.000Z",
+    "pushedAt": "2024-12-10T17:42:24.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-03-16T04:52:02.000Z",
-    "updatedAt": "2024-11-20T03:56:24.000Z"
+    "updatedAt": "2025-01-04T16:21:34.000Z"
   },
   {
     "id": "teafuljs/teaful",
@@ -2274,7 +2315,7 @@
       "name": "teafuljs",
       "avatarUrl": "https://avatars.githubusercontent.com/u/93487249?v=4"
     },
-    "stars": 713,
+    "stars": 714,
     "starsDetail": null,
     "license": "MIT License",
     "forks": 25,
@@ -2286,7 +2327,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2021-03-11T20:18:22.000Z",
-    "updatedAt": "2024-11-20T03:56:25.000Z"
+    "updatedAt": "2025-01-04T16:21:34.000Z"
   },
   {
     "id": "thesephist/libsearch",
@@ -2301,10 +2342,10 @@
       "name": "thesephist",
       "avatarUrl": "https://avatars.githubusercontent.com/u/5403917?v=4"
     },
-    "stars": 163,
+    "stars": 381,
     "starsDetail": null,
     "license": "MIT License",
-    "forks": 3,
+    "forks": 8,
     "primaryLanguage": "TypeScript",
     "pushedAt": "2022-07-21T21:47:04.000Z",
     "archived": false,
@@ -2313,7 +2354,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2022-05-29T09:01:29.000Z",
-    "updatedAt": "2024-11-20T03:56:43.000Z"
+    "updatedAt": "2025-01-04T16:21:50.000Z"
   },
   {
     "id": "thoughtspile/banditypes",
@@ -2330,19 +2371,19 @@
       "name": "thoughtspile",
       "avatarUrl": "https://avatars.githubusercontent.com/u/5262915?v=4"
     },
-    "stars": 168,
+    "stars": 171,
     "starsDetail": null,
     "license": "MIT License",
     "forks": 5,
     "primaryLanguage": "JavaScript",
-    "pushedAt": "2023-07-02T17:41:01.000Z",
+    "pushedAt": "2025-01-02T13:53:05.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2023-02-26T19:07:55.000Z",
-    "updatedAt": "2024-11-20T03:56:36.000Z"
+    "updatedAt": "2025-01-04T16:21:44.000Z"
   },
   {
     "id": "truework/gretchen",
@@ -2361,7 +2402,7 @@
       "name": "truework",
       "avatarUrl": "https://avatars.githubusercontent.com/u/31940585?v=4"
     },
-    "stars": 330,
+    "stars": 331,
     "starsDetail": null,
     "license": null,
     "forks": 5,
@@ -2373,7 +2414,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2020-01-17T22:07:51.000Z",
-    "updatedAt": "2024-11-20T03:56:31.000Z"
+    "updatedAt": "2025-01-04T16:21:40.000Z"
   },
   {
     "id": "vanjs-org/van",
@@ -2404,19 +2445,19 @@
       "name": "vanjs-org",
       "avatarUrl": "https://avatars.githubusercontent.com/u/132869025?v=4"
     },
-    "stars": 3892,
+    "stars": 3951,
     "starsDetail": null,
     "license": "MIT License",
-    "forks": 92,
+    "forks": 96,
     "primaryLanguage": "Shell",
-    "pushedAt": "2024-11-14T05:56:50.000Z",
+    "pushedAt": "2025-01-04T02:54:58.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2023-05-08T05:45:31.000Z",
-    "updatedAt": "2024-11-20T03:56:21.000Z"
+    "updatedAt": "2025-01-04T16:21:31.000Z"
   },
   {
     "id": "vobyjs/oby",
@@ -2432,7 +2473,7 @@
       "name": "vobyjs",
       "avatarUrl": "https://avatars.githubusercontent.com/u/105102203?v=4"
     },
-    "stars": 235,
+    "stars": 236,
     "starsDetail": null,
     "license": "MIT License",
     "forks": 8,
@@ -2444,7 +2485,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2021-11-05T17:30:13.000Z",
-    "updatedAt": "2024-11-20T03:56:28.000Z"
+    "updatedAt": "2025-01-04T16:21:36.000Z"
   },
   {
     "id": "words/stemmer",
@@ -2460,10 +2501,10 @@
       "name": "words",
       "avatarUrl": "https://avatars.githubusercontent.com/u/31626817?v=4"
     },
-    "stars": 129,
+    "stars": 131,
     "starsDetail": null,
     "license": "MIT License",
-    "forks": 10,
+    "forks": 8,
     "primaryLanguage": "JavaScript",
     "pushedAt": "2022-11-02T09:46:58.000Z",
     "archived": false,
@@ -2472,7 +2513,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2014-06-13T17:44:06.000Z",
-    "updatedAt": "2024-11-20T03:56:43.000Z"
+    "updatedAt": "2025-01-04T16:21:50.000Z"
   },
   {
     "id": "wouterrutgers/fuzzy-search",
@@ -2483,7 +2524,7 @@
       "name": "wouterrutgers",
       "avatarUrl": "https://avatars.githubusercontent.com/u/8761962?v=4"
     },
-    "stars": 224,
+    "stars": 226,
     "starsDetail": null,
     "license": "ISC License",
     "forks": 28,
@@ -2495,6 +2536,6 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-04-17T16:20:11.000Z",
-    "updatedAt": "2024-11-20T03:56:45.000Z"
+    "updatedAt": "2025-01-04T16:21:52.000Z"
   }
 ]

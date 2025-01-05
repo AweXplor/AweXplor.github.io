@@ -16,19 +16,19 @@
       "name": "00JCIV00",
       "avatarUrl": "https://avatars.githubusercontent.com/u/68087632?v=4"
     },
-    "stars": 110,
+    "stars": 116,
     "starsDetail": null,
     "license": "MIT License",
-    "forks": 5,
+    "forks": 6,
     "primaryLanguage": "Zig",
-    "pushedAt": "2024-10-23T15:18:49.000Z",
+    "pushedAt": "2024-12-24T17:53:24.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2023-05-02T23:42:13.000Z",
-    "updatedAt": "2024-11-20T03:55:54.000Z"
+    "updatedAt": "2025-01-04T16:21:10.000Z"
   },
   {
     "id": "ATTron/astroz",
@@ -70,7 +70,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-06-25T00:35:54.000Z",
-    "updatedAt": "2024-11-20T03:55:32.000Z"
+    "updatedAt": "2025-01-04T16:20:53.000Z"
   },
   {
     "id": "Akuli/curses-minesweeper",
@@ -81,7 +81,7 @@
       "name": "Akuli",
       "avatarUrl": "https://avatars.githubusercontent.com/u/18505570?v=4"
     },
-    "stars": 17,
+    "stars": 18,
     "starsDetail": null,
     "license": "MIT License",
     "forks": 2,
@@ -93,7 +93,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-03-15T19:25:31.000Z",
-    "updatedAt": "2024-11-20T03:55:12.000Z"
+    "updatedAt": "2025-01-04T16:20:37.000Z"
   },
   {
     "id": "AndreaOrru/zen",
@@ -109,19 +109,19 @@
       "name": "AndreaOrru",
       "avatarUrl": "https://avatars.githubusercontent.com/u/3673952?v=4"
     },
-    "stars": 443,
+    "stars": 455,
     "starsDetail": null,
     "license": "BSD 3-Clause \"New\" or \"Revised\" License",
     "forks": 27,
     "primaryLanguage": "GDB",
-    "pushedAt": "2024-04-26T16:34:31.000Z",
+    "pushedAt": "2024-12-01T12:03:01.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-04-04T20:02:11.000Z",
-    "updatedAt": "2024-11-20T03:54:45.000Z"
+    "updatedAt": "2025-01-04T16:20:17.000Z"
   },
   {
     "id": "Aransentin/ZWL",
@@ -144,7 +144,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2020-06-27T23:14:32.000Z",
-    "updatedAt": "2024-11-20T03:55:17.000Z"
+    "updatedAt": "2025-01-04T16:20:41.000Z"
   },
   {
     "id": "Arwalk/ChipZ",
@@ -171,7 +171,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2021-04-13T14:02:10.000Z",
-    "updatedAt": "2024-11-20T03:55:08.000Z"
+    "updatedAt": "2025-01-04T16:20:34.000Z"
   },
   {
     "id": "Arwalk/zig-protobuf",
@@ -186,19 +186,19 @@
       "name": "Arwalk",
       "avatarUrl": "https://avatars.githubusercontent.com/u/4776412?v=4"
     },
-    "stars": 232,
+    "stars": 242,
     "starsDetail": null,
     "license": "MIT License",
-    "forks": 27,
+    "forks": 29,
     "primaryLanguage": "Dockerfile",
-    "pushedAt": "2024-11-16T13:48:47.000Z",
+    "pushedAt": "2024-12-26T07:50:56.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2021-04-30T16:11:03.000Z",
-    "updatedAt": "2024-11-20T03:56:00.000Z"
+    "updatedAt": "2025-01-04T16:21:16.000Z"
   },
   {
     "id": "Avokadoen/zig_vulkan",
@@ -216,7 +216,7 @@
       "name": "Avokadoen",
       "avatarUrl": "https://avatars.githubusercontent.com/u/26302304?v=4"
     },
-    "stars": 50,
+    "stars": 51,
     "starsDetail": null,
     "license": null,
     "forks": 2,
@@ -228,7 +228,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2021-06-14T21:06:28.000Z",
-    "updatedAt": "2024-11-20T03:55:20.000Z"
+    "updatedAt": "2025-01-04T16:20:43.000Z"
   },
   {
     "id": "BarabasGitHub/LZig4",
@@ -251,7 +251,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-03-17T21:57:06.000Z",
-    "updatedAt": "2024-11-20T03:54:37.000Z"
+    "updatedAt": "2025-01-04T16:20:10.000Z"
   },
   {
     "id": "BraedonWooding/Lazy-Zig",
@@ -262,7 +262,7 @@
       "name": "BraedonWooding",
       "avatarUrl": "https://avatars.githubusercontent.com/u/22880786?v=4"
     },
-    "stars": 42,
+    "stars": 43,
     "starsDetail": null,
     "license": "MIT License",
     "forks": 4,
@@ -274,7 +274,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-04-30T11:55:18.000Z",
-    "updatedAt": "2024-11-20T03:55:26.000Z"
+    "updatedAt": "2025-01-04T16:20:48.000Z"
   },
   {
     "id": "CurtisFenner/zsmol",
@@ -297,7 +297,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-06-23T00:51:37.000Z",
-    "updatedAt": "2024-11-20T03:54:55.000Z"
+    "updatedAt": "2025-01-04T16:20:24.000Z"
   },
   {
     "id": "DorianXGH/Lukarnel",
@@ -308,7 +308,7 @@
       "name": "DorianXGH",
       "avatarUrl": "https://avatars.githubusercontent.com/u/33571477?v=4"
     },
-    "stars": 21,
+    "stars": 22,
     "starsDetail": null,
     "license": null,
     "forks": 0,
@@ -320,7 +320,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2020-01-21T08:27:49.000Z",
-    "updatedAt": "2024-11-20T03:54:47.000Z"
+    "updatedAt": "2025-01-04T16:20:18.000Z"
   },
   {
     "id": "DutchGhost/ArrayVec",
@@ -331,7 +331,7 @@
       "name": "DutchGhost",
       "avatarUrl": "https://avatars.githubusercontent.com/u/25501014?v=4"
     },
-    "stars": 15,
+    "stars": 17,
     "starsDetail": null,
     "license": "MIT License",
     "forks": 1,
@@ -343,7 +343,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-03-10T14:03:46.000Z",
-    "updatedAt": "2024-11-20T03:54:37.000Z"
+    "updatedAt": "2025-01-04T16:20:10.000Z"
   },
   {
     "id": "DutchGhost/maybeuninit",
@@ -369,7 +369,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-08-10T18:43:02.000Z",
-    "updatedAt": "2024-11-20T03:55:26.000Z"
+    "updatedAt": "2025-01-04T16:20:48.000Z"
   },
   {
     "id": "GrooveStomp/chip8-zig",
@@ -392,7 +392,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2020-04-18T13:58:53.000Z",
-    "updatedAt": "2024-11-20T03:55:07.000Z"
+    "updatedAt": "2025-01-04T16:20:34.000Z"
   },
   {
     "id": "Hejsil/zig-clap",
@@ -411,19 +411,19 @@
       "name": "Hejsil",
       "avatarUrl": "https://avatars.githubusercontent.com/u/3759175?v=4"
     },
-    "stars": 960,
+    "stars": 1016,
     "starsDetail": null,
     "license": "MIT License",
-    "forks": 68,
+    "forks": 70,
     "primaryLanguage": "Zig",
-    "pushedAt": "2024-11-18T14:53:42.000Z",
+    "pushedAt": "2024-11-25T07:57:42.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-03-14T13:06:16.000Z",
-    "updatedAt": "2024-11-20T03:55:54.000Z"
+    "updatedAt": "2025-01-04T16:21:11.000Z"
   },
   {
     "id": "Hejsil/zig-gc",
@@ -437,7 +437,7 @@
       "name": "Hejsil",
       "avatarUrl": "https://avatars.githubusercontent.com/u/3759175?v=4"
     },
-    "stars": 38,
+    "stars": 39,
     "starsDetail": null,
     "license": "The Unlicense",
     "forks": 2,
@@ -449,7 +449,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-06-11T13:35:09.000Z",
-    "updatedAt": "2024-11-20T03:54:42.000Z"
+    "updatedAt": "2025-01-04T16:20:14.000Z"
   },
   {
     "id": "Hejsil/zig-midi",
@@ -477,7 +477,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-08-17T09:04:10.000Z",
-    "updatedAt": "2024-11-20T03:54:43.000Z"
+    "updatedAt": "2025-01-04T16:20:15.000Z"
   },
   {
     "id": "Himujjal/zig-json5",
@@ -500,7 +500,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2022-10-23T16:55:13.000Z",
-    "updatedAt": "2024-11-20T03:55:52.000Z"
+    "updatedAt": "2025-01-04T16:21:10.000Z"
   },
   {
     "id": "InKryption/comath",
@@ -511,19 +511,19 @@
       "name": "InKryption",
       "avatarUrl": "https://avatars.githubusercontent.com/u/59504965?v=4"
     },
-    "stars": 54,
+    "stars": 59,
     "starsDetail": null,
     "license": "MIT License",
     "forks": 2,
     "primaryLanguage": "Zig",
-    "pushedAt": "2024-11-10T20:38:43.000Z",
+    "pushedAt": "2024-12-22T16:26:41.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2023-07-16T23:45:18.000Z",
-    "updatedAt": "2024-11-20T03:56:01.000Z"
+    "updatedAt": "2025-01-04T16:21:17.000Z"
   },
   {
     "id": "JakubSzark/zig-string",
@@ -541,19 +541,19 @@
       "name": "JakubSzark",
       "avatarUrl": "https://avatars.githubusercontent.com/u/4969905?v=4"
     },
-    "stars": 370,
+    "stars": 403,
     "starsDetail": null,
     "license": "MIT License",
-    "forks": 27,
+    "forks": 29,
     "primaryLanguage": "Zig",
-    "pushedAt": "2024-09-08T18:48:55.000Z",
+    "pushedAt": "2024-11-21T19:13:35.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2020-09-01T17:06:14.000Z",
-    "updatedAt": "2024-11-20T03:54:40.000Z"
+    "updatedAt": "2025-01-04T16:20:13.000Z"
   },
   {
     "id": "Luukdegram/apple_pie",
@@ -582,7 +582,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2020-06-06T17:14:54.000Z",
-    "updatedAt": "2024-11-20T03:55:36.000Z"
+    "updatedAt": "2025-01-04T16:20:55.000Z"
   },
   {
     "id": "MarioAriasC/zig-support",
@@ -611,7 +611,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2021-10-03T00:12:42.000Z",
-    "updatedAt": "2024-11-20T03:55:03.000Z"
+    "updatedAt": "2025-01-04T16:20:30.000Z"
   },
   {
     "id": "Nelarius/weekend-raytracer-zig",
@@ -639,7 +639,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-05-21T06:12:37.000Z",
-    "updatedAt": "2024-11-20T03:55:22.000Z"
+    "updatedAt": "2025-01-04T16:20:45.000Z"
   },
   {
     "id": "Sahnvour/zig-containers",
@@ -653,7 +653,7 @@
       "name": "Sahnvour",
       "avatarUrl": "https://avatars.githubusercontent.com/u/1806407?v=4"
     },
-    "stars": 12,
+    "stars": 14,
     "starsDetail": null,
     "license": null,
     "forks": 0,
@@ -665,7 +665,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-04-16T20:57:56.000Z",
-    "updatedAt": "2024-11-20T03:54:39.000Z"
+    "updatedAt": "2025-01-04T16:20:12.000Z"
   },
   {
     "id": "SasLuca/zig-nanoid",
@@ -694,14 +694,14 @@
     "license": "MIT License",
     "forks": 1,
     "primaryLanguage": "Zig",
-    "pushedAt": "2022-09-06T13:21:12.000Z",
+    "pushedAt": "2024-12-24T12:43:38.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2022-04-18T22:32:31.000Z",
-    "updatedAt": "2024-11-20T03:55:30.000Z"
+    "updatedAt": "2025-01-04T16:20:50.000Z"
   },
   {
     "id": "Snektron/vulkan-zig",
@@ -712,19 +712,19 @@
       "name": "Snektron",
       "avatarUrl": "https://avatars.githubusercontent.com/u/5640649?v=4"
     },
-    "stars": 515,
+    "stars": 536,
     "starsDetail": null,
     "license": "MIT License",
-    "forks": 58,
+    "forks": 62,
     "primaryLanguage": "Shell",
-    "pushedAt": "2024-10-16T07:46:36.000Z",
+    "pushedAt": "2024-12-29T20:29:56.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-10-15T10:34:44.000Z",
-    "updatedAt": "2024-11-20T03:55:20.000Z"
+    "updatedAt": "2025-01-04T16:20:42.000Z"
   },
   {
     "id": "SpexGuy/Zig-Gltf-Display",
@@ -747,7 +747,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2020-03-04T20:34:39.000Z",
-    "updatedAt": "2024-11-20T03:55:23.000Z"
+    "updatedAt": "2025-01-04T16:20:46.000Z"
   },
   {
     "id": "Srekel/zig-sparse-set",
@@ -762,7 +762,7 @@
       "name": "Srekel",
       "avatarUrl": "https://avatars.githubusercontent.com/u/1578924?v=4"
     },
-    "stars": 66,
+    "stars": 67,
     "starsDetail": null,
     "license": "Other",
     "forks": 2,
@@ -774,7 +774,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-11-15T21:18:21.000Z",
-    "updatedAt": "2024-11-20T03:54:39.000Z"
+    "updatedAt": "2025-01-04T16:20:12.000Z"
   },
   {
     "id": "Stenodyon/blink",
@@ -797,7 +797,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-01-20T14:17:20.000Z",
-    "updatedAt": "2024-11-20T03:55:14.000Z"
+    "updatedAt": "2025-01-04T16:20:38.000Z"
   },
   {
     "id": "TM35-Metronome/metronome",
@@ -813,7 +813,7 @@
       "name": "TM35-Metronome",
       "avatarUrl": "https://avatars.githubusercontent.com/u/45124880?v=4"
     },
-    "stars": 46,
+    "stars": 47,
     "starsDetail": null,
     "license": "MIT License",
     "forks": 5,
@@ -825,7 +825,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-03-06T19:26:32.000Z",
-    "updatedAt": "2024-11-20T03:55:10.000Z"
+    "updatedAt": "2025-01-04T16:20:36.000Z"
   },
   {
     "id": "TM35-Metronome/tm35-nds",
@@ -853,7 +853,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-11-19T07:41:55.000Z",
-    "updatedAt": "2024-11-20T03:55:11.000Z"
+    "updatedAt": "2025-01-04T16:20:36.000Z"
   },
   {
     "id": "Tetralux/sublime-zig",
@@ -885,34 +885,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-08-06T23:20:42.000Z",
-    "updatedAt": "2024-11-20T03:55:04.000Z"
-  },
-  {
-    "id": "Vexu/bog",
-    "name": "Vexu/bog",
-    "description": "Small, strongly typed, embeddable language.",
-    "topics": [
-      "compiler",
-      "programming-language",
-      "zig"
-    ],
-    "owner": {
-      "name": "Vexu",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/15308111?v=4"
-    },
-    "stars": 546,
-    "starsDetail": null,
-    "license": "MIT License",
-    "forks": 15,
-    "primaryLanguage": "C",
-    "pushedAt": "2023-07-26T12:24:22.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2020-01-20T20:04:53.000Z",
-    "updatedAt": "2024-11-20T03:54:54.000Z"
+    "updatedAt": "2025-01-04T16:20:31.000Z"
   },
   {
     "id": "Vexu/routez",
@@ -927,7 +900,7 @@
       "name": "Vexu",
       "avatarUrl": "https://avatars.githubusercontent.com/u/15308111?v=4"
     },
-    "stars": 245,
+    "stars": 247,
     "starsDetail": null,
     "license": "MIT License",
     "forks": 8,
@@ -939,7 +912,33 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-06-08T11:33:41.000Z",
-    "updatedAt": "2024-11-20T03:55:37.000Z"
+    "updatedAt": "2025-01-04T16:20:57.000Z"
+  },
+  {
+    "id": "Vexu/toy-lang",
+    "name": "Vexu/toy-lang",
+    "description": "Toy language for experimentation and fun.",
+    "topics": [
+      "compiler",
+      "programming-language"
+    ],
+    "owner": {
+      "name": "Vexu",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/15308111?v=4"
+    },
+    "stars": 558,
+    "starsDetail": null,
+    "license": "MIT License",
+    "forks": 16,
+    "primaryLanguage": "C",
+    "pushedAt": "2024-12-15T17:50:07.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2020-01-20T20:04:53.000Z",
+    "updatedAt": "2025-01-04T16:20:25.000Z"
   },
   {
     "id": "Vexu/zuri",
@@ -953,7 +952,7 @@
       "name": "Vexu",
       "avatarUrl": "https://avatars.githubusercontent.com/u/15308111?v=4"
     },
-    "stars": 45,
+    "stars": 47,
     "starsDetail": null,
     "license": "MIT License",
     "forks": 5,
@@ -965,7 +964,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-06-03T18:03:11.000Z",
-    "updatedAt": "2024-11-20T03:55:58.000Z"
+    "updatedAt": "2025-01-04T16:21:14.000Z"
   },
   {
     "id": "ZeeBoppityZagZiggity/ZBZZ.OS",
@@ -988,7 +987,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2020-01-21T19:09:49.000Z",
-    "updatedAt": "2024-11-20T03:54:53.000Z"
+    "updatedAt": "2025-01-04T16:20:22.000Z"
   },
   {
     "id": "aherrmann/rules_zig",
@@ -1004,14 +1003,14 @@
     "license": "Apache License 2.0",
     "forks": 3,
     "primaryLanguage": "C",
-    "pushedAt": "2024-11-17T16:42:21.000Z",
+    "pushedAt": "2025-01-02T18:26:07.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2023-01-10T07:38:13.000Z",
-    "updatedAt": "2024-11-20T03:55:49.000Z"
+    "updatedAt": "2025-01-04T16:21:07.000Z"
   },
   {
     "id": "andrewrk/HellOS",
@@ -1025,10 +1024,10 @@
       "name": "andrewrk",
       "avatarUrl": "https://avatars.githubusercontent.com/u/106511?v=4"
     },
-    "stars": 273,
+    "stars": 280,
     "starsDetail": null,
     "license": null,
-    "forks": 36,
+    "forks": 37,
     "primaryLanguage": "Zig",
     "pushedAt": "2023-01-20T21:39:13.000Z",
     "archived": false,
@@ -1037,7 +1036,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-10-26T19:29:35.000Z",
-    "updatedAt": "2024-11-20T03:54:46.000Z"
+    "updatedAt": "2025-01-04T16:20:18.000Z"
   },
   {
     "id": "andrewrk/clashos",
@@ -1053,7 +1052,7 @@
       "name": "andrewrk",
       "avatarUrl": "https://avatars.githubusercontent.com/u/106511?v=4"
     },
-    "stars": 219,
+    "stars": 221,
     "starsDetail": null,
     "license": null,
     "forks": 19,
@@ -1065,7 +1064,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-02-03T22:09:14.000Z",
-    "updatedAt": "2024-11-20T03:54:46.000Z"
+    "updatedAt": "2025-01-04T16:20:17.000Z"
   },
   {
     "id": "andrewrk/libchromaprint",
@@ -1076,7 +1075,7 @@
       "name": "andrewrk",
       "avatarUrl": "https://avatars.githubusercontent.com/u/106511?v=4"
     },
-    "stars": 5,
+    "stars": 8,
     "starsDetail": null,
     "license": "Other",
     "forks": 2,
@@ -1088,7 +1087,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2023-01-16T23:12:05.000Z",
-    "updatedAt": "2024-11-20T03:56:08.000Z"
+    "updatedAt": "2025-01-04T16:21:21.000Z"
   },
   {
     "id": "andrewrk/libgroove",
@@ -1099,7 +1098,7 @@
       "name": "andrewrk",
       "avatarUrl": "https://avatars.githubusercontent.com/u/106511?v=4"
     },
-    "stars": 293,
+    "stars": 291,
     "starsDetail": null,
     "license": "MIT License",
     "forks": 35,
@@ -1111,7 +1110,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2013-09-09T02:01:56.000Z",
-    "updatedAt": "2024-11-20T03:56:05.000Z"
+    "updatedAt": "2025-01-04T16:21:19.000Z"
   },
   {
     "id": "andrewrk/libsoundio",
@@ -1122,10 +1121,10 @@
       "name": "andrewrk",
       "avatarUrl": "https://avatars.githubusercontent.com/u/106511?v=4"
     },
-    "stars": 1950,
+    "stars": 1965,
     "starsDetail": null,
     "license": "MIT License",
-    "forks": 230,
+    "forks": 233,
     "primaryLanguage": "C++",
     "pushedAt": "2024-06-10T03:47:29.000Z",
     "archived": false,
@@ -1134,7 +1133,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-06-30T21:14:56.000Z",
-    "updatedAt": "2024-11-19T12:20:40.000Z"
+    "updatedAt": "2025-01-04T15:26:20.000Z"
   },
   {
     "id": "andrewrk/libz",
@@ -1157,7 +1156,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2023-01-07T21:16:05.000Z",
-    "updatedAt": "2024-11-20T03:56:04.000Z"
+    "updatedAt": "2025-01-04T16:21:19.000Z"
   },
   {
     "id": "andrewrk/lua-in-the-browser",
@@ -1184,7 +1183,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-05-16T23:54:19.000Z",
-    "updatedAt": "2024-11-20T03:55:40.000Z"
+    "updatedAt": "2025-01-04T16:20:59.000Z"
   },
   {
     "id": "andrewrk/tetris",
@@ -1198,10 +1197,10 @@
       "name": "andrewrk",
       "avatarUrl": "https://avatars.githubusercontent.com/u/106511?v=4"
     },
-    "stars": 396,
+    "stars": 402,
     "starsDetail": null,
     "license": "MIT License",
-    "forks": 54,
+    "forks": 53,
     "primaryLanguage": "Zig",
     "pushedAt": "2024-09-26T18:16:59.000Z",
     "archived": false,
@@ -1210,7 +1209,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-01-19T08:04:05.000Z",
-    "updatedAt": "2024-11-20T03:55:13.000Z"
+    "updatedAt": "2025-01-04T16:20:37.000Z"
   },
   {
     "id": "andrewrk/zig-vulkan-triangle",
@@ -1225,7 +1224,7 @@
       "name": "andrewrk",
       "avatarUrl": "https://avatars.githubusercontent.com/u/106511?v=4"
     },
-    "stars": 116,
+    "stars": 118,
     "starsDetail": null,
     "license": "MIT License",
     "forks": 15,
@@ -1237,7 +1236,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-08-09T23:26:46.000Z",
-    "updatedAt": "2024-11-20T03:55:20.000Z"
+    "updatedAt": "2025-01-04T16:20:43.000Z"
   },
   {
     "id": "andy5995/zigdeck",
@@ -1268,7 +1267,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-03-11T08:10:46.000Z",
-    "updatedAt": "2024-11-20T03:55:12.000Z"
+    "updatedAt": "2025-01-04T16:20:37.000Z"
   },
   {
     "id": "axgdev/telegram_echobot_zig",
@@ -1291,7 +1290,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2022-02-11T23:35:39.000Z",
-    "updatedAt": "2024-11-20T03:55:38.000Z"
+    "updatedAt": "2025-01-04T16:20:57.000Z"
   },
   {
     "id": "batiati/IUPforZig",
@@ -1323,7 +1322,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2021-06-19T23:19:14.000Z",
-    "updatedAt": "2024-11-20T03:55:19.000Z"
+    "updatedAt": "2025-01-04T16:20:43.000Z"
   },
   {
     "id": "batiati/mustache-zig",
@@ -1339,10 +1338,10 @@
       "name": "batiati",
       "avatarUrl": "https://avatars.githubusercontent.com/u/5728002?v=4"
     },
-    "stars": 120,
+    "stars": 125,
     "starsDetail": null,
     "license": "MIT License",
-    "forks": 20,
+    "forks": 21,
     "primaryLanguage": "Dockerfile",
     "pushedAt": "2024-10-11T12:35:07.000Z",
     "archived": false,
@@ -1351,7 +1350,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2022-02-15T12:52:35.000Z",
-    "updatedAt": "2024-11-20T03:55:44.000Z"
+    "updatedAt": "2025-01-04T16:21:03.000Z"
   },
   {
     "id": "belse-de/zig-tut",
@@ -1362,7 +1361,7 @@
       "name": "belse-de",
       "avatarUrl": "https://avatars.githubusercontent.com/u/16528094?v=4"
     },
-    "stars": 18,
+    "stars": 19,
     "starsDetail": null,
     "license": "MIT License",
     "forks": 0,
@@ -1374,7 +1373,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-08-15T19:23:55.000Z",
-    "updatedAt": "2024-11-20T03:56:01.000Z"
+    "updatedAt": "2025-01-04T16:21:17.000Z"
   },
   {
     "id": "bfactory-ai/zignal",
@@ -1390,19 +1389,19 @@
       "name": "bfactory-ai",
       "avatarUrl": "https://avatars.githubusercontent.com/u/125416817?v=4"
     },
-    "stars": 68,
+    "stars": 76,
     "starsDetail": null,
     "license": "MIT License",
-    "forks": 3,
+    "forks": 4,
     "primaryLanguage": "Makefile",
-    "pushedAt": "2024-11-09T14:12:54.000Z",
+    "pushedAt": "2025-01-03T09:28:27.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-04-13T06:47:14.000Z",
-    "updatedAt": "2024-11-20T03:55:28.000Z"
+    "updatedAt": "2025-01-04T16:20:50.000Z"
   },
   {
     "id": "by-nir/aws-lambda-zig",
@@ -1421,7 +1420,7 @@
       "name": "by-nir",
       "avatarUrl": "https://avatars.githubusercontent.com/u/109542784?v=4"
     },
-    "stars": 3,
+    "stars": 4,
     "starsDetail": null,
     "license": "MIT License",
     "forks": 2,
@@ -1433,7 +1432,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-02-26T22:31:14.000Z",
-    "updatedAt": "2024-12-12T09:04:52.000Z"
+    "updatedAt": "2025-01-04T22:46:19.000Z"
   },
   {
     "id": "capy-ui/capy",
@@ -1456,19 +1455,19 @@
       "name": "capy-ui",
       "avatarUrl": "https://avatars.githubusercontent.com/u/110254452?v=4"
     },
-    "stars": 1721,
+    "stars": 1816,
     "starsDetail": null,
     "license": "Mozilla Public License 2.0",
-    "forks": 64,
+    "forks": 69,
     "primaryLanguage": "Shell",
-    "pushedAt": "2024-11-11T12:53:43.000Z",
+    "pushedAt": "2025-01-01T10:51:03.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2021-03-24T11:36:16.000Z",
-    "updatedAt": "2024-11-20T03:55:16.000Z"
+    "updatedAt": "2025-01-04T16:20:41.000Z"
   },
   {
     "id": "cheetah/asdf-zig",
@@ -1479,7 +1478,7 @@
       "name": "cheetah",
       "avatarUrl": "https://avatars.githubusercontent.com/u/69730?v=4"
     },
-    "stars": 29,
+    "stars": 28,
     "starsDetail": null,
     "license": "MIT License",
     "forks": 5,
@@ -1491,7 +1490,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-09-20T13:59:53.000Z",
-    "updatedAt": "2024-11-20T03:55:50.000Z"
+    "updatedAt": "2025-01-04T16:21:09.000Z"
   },
   {
     "id": "chivay/vmt",
@@ -1518,7 +1517,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2020-07-26T19:23:28.000Z",
-    "updatedAt": "2024-11-20T03:54:46.000Z"
+    "updatedAt": "2025-01-04T16:20:18.000Z"
   },
   {
     "id": "cshenton/learnopengl",
@@ -1529,10 +1528,10 @@
       "name": "cshenton",
       "avatarUrl": "https://avatars.githubusercontent.com/u/14693516?v=4"
     },
-    "stars": 142,
+    "stars": 144,
     "starsDetail": null,
     "license": "MIT License",
-    "forks": 13,
+    "forks": 14,
     "primaryLanguage": "GLSL",
     "pushedAt": "2021-05-28T18:40:53.000Z",
     "archived": false,
@@ -1541,7 +1540,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2020-01-01T23:22:35.000Z",
-    "updatedAt": "2024-11-20T03:55:21.000Z"
+    "updatedAt": "2025-01-04T16:20:44.000Z"
   },
   {
     "id": "dantecatalfamo/9p-zig",
@@ -1573,7 +1572,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2023-03-13T05:37:27.000Z",
-    "updatedAt": "2024-11-20T03:55:31.000Z"
+    "updatedAt": "2025-01-04T16:20:52.000Z"
   },
   {
     "id": "dantecatalfamo/OpenCSE",
@@ -1600,7 +1599,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2022-08-18T06:20:32.000Z",
-    "updatedAt": "2024-11-20T03:55:15.000Z"
+    "updatedAt": "2025-01-04T16:20:40.000Z"
   },
   {
     "id": "dantecatalfamo/brainfuck-zig",
@@ -1627,7 +1626,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2021-11-27T02:51:06.000Z",
-    "updatedAt": "2024-11-20T03:54:56.000Z"
+    "updatedAt": "2025-01-04T16:20:25.000Z"
   },
   {
     "id": "dantecatalfamo/mruby-zig",
@@ -1656,7 +1655,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2022-02-22T22:30:35.000Z",
-    "updatedAt": "2024-11-20T03:54:56.000Z"
+    "updatedAt": "2025-01-04T16:20:25.000Z"
   },
   {
     "id": "dantecatalfamo/sndio-zig",
@@ -1686,7 +1685,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2022-01-28T22:10:16.000Z",
-    "updatedAt": "2024-11-20T03:54:44.000Z"
+    "updatedAt": "2025-01-04T16:20:16.000Z"
   },
   {
     "id": "dantecatalfamo/wren-zig",
@@ -1715,7 +1714,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2022-04-08T23:38:35.000Z",
-    "updatedAt": "2024-11-20T03:54:57.000Z"
+    "updatedAt": "2025-01-04T16:20:26.000Z"
   },
   {
     "id": "dantecatalfamo/zig-dns",
@@ -1731,7 +1730,7 @@
       "name": "dantecatalfamo",
       "avatarUrl": "https://avatars.githubusercontent.com/u/43040593?v=4"
     },
-    "stars": 57,
+    "stars": 61,
     "starsDetail": null,
     "license": "MIT License",
     "forks": 4,
@@ -1743,7 +1742,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2022-10-31T02:21:03.000Z",
-    "updatedAt": "2024-11-20T03:55:33.000Z"
+    "updatedAt": "2025-01-04T16:20:53.000Z"
   },
   {
     "id": "dbandstra/oxid",
@@ -1766,7 +1765,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-05-26T20:49:12.000Z",
-    "updatedAt": "2024-11-20T03:55:16.000Z"
+    "updatedAt": "2025-01-04T16:20:40.000Z"
   },
   {
     "id": "dbandstra/zig-hunk",
@@ -1789,7 +1788,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-05-26T20:37:51.000Z",
-    "updatedAt": "2024-11-20T03:54:43.000Z"
+    "updatedAt": "2025-01-04T16:20:15.000Z"
   },
   {
     "id": "dbandstra/zig-pcx",
@@ -1812,7 +1811,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-05-26T20:32:13.000Z",
-    "updatedAt": "2024-11-20T03:55:29.000Z"
+    "updatedAt": "2025-01-04T16:20:50.000Z"
   },
   {
     "id": "dbandstra/zig-wav",
@@ -1835,7 +1834,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-05-26T20:34:22.000Z",
-    "updatedAt": "2024-11-20T03:54:45.000Z"
+    "updatedAt": "2025-01-04T16:20:16.000Z"
   },
   {
     "id": "donpdonp/zootdeck",
@@ -1850,7 +1849,7 @@
       "name": "donpdonp",
       "avatarUrl": "https://avatars.githubusercontent.com/u/13176?v=4"
     },
-    "stars": 41,
+    "stars": 42,
     "starsDetail": null,
     "license": "Other",
     "forks": 1,
@@ -1862,7 +1861,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-05-29T22:46:41.000Z",
-    "updatedAt": "2024-11-20T03:55:24.000Z"
+    "updatedAt": "2025-01-04T16:20:46.000Z"
   },
   {
     "id": "ducdetronquito/h11",
@@ -1878,7 +1877,7 @@
       "name": "ducdetronquito",
       "avatarUrl": "https://avatars.githubusercontent.com/u/9960268?v=4"
     },
-    "stars": 102,
+    "stars": 103,
     "starsDetail": null,
     "license": "BSD Zero Clause License",
     "forks": 8,
@@ -1890,7 +1889,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2020-03-28T12:22:04.000Z",
-    "updatedAt": "2024-11-20T03:55:36.000Z"
+    "updatedAt": "2025-01-04T16:20:56.000Z"
   },
   {
     "id": "ducdetronquito/requestz",
@@ -1916,7 +1915,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2020-07-07T11:37:34.000Z",
-    "updatedAt": "2024-11-20T03:55:36.000Z"
+    "updatedAt": "2025-01-04T16:20:56.000Z"
   },
   {
     "id": "emekoi/deque.zig",
@@ -1932,7 +1931,7 @@
       "name": "emekoi",
       "avatarUrl": "https://avatars.githubusercontent.com/u/9454576?v=4"
     },
-    "stars": 16,
+    "stars": 17,
     "starsDetail": null,
     "license": "MIT License",
     "forks": 1,
@@ -1944,7 +1943,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-12-24T05:14:32.000Z",
-    "updatedAt": "2024-11-20T03:54:37.000Z"
+    "updatedAt": "2025-01-04T16:20:11.000Z"
   },
   {
     "id": "emekoi/log.zig",
@@ -1955,7 +1954,7 @@
       "name": "emekoi",
       "avatarUrl": "https://avatars.githubusercontent.com/u/9454576?v=4"
     },
-    "stars": 23,
+    "stars": 24,
     "starsDetail": null,
     "license": "MIT License",
     "forks": 3,
@@ -1967,7 +1966,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-11-04T01:40:44.000Z",
-    "updatedAt": "2024-11-20T03:55:27.000Z"
+    "updatedAt": "2025-01-04T16:20:49.000Z"
   },
   {
     "id": "euantorano/ip.zig",
@@ -1982,7 +1981,7 @@
       "name": "euantorano",
       "avatarUrl": "https://avatars.githubusercontent.com/u/748913?v=4"
     },
-    "stars": 14,
+    "stars": 16,
     "starsDetail": null,
     "license": "BSD 3-Clause \"New\" or \"Revised\" License",
     "forks": 1,
@@ -1994,7 +1993,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-04-26T17:44:51.000Z",
-    "updatedAt": "2024-11-20T03:55:34.000Z"
+    "updatedAt": "2025-01-04T16:20:53.000Z"
   },
   {
     "id": "fabioarnold/snake-zig",
@@ -2005,7 +2004,7 @@
       "name": "fabioarnold",
       "avatarUrl": "https://avatars.githubusercontent.com/u/473672?v=4"
     },
-    "stars": 18,
+    "stars": 19,
     "starsDetail": null,
     "license": null,
     "forks": 3,
@@ -2017,7 +2016,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-07-30T06:01:16.000Z",
-    "updatedAt": "2024-11-20T03:55:13.000Z"
+    "updatedAt": "2025-01-04T16:20:38.000Z"
   },
   {
     "id": "fengb/fundude",
@@ -2032,7 +2031,7 @@
       "name": "fengb",
       "avatarUrl": "https://avatars.githubusercontent.com/u/219422?v=4"
     },
-    "stars": 181,
+    "stars": 183,
     "starsDetail": null,
     "license": "MIT License",
     "forks": 8,
@@ -2044,7 +2043,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-03-20T23:23:56.000Z",
-    "updatedAt": "2024-11-20T03:55:06.000Z"
+    "updatedAt": "2025-01-04T16:20:33.000Z"
   },
   {
     "id": "fengb/zee_alloc",
@@ -2060,7 +2059,7 @@
       "name": "fengb",
       "avatarUrl": "https://avatars.githubusercontent.com/u/219422?v=4"
     },
-    "stars": 82,
+    "stars": 84,
     "starsDetail": null,
     "license": "MIT License",
     "forks": 6,
@@ -2072,7 +2071,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-05-21T14:23:17.000Z",
-    "updatedAt": "2024-11-20T03:54:41.000Z"
+    "updatedAt": "2025-01-04T16:20:13.000Z"
   },
   {
     "id": "floooh/kc85.zig",
@@ -2098,7 +2097,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2021-07-02T17:55:53.000Z",
-    "updatedAt": "2024-11-20T03:55:08.000Z"
+    "updatedAt": "2025-01-04T16:20:34.000Z"
   },
   {
     "id": "floooh/pacman.zig",
@@ -2109,19 +2108,19 @@
       "name": "floooh",
       "avatarUrl": "https://avatars.githubusercontent.com/u/1699414?v=4"
     },
-    "stars": 241,
+    "stars": 254,
     "starsDetail": null,
     "license": "MIT License",
     "forks": 14,
     "primaryLanguage": "GLSL",
-    "pushedAt": "2024-11-08T15:50:21.000Z",
+    "pushedAt": "2025-01-04T13:59:05.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2020-12-23T18:14:08.000Z",
-    "updatedAt": "2024-11-20T03:55:15.000Z"
+    "updatedAt": "2025-01-04T16:20:40.000Z"
   },
   {
     "id": "floooh/sokol",
@@ -2132,19 +2131,19 @@
       "name": "floooh",
       "avatarUrl": "https://avatars.githubusercontent.com/u/1699414?v=4"
     },
-    "stars": 7089,
+    "stars": 7424,
     "starsDetail": null,
     "license": "zlib License",
-    "forks": 500,
+    "forks": 515,
     "primaryLanguage": "Batchfile",
-    "pushedAt": "2024-11-19T17:54:38.000Z",
+    "pushedAt": "2024-12-29T16:07:27.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-07-14T08:38:25.000Z",
-    "updatedAt": "2024-11-20T03:55:10.000Z"
+    "updatedAt": "2025-01-04T16:20:35.000Z"
   },
   {
     "id": "floooh/sokol-zig",
@@ -2160,19 +2159,19 @@
       "name": "floooh",
       "avatarUrl": "https://avatars.githubusercontent.com/u/1699414?v=4"
     },
-    "stars": 374,
+    "stars": 394,
     "starsDetail": null,
     "license": "zlib License",
-    "forks": 48,
+    "forks": 51,
     "primaryLanguage": "HTML",
-    "pushedAt": "2024-11-19T18:01:56.000Z",
+    "pushedAt": "2025-01-04T13:57:31.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-05-31T17:10:41.000Z",
-    "updatedAt": "2024-11-20T03:55:09.000Z"
+    "updatedAt": "2025-01-04T16:20:35.000Z"
   },
   {
     "id": "floscodes/zerve",
@@ -2201,7 +2200,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2023-04-11T17:09:06.000Z",
-    "updatedAt": "2024-11-20T03:55:45.000Z"
+    "updatedAt": "2025-01-04T16:21:03.000Z"
   },
   {
     "id": "frmdstryr/zhp",
@@ -2218,7 +2217,7 @@
     "stars": 355,
     "starsDetail": null,
     "license": "MIT License",
-    "forks": 24,
+    "forks": 23,
     "primaryLanguage": "AMPL",
     "pushedAt": "2022-06-02T15:23:08.000Z",
     "archived": true,
@@ -2227,7 +2226,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-12-03T21:11:48.000Z",
-    "updatedAt": "2024-11-20T03:55:38.000Z"
+    "updatedAt": "2025-01-04T16:20:57.000Z"
   },
   {
     "id": "fubark/cosmic",
@@ -2246,7 +2245,7 @@
       "name": "fubark",
       "avatarUrl": "https://avatars.githubusercontent.com/u/94020660?v=4"
     },
-    "stars": 341,
+    "stars": 345,
     "starsDetail": null,
     "license": "MIT License",
     "forks": 16,
@@ -2258,7 +2257,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2021-11-09T22:41:16.000Z",
-    "updatedAt": "2024-11-20T03:55:18.000Z"
+    "updatedAt": "2025-01-04T16:20:42.000Z"
   },
   {
     "id": "fubark/cyber",
@@ -2277,19 +2276,19 @@
       "name": "fubark",
       "avatarUrl": "https://avatars.githubusercontent.com/u/94020660?v=4"
     },
-    "stars": 1224,
+    "stars": 1249,
     "starsDetail": null,
     "license": "MIT License",
-    "forks": 44,
-    "primaryLanguage": "Raku",
-    "pushedAt": "2024-09-02T15:38:40.000Z",
+    "forks": 45,
+    "primaryLanguage": "Perl",
+    "pushedAt": "2024-12-10T12:47:59.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2022-10-31T20:15:21.000Z",
-    "updatedAt": "2024-11-20T03:54:57.000Z"
+    "updatedAt": "2025-01-04T16:20:26.000Z"
   },
   {
     "id": "gernest/base32",
@@ -2305,10 +2304,10 @@
       "name": "gernest",
       "avatarUrl": "https://avatars.githubusercontent.com/u/6039952?v=4"
     },
-    "stars": 11,
+    "stars": 12,
     "starsDetail": null,
     "license": "MIT License",
-    "forks": 5,
+    "forks": 3,
     "primaryLanguage": "Zig",
     "pushedAt": "2024-08-22T23:18:24.000Z",
     "archived": false,
@@ -2317,7 +2316,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-10-12T07:26:58.000Z",
-    "updatedAt": "2024-11-20T03:56:00.000Z"
+    "updatedAt": "2025-01-04T16:21:16.000Z"
   },
   {
     "id": "ggerganov/llama.cpp",
@@ -2331,19 +2330,19 @@
       "name": "ggerganov",
       "avatarUrl": "https://avatars.githubusercontent.com/u/1991296?v=4"
     },
-    "stars": 68072,
+    "stars": 70169,
     "starsDetail": null,
     "license": "MIT License",
-    "forks": 9760,
-    "primaryLanguage": "JavaScript",
-    "pushedAt": "2024-11-19T23:39:34.000Z",
+    "forks": 10131,
+    "primaryLanguage": "Swift",
+    "pushedAt": "2025-01-04T16:10:30.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2023-03-10T18:58:00.000Z",
-    "updatedAt": "2024-11-20T03:56:15.000Z"
+    "updatedAt": "2025-01-04T16:21:27.000Z"
   },
   {
     "id": "goto-bus-stop/ziguid",
@@ -2369,7 +2368,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-06-25T11:59:15.000Z",
-    "updatedAt": "2024-11-20T03:55:54.000Z"
+    "updatedAt": "2025-01-04T16:21:10.000Z"
   },
   {
     "id": "hazeycode/zig-alsa",
@@ -2392,7 +2391,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2022-02-19T03:22:37.000Z",
-    "updatedAt": "2024-11-20T03:54:44.000Z"
+    "updatedAt": "2025-01-04T16:20:16.000Z"
   },
   {
     "id": "hexops/mach",
@@ -2421,19 +2420,19 @@
       "name": "hexops",
       "avatarUrl": "https://avatars.githubusercontent.com/u/19482899?v=4"
     },
-    "stars": 3379,
+    "stars": 3492,
     "starsDetail": null,
     "license": "Other",
-    "forks": 160,
+    "forks": 163,
     "primaryLanguage": "Shell",
-    "pushedAt": "2024-11-18T04:07:12.000Z",
+    "pushedAt": "2025-01-01T02:14:59.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2021-07-04T17:37:47.000Z",
-    "updatedAt": "2024-11-20T03:55:08.000Z"
+    "updatedAt": "2025-01-04T16:20:35.000Z"
   },
   {
     "id": "hspak/brightnessztl",
@@ -2452,14 +2451,14 @@
     "license": "MIT License",
     "forks": 2,
     "primaryLanguage": "Zig",
-    "pushedAt": "2024-07-26T16:45:49.000Z",
+    "pushedAt": "2024-11-27T00:45:21.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-08-25T03:43:52.000Z",
-    "updatedAt": "2024-11-20T03:55:45.000Z"
+    "updatedAt": "2025-01-04T16:21:04.000Z"
   },
   {
     "id": "hspak/geteltorito-zig",
@@ -2473,7 +2472,7 @@
       "name": "hspak",
       "avatarUrl": "https://avatars.githubusercontent.com/u/841216?v=4"
     },
-    "stars": 7,
+    "stars": 6,
     "starsDetail": null,
     "license": "GNU General Public License v2.0",
     "forks": 1,
@@ -2485,7 +2484,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-08-04T23:07:49.000Z",
-    "updatedAt": "2024-11-20T03:56:15.000Z"
+    "updatedAt": "2025-01-04T16:21:27.000Z"
   },
   {
     "id": "iddev5/inon",
@@ -2501,7 +2500,7 @@
       "name": "iddev5",
       "avatarUrl": "https://avatars.githubusercontent.com/u/54106488?v=4"
     },
-    "stars": 10,
+    "stars": 11,
     "starsDetail": null,
     "license": "MIT License",
     "forks": 0,
@@ -2513,7 +2512,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2021-08-03T17:38:22.000Z",
-    "updatedAt": "2024-11-20T03:56:00.000Z"
+    "updatedAt": "2025-01-04T16:21:17.000Z"
   },
   {
     "id": "iguessthislldo/georgios",
@@ -2546,7 +2545,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-12-04T03:49:38.000Z",
-    "updatedAt": "2024-11-20T03:54:47.000Z"
+    "updatedAt": "2025-01-04T16:20:19.000Z"
   },
   {
     "id": "isaachier/ztags",
@@ -2569,7 +2568,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-06-13T20:25:28.000Z",
-    "updatedAt": "2024-11-20T03:55:03.000Z"
+    "updatedAt": "2025-01-04T16:20:31.000Z"
   },
   {
     "id": "jmcnamara/libxlsxwriter",
@@ -2587,19 +2586,19 @@
       "name": "jmcnamara",
       "avatarUrl": "https://avatars.githubusercontent.com/u/94267?v=4"
     },
-    "stars": 1521,
+    "stars": 1549,
     "starsDetail": null,
     "license": "Other",
-    "forks": 333,
+    "forks": 343,
     "primaryLanguage": "Objective-C",
-    "pushedAt": "2024-11-13T18:05:21.000Z",
+    "pushedAt": "2024-12-24T18:53:38.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2014-06-08T16:36:03.000Z",
-    "updatedAt": "2024-11-19T12:24:52.000Z"
+    "updatedAt": "2025-01-04T15:42:21.000Z"
   },
   {
     "id": "jzck/kernel-zig",
@@ -2626,7 +2625,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-05-10T23:12:21.000Z",
-    "updatedAt": "2024-11-20T03:54:48.000Z"
+    "updatedAt": "2025-01-04T16:20:19.000Z"
   },
   {
     "id": "karlseguin/cache.zig",
@@ -2644,19 +2643,19 @@
       "name": "karlseguin",
       "avatarUrl": "https://avatars.githubusercontent.com/u/206480?v=4"
     },
-    "stars": 42,
+    "stars": 46,
     "starsDetail": null,
     "license": "MIT License",
     "forks": 1,
     "primaryLanguage": "Makefile",
-    "pushedAt": "2024-05-21T13:50:02.000Z",
+    "pushedAt": "2024-11-25T11:21:43.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2023-05-28T10:55:45.000Z",
-    "updatedAt": "2024-11-20T03:54:41.000Z"
+    "updatedAt": "2025-01-04T16:20:13.000Z"
   },
   {
     "id": "karlseguin/http.zig",
@@ -2672,19 +2671,19 @@
       "name": "karlseguin",
       "avatarUrl": "https://avatars.githubusercontent.com/u/206480?v=4"
     },
-    "stars": 597,
+    "stars": 655,
     "starsDetail": null,
     "license": "MIT License",
-    "forks": 43,
+    "forks": 46,
     "primaryLanguage": "Makefile",
-    "pushedAt": "2024-11-11T01:18:54.000Z",
+    "pushedAt": "2025-01-04T02:51:45.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2023-03-13T08:51:53.000Z",
-    "updatedAt": "2024-11-20T03:55:39.000Z"
+    "updatedAt": "2025-01-04T16:20:58.000Z"
   },
   {
     "id": "karlseguin/log.zig",
@@ -2701,7 +2700,7 @@
       "name": "karlseguin",
       "avatarUrl": "https://avatars.githubusercontent.com/u/206480?v=4"
     },
-    "stars": 100,
+    "stars": 104,
     "starsDetail": null,
     "license": "MIT License",
     "forks": 8,
@@ -2713,7 +2712,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2023-03-22T07:49:50.000Z",
-    "updatedAt": "2024-11-20T03:55:31.000Z"
+    "updatedAt": "2025-01-04T16:20:51.000Z"
   },
   {
     "id": "karlseguin/pg.zig",
@@ -2729,19 +2728,19 @@
       "name": "karlseguin",
       "avatarUrl": "https://avatars.githubusercontent.com/u/206480?v=4"
     },
-    "stars": 251,
+    "stars": 272,
     "starsDetail": null,
     "license": "MIT License",
-    "forks": 18,
+    "forks": 21,
     "primaryLanguage": "Makefile",
-    "pushedAt": "2024-11-06T02:00:00.000Z",
+    "pushedAt": "2024-12-22T21:22:34.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2023-10-26T02:13:32.000Z",
-    "updatedAt": "2024-11-20T03:55:03.000Z"
+    "updatedAt": "2025-01-04T16:20:30.000Z"
   },
   {
     "id": "karlseguin/singleflight.zig",
@@ -2760,14 +2759,14 @@
     "license": "MIT License",
     "forks": 1,
     "primaryLanguage": "Makefile",
-    "pushedAt": "2024-06-26T01:28:53.000Z",
+    "pushedAt": "2024-12-20T00:31:39.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2023-06-03T10:20:06.000Z",
-    "updatedAt": "2024-11-20T03:55:32.000Z"
+    "updatedAt": "2025-01-04T16:20:52.000Z"
   },
   {
     "id": "karlseguin/websocket.zig",
@@ -2783,19 +2782,19 @@
       "name": "karlseguin",
       "avatarUrl": "https://avatars.githubusercontent.com/u/206480?v=4"
     },
-    "stars": 306,
+    "stars": 324,
     "starsDetail": null,
     "license": "MIT License",
-    "forks": 29,
+    "forks": 32,
     "primaryLanguage": "Dockerfile",
-    "pushedAt": "2024-11-10T01:20:01.000Z",
+    "pushedAt": "2024-12-25T15:11:35.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2022-05-28T14:35:01.000Z",
-    "updatedAt": "2024-11-20T03:55:41.000Z"
+    "updatedAt": "2025-01-04T16:21:00.000Z"
   },
   {
     "id": "karlseguin/zuckdb.zig",
@@ -2812,19 +2811,19 @@
       "name": "karlseguin",
       "avatarUrl": "https://avatars.githubusercontent.com/u/206480?v=4"
     },
-    "stars": 93,
+    "stars": 97,
     "starsDetail": null,
     "license": "MIT License",
     "forks": 3,
     "primaryLanguage": "Makefile",
-    "pushedAt": "2024-10-28T01:39:27.000Z",
+    "pushedAt": "2024-11-30T11:43:52.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2023-05-08T09:53:52.000Z",
-    "updatedAt": "2024-11-20T03:55:02.000Z"
+    "updatedAt": "2025-01-04T16:20:30.000Z"
   },
   {
     "id": "kassane/Standalone-Server",
@@ -2850,7 +2849,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2023-05-25T12:42:07.000Z",
-    "updatedAt": "2024-11-20T03:56:14.000Z"
+    "updatedAt": "2025-01-04T16:21:25.000Z"
   },
   {
     "id": "kassane/asio",
@@ -2874,14 +2873,14 @@
     "license": "Boost Software License 1.0",
     "forks": 2,
     "primaryLanguage": "Shell",
-    "pushedAt": "2024-10-30T12:58:55.000Z",
+    "pushedAt": "2024-11-26T14:12:01.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2023-03-01T19:22:37.000Z",
-    "updatedAt": "2024-11-20T03:56:09.000Z"
+    "updatedAt": "2025-01-04T16:21:22.000Z"
   },
   {
     "id": "kassane/beast",
@@ -2912,7 +2911,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2023-04-20T13:21:08.000Z",
-    "updatedAt": "2024-11-20T03:56:10.000Z"
+    "updatedAt": "2025-01-04T16:21:23.000Z"
   },
   {
     "id": "kassane/context",
@@ -2940,7 +2939,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2023-06-18T17:26:42.000Z",
-    "updatedAt": "2024-11-20T03:56:09.000Z"
+    "updatedAt": "2025-01-04T16:21:22.000Z"
   },
   {
     "id": "kassane/fiber",
@@ -2958,7 +2957,7 @@
       "name": "kassane",
       "avatarUrl": "https://avatars.githubusercontent.com/u/6756180?v=4"
     },
-    "stars": 1,
+    "stars": 2,
     "starsDetail": null,
     "license": null,
     "forks": 0,
@@ -2970,7 +2969,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2023-06-19T16:54:23.000Z",
-    "updatedAt": "2024-11-20T03:56:10.000Z"
+    "updatedAt": "2025-01-04T16:21:22.000Z"
   },
   {
     "id": "kassane/fmt",
@@ -2997,7 +2996,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2023-04-22T12:47:35.000Z",
-    "updatedAt": "2024-11-20T03:56:09.000Z"
+    "updatedAt": "2025-01-04T16:21:22.000Z"
   },
   {
     "id": "kassane/hana",
@@ -3024,7 +3023,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2023-05-11T13:22:00.000Z",
-    "updatedAt": "2024-11-20T03:56:11.000Z"
+    "updatedAt": "2025-01-04T16:21:23.000Z"
   },
   {
     "id": "kassane/intrusive",
@@ -3052,7 +3051,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2023-06-02T13:53:04.000Z",
-    "updatedAt": "2024-11-20T03:56:11.000Z"
+    "updatedAt": "2025-01-04T16:21:24.000Z"
   },
   {
     "id": "kassane/json",
@@ -3079,7 +3078,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2023-05-09T18:41:07.000Z",
-    "updatedAt": "2024-11-20T03:56:13.000Z"
+    "updatedAt": "2025-01-04T16:21:25.000Z"
   },
   {
     "id": "kassane/lean4-zig",
@@ -3109,7 +3108,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2023-08-28T14:59:12.000Z",
-    "updatedAt": "2024-11-20T03:55:32.000Z"
+    "updatedAt": "2025-01-04T16:20:52.000Z"
   },
   {
     "id": "kassane/libbpf",
@@ -3136,7 +3135,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2023-04-27T16:56:42.000Z",
-    "updatedAt": "2024-11-20T03:56:06.000Z"
+    "updatedAt": "2025-01-04T16:21:20.000Z"
   },
   {
     "id": "kassane/libsigcplusplus",
@@ -3163,7 +3162,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2023-07-04T18:25:39.000Z",
-    "updatedAt": "2024-11-20T03:56:15.000Z"
+    "updatedAt": "2025-01-04T16:21:26.000Z"
   },
   {
     "id": "kassane/libvlc-zig",
@@ -3181,7 +3180,7 @@
       "name": "kassane",
       "avatarUrl": "https://avatars.githubusercontent.com/u/6756180?v=4"
     },
-    "stars": 17,
+    "stars": 20,
     "starsDetail": null,
     "license": "BSD 2-Clause \"Simplified\" License",
     "forks": 0,
@@ -3193,7 +3192,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2022-12-08T17:13:15.000Z",
-    "updatedAt": "2024-11-20T03:55:30.000Z"
+    "updatedAt": "2025-01-04T16:20:51.000Z"
   },
   {
     "id": "kassane/libzmq",
@@ -3222,7 +3221,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2023-02-18T16:15:14.000Z",
-    "updatedAt": "2024-11-20T03:56:14.000Z"
+    "updatedAt": "2025-01-04T16:21:26.000Z"
   },
   {
     "id": "kassane/openssl-zig",
@@ -3241,19 +3240,19 @@
       "name": "kassane",
       "avatarUrl": "https://avatars.githubusercontent.com/u/6756180?v=4"
     },
-    "stars": 12,
+    "stars": 19,
     "starsDetail": null,
     "license": "Apache License 2.0",
-    "forks": 4,
+    "forks": 5,
     "primaryLanguage": "sed",
-    "pushedAt": "2024-09-27T19:32:31.000Z",
+    "pushedAt": "2024-12-24T17:22:12.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2023-03-22T15:57:38.000Z",
-    "updatedAt": "2024-11-20T03:56:06.000Z"
+    "updatedAt": "2025-01-04T16:21:19.000Z"
   },
   {
     "id": "kassane/outcome",
@@ -3281,7 +3280,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2023-04-23T13:24:26.000Z",
-    "updatedAt": "2024-11-20T03:56:13.000Z"
+    "updatedAt": "2025-01-04T16:21:24.000Z"
   },
   {
     "id": "kassane/qml_zig",
@@ -3298,7 +3297,7 @@
       "name": "kassane",
       "avatarUrl": "https://avatars.githubusercontent.com/u/6756180?v=4"
     },
-    "stars": 88,
+    "stars": 94,
     "starsDetail": null,
     "license": "Apache License 2.0",
     "forks": 4,
@@ -3310,7 +3309,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2020-12-19T17:33:55.000Z",
-    "updatedAt": "2024-11-20T03:55:20.000Z"
+    "updatedAt": "2025-01-04T16:20:45.000Z"
   },
   {
     "id": "kassane/range-v3",
@@ -3338,7 +3337,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2023-04-26T13:41:43.000Z",
-    "updatedAt": "2024-11-20T03:56:14.000Z"
+    "updatedAt": "2025-01-04T16:21:25.000Z"
   },
   {
     "id": "kassane/unordered",
@@ -3366,7 +3365,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2023-07-15T15:22:16.000Z",
-    "updatedAt": "2024-11-20T03:56:12.000Z"
+    "updatedAt": "2025-01-04T16:21:24.000Z"
   },
   {
     "id": "kassane/winpthreads-zigbuild",
@@ -3387,14 +3386,14 @@
     "license": "Other",
     "forks": 4,
     "primaryLanguage": "Assembly",
-    "pushedAt": "2024-10-23T12:22:20.000Z",
+    "pushedAt": "2024-12-14T11:59:48.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2023-03-28T13:48:04.000Z",
-    "updatedAt": "2024-11-20T03:56:07.000Z"
+    "updatedAt": "2025-01-04T16:21:21.000Z"
   },
   {
     "id": "kassane/wolfssl",
@@ -3420,14 +3419,14 @@
     "license": "GNU General Public License v2.0",
     "forks": 2,
     "primaryLanguage": "XS",
-    "pushedAt": "2024-11-13T20:40:44.000Z",
+    "pushedAt": "2024-12-24T16:58:25.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2023-06-04T15:27:00.000Z",
-    "updatedAt": "2024-11-20T03:56:06.000Z"
+    "updatedAt": "2025-01-04T16:21:20.000Z"
   },
   {
     "id": "kivikakk/htmlentities.zig",
@@ -3453,7 +3452,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2020-08-18T07:39:24.000Z",
-    "updatedAt": "2024-11-20T03:55:41.000Z"
+    "updatedAt": "2025-01-04T16:21:00.000Z"
   },
   {
     "id": "kivikakk/koino",
@@ -3468,7 +3467,7 @@
       "name": "kivikakk",
       "avatarUrl": "https://avatars.githubusercontent.com/u/1915?v=4"
     },
-    "stars": 126,
+    "stars": 131,
     "starsDetail": null,
     "license": "MIT License",
     "forks": 13,
@@ -3480,7 +3479,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2020-08-12T07:24:47.000Z",
-    "updatedAt": "2024-11-20T03:55:56.000Z"
+    "updatedAt": "2025-01-04T16:21:12.000Z"
   },
   {
     "id": "kivikakk/libpcre.zig",
@@ -3495,7 +3494,7 @@
       "name": "kivikakk",
       "avatarUrl": "https://avatars.githubusercontent.com/u/1915?v=4"
     },
-    "stars": 25,
+    "stars": 29,
     "starsDetail": null,
     "license": "MIT License",
     "forks": 5,
@@ -3507,7 +3506,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2020-08-20T04:03:56.000Z",
-    "updatedAt": "2024-11-20T03:55:55.000Z"
+    "updatedAt": "2025-01-04T16:21:12.000Z"
   },
   {
     "id": "kooparse/zalgebra",
@@ -3530,19 +3529,19 @@
       "name": "kooparse",
       "avatarUrl": "https://avatars.githubusercontent.com/u/2859122?v=4"
     },
-    "stars": 230,
+    "stars": 236,
     "starsDetail": null,
     "license": "MIT License",
     "forks": 27,
     "primaryLanguage": "Zig",
-    "pushedAt": "2024-11-11T17:14:59.000Z",
+    "pushedAt": "2024-12-10T15:29:16.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2020-10-07T17:15:35.000Z",
-    "updatedAt": "2024-11-20T03:55:15.000Z"
+    "updatedAt": "2025-01-04T16:20:39.000Z"
   },
   {
     "id": "korandoru/setup-zig",
@@ -3557,7 +3556,7 @@
       "name": "korandoru",
       "avatarUrl": "https://avatars.githubusercontent.com/u/43246943?v=4"
     },
-    "stars": 19,
+    "stars": 20,
     "starsDetail": null,
     "license": "Apache License 2.0",
     "forks": 3,
@@ -3569,7 +3568,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2022-09-09T04:20:25.000Z",
-    "updatedAt": "2024-11-20T03:55:48.000Z"
+    "updatedAt": "2025-01-04T16:21:06.000Z"
   },
   {
     "id": "kprotty/zap",
@@ -3591,19 +3590,19 @@
       "name": "kprotty",
       "avatarUrl": "https://avatars.githubusercontent.com/u/45520026?v=4"
     },
-    "stars": 447,
+    "stars": 464,
     "starsDetail": null,
     "license": "MIT License",
     "forks": 16,
     "primaryLanguage": "Go",
-    "pushedAt": "2024-08-24T16:06:51.000Z",
+    "pushedAt": "2025-01-02T03:13:29.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-07-23T16:50:25.000Z",
-    "updatedAt": "2024-11-20T03:55:27.000Z"
+    "updatedAt": "2025-01-04T16:20:48.000Z"
   },
   {
     "id": "kprotty/zefi",
@@ -3614,7 +3613,7 @@
       "name": "kprotty",
       "avatarUrl": "https://avatars.githubusercontent.com/u/45520026?v=4"
     },
-    "stars": 37,
+    "stars": 38,
     "starsDetail": null,
     "license": "MIT License",
     "forks": 5,
@@ -3626,7 +3625,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2023-06-19T00:45:20.000Z",
-    "updatedAt": "2024-11-20T03:54:58.000Z"
+    "updatedAt": "2025-01-04T16:20:27.000Z"
   },
   {
     "id": "kristoff-it/redis-cuckoofilter",
@@ -3656,7 +3655,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-07-23T17:28:09.000Z",
-    "updatedAt": "2024-11-20T03:55:00.000Z"
+    "updatedAt": "2025-01-04T16:20:28.000Z"
   },
   {
     "id": "kristoff-it/zig-cuckoofilter",
@@ -3676,7 +3675,7 @@
       "name": "kristoff-it",
       "avatarUrl": "https://avatars.githubusercontent.com/u/1950733?v=4"
     },
-    "stars": 83,
+    "stars": 84,
     "starsDetail": null,
     "license": "MIT License",
     "forks": 3,
@@ -3688,7 +3687,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-05-12T18:17:24.000Z",
-    "updatedAt": "2024-11-20T03:54:38.000Z"
+    "updatedAt": "2025-01-04T16:20:12.000Z"
   },
   {
     "id": "kristoff-it/zig-okredis",
@@ -3705,7 +3704,7 @@
       "name": "kristoff-it",
       "avatarUrl": "https://avatars.githubusercontent.com/u/1950733?v=4"
     },
-    "stars": 214,
+    "stars": 218,
     "starsDetail": null,
     "license": "MIT License",
     "forks": 16,
@@ -3717,7 +3716,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-08-21T17:53:43.000Z",
-    "updatedAt": "2024-11-20T03:55:01.000Z"
+    "updatedAt": "2025-01-04T16:20:28.000Z"
   },
   {
     "id": "kubkon/zacho",
@@ -3731,19 +3730,19 @@
       "name": "kubkon",
       "avatarUrl": "https://avatars.githubusercontent.com/u/1519747?v=4"
     },
-    "stars": 37,
+    "stars": 41,
     "starsDetail": null,
     "license": "MIT License",
     "forks": 4,
-    "primaryLanguage": "Zig",
-    "pushedAt": "2024-09-17T04:46:30.000Z",
+    "primaryLanguage": "Shell",
+    "pushedAt": "2024-12-27T12:59:45.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2020-08-26T19:38:17.000Z",
-    "updatedAt": "2024-11-20T03:55:46.000Z"
+    "updatedAt": "2025-01-04T16:21:05.000Z"
   },
   {
     "id": "kubkon/zig-ios-example",
@@ -3754,7 +3753,7 @@
       "name": "kubkon",
       "avatarUrl": "https://avatars.githubusercontent.com/u/1519747?v=4"
     },
-    "stars": 128,
+    "stars": 130,
     "starsDetail": null,
     "license": "The Unlicense",
     "forks": 7,
@@ -3766,7 +3765,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2021-08-06T10:37:09.000Z",
-    "updatedAt": "2024-11-20T03:56:18.000Z"
+    "updatedAt": "2025-01-04T16:21:29.000Z"
   },
   {
     "id": "kubkon/zig-yaml",
@@ -3781,19 +3780,19 @@
       "name": "kubkon",
       "avatarUrl": "https://avatars.githubusercontent.com/u/1519747?v=4"
     },
-    "stars": 147,
+    "stars": 167,
     "starsDetail": null,
     "license": "MIT License",
-    "forks": 37,
-    "primaryLanguage": "Zig",
-    "pushedAt": "2024-09-08T04:56:09.000Z",
+    "forks": 41,
+    "primaryLanguage": "Shell",
+    "pushedAt": "2024-12-27T09:49:02.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2021-05-31T20:06:47.000Z",
-    "updatedAt": "2024-11-20T03:55:56.000Z"
+    "updatedAt": "2025-01-04T16:21:13.000Z"
   },
   {
     "id": "leroycep/sqlite-zig",
@@ -3804,7 +3803,7 @@
       "name": "leroycep",
       "avatarUrl": "https://avatars.githubusercontent.com/u/2229184?v=4"
     },
-    "stars": 63,
+    "stars": 64,
     "starsDetail": null,
     "license": "MIT License",
     "forks": 9,
@@ -3816,7 +3815,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2020-02-13T09:24:20.000Z",
-    "updatedAt": "2024-11-20T03:55:01.000Z"
+    "updatedAt": "2025-01-04T16:20:28.000Z"
   },
   {
     "id": "lun-4/zigdig",
@@ -3831,19 +3830,19 @@
       "name": "lun-4",
       "avatarUrl": "https://avatars.githubusercontent.com/u/7283681?v=4"
     },
-    "stars": 33,
+    "stars": 36,
     "starsDetail": null,
     "license": "MIT License",
     "forks": 5,
     "primaryLanguage": "Zig",
-    "pushedAt": "2024-08-07T05:10:10.000Z",
+    "pushedAt": "2024-12-26T15:39:20.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-05-12T05:39:02.000Z",
-    "updatedAt": "2024-11-20T03:55:34.000Z"
+    "updatedAt": "2025-01-04T16:20:54.000Z"
   },
   {
     "id": "lun-4/ziget",
@@ -3857,7 +3856,7 @@
       "name": "lun-4",
       "avatarUrl": "https://avatars.githubusercontent.com/u/7283681?v=4"
     },
-    "stars": 20,
+    "stars": 21,
     "starsDetail": null,
     "license": "The Unlicense",
     "forks": 3,
@@ -3869,7 +3868,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-05-09T20:08:58.000Z",
-    "updatedAt": "2024-11-20T03:55:37.000Z"
+    "updatedAt": "2025-01-04T16:20:57.000Z"
   },
   {
     "id": "marijnfs/zigtimsort",
@@ -3880,7 +3879,7 @@
       "name": "marijnfs",
       "avatarUrl": "https://avatars.githubusercontent.com/u/898011?v=4"
     },
-    "stars": 5,
+    "stars": 6,
     "starsDetail": null,
     "license": "Mozilla Public License 2.0",
     "forks": 0,
@@ -3892,7 +3891,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-06-12T22:37:41.000Z",
-    "updatedAt": "2024-11-20T03:54:38.000Z"
+    "updatedAt": "2025-01-04T16:20:11.000Z"
   },
   {
     "id": "markfirmware/zig-bare-metal-microbit",
@@ -3919,7 +3918,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-11-09T16:48:00.000Z",
-    "updatedAt": "2024-11-20T03:54:48.000Z"
+    "updatedAt": "2025-01-04T16:20:19.000Z"
   },
   {
     "id": "markfirmware/zig-bare-metal-raspberry-pi",
@@ -3934,7 +3933,7 @@
       "name": "markfirmware",
       "avatarUrl": "https://avatars.githubusercontent.com/u/22677068?v=4"
     },
-    "stars": 90,
+    "stars": 91,
     "starsDetail": null,
     "license": null,
     "forks": 7,
@@ -3946,7 +3945,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-09-20T02:55:23.000Z",
-    "updatedAt": "2024-11-20T03:54:49.000Z"
+    "updatedAt": "2025-01-04T16:20:20.000Z"
   },
   {
     "id": "marler8997/netpunch",
@@ -3969,7 +3968,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2020-03-16T16:39:20.000Z",
-    "updatedAt": "2024-11-20T03:55:35.000Z"
+    "updatedAt": "2025-01-04T16:20:54.000Z"
   },
   {
     "id": "marler8997/zigup",
@@ -3983,19 +3982,19 @@
       "name": "marler8997",
       "avatarUrl": "https://avatars.githubusercontent.com/u/304904?v=4"
     },
-    "stars": 781,
+    "stars": 825,
     "starsDetail": null,
     "license": "MIT No Attribution",
-    "forks": 61,
+    "forks": 63,
     "primaryLanguage": "Zig",
-    "pushedAt": "2024-09-23T16:46:09.000Z",
+    "pushedAt": "2025-01-02T19:45:27.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2020-05-30T17:33:47.000Z",
-    "updatedAt": "2024-11-20T03:55:47.000Z"
+    "updatedAt": "2025-01-04T16:21:06.000Z"
   },
   {
     "id": "mattnite/ezpkg",
@@ -4018,7 +4017,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2023-08-20T07:42:44.000Z",
-    "updatedAt": "2024-11-20T03:55:51.000Z"
+    "updatedAt": "2025-01-04T16:21:09.000Z"
   },
   {
     "id": "mattnite/gyro",
@@ -4044,7 +4043,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2020-06-12T20:12:12.000Z",
-    "updatedAt": "2024-11-20T03:55:49.000Z"
+    "updatedAt": "2025-01-04T16:21:08.000Z"
   },
   {
     "id": "mdsteele/ziegfried",
@@ -4057,7 +4056,7 @@
       "name": "mdsteele",
       "avatarUrl": "https://avatars.githubusercontent.com/u/35096?v=4"
     },
-    "stars": 24,
+    "stars": 25,
     "starsDetail": null,
     "license": "MIT License",
     "forks": 0,
@@ -4069,7 +4068,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-07-27T15:05:42.000Z",
-    "updatedAt": "2024-11-20T03:54:42.000Z"
+    "updatedAt": "2025-01-04T16:20:14.000Z"
   },
   {
     "id": "meheleventyone/zig-wasm-test",
@@ -4088,7 +4087,7 @@
     "stars": 55,
     "starsDetail": null,
     "license": null,
-    "forks": 11,
+    "forks": 10,
     "primaryLanguage": "HTML",
     "pushedAt": "2024-07-03T10:45:59.000Z",
     "archived": false,
@@ -4097,7 +4096,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-11-20T22:10:38.000Z",
-    "updatedAt": "2024-11-20T03:55:41.000Z"
+    "updatedAt": "2025-01-04T16:21:01.000Z"
   },
   {
     "id": "mitchellh/libxev",
@@ -4117,19 +4116,19 @@
       "name": "mitchellh",
       "avatarUrl": "https://avatars.githubusercontent.com/u/1299?v=4"
     },
-    "stars": 2145,
+    "stars": 2293,
     "starsDetail": null,
     "license": "MIT License",
-    "forks": 75,
+    "forks": 87,
     "primaryLanguage": "Shell",
-    "pushedAt": "2024-11-19T18:10:42.000Z",
+    "pushedAt": "2024-12-08T18:15:41.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2023-01-07T19:52:16.000Z",
-    "updatedAt": "2024-11-20T03:54:58.000Z"
+    "updatedAt": "2025-01-04T16:20:27.000Z"
   },
   {
     "id": "momumi/x86-zig",
@@ -4140,7 +4139,7 @@
       "name": "momumi",
       "avatarUrl": "https://avatars.githubusercontent.com/u/57862114?v=4"
     },
-    "stars": 27,
+    "stars": 28,
     "starsDetail": null,
     "license": "The Unlicense",
     "forks": 1,
@@ -4152,7 +4151,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2020-02-02T05:02:44.000Z",
-    "updatedAt": "2024-11-20T03:56:16.000Z"
+    "updatedAt": "2025-01-04T16:21:27.000Z"
   },
   {
     "id": "mqttiotstuff/iotmonitor",
@@ -4174,7 +4173,7 @@
       "name": "mqttiotstuff",
       "avatarUrl": "https://avatars.githubusercontent.com/u/71220004?v=4"
     },
-    "stars": 21,
+    "stars": 22,
     "starsDetail": null,
     "license": "Apache License 2.0",
     "forks": 1,
@@ -4186,7 +4185,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2020-04-12T12:21:38.000Z",
-    "updatedAt": "2024-11-20T03:56:17.000Z"
+    "updatedAt": "2025-01-04T16:21:28.000Z"
   },
   {
     "id": "natecraddock/ziglua",
@@ -4205,19 +4204,19 @@
       "name": "natecraddock",
       "avatarUrl": "https://avatars.githubusercontent.com/u/7967463?v=4"
     },
-    "stars": 274,
+    "stars": 299,
     "starsDetail": null,
     "license": "MIT License",
-    "forks": 36,
+    "forks": 44,
     "primaryLanguage": "Lua",
-    "pushedAt": "2024-11-14T03:53:35.000Z",
+    "pushedAt": "2024-12-14T19:59:14.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2022-06-02T04:37:17.000Z",
-    "updatedAt": "2024-11-20T03:55:25.000Z"
+    "updatedAt": "2025-01-04T16:20:47.000Z"
   },
   {
     "id": "nektro/zigmod",
@@ -4231,7 +4230,7 @@
       "name": "nektro",
       "avatarUrl": "https://avatars.githubusercontent.com/u/5464072?v=4"
     },
-    "stars": 772,
+    "stars": 792,
     "starsDetail": null,
     "license": "MIT License",
     "forks": 35,
@@ -4243,7 +4242,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2020-11-09T22:56:32.000Z",
-    "updatedAt": "2024-11-20T03:55:50.000Z"
+    "updatedAt": "2025-01-04T16:21:08.000Z"
   },
   {
     "id": "nine-lives-later/zzmq",
@@ -4260,7 +4259,7 @@
       "name": "nine-lives-later",
       "avatarUrl": "https://avatars.githubusercontent.com/u/69648959?v=4"
     },
-    "stars": 24,
+    "stars": 27,
     "starsDetail": null,
     "license": "Mozilla Public License 2.0",
     "forks": 4,
@@ -4272,7 +4271,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-02-17T10:06:10.000Z",
-    "updatedAt": "2024-11-20T03:55:40.000Z"
+    "updatedAt": "2025-01-04T16:20:59.000Z"
   },
   {
     "id": "nix-community/zon2nix",
@@ -4289,10 +4288,10 @@
       "name": "nix-community",
       "avatarUrl": "https://avatars.githubusercontent.com/u/33221035?v=4"
     },
-    "stars": 73,
+    "stars": 77,
     "starsDetail": null,
     "license": "Mozilla Public License 2.0",
-    "forks": 10,
+    "forks": 11,
     "primaryLanguage": "Nix",
     "pushedAt": "2024-06-13T06:39:32.000Z",
     "archived": false,
@@ -4301,7 +4300,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2023-08-08T19:18:56.000Z",
-    "updatedAt": "2024-11-20T03:55:51.000Z"
+    "updatedAt": "2025-01-04T16:21:09.000Z"
   },
   {
     "id": "nrdmn/ilo_license_key",
@@ -4316,7 +4315,7 @@
       "name": "nrdmn",
       "avatarUrl": "https://avatars.githubusercontent.com/u/11783095?v=4"
     },
-    "stars": 16,
+    "stars": 17,
     "starsDetail": null,
     "license": null,
     "forks": 4,
@@ -4328,7 +4327,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2020-05-14T20:44:28.000Z",
-    "updatedAt": "2024-11-20T03:56:16.000Z"
+    "updatedAt": "2025-01-04T16:21:28.000Z"
   },
   {
     "id": "nrdmn/uefi-examples",
@@ -4342,7 +4341,7 @@
       "name": "nrdmn",
       "avatarUrl": "https://avatars.githubusercontent.com/u/11783095?v=4"
     },
-    "stars": 61,
+    "stars": 62,
     "starsDetail": null,
     "license": null,
     "forks": 6,
@@ -4354,7 +4353,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-09-28T20:05:53.000Z",
-    "updatedAt": "2024-11-20T03:54:50.000Z"
+    "updatedAt": "2025-01-04T16:20:20.000Z"
   },
   {
     "id": "nrdmn/uefi-paint",
@@ -4380,7 +4379,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-08-02T22:06:30.000Z",
-    "updatedAt": "2024-11-20T03:54:50.000Z"
+    "updatedAt": "2025-01-04T16:20:21.000Z"
   },
   {
     "id": "olexij-christian/zgtk3",
@@ -4403,7 +4402,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-08-04T20:02:00.000Z",
-    "updatedAt": "2024-11-20T03:55:24.000Z"
+    "updatedAt": "2025-01-04T16:20:46.000Z"
   },
   {
     "id": "orhun/linuxwave",
@@ -4433,7 +4432,7 @@
       "name": "orhun",
       "avatarUrl": "https://avatars.githubusercontent.com/u/24392180?v=4"
     },
-    "stars": 537,
+    "stars": 543,
     "starsDetail": null,
     "license": "MIT License",
     "forks": 16,
@@ -4445,7 +4444,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2023-03-13T22:57:52.000Z",
-    "updatedAt": "2024-11-20T03:54:45.000Z"
+    "updatedAt": "2025-01-04T16:20:16.000Z"
   },
   {
     "id": "oven-sh/bun",
@@ -4469,19 +4468,19 @@
       "name": "oven-sh",
       "avatarUrl": "https://avatars.githubusercontent.com/u/108928776?v=4"
     },
-    "stars": 74326,
+    "stars": 75108,
     "starsDetail": null,
     "license": "Other",
-    "forks": 2776,
+    "forks": 2818,
     "primaryLanguage": "AMPL",
-    "pushedAt": "2024-11-20T03:54:14.000Z",
+    "pushedAt": "2025-01-04T16:05:16.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2021-04-14T00:48:17.000Z",
-    "updatedAt": "2024-11-20T03:54:54.000Z"
+    "updatedAt": "2025-01-04T16:20:23.000Z"
   },
   {
     "id": "pbui-project/pbui-main",
@@ -4496,7 +4495,7 @@
       "name": "pbui-project",
       "avatarUrl": "https://avatars.githubusercontent.com/u/57543193?v=4"
     },
-    "stars": 91,
+    "stars": 93,
     "starsDetail": null,
     "license": "MIT License",
     "forks": 9,
@@ -4508,7 +4507,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2020-01-15T17:15:19.000Z",
-    "updatedAt": "2024-11-20T03:55:45.000Z"
+    "updatedAt": "2025-01-04T16:21:04.000Z"
   },
   {
     "id": "prime31/zig-upaya",
@@ -4519,7 +4518,7 @@
       "name": "prime31",
       "avatarUrl": "https://avatars.githubusercontent.com/u/60377?v=4"
     },
-    "stars": 131,
+    "stars": 134,
     "starsDetail": null,
     "license": "MIT License",
     "forks": 14,
@@ -4531,7 +4530,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2020-07-27T02:51:01.000Z",
-    "updatedAt": "2024-11-20T03:55:18.000Z"
+    "updatedAt": "2025-01-04T16:20:42.000Z"
   },
   {
     "id": "rafaelbreno/zig-os",
@@ -4545,7 +4544,7 @@
       "name": "rafaelbreno",
       "avatarUrl": "https://avatars.githubusercontent.com/u/32229014?v=4"
     },
-    "stars": 36,
+    "stars": 38,
     "starsDetail": null,
     "license": "MIT License",
     "forks": 4,
@@ -4557,7 +4556,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2023-02-06T22:08:21.000Z",
-    "updatedAt": "2024-11-20T03:54:50.000Z"
+    "updatedAt": "2025-01-04T16:20:21.000Z"
   },
   {
     "id": "raysan5/raylib",
@@ -4586,19 +4585,19 @@
       "name": "raysan5",
       "avatarUrl": "https://avatars.githubusercontent.com/u/5766837?v=4"
     },
-    "stars": 22726,
+    "stars": 24107,
     "starsDetail": null,
     "license": "zlib License",
-    "forks": 2281,
+    "forks": 2357,
     "primaryLanguage": "Roff",
-    "pushedAt": "2024-11-19T11:33:16.000Z",
+    "pushedAt": "2025-01-03T16:36:48.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2013-10-24T15:46:04.000Z",
-    "updatedAt": "2024-11-19T12:22:47.000Z"
+    "updatedAt": "2025-01-04T15:27:41.000Z"
   },
   {
     "id": "remeh/statsd-zig",
@@ -4609,7 +4608,7 @@
       "name": "remeh",
       "avatarUrl": "https://avatars.githubusercontent.com/u/1798689?v=4"
     },
-    "stars": 4,
+    "stars": 5,
     "starsDetail": null,
     "license": "MIT License",
     "forks": 1,
@@ -4621,7 +4620,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2020-04-30T20:56:14.000Z",
-    "updatedAt": "2024-11-20T03:55:35.000Z"
+    "updatedAt": "2025-01-04T16:20:54.000Z"
   },
   {
     "id": "rsepassi/zigcoro",
@@ -4632,10 +4631,10 @@
       "name": "rsepassi",
       "avatarUrl": "https://avatars.githubusercontent.com/u/1115739?v=4"
     },
-    "stars": 161,
+    "stars": 175,
     "starsDetail": null,
     "license": "BSD Zero Clause License",
-    "forks": 13,
+    "forks": 14,
     "primaryLanguage": "Assembly",
     "pushedAt": "2024-09-10T15:41:27.000Z",
     "archived": false,
@@ -4644,7 +4643,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2023-08-24T19:33:19.000Z",
-    "updatedAt": "2024-11-20T03:54:59.000Z"
+    "updatedAt": "2025-01-04T16:20:28.000Z"
   },
   {
     "id": "ryoppippi/zigcv",
@@ -4659,7 +4658,7 @@
       "name": "ryoppippi",
       "avatarUrl": "https://avatars.githubusercontent.com/u/1560508?v=4"
     },
-    "stars": 101,
+    "stars": 106,
     "starsDetail": null,
     "license": "MIT License",
     "forks": 14,
@@ -4671,7 +4670,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2022-08-21T08:11:05.000Z",
-    "updatedAt": "2024-11-20T03:55:25.000Z"
+    "updatedAt": "2025-01-04T16:20:47.000Z"
   },
   {
     "id": "sam701/zig-cli",
@@ -4686,10 +4685,10 @@
       "name": "sam701",
       "avatarUrl": "https://avatars.githubusercontent.com/u/7078566?v=4"
     },
-    "stars": 209,
+    "stars": 218,
     "starsDetail": null,
     "license": "MIT License",
-    "forks": 22,
+    "forks": 21,
     "primaryLanguage": "Zig",
     "pushedAt": "2024-10-13T20:47:18.000Z",
     "archived": false,
@@ -4698,7 +4697,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2022-03-09T17:55:00.000Z",
-    "updatedAt": "2024-11-20T03:55:55.000Z"
+    "updatedAt": "2025-01-04T16:21:11.000Z"
   },
   {
     "id": "shritesh/zig-wasm-dom",
@@ -4714,7 +4713,7 @@
       "name": "shritesh",
       "avatarUrl": "https://avatars.githubusercontent.com/u/801803?v=4"
     },
-    "stars": 143,
+    "stars": 148,
     "starsDetail": null,
     "license": null,
     "forks": 13,
@@ -4726,7 +4725,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-04-19T02:28:22.000Z",
-    "updatedAt": "2024-11-20T03:55:42.000Z"
+    "updatedAt": "2025-01-04T16:21:01.000Z"
   },
   {
     "id": "shritesh/zigfmt-web",
@@ -4754,7 +4753,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-04-27T18:56:18.000Z",
-    "updatedAt": "2024-11-20T03:55:42.000Z"
+    "updatedAt": "2025-01-04T16:21:01.000Z"
   },
   {
     "id": "sjdh02/trOS",
@@ -4782,7 +4781,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-02-07T21:09:49.000Z",
-    "updatedAt": "2024-11-20T03:54:51.000Z"
+    "updatedAt": "2025-01-04T16:20:21.000Z"
   },
   {
     "id": "skunkwerks/zamqp",
@@ -4805,7 +4804,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2020-12-19T08:55:58.000Z",
-    "updatedAt": "2024-11-20T03:55:40.000Z"
+    "updatedAt": "2025-01-04T16:20:59.000Z"
   },
   {
     "id": "squeek502/zua",
@@ -4820,7 +4819,7 @@
       "name": "squeek502",
       "avatarUrl": "https://avatars.githubusercontent.com/u/2389051?v=4"
     },
-    "stars": 172,
+    "stars": 180,
     "starsDetail": null,
     "license": "BSD Zero Clause License",
     "forks": 7,
@@ -4832,7 +4831,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-12-17T07:44:03.000Z",
-    "updatedAt": "2024-11-20T03:54:54.000Z"
+    "updatedAt": "2025-01-04T16:20:24.000Z"
   },
   {
     "id": "sreehax/zig-ini",
@@ -4858,7 +4857,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2021-06-27T07:43:16.000Z",
-    "updatedAt": "2024-11-20T03:55:57.000Z"
+    "updatedAt": "2025-01-04T16:21:12.000Z"
   },
   {
     "id": "suirad/Seal",
@@ -4873,7 +4872,7 @@
       "name": "suirad",
       "avatarUrl": "https://avatars.githubusercontent.com/u/8798829?v=4"
     },
-    "stars": 6,
+    "stars": 7,
     "starsDetail": null,
     "license": "MIT License",
     "forks": 0,
@@ -4885,7 +4884,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-11-26T07:07:54.000Z",
-    "updatedAt": "2024-11-20T03:54:42.000Z"
+    "updatedAt": "2025-01-04T16:20:14.000Z"
   },
   {
     "id": "thejoshwolfe/hexdump-zip",
@@ -4896,7 +4895,7 @@
       "name": "thejoshwolfe",
       "avatarUrl": "https://avatars.githubusercontent.com/u/87436?v=4"
     },
-    "stars": 8,
+    "stars": 9,
     "starsDetail": null,
     "license": null,
     "forks": 2,
@@ -4908,7 +4907,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-09-17T22:21:32.000Z",
-    "updatedAt": "2024-11-20T03:55:46.000Z"
+    "updatedAt": "2025-01-04T16:21:04.000Z"
   },
   {
     "id": "thejoshwolfe/legend-of-swarkland",
@@ -4919,7 +4918,7 @@
       "name": "thejoshwolfe",
       "avatarUrl": "https://avatars.githubusercontent.com/u/87436?v=4"
     },
-    "stars": 94,
+    "stars": 97,
     "starsDetail": null,
     "license": "Other",
     "forks": 5,
@@ -4931,7 +4930,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-01-31T05:30:56.000Z",
-    "updatedAt": "2024-11-20T03:55:14.000Z"
+    "updatedAt": "2025-01-04T16:20:39.000Z"
   },
   {
     "id": "tiehuis/zig-raytrace",
@@ -4956,7 +4955,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-10-12T08:07:43.000Z",
-    "updatedAt": "2024-11-20T03:55:23.000Z"
+    "updatedAt": "2025-01-04T16:20:46.000Z"
   },
   {
     "id": "tiehuis/zig-regex",
@@ -4971,10 +4970,10 @@
       "name": "tiehuis",
       "avatarUrl": "https://avatars.githubusercontent.com/u/4605603?v=4"
     },
-    "stars": 197,
+    "stars": 209,
     "starsDetail": null,
     "license": "MIT License",
-    "forks": 24,
+    "forks": 23,
     "primaryLanguage": "C",
     "pushedAt": "2024-07-03T12:01:06.000Z",
     "archived": false,
@@ -4983,7 +4982,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-02-18T00:00:07.000Z",
-    "updatedAt": "2024-11-20T03:55:57.000Z"
+    "updatedAt": "2025-01-04T16:21:13.000Z"
   },
   {
     "id": "tiehuis/zig-ryu",
@@ -4996,7 +4995,7 @@
       "name": "tiehuis",
       "avatarUrl": "https://avatars.githubusercontent.com/u/4605603?v=4"
     },
-    "stars": 15,
+    "stars": 16,
     "starsDetail": null,
     "license": null,
     "forks": 6,
@@ -5008,7 +5007,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-08-01T10:13:14.000Z",
-    "updatedAt": "2024-11-20T03:55:57.000Z"
+    "updatedAt": "2025-01-04T16:21:13.000Z"
   },
   {
     "id": "tiehuis/zstack",
@@ -5033,7 +5032,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-06-16T09:47:24.000Z",
-    "updatedAt": "2024-11-20T03:55:14.000Z"
+    "updatedAt": "2025-01-04T16:20:39.000Z"
   },
   {
     "id": "tldr-pages/tldr",
@@ -5065,19 +5064,19 @@
       "name": "tldr-pages",
       "avatarUrl": "https://avatars.githubusercontent.com/u/7366472?v=4"
     },
-    "stars": 51278,
+    "stars": 52543,
     "starsDetail": null,
     "license": "Other",
-    "forks": 4223,
+    "forks": 4285,
     "primaryLanguage": "CSS",
-    "pushedAt": "2024-11-19T17:18:51.000Z",
+    "pushedAt": "2025-01-04T16:09:12.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2013-12-08T07:34:43.000Z",
-    "updatedAt": "2024-11-20T03:56:18.000Z"
+    "updatedAt": "2025-01-04T16:21:28.000Z"
   },
   {
     "id": "tralamazza/embedded_zig",
@@ -5092,7 +5091,7 @@
       "name": "tralamazza",
       "avatarUrl": "https://avatars.githubusercontent.com/u/132159?v=4"
     },
-    "stars": 75,
+    "stars": 77,
     "starsDetail": null,
     "license": null,
     "forks": 12,
@@ -5104,7 +5103,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-06-18T23:15:47.000Z",
-    "updatedAt": "2024-11-20T03:54:52.000Z"
+    "updatedAt": "2025-01-04T16:20:21.000Z"
   },
   {
     "id": "truemedian/zfetch",
@@ -5130,7 +5129,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2020-12-29T00:33:51.000Z",
-    "updatedAt": "2024-11-20T03:55:36.000Z"
+    "updatedAt": "2025-01-04T16:20:55.000Z"
   },
   {
     "id": "ulfjack/ryu",
@@ -5141,7 +5140,7 @@
       "name": "ulfjack",
       "avatarUrl": "https://avatars.githubusercontent.com/u/7355745?v=4"
     },
-    "stars": 1205,
+    "stars": 1217,
     "starsDetail": null,
     "license": "Apache License 2.0",
     "forks": 99,
@@ -5153,7 +5152,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-02-14T21:07:38.000Z",
-    "updatedAt": "2024-11-20T03:55:58.000Z"
+    "updatedAt": "2025-01-04T16:21:14.000Z"
   },
   {
     "id": "vbrusca/ZigMatrixUtils",
@@ -5180,7 +5179,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-03-14T12:32:39.000Z",
-    "updatedAt": "2024-11-20T03:55:27.000Z"
+    "updatedAt": "2025-01-04T16:20:49.000Z"
   },
   {
     "id": "vbrusca/ZigSdlGameTemplate",
@@ -5203,7 +5202,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-04-12T14:09:32.000Z",
-    "updatedAt": "2024-11-20T03:56:19.000Z"
+    "updatedAt": "2025-01-04T16:21:30.000Z"
   },
   {
     "id": "vezel-dev/zig-sdk",
@@ -5221,19 +5220,19 @@
       "name": "vezel-dev",
       "avatarUrl": "https://avatars.githubusercontent.com/u/87844133?v=4"
     },
-    "stars": 73,
+    "stars": 79,
     "starsDetail": null,
     "license": "BSD Zero Clause License",
     "forks": 2,
     "primaryLanguage": "Shell",
-    "pushedAt": "2024-11-19T20:01:04.000Z",
+    "pushedAt": "2024-12-31T14:45:35.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2021-06-13T05:19:25.000Z",
-    "updatedAt": "2024-11-20T03:55:49.000Z"
+    "updatedAt": "2025-01-04T16:21:07.000Z"
   },
   {
     "id": "vi/zigmkv",
@@ -5251,7 +5250,7 @@
       "name": "vi",
       "avatarUrl": "https://avatars.githubusercontent.com/u/173219?v=4"
     },
-    "stars": 12,
+    "stars": 13,
     "starsDetail": null,
     "license": null,
     "forks": 0,
@@ -5263,7 +5262,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-10-03T06:43:19.000Z",
-    "updatedAt": "2024-11-20T03:55:58.000Z"
+    "updatedAt": "2025-01-04T16:21:15.000Z"
   },
   {
     "id": "vrischmann/zig-cassandra",
@@ -5282,15 +5281,15 @@
     "starsDetail": null,
     "license": "MIT License",
     "forks": 0,
-    "primaryLanguage": "Go",
-    "pushedAt": "2024-09-11T21:24:25.000Z",
+    "primaryLanguage": "Zig",
+    "pushedAt": "2025-01-01T20:29:01.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2020-03-22T18:39:13.000Z",
-    "updatedAt": "2024-11-20T03:55:01.000Z"
+    "updatedAt": "2025-01-04T16:20:29.000Z"
   },
   {
     "id": "vrischmann/zig-sqlite",
@@ -5304,19 +5303,19 @@
       "name": "vrischmann",
       "avatarUrl": "https://avatars.githubusercontent.com/u/1916079?v=4"
     },
-    "stars": 379,
+    "stars": 407,
     "starsDetail": null,
     "license": "MIT License",
-    "forks": 52,
+    "forks": 54,
     "primaryLanguage": "Zig",
-    "pushedAt": "2024-11-17T00:26:12.000Z",
+    "pushedAt": "2024-12-29T19:58:39.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2020-12-12T01:45:21.000Z",
-    "updatedAt": "2024-11-20T03:55:02.000Z"
+    "updatedAt": "2025-01-04T16:20:29.000Z"
   },
   {
     "id": "wendigojaeger/ZigGBA",
@@ -5331,19 +5330,19 @@
       "name": "wendigojaeger",
       "avatarUrl": "https://avatars.githubusercontent.com/u/46852732?v=4"
     },
-    "stars": 354,
+    "stars": 364,
     "starsDetail": null,
     "license": "MIT License",
-    "forks": 16,
+    "forks": 15,
     "primaryLanguage": "Zig",
-    "pushedAt": "2024-11-19T18:07:37.000Z",
+    "pushedAt": "2024-11-24T21:44:15.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-12-08T23:29:41.000Z",
-    "updatedAt": "2024-11-20T03:55:11.000Z"
+    "updatedAt": "2025-01-04T16:20:37.000Z"
   },
   {
     "id": "weskoerber/kewpie",
@@ -5370,7 +5369,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-02-10T18:28:15.000Z",
-    "updatedAt": "2024-11-20T03:56:01.000Z"
+    "updatedAt": "2025-01-04T16:21:17.000Z"
   },
   {
     "id": "weskoerber/mac_address",
@@ -5397,7 +5396,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-05-17T01:52:16.000Z",
-    "updatedAt": "2024-11-20T03:55:47.000Z"
+    "updatedAt": "2025-01-04T16:21:05.000Z"
   },
   {
     "id": "weskoerber/zvm",
@@ -5417,14 +5416,14 @@
     "license": "MIT License",
     "forks": 0,
     "primaryLanguage": "Shell",
-    "pushedAt": "2024-08-29T16:08:22.000Z",
+    "pushedAt": "2025-01-02T21:03:30.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-02-07T20:24:24.000Z",
-    "updatedAt": "2024-11-20T03:55:48.000Z"
+    "updatedAt": "2025-01-04T16:21:06.000Z"
   },
   {
     "id": "winksaville/zig-parse-args",
@@ -5447,7 +5446,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-09-04T01:57:15.000Z",
-    "updatedAt": "2024-11-20T03:55:59.000Z"
+    "updatedAt": "2025-01-04T16:21:15.000Z"
   },
   {
     "id": "winksaville/zig-parse-number",
@@ -5458,7 +5457,7 @@
       "name": "winksaville",
       "avatarUrl": "https://avatars.githubusercontent.com/u/1024284?v=4"
     },
-    "stars": 0,
+    "stars": 1,
     "starsDetail": null,
     "license": "The Unlicense",
     "forks": 0,
@@ -5470,7 +5469,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-11-17T05:27:32.000Z",
-    "updatedAt": "2024-11-20T03:55:59.000Z"
+    "updatedAt": "2025-01-04T16:21:15.000Z"
   },
   {
     "id": "ynuwenhof/zigbraten",
@@ -5493,7 +5492,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2022-02-20T15:00:06.000Z",
-    "updatedAt": "2024-11-20T03:56:19.000Z"
+    "updatedAt": "2025-01-04T16:21:29.000Z"
   },
   {
     "id": "yvt/zig-armv8m-test",
@@ -5523,7 +5522,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-06-27T15:32:08.000Z",
-    "updatedAt": "2024-11-20T03:54:53.000Z"
+    "updatedAt": "2025-01-04T16:20:22.000Z"
   },
   {
     "id": "zighelp/zighelp",
@@ -5534,7 +5533,7 @@
       "name": "zighelp",
       "avatarUrl": "https://avatars.githubusercontent.com/u/142661911?v=4"
     },
-    "stars": 37,
+    "stars": 39,
     "starsDetail": null,
     "license": "MIT License",
     "forks": 8,
@@ -5546,7 +5545,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2023-08-19T09:50:36.000Z",
-    "updatedAt": "2024-11-20T03:56:02.000Z"
+    "updatedAt": "2025-01-04T16:21:18.000Z"
   },
   {
     "id": "ziglang/sublime-zig-language",
@@ -5560,7 +5559,7 @@
       "name": "ziglang",
       "avatarUrl": "https://avatars.githubusercontent.com/u/27973237?v=4"
     },
-    "stars": 85,
+    "stars": 86,
     "starsDetail": null,
     "license": "MIT License",
     "forks": 25,
@@ -5572,7 +5571,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-01-20T13:16:19.000Z",
-    "updatedAt": "2024-11-20T03:55:04.000Z"
+    "updatedAt": "2025-01-04T16:20:31.000Z"
   },
   {
     "id": "ziglang/vscode-zig",
@@ -5586,19 +5585,19 @@
       "name": "ziglang",
       "avatarUrl": "https://avatars.githubusercontent.com/u/27973237?v=4"
     },
-    "stars": 551,
+    "stars": 571,
     "starsDetail": null,
     "license": "MIT License",
-    "forks": 60,
+    "forks": 59,
     "primaryLanguage": "JavaScript",
-    "pushedAt": "2024-11-16T05:02:52.000Z",
+    "pushedAt": "2024-12-30T17:01:48.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-07-14T23:02:35.000Z",
-    "updatedAt": "2024-11-20T03:55:05.000Z"
+    "updatedAt": "2025-01-04T16:20:32.000Z"
   },
   {
     "id": "ziglang/zig-mode",
@@ -5612,10 +5611,10 @@
       "name": "ziglang",
       "avatarUrl": "https://avatars.githubusercontent.com/u/27973237?v=4"
     },
-    "stars": 172,
+    "stars": 175,
     "starsDetail": null,
     "license": "GNU General Public License v3.0",
-    "forks": 55,
+    "forks": 56,
     "primaryLanguage": "Shell",
     "pushedAt": "2024-11-04T16:24:34.000Z",
     "archived": false,
@@ -5624,7 +5623,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-04-04T12:05:22.000Z",
-    "updatedAt": "2024-11-20T03:55:05.000Z"
+    "updatedAt": "2025-01-04T16:20:32.000Z"
   },
   {
     "id": "ziglang/zig.vim",
@@ -5638,19 +5637,19 @@
       "name": "ziglang",
       "avatarUrl": "https://avatars.githubusercontent.com/u/27973237?v=4"
     },
-    "stars": 469,
+    "stars": 488,
     "starsDetail": null,
     "license": "MIT License",
     "forks": 58,
     "primaryLanguage": "Vim Script",
-    "pushedAt": "2024-08-28T02:38:37.000Z",
+    "pushedAt": "2024-12-28T22:46:22.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-04-13T09:21:35.000Z",
-    "updatedAt": "2024-11-20T03:55:06.000Z"
+    "updatedAt": "2025-01-04T16:20:33.000Z"
   },
   {
     "id": "ziglibs/known-folders",
@@ -5665,10 +5664,10 @@
       "name": "ziglibs",
       "avatarUrl": "https://avatars.githubusercontent.com/u/65570835?v=4"
     },
-    "stars": 232,
+    "stars": 238,
     "starsDetail": null,
     "license": "MIT License",
-    "forks": 22,
+    "forks": 21,
     "primaryLanguage": "AMPL",
     "pushedAt": "2024-07-31T15:21:03.000Z",
     "archived": false,
@@ -5677,7 +5676,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2020-05-18T21:48:43.000Z",
-    "updatedAt": "2024-11-20T03:55:29.000Z"
+    "updatedAt": "2025-01-04T16:20:50.000Z"
   },
   {
     "id": "ziglibs/s2s",
@@ -5694,10 +5693,10 @@
       "name": "ziglibs",
       "avatarUrl": "https://avatars.githubusercontent.com/u/65570835?v=4"
     },
-    "stars": 130,
+    "stars": 132,
     "starsDetail": null,
     "license": "MIT License",
-    "forks": 21,
+    "forks": 22,
     "primaryLanguage": "Zig",
     "pushedAt": "2024-09-11T18:22:05.000Z",
     "archived": false,
@@ -5706,7 +5705,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2022-02-21T08:07:25.000Z",
-    "updatedAt": "2024-11-20T03:54:37.000Z"
+    "updatedAt": "2025-01-04T16:20:10.000Z"
   },
   {
     "id": "zigtools/zls",
@@ -5725,19 +5724,19 @@
       "name": "zigtools",
       "avatarUrl": "https://avatars.githubusercontent.com/u/65322356?v=4"
     },
-    "stars": 3020,
+    "stars": 3137,
     "starsDetail": null,
     "license": "MIT License",
-    "forks": 299,
+    "forks": 304,
     "primaryLanguage": "Nix",
-    "pushedAt": "2024-11-18T23:58:38.000Z",
+    "pushedAt": "2025-01-01T00:24:33.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2020-04-24T22:19:50.000Z",
-    "updatedAt": "2024-11-20T03:55:06.000Z"
+    "updatedAt": "2025-01-04T16:20:33.000Z"
   },
   {
     "id": "zigtools/zpm",
@@ -5751,7 +5750,7 @@
       "name": "zigtools",
       "avatarUrl": "https://avatars.githubusercontent.com/u/65322356?v=4"
     },
-    "stars": 90,
+    "stars": 91,
     "starsDetail": null,
     "license": null,
     "forks": 9,
@@ -5763,7 +5762,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2020-05-21T01:21:42.000Z",
-    "updatedAt": "2024-11-20T03:55:49.000Z"
+    "updatedAt": "2025-01-04T16:21:08.000Z"
   },
   {
     "id": "zigwasm/wasm-zig",
@@ -5792,7 +5791,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2021-05-26T07:47:12.000Z",
-    "updatedAt": "2024-11-20T03:55:43.000Z"
+    "updatedAt": "2025-01-04T16:21:01.000Z"
   },
   {
     "id": "zigwasm/wasmer-zig",
@@ -5821,7 +5820,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2021-05-25T14:29:51.000Z",
-    "updatedAt": "2024-11-20T03:55:43.000Z"
+    "updatedAt": "2025-01-04T16:21:02.000Z"
   },
   {
     "id": "zigwasm/wasmtime-zig",
@@ -5838,7 +5837,7 @@
       "name": "zigwasm",
       "avatarUrl": "https://avatars.githubusercontent.com/u/84904715?v=4"
     },
-    "stars": 83,
+    "stars": 84,
     "starsDetail": null,
     "license": "Apache License 2.0",
     "forks": 8,
@@ -5850,7 +5849,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2020-05-14T17:44:48.000Z",
-    "updatedAt": "2024-11-20T03:55:44.000Z"
+    "updatedAt": "2025-01-04T16:21:02.000Z"
   },
   {
     "id": "zigzap/zap",
@@ -5869,10 +5868,10 @@
       "name": "zigzap",
       "avatarUrl": "https://avatars.githubusercontent.com/u/125233599?v=4"
     },
-    "stars": 2372,
+    "stars": 2484,
     "starsDetail": null,
     "license": "MIT License",
-    "forks": 79,
+    "forks": 84,
     "primaryLanguage": "C#",
     "pushedAt": "2024-10-20T21:42:37.000Z",
     "archived": false,
@@ -5881,7 +5880,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2023-01-12T21:36:31.000Z",
-    "updatedAt": "2024-11-20T03:55:39.000Z"
+    "updatedAt": "2025-01-04T16:20:58.000Z"
   },
   {
     "id": "zon-dev/zinc",
@@ -5909,18 +5908,18 @@
       "name": "zon-dev",
       "avatarUrl": "https://avatars.githubusercontent.com/u/163546630?v=4"
     },
-    "stars": 29,
+    "stars": 45,
     "starsDetail": null,
     "license": "MIT License",
     "forks": 0,
     "primaryLanguage": "JavaScript",
-    "pushedAt": "2024-10-27T09:05:35.000Z",
+    "pushedAt": "2024-12-06T08:31:30.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-03-19T12:40:08.000Z",
-    "updatedAt": "2024-11-20T03:55:45.000Z"
+    "updatedAt": "2025-01-04T16:21:04.000Z"
   }
 ]
