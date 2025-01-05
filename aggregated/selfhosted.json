@@ -1,5 +1,89 @@
 [
   {
+    "id": "monicahq/monica",
+    "name": "monicahq/monica",
+    "description": "Personal CRM. Remember everything about your friends, family and business relationships.",
+    "topics": [
+      "crm",
+      "family",
+      "friends",
+      "hacktoberfest",
+      "laravel",
+      "php",
+      "prm",
+      "social"
+    ],
+    "owner": {
+      "name": "monicahq",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/25832602?v=4"
+    },
+    "stars": 21962,
+    "starsDetail": {
+      "total": 21962,
+      "week": 31,
+      "month": [
+        219,
+        218,
+        1733382549
+      ],
+      "year": 2095,
+      "updatedAt": 1736060956
+    },
+    "license": "GNU Affero General Public License v3.0",
+    "forks": 2200,
+    "primaryLanguage": "PLpgSQL",
+    "pushedAt": "2024-12-23T02:43:45.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2017-02-17T00:02:58.000Z",
+    "updatedAt": "2025-01-04T16:12:08.000Z"
+  },
+  {
+    "id": "tanrax/maza-ad-blocking",
+    "name": "tanrax/maza-ad-blocking",
+    "description": "Simple, native and efficient local ad blocker. Only Bash.",
+    "topics": [
+      "ads",
+      "bash",
+      "blocker-proxy",
+      "dnsmasq",
+      "linux",
+      "macos",
+      "maza",
+      "pi-hole"
+    ],
+    "owner": {
+      "name": "tanrax",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/4553672?v=4"
+    },
+    "stars": 1807,
+    "starsDetail": {
+      "total": 1807,
+      "week": 0,
+      "month": [
+        19,
+        18,
+        1733383275
+      ],
+      "year": 84,
+      "updatedAt": 1736061678
+    },
+    "license": "Apache License 2.0",
+    "forks": 67,
+    "primaryLanguage": "Dockerfile",
+    "pushedAt": "2024-12-23T13:00:22.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2020-01-03T06:41:48.000Z",
+    "updatedAt": "2025-01-04T16:17:15.000Z"
+  },
+  {
     "id": "thomaspoignant/go-feature-flag",
     "name": "thomaspoignant/go-feature-flag",
     "description": "GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️",
@@ -129,6 +213,52 @@
     "updatedAt": "2025-01-04T15:10:03.000Z"
   },
   {
+    "id": "invoiceninja/invoiceninja",
+    "name": "invoiceninja/invoiceninja",
+    "description": "A source-available invoice, quote, project and time-tracking app built with Laravel",
+    "topics": [
+      "einvoicing",
+      "expenses",
+      "flutter",
+      "hacktoberfest",
+      "invoice",
+      "invoiceninja",
+      "invoices",
+      "javascript",
+      "kanban",
+      "laravel",
+      "payments",
+      "php",
+      "projects",
+      "quotes",
+      "tasks",
+      "time-tracker"
+    ],
+    "owner": {
+      "name": "invoiceninja",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/15712270?v=4"
+    },
+    "stars": 8430,
+    "starsDetail": {
+      "total": 8430,
+      "week": 18,
+      "month": 97,
+      "year": 1095,
+      "updatedAt": 1736060944
+    },
+    "license": "Other",
+    "forks": 2296,
+    "primaryLanguage": "TypeScript",
+    "pushedAt": "2025-01-04T08:40:44.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2013-11-26T12:30:05.000Z",
+    "updatedAt": "2025-01-04T16:12:07.000Z"
+  },
+  {
     "id": "svenstaro/miniserve",
     "name": "svenstaro/miniserve",
     "description": "🌟 For when you really just want to serve some files over HTTP right now!",
@@ -241,6 +371,84 @@
     "updatedAt": "2025-01-04T12:28:59.000Z"
   },
   {
+    "id": "graphhopper/graphhopper",
+    "name": "graphhopper/graphhopper",
+    "description": "Open source routing engine for OpenStreetMap. Use it as Java library or standalone web server.",
+    "topics": [
+      "astar",
+      "dijkstra",
+      "directions",
+      "geospatial",
+      "graphhopper",
+      "isochrones",
+      "java",
+      "map-matching",
+      "openstreetmap",
+      "pathfinding",
+      "public-transportation",
+      "routing",
+      "routing-engine"
+    ],
+    "owner": {
+      "name": "graphhopper",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/2264498?v=4"
+    },
+    "stars": 5542,
+    "starsDetail": {
+      "total": 5542,
+      "week": 13,
+      "month": 88,
+      "year": 1072,
+      "updatedAt": 1736057956
+    },
+    "license": "Apache License 2.0",
+    "forks": 1651,
+    "primaryLanguage": "HTML",
+    "pushedAt": "2025-01-04T13:17:14.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2012-02-18T19:57:38.000Z",
+    "updatedAt": "2025-01-04T15:24:30.000Z"
+  },
+  {
+    "id": "postalserver/postal",
+    "name": "postalserver/postal",
+    "description": "📮 A fully featured open source mail delivery platform for incoming & outgoing e-mail",
+    "topics": [
+      "mail",
+      "mail-server",
+      "postal",
+      "ruby",
+      "smtp"
+    ],
+    "owner": {
+      "name": "postalserver",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/58169103?v=4"
+    },
+    "stars": 15060,
+    "starsDetail": {
+      "total": 15060,
+      "week": 18,
+      "month": 88,
+      "year": 1765,
+      "updatedAt": 1736059849
+    },
+    "license": "MIT License",
+    "forks": 1073,
+    "primaryLanguage": "JavaScript",
+    "pushedAt": "2024-12-24T02:01:27.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2017-04-19T12:04:57.000Z",
+    "updatedAt": "2025-01-04T12:06:54.000Z"
+  },
+  {
     "id": "NodeBB/NodeBB",
     "name": "NodeBB/NodeBB",
     "description": "Node.js based forum software built for the modern web",
@@ -316,6 +524,41 @@
     "goImportedBy": null,
     "createdAt": "2018-04-05T10:48:37.000Z",
     "updatedAt": "2025-01-04T22:43:43.000Z"
+  },
+  {
+    "id": "misskey-dev/misskey",
+    "name": "misskey-dev/misskey",
+    "description": "🌎 A completely free and open interplanetary microblogging platform 🚀",
+    "topics": [
+      "activitypub",
+      "federation",
+      "fediverse",
+      "microblog",
+      "misskey"
+    ],
+    "owner": {
+      "name": "misskey-dev",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/81036415?v=4"
+    },
+    "stars": 10215,
+    "starsDetail": {
+      "total": 10215,
+      "week": 11,
+      "month": 85,
+      "year": 1578,
+      "updatedAt": 1736061913
+    },
+    "license": "GNU Affero General Public License v3.0",
+    "forks": 1393,
+    "primaryLanguage": "Procfile",
+    "pushedAt": "2025-01-04T12:15:43.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2016-12-25T13:16:07.000Z",
+    "updatedAt": "2025-01-04T16:19:07.000Z"
   },
   {
     "id": "aimeos/aimeos",
@@ -405,6 +648,56 @@
     "goImportedBy": 0,
     "createdAt": "2019-11-06T09:03:31.000Z",
     "updatedAt": "2025-01-04T14:46:59.000Z"
+  },
+  {
+    "id": "firezone/firezone",
+    "name": "firezone/firezone",
+    "description": "Enterprise-ready zero-trust access platform built on WireGuard®.",
+    "topics": [
+      "cloud",
+      "devsecops",
+      "elixir",
+      "elixir-lang",
+      "firewall",
+      "liveview",
+      "network",
+      "network-security",
+      "networking",
+      "phoenix",
+      "privacy",
+      "rust-lang",
+      "security",
+      "self-hosted",
+      "virtual-network",
+      "vpn",
+      "vpn-server",
+      "wireguard",
+      "wireguard-ui",
+      "wireguard-vpn"
+    ],
+    "owner": {
+      "name": "firezone",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/87211124?v=4"
+    },
+    "stars": 6948,
+    "starsDetail": {
+      "total": 6948,
+      "week": 25,
+      "month": 78,
+      "year": 1336,
+      "updatedAt": 1736060703
+    },
+    "license": "Apache License 2.0",
+    "forks": 287,
+    "primaryLanguage": "MDX",
+    "pushedAt": "2025-01-04T03:03:02.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2020-04-22T04:05:12.000Z",
+    "updatedAt": "2025-01-04T16:07:26.000Z"
   },
   {
     "id": "simonw/datasette",
@@ -551,6 +844,42 @@
     "updatedAt": "2025-01-04T14:31:25.000Z"
   },
   {
+    "id": "trytouca/trytouca",
+    "name": "trytouca/trytouca",
+    "description": "Continuous Regression Testing for Engineering Teams",
+    "topics": [
+      "developer-tools",
+      "open-source",
+      "performance-testing",
+      "regression-testing",
+      "snapshot-testing",
+      "testing-tools"
+    ],
+    "owner": {
+      "name": "trytouca",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/76232131?v=4"
+    },
+    "stars": 500,
+    "starsDetail": {
+      "total": 500,
+      "week": 4,
+      "month": 7,
+      "year": 44,
+      "updatedAt": 1736058471
+    },
+    "license": "Apache License 2.0",
+    "forks": 25,
+    "primaryLanguage": "Makefile",
+    "pushedAt": "2024-08-04T05:32:25.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2022-03-11T17:32:38.000Z",
+    "updatedAt": "2025-01-04T15:27:30.000Z"
+  },
+  {
     "id": "foxcpp/maddy",
     "name": "foxcpp/maddy",
     "description": "✉️ Composable all-in-one mail server.",
@@ -586,6 +915,56 @@
     "goImportedBy": 0,
     "createdAt": "2016-11-07T16:26:13.000Z",
     "updatedAt": "2025-01-04T14:31:23.000Z"
+  },
+  {
+    "id": "spree/spree",
+    "name": "spree/spree",
+    "description": "An open source eCommerce platform giving you full control and customizability. Modular and API-first. Multi-vendor, multi-tenant, multi-store, multi-currency, multi-language. Built using Ruby on Rails. Developed by @vendo-dev",
+    "topics": [
+      "cart",
+      "e-commerce",
+      "ecommerce",
+      "ecommerce-api",
+      "ecommerce-framework",
+      "ecommerce-platform",
+      "marketplace",
+      "multi-tenant",
+      "multi-vendor",
+      "multi-vendor-ecommerce",
+      "open-source",
+      "rails",
+      "ruby",
+      "rubyonrails",
+      "shop",
+      "spree",
+      "spree-commerce",
+      "spreecommerce",
+      "store",
+      "white-label"
+    ],
+    "owner": {
+      "name": "spree",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/56702?v=4"
+    },
+    "stars": 13189,
+    "starsDetail": {
+      "total": 13189,
+      "week": 10,
+      "month": 68,
+      "year": 830,
+      "updatedAt": 1736059833
+    },
+    "license": "Other",
+    "forks": 4959,
+    "primaryLanguage": "SCSS",
+    "pushedAt": "2025-01-03T17:49:44.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2008-03-10T14:45:35.000Z",
+    "updatedAt": "2025-01-04T15:51:59.000Z"
   },
   {
     "id": "getfider/fider",
@@ -671,6 +1050,42 @@
     "updatedAt": "2025-01-04T15:08:47.000Z"
   },
   {
+    "id": "qbittorrent/qBittorrent",
+    "name": "qbittorrent/qBittorrent",
+    "description": "qBittorrent BitTorrent client",
+    "topics": [
+      "bittorrent",
+      "bittorrent-client",
+      "c-plus-plus",
+      "crossplatform",
+      "torrent",
+      "torrent-client"
+    ],
+    "owner": {
+      "name": "qbittorrent",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/2131270?v=4"
+    },
+    "stars": 29239,
+    "starsDetail": {
+      "total": 29239,
+      "week": 223,
+      "month": 623,
+      "year": 6155,
+      "updatedAt": 1736061446
+    },
+    "license": "Other",
+    "forks": 4057,
+    "primaryLanguage": "Shell",
+    "pushedAt": "2024-12-31T13:43:39.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2012-02-04T09:37:46.000Z",
+    "updatedAt": "2025-01-04T16:19:25.000Z"
+  },
+  {
     "id": "openziti/ziti",
     "name": "openziti/ziti",
     "description": "The parent project for OpenZiti. Here you will find the executables for a fully zero trust, application embedded, programmable network @OpenZiti",
@@ -719,6 +1134,44 @@
     "goImportedBy": 0,
     "createdAt": "2019-11-22T15:27:24.000Z",
     "updatedAt": "2025-01-04T14:54:10.000Z"
+  },
+  {
+    "id": "standardnotes/app",
+    "name": "standardnotes/app",
+    "description": "Think fearlessly with end-to-end encrypted notes and files. For issues, visit https://standardnotes.com/forum or https://standardnotes.com/help.",
+    "topics": [
+      "encrypted",
+      "evernote",
+      "markdown",
+      "note-taking",
+      "notes",
+      "privacy",
+      "secure",
+      "snippets"
+    ],
+    "owner": {
+      "name": "standardnotes",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/24537496?v=4"
+    },
+    "stars": 5462,
+    "starsDetail": {
+      "total": 5462,
+      "week": 15,
+      "month": 52,
+      "year": 894,
+      "updatedAt": 1736061363
+    },
+    "license": "GNU Affero General Public License v3.0",
+    "forks": 434,
+    "primaryLanguage": "Prolog",
+    "pushedAt": "2025-01-02T08:51:02.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2016-12-05T23:31:33.000Z",
+    "updatedAt": "2025-01-04T16:18:11.000Z"
   },
   {
     "id": "static-web-server/static-web-server",
@@ -820,6 +1273,47 @@
     "updatedAt": "2025-01-04T15:13:55.000Z"
   },
   {
+    "id": "aptabase/aptabase",
+    "name": "aptabase/aptabase",
+    "description": "✨ Open Source, Privacy-First and Simple Analytics for Mobile, Desktop and Web Apps",
+    "topics": [
+      "analytics",
+      "android",
+      "electron",
+      "flutter",
+      "ios",
+      "maui",
+      "nativescript",
+      "privacy",
+      "react-native",
+      "swift",
+      "tauri"
+    ],
+    "owner": {
+      "name": "aptabase",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/126899775?v=4"
+    },
+    "stars": 1025,
+    "starsDetail": {
+      "total": 1025,
+      "week": 7,
+      "month": 46,
+      "year": 638,
+      "updatedAt": 1736059019
+    },
+    "license": "GNU Affero General Public License v3.0",
+    "forks": 65,
+    "primaryLanguage": "Makefile",
+    "pushedAt": "2024-12-31T15:48:27.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2023-03-25T21:38:10.000Z",
+    "updatedAt": "2025-01-04T15:44:08.000Z"
+  },
+  {
     "id": "svix/svix-webhooks",
     "name": "svix/svix-webhooks",
     "description": "The enterprise-ready webhooks service 🦀",
@@ -868,6 +1362,42 @@
     "goImportedBy": null,
     "createdAt": "2021-02-25T13:49:38.000Z",
     "updatedAt": "2025-01-04T12:22:05.000Z"
+  },
+  {
+    "id": "pixelfed/pixelfed",
+    "name": "pixelfed/pixelfed",
+    "description": "Photo Sharing. For Everyone.",
+    "topics": [
+      "activitypub",
+      "federation",
+      "fediverse",
+      "laravel",
+      "pixelfed",
+      "social-network"
+    ],
+    "owner": {
+      "name": "pixelfed",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/38410642?v=4"
+    },
+    "stars": 5719,
+    "starsDetail": {
+      "total": 5719,
+      "week": 8,
+      "month": 44,
+      "year": 550,
+      "updatedAt": 1736060959
+    },
+    "license": "GNU Affero General Public License v3.0",
+    "forks": 683,
+    "primaryLanguage": "Procfile",
+    "pushedAt": "2025-01-04T11:48:39.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2018-04-17T01:48:45.000Z",
+    "updatedAt": "2025-01-04T16:12:09.000Z"
   },
   {
     "id": "TiddlyWiki/TiddlyWiki5",
@@ -989,6 +1519,43 @@
     "updatedAt": "2025-01-04T14:51:10.000Z"
   },
   {
+    "id": "gollum/gollum",
+    "name": "gollum/gollum",
+    "description": "A simple, Git-powered wiki with a local frontend and support for many kinds of markup and content.",
+    "topics": [
+      "documentation",
+      "documentation-tool",
+      "gollum",
+      "jruby-support",
+      "markdown",
+      "ruby",
+      "wiki"
+    ],
+    "owner": {
+      "name": "gollum",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/3840027?v=4"
+    },
+    "stars": 13893,
+    "starsDetail": {
+      "total": 13893,
+      "week": 10,
+      "month": 39,
+      "year": 583,
+      "updatedAt": 1736059824
+    },
+    "license": "MIT License",
+    "forks": 1564,
+    "primaryLanguage": "CSS",
+    "pushedAt": "2025-01-03T14:00:15.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2010-03-29T18:30:53.000Z",
+    "updatedAt": "2025-01-04T15:51:54.000Z"
+  },
+  {
     "id": "atomicdata-dev/atomic-server",
     "name": "atomicdata-dev/atomic-server",
     "description": "An open source headless CMS / real-time database. Powerful table editor, full-text search, and SDKs for JS / React / Svelte.",
@@ -1027,6 +1594,46 @@
     "goImportedBy": null,
     "createdAt": "2020-07-04T21:14:03.000Z",
     "updatedAt": "2025-01-04T22:46:43.000Z"
+  },
+  {
+    "id": "kovidgoyal/calibre",
+    "name": "kovidgoyal/calibre",
+    "description": "The official source code repository for the calibre ebook manager",
+    "topics": [
+      "calibre",
+      "ebook",
+      "ebook-formats",
+      "ebook-manager",
+      "ebook-reader",
+      "ebooks",
+      "epub",
+      "epub-generation",
+      "kindle",
+      "python"
+    ],
+    "owner": {
+      "name": "kovidgoyal",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1308621?v=4"
+    },
+    "stars": 20238,
+    "starsDetail": {
+      "total": 20238,
+      "week": 79,
+      "month": 297,
+      "year": 3103,
+      "updatedAt": 1736061512
+    },
+    "license": "GNU General Public License v3.0",
+    "forks": 2290,
+    "primaryLanguage": "CMake",
+    "pushedAt": "2025-01-04T13:28:38.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2013-05-28T10:03:23.000Z",
+    "updatedAt": "2025-01-04T16:18:13.000Z"
   },
   {
     "id": "modoboa/modoboa",
@@ -1108,6 +1715,126 @@
     "goImportedBy": 0,
     "createdAt": "2019-01-01T08:04:37.000Z",
     "updatedAt": "2025-01-04T14:46:46.000Z"
+  },
+  {
+    "id": "ActivityWatch/activitywatch",
+    "name": "ActivityWatch/activitywatch",
+    "description": "The best free and open-source automated time tracker. Cross-platform, extensible, privacy-focused.",
+    "topics": [
+      "activitywatch",
+      "afk",
+      "analytics",
+      "app",
+      "cross-platform",
+      "dashboard",
+      "productivity",
+      "quantified-self",
+      "time-tracker",
+      "time-tracking",
+      "timetracker",
+      "timetracking"
+    ],
+    "owner": {
+      "name": "ActivityWatch",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/18249061?v=4"
+    },
+    "stars": 12960,
+    "starsDetail": {
+      "total": 12960,
+      "week": 64,
+      "month": 247,
+      "year": 3064,
+      "updatedAt": 1736062006
+    },
+    "license": "Mozilla Public License 2.0",
+    "forks": 585,
+    "primaryLanguage": "Batchfile",
+    "pushedAt": "2024-10-17T17:29:28.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2016-04-27T15:26:09.000Z",
+    "updatedAt": "2025-01-04T16:19:49.000Z"
+  },
+  {
+    "id": "microweber/microweber",
+    "name": "microweber/microweber",
+    "description": "Drag and Drop Website Builder and CMS with E-commerce",
+    "topics": [
+      "cms",
+      "content-management",
+      "drag-and-drop",
+      "ecommerce",
+      "javascript",
+      "laravel",
+      "microweber",
+      "php",
+      "shopping-cart",
+      "website-builder"
+    ],
+    "owner": {
+      "name": "microweber",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/281507?v=4"
+    },
+    "stars": 3167,
+    "starsDetail": {
+      "total": 3167,
+      "week": 8,
+      "month": 24,
+      "year": 316,
+      "updatedAt": 1736060968
+    },
+    "license": "MIT License",
+    "forks": 887,
+    "primaryLanguage": "Sass",
+    "pushedAt": "2024-12-20T10:37:47.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2010-10-07T09:04:43.000Z",
+    "updatedAt": "2025-01-04T16:12:12.000Z"
+  },
+  {
+    "id": "solidusio/solidus",
+    "name": "solidusio/solidus",
+    "description": "🛒 Solidus, the open-source eCommerce framework for industry trailblazers.",
+    "topics": [
+      "ecommerce",
+      "ecommerce-framework",
+      "ecommerce-platform",
+      "hacktoberfest",
+      "rails",
+      "ruby",
+      "solidus",
+      "storefront"
+    ],
+    "owner": {
+      "name": "solidusio",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/11045486?v=4"
+    },
+    "stars": 5062,
+    "starsDetail": {
+      "total": 5062,
+      "week": 4,
+      "month": 24,
+      "year": 308,
+      "updatedAt": 1736059831
+    },
+    "license": "Other",
+    "forks": 1299,
+    "primaryLanguage": "CSS",
+    "pushedAt": "2025-01-03T15:51:29.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2015-02-18T20:41:58.000Z",
+    "updatedAt": "2025-01-04T15:51:59.000Z"
   },
   {
     "id": "wabarc/wayback",
@@ -1235,6 +1962,40 @@
     "updatedAt": "2025-01-04T22:44:43.000Z"
   },
   {
+    "id": "gitbucket/gitbucket",
+    "name": "gitbucket/gitbucket",
+    "description": "A Git platform powered by Scala with easy installation, high extensibility & GitHub API compatibility",
+    "topics": [
+      "git",
+      "gitbucket",
+      "scala",
+      "scalatra"
+    ],
+    "owner": {
+      "name": "gitbucket",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/11145783?v=4"
+    },
+    "stars": 9182,
+    "starsDetail": {
+      "total": 9182,
+      "week": 6,
+      "month": 22,
+      "year": 258,
+      "updatedAt": 1736061064
+    },
+    "license": "Apache License 2.0",
+    "forks": 1251,
+    "primaryLanguage": "Shell",
+    "pushedAt": "2025-01-03T03:05:41.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2013-04-10T16:41:35.000Z",
+    "updatedAt": "2025-01-04T16:13:49.000Z"
+  },
+  {
     "id": "agersant/polaris",
     "name": "agersant/polaris",
     "description": "Polaris is a music streaming application, designed to let you enjoy your music collection from any computer or mobile device.",
@@ -1262,6 +2023,43 @@
     "goImportedBy": null,
     "createdAt": "2016-08-14T08:28:45.000Z",
     "updatedAt": "2025-01-04T22:46:16.000Z"
+  },
+  {
+    "id": "diaspora/diaspora",
+    "name": "diaspora/diaspora",
+    "description": "A privacy-aware, distributed, open source social network.",
+    "topics": [
+      "decentralized",
+      "distributed",
+      "federated",
+      "hacktoberfest",
+      "rails",
+      "ruby",
+      "social-network"
+    ],
+    "owner": {
+      "name": "diaspora",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/293207?v=4"
+    },
+    "stars": 13418,
+    "starsDetail": {
+      "total": 13418,
+      "week": 8,
+      "month": 20,
+      "year": 199,
+      "updatedAt": 1736060083
+    },
+    "license": "GNU Affero General Public License v3.0",
+    "forks": 2917,
+    "primaryLanguage": "Procfile",
+    "pushedAt": "2024-09-04T23:40:40.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2010-09-15T05:20:04.000Z",
+    "updatedAt": "2025-01-04T15:54:10.000Z"
   },
   {
     "id": "mariocandela/beelzebub",
@@ -1541,6 +2339,41 @@
     "updatedAt": "2025-01-04T22:48:23.000Z"
   },
   {
+    "id": "stringer-rss/stringer",
+    "name": "stringer-rss/stringer",
+    "description": "A self-hosted, anti-social RSS reader.",
+    "topics": [
+      "feed-reader",
+      "feedjira",
+      "rss",
+      "rss-reader",
+      "ruby"
+    ],
+    "owner": {
+      "name": "stringer-rss",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/96632003?v=4"
+    },
+    "stars": 3961,
+    "starsDetail": {
+      "total": 3961,
+      "week": 2,
+      "month": 18,
+      "year": 259,
+      "updatedAt": 1736060041
+    },
+    "license": "MIT License",
+    "forks": 396,
+    "primaryLanguage": "Procfile",
+    "pushedAt": "2025-01-02T02:59:11.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2013-04-06T04:51:27.000Z",
+    "updatedAt": "2025-01-04T12:07:28.000Z"
+  },
+  {
     "id": "webtorrent/instant.io",
     "name": "webtorrent/instant.io",
     "description": "🚀 Streaming file transfer over WebTorrent (torrents on the web)",
@@ -1665,6 +2498,35 @@
     "updatedAt": "2025-01-04T14:50:02.000Z"
   },
   {
+    "id": "transmission/transmission",
+    "name": "transmission/transmission",
+    "description": "Official Transmission BitTorrent client repository",
+    "topics": [],
+    "owner": {
+      "name": "transmission",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/223312?v=4"
+    },
+    "stars": 12484,
+    "starsDetail": {
+      "total": 12484,
+      "week": 27,
+      "month": 173,
+      "year": 1786,
+      "updatedAt": 1736061436
+    },
+    "license": "Other",
+    "forks": 1233,
+    "primaryLanguage": "Batchfile",
+    "pushedAt": "2025-01-01T14:55:53.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2015-05-05T23:53:02.000Z",
+    "updatedAt": "2025-01-04T16:19:24.000Z"
+  },
+  {
     "id": "apostrophecms/apostrophe",
     "name": "apostrophecms/apostrophe",
     "description": "A full-featured, open-source content management framework built with Node.js that empowers organizations by combining in-context editing and headless architecture in a full-stack JS environment.",
@@ -1739,6 +2601,53 @@
     "updatedAt": "2025-01-04T15:08:55.000Z"
   },
   {
+    "id": "xbmc/xbmc",
+    "name": "xbmc/xbmc",
+    "description": "Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for Android, BSD, Linux, macOS, iOS, tvOS and Windows.",
+    "topics": [
+      "android",
+      "c-plus-plus",
+      "entertainment-hub",
+      "hacktoberfest",
+      "home-theater",
+      "ios",
+      "kodi",
+      "linux",
+      "macos",
+      "media-center",
+      "media-player",
+      "multimedia",
+      "python",
+      "windows-desktop",
+      "windows-uwp",
+      "xbmc",
+      "xml"
+    ],
+    "owner": {
+      "name": "xbmc",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/199122?v=4"
+    },
+    "stars": 18727,
+    "starsDetail": {
+      "total": 18727,
+      "week": 43,
+      "month": 154,
+      "year": 2202,
+      "updatedAt": 1736061931
+    },
+    "license": "Other",
+    "forks": 6325,
+    "primaryLanguage": "SWIG",
+    "pushedAt": "2025-01-04T07:11:28.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2011-01-03T21:18:51.000Z",
+    "updatedAt": "2025-01-04T16:19:14.000Z"
+  },
+  {
     "id": "juspay/hyperswitch",
     "name": "juspay/hyperswitch",
     "description": "An open source payments switch written in Rust to make payments fast, reliable and affordable",
@@ -1781,6 +2690,42 @@
     "goImportedBy": null,
     "createdAt": "2022-10-17T11:18:28.000Z",
     "updatedAt": "2025-01-04T22:47:25.000Z"
+  },
+  {
+    "id": "Squidex/squidex",
+    "name": "Squidex/squidex",
+    "description": "Headless CMS and Content Managment Hub",
+    "topics": [
+      "asp-net",
+      "asp-net-core",
+      "cms",
+      "csharp",
+      "headless-cms",
+      "mongodb"
+    ],
+    "owner": {
+      "name": "Squidex",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/25371797?v=4"
+    },
+    "stars": 2291,
+    "starsDetail": {
+      "total": 2291,
+      "week": 1,
+      "month": 14,
+      "year": 262,
+      "updatedAt": 1736059193
+    },
+    "license": "MIT License",
+    "forks": 461,
+    "primaryLanguage": "Batchfile",
+    "pushedAt": "2024-12-29T00:10:11.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2016-08-29T05:53:40.000Z",
+    "updatedAt": "2025-01-04T15:46:42.000Z"
   },
   {
     "id": "documize/community",
@@ -1912,6 +2857,56 @@
     "updatedAt": "2025-01-04T14:48:50.000Z"
   },
   {
+    "id": "allinurl/goaccess",
+    "name": "allinurl/goaccess",
+    "description": "GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.",
+    "topics": [
+      "analytics",
+      "apache",
+      "c",
+      "caddy",
+      "cli",
+      "command-line",
+      "dashboard",
+      "data-analysis",
+      "gdpr",
+      "goaccess",
+      "google-analytics",
+      "monitoring",
+      "ncurses",
+      "nginx",
+      "privacy",
+      "real-time",
+      "terminal",
+      "tui",
+      "web-analytics",
+      "webserver"
+    ],
+    "owner": {
+      "name": "allinurl",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/5005367?v=4"
+    },
+    "stars": 18728,
+    "starsDetail": {
+      "total": 18728,
+      "week": 24,
+      "month": 138,
+      "year": 1820,
+      "updatedAt": 1736061672
+    },
+    "license": "MIT License",
+    "forks": 1117,
+    "primaryLanguage": "Shell",
+    "pushedAt": "2024-11-26T13:14:55.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2013-07-14T03:42:08.000Z",
+    "updatedAt": "2025-01-04T16:17:13.000Z"
+  },
+  {
     "id": "centrifugal/centrifugo",
     "name": "centrifugal/centrifugo",
     "description": "Scalable real-time messaging server in a language-agnostic way. Self-hosted alternative to Pubnub, Pusher, Ably. Set up once and forever.",
@@ -1957,6 +2952,53 @@
     "updatedAt": "2025-01-04T14:36:39.000Z"
   },
   {
+    "id": "LizardByte/Sunshine",
+    "name": "LizardByte/Sunshine",
+    "description": "Self-hosted game stream host for Moonlight.",
+    "topics": [
+      "cpp",
+      "docker",
+      "flathub-pkg",
+      "game-stream",
+      "game-streaming",
+      "game-streaming-server",
+      "geforce-experience",
+      "homebrew-pkg",
+      "maintainer-wanted",
+      "moonlight",
+      "pacman-pkg",
+      "python",
+      "remote-desktop",
+      "replicator-custom-issues",
+      "replicator-release-notifications",
+      "rtd",
+      "winget-pkg"
+    ],
+    "owner": {
+      "name": "LizardByte",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/84790584?v=4"
+    },
+    "stars": 21360,
+    "starsDetail": {
+      "total": 21360,
+      "week": 200,
+      "month": 1103,
+      "year": 12343,
+      "updatedAt": 1736062051
+    },
+    "license": "GNU General Public License v3.0",
+    "forks": 1021,
+    "primaryLanguage": "CSS",
+    "pushedAt": "2025-01-04T14:53:36.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2021-12-15T23:38:57.000Z",
+    "updatedAt": "2025-01-04T16:20:09.000Z"
+  },
+  {
     "id": "beetbox/beets",
     "name": "beetbox/beets",
     "description": "music library manager and MusicBrainz tagger",
@@ -1991,6 +3033,79 @@
     "goImportedBy": null,
     "createdAt": "2010-08-09T23:17:20.000Z",
     "updatedAt": "2025-01-04T15:08:48.000Z"
+  },
+  {
+    "id": "wesnoth/wesnoth",
+    "name": "wesnoth/wesnoth",
+    "description": "An open source, turn-based strategy game with a high fantasy theme.",
+    "topics": [
+      "fantasy",
+      "free",
+      "game",
+      "opensource",
+      "strategy-game",
+      "turn-based-strategy"
+    ],
+    "owner": {
+      "name": "wesnoth",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/4024232?v=4"
+    },
+    "stars": 5665,
+    "starsDetail": {
+      "total": 5665,
+      "week": 46,
+      "month": 106,
+      "year": 786,
+      "updatedAt": 1736061254
+    },
+    "license": "GNU General Public License v2.0",
+    "forks": 1036,
+    "primaryLanguage": "Batchfile",
+    "pushedAt": "2025-01-04T15:51:01.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2013-04-14T17:13:06.000Z",
+    "updatedAt": "2025-01-04T16:15:00.000Z"
+  },
+  {
+    "id": "umbraco/Umbraco-CMS",
+    "name": "umbraco/Umbraco-CMS",
+    "description": "Umbraco is a free and open source .NET content management system helping you deliver delightful digital experiences.",
+    "topics": [
+      "asp-net-core",
+      "cms",
+      "csharp",
+      "dotnet-core",
+      "hacktoberfest",
+      "umbraco",
+      "umbraco-cms"
+    ],
+    "owner": {
+      "name": "umbraco",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1419552?v=4"
+    },
+    "stars": 4643,
+    "starsDetail": {
+      "total": 4643,
+      "week": 17,
+      "month": 103,
+      "year": 660,
+      "updatedAt": 1736059193
+    },
+    "license": "MIT License",
+    "forks": 2729,
+    "primaryLanguage": "TSQL",
+    "pushedAt": "2025-01-03T16:59:51.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2013-06-10T13:50:46.000Z",
+    "updatedAt": "2025-01-04T15:46:42.000Z"
   },
   {
     "id": "conversejs/converse.js",
@@ -2106,6 +3221,40 @@
     "updatedAt": "2025-01-04T14:46:55.000Z"
   },
   {
+    "id": "publify/publify",
+    "name": "publify/publify",
+    "description": "A self hosted Web publishing platform on Rails.",
+    "topics": [
+      "blog-engine",
+      "hacktoberfest",
+      "rails",
+      "ruby"
+    ],
+    "owner": {
+      "name": "publify",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/6576968?v=4"
+    },
+    "stars": 1828,
+    "starsDetail": {
+      "total": 1828,
+      "week": 0,
+      "month": 0,
+      "year": 33,
+      "updatedAt": 1736059700
+    },
+    "license": "MIT License",
+    "forks": 3690,
+    "primaryLanguage": "CSS",
+    "pushedAt": "2024-12-30T11:11:03.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2008-10-23T14:45:23.000Z",
+    "updatedAt": "2025-01-04T15:50:55.000Z"
+  },
+  {
     "id": "0x2E/fusion",
     "name": "0x2E/fusion",
     "description": "A lightweight, self-hosted friendly RSS aggregator and reader",
@@ -2187,42 +3336,6 @@
     "goImportedBy": null,
     "createdAt": "2024-07-18T10:03:05.000Z",
     "updatedAt": "2025-01-04T12:14:20.000Z"
-  },
-  {
-    "id": "ActivityWatch/activitywatch",
-    "name": "ActivityWatch/activitywatch",
-    "description": "The best free and open-source automated time tracker. Cross-platform, extensible, privacy-focused.",
-    "topics": [
-      "activitywatch",
-      "afk",
-      "analytics",
-      "app",
-      "cross-platform",
-      "dashboard",
-      "productivity",
-      "quantified-self",
-      "time-tracker",
-      "time-tracking",
-      "timetracker",
-      "timetracking"
-    ],
-    "owner": {
-      "name": "ActivityWatch",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/18249061?v=4"
-    },
-    "stars": 12960,
-    "starsDetail": null,
-    "license": "Mozilla Public License 2.0",
-    "forks": 585,
-    "primaryLanguage": "Batchfile",
-    "pushedAt": "2024-10-17T17:29:28.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2016-04-27T15:26:09.000Z",
-    "updatedAt": "2025-01-04T16:19:49.000Z"
   },
   {
     "id": "AdguardTeam/AdGuardHome",
@@ -5211,47 +6324,6 @@
     "updatedAt": "2025-01-04T16:29:51.000Z"
   },
   {
-    "id": "LizardByte/Sunshine",
-    "name": "LizardByte/Sunshine",
-    "description": "Self-hosted game stream host for Moonlight.",
-    "topics": [
-      "cpp",
-      "docker",
-      "flathub-pkg",
-      "game-stream",
-      "game-streaming",
-      "game-streaming-server",
-      "geforce-experience",
-      "homebrew-pkg",
-      "maintainer-wanted",
-      "moonlight",
-      "pacman-pkg",
-      "python",
-      "remote-desktop",
-      "replicator-custom-issues",
-      "replicator-release-notifications",
-      "rtd",
-      "winget-pkg"
-    ],
-    "owner": {
-      "name": "LizardByte",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/84790584?v=4"
-    },
-    "stars": 21360,
-    "starsDetail": null,
-    "license": "GNU General Public License v3.0",
-    "forks": 1021,
-    "primaryLanguage": "CSS",
-    "pushedAt": "2025-01-04T14:53:36.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2021-12-15T23:38:57.000Z",
-    "updatedAt": "2025-01-04T16:20:09.000Z"
-  },
-  {
     "id": "Lodestone-Team/lodestone",
     "name": "Lodestone-Team/lodestone",
     "description": "A free, open source server hosting tool for Minecraft and other multiplayer games",
@@ -6764,36 +7836,6 @@
     "goImportedBy": null,
     "createdAt": "2011-02-10T07:49:27.000Z",
     "updatedAt": "2025-01-04T16:29:57.000Z"
-  },
-  {
-    "id": "Squidex/squidex",
-    "name": "Squidex/squidex",
-    "description": "Headless CMS and Content Managment Hub",
-    "topics": [
-      "asp-net",
-      "asp-net-core",
-      "cms",
-      "csharp",
-      "headless-cms",
-      "mongodb"
-    ],
-    "owner": {
-      "name": "Squidex",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/25371797?v=4"
-    },
-    "stars": 2291,
-    "starsDetail": null,
-    "license": "MIT License",
-    "forks": 461,
-    "primaryLanguage": "Batchfile",
-    "pushedAt": "2024-12-29T00:10:11.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2016-08-29T05:53:40.000Z",
-    "updatedAt": "2025-01-04T15:46:42.000Z"
   },
   {
     "id": "StackStorm/st2",
@@ -8398,50 +9440,6 @@
     "updatedAt": "2025-01-04T16:33:02.000Z"
   },
   {
-    "id": "allinurl/goaccess",
-    "name": "allinurl/goaccess",
-    "description": "GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.",
-    "topics": [
-      "analytics",
-      "apache",
-      "c",
-      "caddy",
-      "cli",
-      "command-line",
-      "dashboard",
-      "data-analysis",
-      "gdpr",
-      "goaccess",
-      "google-analytics",
-      "monitoring",
-      "ncurses",
-      "nginx",
-      "privacy",
-      "real-time",
-      "terminal",
-      "tui",
-      "web-analytics",
-      "webserver"
-    ],
-    "owner": {
-      "name": "allinurl",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/5005367?v=4"
-    },
-    "stars": 18728,
-    "starsDetail": null,
-    "license": "MIT License",
-    "forks": 1117,
-    "primaryLanguage": "Shell",
-    "pushedAt": "2024-11-26T13:14:55.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2013-07-14T03:42:08.000Z",
-    "updatedAt": "2025-01-04T16:17:13.000Z"
-  },
-  {
     "id": "almarklein/timetagger",
     "name": "almarklein/timetagger",
     "description": "Tag your time, get the insight",
@@ -8933,41 +9931,6 @@
     "goImportedBy": null,
     "createdAt": "2019-04-08T16:36:25.000Z",
     "updatedAt": "2025-01-04T16:33:49.000Z"
-  },
-  {
-    "id": "aptabase/aptabase",
-    "name": "aptabase/aptabase",
-    "description": "✨ Open Source, Privacy-First and Simple Analytics for Mobile, Desktop and Web Apps",
-    "topics": [
-      "analytics",
-      "android",
-      "electron",
-      "flutter",
-      "ios",
-      "maui",
-      "nativescript",
-      "privacy",
-      "react-native",
-      "swift",
-      "tauri"
-    ],
-    "owner": {
-      "name": "aptabase",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/126899775?v=4"
-    },
-    "stars": 1025,
-    "starsDetail": null,
-    "license": "GNU Affero General Public License v3.0",
-    "forks": 65,
-    "primaryLanguage": "Makefile",
-    "pushedAt": "2024-12-31T15:48:27.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2023-03-25T21:38:10.000Z",
-    "updatedAt": "2025-01-04T15:44:08.000Z"
   },
   {
     "id": "archivesspace/archivesspace",
@@ -12450,37 +13413,6 @@
     "updatedAt": "2025-01-04T16:29:20.000Z"
   },
   {
-    "id": "diaspora/diaspora",
-    "name": "diaspora/diaspora",
-    "description": "A privacy-aware, distributed, open source social network.",
-    "topics": [
-      "decentralized",
-      "distributed",
-      "federated",
-      "hacktoberfest",
-      "rails",
-      "ruby",
-      "social-network"
-    ],
-    "owner": {
-      "name": "diaspora",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/293207?v=4"
-    },
-    "stars": 13418,
-    "starsDetail": null,
-    "license": "GNU Affero General Public License v3.0",
-    "forks": 2917,
-    "primaryLanguage": "Procfile",
-    "pushedAt": "2024-09-04T23:40:40.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2010-09-15T05:20:04.000Z",
-    "updatedAt": "2025-01-04T15:54:10.000Z"
-  },
-  {
     "id": "diced/zipline",
     "name": "diced/zipline",
     "description": "A ShareX/file upload server that is easy to use, packed with features, and with an easy setup!",
@@ -12580,7 +13512,9 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/3220138?v=4"
     },
     "stars": 42766,
-    "starsDetail": null,
+    "starsDetail": {
+      "total": 42766
+    },
     "license": "GNU General Public License v2.0",
     "forks": 8386,
     "primaryLanguage": "CSS",
@@ -14316,50 +15250,6 @@
     "updatedAt": "2025-01-04T16:32:41.000Z"
   },
   {
-    "id": "firezone/firezone",
-    "name": "firezone/firezone",
-    "description": "Enterprise-ready zero-trust access platform built on WireGuard®.",
-    "topics": [
-      "cloud",
-      "devsecops",
-      "elixir",
-      "elixir-lang",
-      "firewall",
-      "liveview",
-      "network",
-      "network-security",
-      "networking",
-      "phoenix",
-      "privacy",
-      "rust-lang",
-      "security",
-      "self-hosted",
-      "virtual-network",
-      "vpn",
-      "vpn-server",
-      "wireguard",
-      "wireguard-ui",
-      "wireguard-vpn"
-    ],
-    "owner": {
-      "name": "firezone",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/87211124?v=4"
-    },
-    "stars": 6948,
-    "starsDetail": null,
-    "license": "Apache License 2.0",
-    "forks": 287,
-    "primaryLanguage": "MDX",
-    "pushedAt": "2025-01-04T03:03:02.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2020-04-22T04:05:12.000Z",
-    "updatedAt": "2025-01-04T16:07:26.000Z"
-  },
-  {
     "id": "fisharebest/webtrees",
     "name": "fisharebest/webtrees",
     "description": "Online genealogy",
@@ -15316,34 +16206,6 @@
     "updatedAt": "2025-01-04T16:33:51.000Z"
   },
   {
-    "id": "gitbucket/gitbucket",
-    "name": "gitbucket/gitbucket",
-    "description": "A Git platform powered by Scala with easy installation, high extensibility & GitHub API compatibility",
-    "topics": [
-      "git",
-      "gitbucket",
-      "scala",
-      "scalatra"
-    ],
-    "owner": {
-      "name": "gitbucket",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/11145783?v=4"
-    },
-    "stars": 9182,
-    "starsDetail": null,
-    "license": "Apache License 2.0",
-    "forks": 1251,
-    "primaryLanguage": "Shell",
-    "pushedAt": "2025-01-03T03:05:41.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2013-04-10T16:41:35.000Z",
-    "updatedAt": "2025-01-04T16:13:49.000Z"
-  },
-  {
     "id": "givanz/Vvveb",
     "name": "givanz/Vvveb",
     "description": "Powerful and easy to use cms to build websites, blogs or ecommerce stores.",
@@ -15560,37 +16422,6 @@
     "goImportedBy": null,
     "createdAt": "2014-02-12T01:57:08.000Z",
     "updatedAt": "2025-01-04T16:33:52.000Z"
-  },
-  {
-    "id": "gollum/gollum",
-    "name": "gollum/gollum",
-    "description": "A simple, Git-powered wiki with a local frontend and support for many kinds of markup and content.",
-    "topics": [
-      "documentation",
-      "documentation-tool",
-      "gollum",
-      "jruby-support",
-      "markdown",
-      "ruby",
-      "wiki"
-    ],
-    "owner": {
-      "name": "gollum",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/3840027?v=4"
-    },
-    "stars": 13893,
-    "starsDetail": null,
-    "license": "MIT License",
-    "forks": 1564,
-    "primaryLanguage": "CSS",
-    "pushedAt": "2025-01-03T14:00:15.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2010-03-29T18:30:53.000Z",
-    "updatedAt": "2025-01-04T15:51:54.000Z"
   },
   {
     "id": "goniszewski/grimoire",
@@ -15822,43 +16653,6 @@
     "goImportedBy": null,
     "createdAt": "2020-08-13T13:50:43.000Z",
     "updatedAt": "2025-01-04T16:31:41.000Z"
-  },
-  {
-    "id": "graphhopper/graphhopper",
-    "name": "graphhopper/graphhopper",
-    "description": "Open source routing engine for OpenStreetMap. Use it as Java library or standalone web server.",
-    "topics": [
-      "astar",
-      "dijkstra",
-      "directions",
-      "geospatial",
-      "graphhopper",
-      "isochrones",
-      "java",
-      "map-matching",
-      "openstreetmap",
-      "pathfinding",
-      "public-transportation",
-      "routing",
-      "routing-engine"
-    ],
-    "owner": {
-      "name": "graphhopper",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/2264498?v=4"
-    },
-    "stars": 5542,
-    "starsDetail": null,
-    "license": "Apache License 2.0",
-    "forks": 1651,
-    "primaryLanguage": "HTML",
-    "pushedAt": "2025-01-04T13:17:14.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2012-02-18T19:57:38.000Z",
-    "updatedAt": "2025-01-04T15:24:30.000Z"
   },
   {
     "id": "gravitational/teleport",
@@ -16369,7 +17163,9 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/5011328?v=4"
     },
     "stars": 387,
-    "starsDetail": null,
+    "starsDetail": {
+      "total": 387
+    },
     "license": "GNU Affero General Public License v3.0",
     "forks": 111,
     "primaryLanguage": "CSS",
@@ -16511,7 +17307,9 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/23225142?v=4"
     },
     "stars": 44129,
-    "starsDetail": null,
+    "starsDetail": {
+      "total": 44129
+    },
     "license": "MIT License",
     "forks": 3813,
     "primaryLanguage": "Makefile",
@@ -17249,46 +18047,6 @@
     "updatedAt": "2025-01-04T16:31:52.000Z"
   },
   {
-    "id": "invoiceninja/invoiceninja",
-    "name": "invoiceninja/invoiceninja",
-    "description": "A source-available invoice, quote, project and time-tracking app built with Laravel",
-    "topics": [
-      "einvoicing",
-      "expenses",
-      "flutter",
-      "hacktoberfest",
-      "invoice",
-      "invoiceninja",
-      "invoices",
-      "javascript",
-      "kanban",
-      "laravel",
-      "payments",
-      "php",
-      "projects",
-      "quotes",
-      "tasks",
-      "time-tracker"
-    ],
-    "owner": {
-      "name": "invoiceninja",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/15712270?v=4"
-    },
-    "stars": 8430,
-    "starsDetail": null,
-    "license": "Other",
-    "forks": 2296,
-    "primaryLanguage": "TypeScript",
-    "pushedAt": "2025-01-04T08:40:44.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2013-11-26T12:30:05.000Z",
-    "updatedAt": "2025-01-04T16:12:07.000Z"
-  },
-  {
     "id": "ioBroker/ioBroker",
     "name": "ioBroker/ioBroker",
     "description": "Automate your life!",
@@ -17699,7 +18457,9 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/45698031?v=4"
     },
     "stars": 36238,
-    "starsDetail": null,
+    "starsDetail": {
+      "total": 36238
+    },
     "license": "GNU General Public License v2.0",
     "forks": 3276,
     "primaryLanguage": "CSS",
@@ -18829,40 +19589,6 @@
     "updatedAt": "2025-01-04T16:33:09.000Z"
   },
   {
-    "id": "kovidgoyal/calibre",
-    "name": "kovidgoyal/calibre",
-    "description": "The official source code repository for the calibre ebook manager",
-    "topics": [
-      "calibre",
-      "ebook",
-      "ebook-formats",
-      "ebook-manager",
-      "ebook-reader",
-      "ebooks",
-      "epub",
-      "epub-generation",
-      "kindle",
-      "python"
-    ],
-    "owner": {
-      "name": "kovidgoyal",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/1308621?v=4"
-    },
-    "stars": 20238,
-    "starsDetail": null,
-    "license": "GNU General Public License v3.0",
-    "forks": 2290,
-    "primaryLanguage": "CMake",
-    "pushedAt": "2025-01-04T13:28:38.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2013-05-28T10:03:23.000Z",
-    "updatedAt": "2025-01-04T16:18:13.000Z"
-  },
-  {
     "id": "krateng/maloja",
     "name": "krateng/maloja",
     "description": "Self-hosted music scrobble database to create personal listening statistics and charts",
@@ -19148,7 +19874,9 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/1285584?v=4"
     },
     "stars": 46892,
-    "starsDetail": null,
+    "starsDetail": {
+      "total": 46892
+    },
     "license": "Other",
     "forks": 5101,
     "primaryLanguage": "Batchfile",
@@ -20363,7 +21091,9 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/24979032?v=4"
     },
     "stars": 47422,
-    "starsDetail": null,
+    "starsDetail": {
+      "total": 47422
+    },
     "license": "GNU Affero General Public License v3.0",
     "forks": 7035,
     "primaryLanguage": "CSS",
@@ -20464,7 +21194,9 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/9828093?v=4"
     },
     "stars": 31237,
-    "starsDetail": null,
+    "starsDetail": {
+      "total": 31237
+    },
     "license": "Other",
     "forks": 7475,
     "primaryLanguage": "Handlebars",
@@ -21050,40 +21782,6 @@
     "updatedAt": "2025-01-04T16:31:28.000Z"
   },
   {
-    "id": "microweber/microweber",
-    "name": "microweber/microweber",
-    "description": "Drag and Drop Website Builder and CMS with E-commerce",
-    "topics": [
-      "cms",
-      "content-management",
-      "drag-and-drop",
-      "ecommerce",
-      "javascript",
-      "laravel",
-      "microweber",
-      "php",
-      "shopping-cart",
-      "website-builder"
-    ],
-    "owner": {
-      "name": "microweber",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/281507?v=4"
-    },
-    "stars": 3167,
-    "starsDetail": null,
-    "license": "MIT License",
-    "forks": 887,
-    "primaryLanguage": "Sass",
-    "pushedAt": "2024-12-20T10:37:47.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2010-10-07T09:04:43.000Z",
-    "updatedAt": "2025-01-04T16:12:12.000Z"
-  },
-  {
     "id": "middlewarehq/middleware",
     "name": "middlewarehq/middleware",
     "description": "✨ Open-source DORA metrics platform for engineering teams ✨",
@@ -21425,35 +22123,6 @@
     "updatedAt": "2025-01-04T16:30:32.000Z"
   },
   {
-    "id": "misskey-dev/misskey",
-    "name": "misskey-dev/misskey",
-    "description": "🌎 A completely free and open interplanetary microblogging platform 🚀",
-    "topics": [
-      "activitypub",
-      "federation",
-      "fediverse",
-      "microblog",
-      "misskey"
-    ],
-    "owner": {
-      "name": "misskey-dev",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/81036415?v=4"
-    },
-    "stars": 10215,
-    "starsDetail": null,
-    "license": "GNU Affero General Public License v3.0",
-    "forks": 1393,
-    "primaryLanguage": "Procfile",
-    "pushedAt": "2025-01-04T12:15:43.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2016-12-25T13:16:07.000Z",
-    "updatedAt": "2025-01-04T16:19:07.000Z"
-  },
-  {
     "id": "misterunknown/ifm",
     "name": "misterunknown/ifm",
     "description": "Improved File Manager",
@@ -21623,38 +22292,6 @@
     "goImportedBy": null,
     "createdAt": "2010-07-29T21:03:57.000Z",
     "updatedAt": "2025-01-04T16:30:44.000Z"
-  },
-  {
-    "id": "monicahq/monica",
-    "name": "monicahq/monica",
-    "description": "Personal CRM. Remember everything about your friends, family and business relationships.",
-    "topics": [
-      "crm",
-      "family",
-      "friends",
-      "hacktoberfest",
-      "laravel",
-      "php",
-      "prm",
-      "social"
-    ],
-    "owner": {
-      "name": "monicahq",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/25832602?v=4"
-    },
-    "stars": 21962,
-    "starsDetail": null,
-    "license": "GNU Affero General Public License v3.0",
-    "forks": 2200,
-    "primaryLanguage": "PLpgSQL",
-    "pushedAt": "2024-12-23T02:43:45.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2017-02-17T00:02:58.000Z",
-    "updatedAt": "2025-01-04T16:12:08.000Z"
   },
   {
     "id": "moode-player/moode",
@@ -24639,36 +25276,6 @@
     "updatedAt": "2025-01-04T16:31:33.000Z"
   },
   {
-    "id": "pixelfed/pixelfed",
-    "name": "pixelfed/pixelfed",
-    "description": "Photo Sharing. For Everyone.",
-    "topics": [
-      "activitypub",
-      "federation",
-      "fediverse",
-      "laravel",
-      "pixelfed",
-      "social-network"
-    ],
-    "owner": {
-      "name": "pixelfed",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/38410642?v=4"
-    },
-    "stars": 5719,
-    "starsDetail": null,
-    "license": "GNU Affero General Public License v3.0",
-    "forks": 683,
-    "primaryLanguage": "Procfile",
-    "pushedAt": "2025-01-04T11:48:39.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2018-04-17T01:48:45.000Z",
-    "updatedAt": "2025-01-04T16:12:09.000Z"
-  },
-  {
     "id": "plausible/analytics",
     "name": "plausible/analytics",
     "description": "Simple, open source, lightweight (< 1 KB) and privacy-friendly web analytics alternative to Google Analytics.",
@@ -24840,35 +25447,6 @@
     "goImportedBy": null,
     "createdAt": "2014-07-14T20:57:48.000Z",
     "updatedAt": "2025-01-04T16:34:05.000Z"
-  },
-  {
-    "id": "postalserver/postal",
-    "name": "postalserver/postal",
-    "description": "📮 A fully featured open source mail delivery platform for incoming & outgoing e-mail",
-    "topics": [
-      "mail",
-      "mail-server",
-      "postal",
-      "ruby",
-      "smtp"
-    ],
-    "owner": {
-      "name": "postalserver",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/58169103?v=4"
-    },
-    "stars": 15060,
-    "starsDetail": null,
-    "license": "MIT License",
-    "forks": 1073,
-    "primaryLanguage": "JavaScript",
-    "pushedAt": "2024-12-24T02:01:27.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2017-04-19T12:04:57.000Z",
-    "updatedAt": "2025-01-04T12:06:54.000Z"
   },
   {
     "id": "prasathmani/tinyfilemanager",
@@ -25227,34 +25805,6 @@
     "updatedAt": "2025-01-04T16:31:38.000Z"
   },
   {
-    "id": "publify/publify",
-    "name": "publify/publify",
-    "description": "A self hosted Web publishing platform on Rails.",
-    "topics": [
-      "blog-engine",
-      "hacktoberfest",
-      "rails",
-      "ruby"
-    ],
-    "owner": {
-      "name": "publify",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/6576968?v=4"
-    },
-    "stars": 1828,
-    "starsDetail": null,
-    "license": "MIT License",
-    "forks": 3690,
-    "primaryLanguage": "CSS",
-    "pushedAt": "2024-12-30T11:11:03.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2008-10-23T14:45:23.000Z",
-    "updatedAt": "2025-01-04T15:50:55.000Z"
-  },
-  {
     "id": "pufferpanel/pufferpanel",
     "name": "pufferpanel/pufferpanel",
     "description": "PufferPanel is an open source game server management panel, designed for both small networks and personal use",
@@ -25459,36 +26009,6 @@
     "goImportedBy": null,
     "createdAt": "2016-02-23T06:02:11.000Z",
     "updatedAt": "2025-01-04T16:29:26.000Z"
-  },
-  {
-    "id": "qbittorrent/qBittorrent",
-    "name": "qbittorrent/qBittorrent",
-    "description": "qBittorrent BitTorrent client",
-    "topics": [
-      "bittorrent",
-      "bittorrent-client",
-      "c-plus-plus",
-      "crossplatform",
-      "torrent",
-      "torrent-client"
-    ],
-    "owner": {
-      "name": "qbittorrent",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/2131270?v=4"
-    },
-    "stars": 29239,
-    "starsDetail": null,
-    "license": "Other",
-    "forks": 4057,
-    "primaryLanguage": "Shell",
-    "pushedAt": "2024-12-31T13:43:39.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2012-02-04T09:37:46.000Z",
-    "updatedAt": "2025-01-04T16:19:25.000Z"
   },
   {
     "id": "quassel/quassel",
@@ -27963,38 +28483,6 @@
     "updatedAt": "2025-01-04T16:34:06.000Z"
   },
   {
-    "id": "solidusio/solidus",
-    "name": "solidusio/solidus",
-    "description": "🛒 Solidus, the open-source eCommerce framework for industry trailblazers.",
-    "topics": [
-      "ecommerce",
-      "ecommerce-framework",
-      "ecommerce-platform",
-      "hacktoberfest",
-      "rails",
-      "ruby",
-      "solidus",
-      "storefront"
-    ],
-    "owner": {
-      "name": "solidusio",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/11045486?v=4"
-    },
-    "stars": 5062,
-    "starsDetail": null,
-    "license": "Other",
-    "forks": 1299,
-    "primaryLanguage": "CSS",
-    "pushedAt": "2025-01-03T15:51:29.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2015-02-18T20:41:58.000Z",
-    "updatedAt": "2025-01-04T15:51:59.000Z"
-  },
-  {
     "id": "sorry-cypress/sorry-cypress",
     "name": "sorry-cypress/sorry-cypress",
     "description": "Open-source, free, self-hosted alternative to Cypress Dashboard",
@@ -28086,50 +28574,6 @@
     "goImportedBy": null,
     "createdAt": "2013-05-15T09:36:29.000Z",
     "updatedAt": "2025-01-04T16:32:12.000Z"
-  },
-  {
-    "id": "spree/spree",
-    "name": "spree/spree",
-    "description": "An open source eCommerce platform giving you full control and customizability. Modular and API-first. Multi-vendor, multi-tenant, multi-store, multi-currency, multi-language. Built using Ruby on Rails. Developed by @vendo-dev",
-    "topics": [
-      "cart",
-      "e-commerce",
-      "ecommerce",
-      "ecommerce-api",
-      "ecommerce-framework",
-      "ecommerce-platform",
-      "marketplace",
-      "multi-tenant",
-      "multi-vendor",
-      "multi-vendor-ecommerce",
-      "open-source",
-      "rails",
-      "ruby",
-      "rubyonrails",
-      "shop",
-      "spree",
-      "spree-commerce",
-      "spreecommerce",
-      "store",
-      "white-label"
-    ],
-    "owner": {
-      "name": "spree",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/56702?v=4"
-    },
-    "stars": 13189,
-    "starsDetail": null,
-    "license": "Other",
-    "forks": 4959,
-    "primaryLanguage": "SCSS",
-    "pushedAt": "2025-01-03T17:49:44.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2008-03-10T14:45:35.000Z",
-    "updatedAt": "2025-01-04T15:51:59.000Z"
   },
   {
     "id": "sqlpage/SQLPage",
@@ -28226,38 +28670,6 @@
     "goImportedBy": null,
     "createdAt": "2023-03-06T13:37:23.000Z",
     "updatedAt": "2025-01-04T16:30:05.000Z"
-  },
-  {
-    "id": "standardnotes/app",
-    "name": "standardnotes/app",
-    "description": "Think fearlessly with end-to-end encrypted notes and files. For issues, visit https://standardnotes.com/forum or https://standardnotes.com/help.",
-    "topics": [
-      "encrypted",
-      "evernote",
-      "markdown",
-      "note-taking",
-      "notes",
-      "privacy",
-      "secure",
-      "snippets"
-    ],
-    "owner": {
-      "name": "standardnotes",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/24537496?v=4"
-    },
-    "stars": 5462,
-    "starsDetail": null,
-    "license": "GNU Affero General Public License v3.0",
-    "forks": 434,
-    "primaryLanguage": "Prolog",
-    "pushedAt": "2025-01-02T08:51:02.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2016-12-05T23:31:33.000Z",
-    "updatedAt": "2025-01-04T16:18:11.000Z"
   },
   {
     "id": "stashapp/stash",
@@ -28453,35 +28865,6 @@
     "goImportedBy": null,
     "createdAt": "2015-07-29T11:54:00.000Z",
     "updatedAt": "2025-01-04T16:32:19.000Z"
-  },
-  {
-    "id": "stringer-rss/stringer",
-    "name": "stringer-rss/stringer",
-    "description": "A self-hosted, anti-social RSS reader.",
-    "topics": [
-      "feed-reader",
-      "feedjira",
-      "rss",
-      "rss-reader",
-      "ruby"
-    ],
-    "owner": {
-      "name": "stringer-rss",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/96632003?v=4"
-    },
-    "stars": 3961,
-    "starsDetail": null,
-    "license": "MIT License",
-    "forks": 396,
-    "primaryLanguage": "Procfile",
-    "pushedAt": "2025-01-02T02:59:11.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2013-04-06T04:51:27.000Z",
-    "updatedAt": "2025-01-04T12:07:28.000Z"
   },
   {
     "id": "stumpapp/stump",
@@ -28717,38 +29100,6 @@
     "goImportedBy": null,
     "createdAt": "2012-11-23T17:25:20.000Z",
     "updatedAt": "2025-01-04T16:31:30.000Z"
-  },
-  {
-    "id": "tanrax/maza-ad-blocking",
-    "name": "tanrax/maza-ad-blocking",
-    "description": "Simple, native and efficient local ad blocker. Only Bash.",
-    "topics": [
-      "ads",
-      "bash",
-      "blocker-proxy",
-      "dnsmasq",
-      "linux",
-      "macos",
-      "maza",
-      "pi-hole"
-    ],
-    "owner": {
-      "name": "tanrax",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/4553672?v=4"
-    },
-    "stars": 1807,
-    "starsDetail": null,
-    "license": "Apache License 2.0",
-    "forks": 67,
-    "primaryLanguage": "Dockerfile",
-    "pushedAt": "2024-12-23T13:00:22.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2020-01-03T06:41:48.000Z",
-    "updatedAt": "2025-01-04T16:17:15.000Z"
   },
   {
     "id": "tchapi/davis",
@@ -29459,59 +29810,6 @@
     "updatedAt": "2025-01-04T16:34:07.000Z"
   },
   {
-    "id": "transmission/transmission",
-    "name": "transmission/transmission",
-    "description": "Official Transmission BitTorrent client repository",
-    "topics": [],
-    "owner": {
-      "name": "transmission",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/223312?v=4"
-    },
-    "stars": 12484,
-    "starsDetail": null,
-    "license": "Other",
-    "forks": 1233,
-    "primaryLanguage": "Batchfile",
-    "pushedAt": "2025-01-01T14:55:53.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2015-05-05T23:53:02.000Z",
-    "updatedAt": "2025-01-04T16:19:24.000Z"
-  },
-  {
-    "id": "trytouca/trytouca",
-    "name": "trytouca/trytouca",
-    "description": "Continuous Regression Testing for Engineering Teams",
-    "topics": [
-      "developer-tools",
-      "open-source",
-      "performance-testing",
-      "regression-testing",
-      "snapshot-testing",
-      "testing-tools"
-    ],
-    "owner": {
-      "name": "trytouca",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/76232131?v=4"
-    },
-    "stars": 500,
-    "starsDetail": null,
-    "license": "Apache License 2.0",
-    "forks": 25,
-    "primaryLanguage": "Makefile",
-    "pushedAt": "2024-08-04T05:32:25.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2022-03-11T17:32:38.000Z",
-    "updatedAt": "2025-01-04T15:27:30.000Z"
-  },
-  {
     "id": "tubearchivist/tubearchivist",
     "name": "tubearchivist/tubearchivist",
     "description": "Your self hosted YouTube media server",
@@ -29721,37 +30019,6 @@
     "goImportedBy": null,
     "createdAt": "2020-07-17T07:59:00.000Z",
     "updatedAt": "2025-01-04T16:29:11.000Z"
-  },
-  {
-    "id": "umbraco/Umbraco-CMS",
-    "name": "umbraco/Umbraco-CMS",
-    "description": "Umbraco is a free and open source .NET content management system helping you deliver delightful digital experiences.",
-    "topics": [
-      "asp-net-core",
-      "cms",
-      "csharp",
-      "dotnet-core",
-      "hacktoberfest",
-      "umbraco",
-      "umbraco-cms"
-    ],
-    "owner": {
-      "name": "umbraco",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/1419552?v=4"
-    },
-    "stars": 4643,
-    "starsDetail": null,
-    "license": "MIT License",
-    "forks": 2729,
-    "primaryLanguage": "TSQL",
-    "pushedAt": "2025-01-03T16:59:51.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2013-06-10T13:50:46.000Z",
-    "updatedAt": "2025-01-04T15:46:42.000Z"
   },
   {
     "id": "umputun/remark42",
@@ -30319,36 +30586,6 @@
     "updatedAt": "2025-01-04T16:32:38.000Z"
   },
   {
-    "id": "wesnoth/wesnoth",
-    "name": "wesnoth/wesnoth",
-    "description": "An open source, turn-based strategy game with a high fantasy theme.",
-    "topics": [
-      "fantasy",
-      "free",
-      "game",
-      "opensource",
-      "strategy-game",
-      "turn-based-strategy"
-    ],
-    "owner": {
-      "name": "wesnoth",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/4024232?v=4"
-    },
-    "stars": 5665,
-    "starsDetail": null,
-    "license": "GNU General Public License v2.0",
-    "forks": 1036,
-    "primaryLanguage": "Batchfile",
-    "pushedAt": "2025-01-04T15:51:01.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2013-04-14T17:13:06.000Z",
-    "updatedAt": "2025-01-04T16:15:00.000Z"
-  },
-  {
     "id": "wger-project/wger",
     "name": "wger-project/wger",
     "description": "Self hosted FLOSS fitness/workout, nutrition and weight tracker",
@@ -30476,47 +30713,6 @@
     "goImportedBy": null,
     "createdAt": "2017-04-02T02:17:45.000Z",
     "updatedAt": "2025-01-04T16:29:36.000Z"
-  },
-  {
-    "id": "xbmc/xbmc",
-    "name": "xbmc/xbmc",
-    "description": "Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for Android, BSD, Linux, macOS, iOS, tvOS and Windows.",
-    "topics": [
-      "android",
-      "c-plus-plus",
-      "entertainment-hub",
-      "hacktoberfest",
-      "home-theater",
-      "ios",
-      "kodi",
-      "linux",
-      "macos",
-      "media-center",
-      "media-player",
-      "multimedia",
-      "python",
-      "windows-desktop",
-      "windows-uwp",
-      "xbmc",
-      "xml"
-    ],
-    "owner": {
-      "name": "xbmc",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/199122?v=4"
-    },
-    "stars": 18727,
-    "starsDetail": null,
-    "license": "Other",
-    "forks": 6325,
-    "primaryLanguage": "SWIG",
-    "pushedAt": "2025-01-04T07:11:28.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2011-01-03T21:18:51.000Z",
-    "updatedAt": "2025-01-04T16:19:14.000Z"
   },
   {
     "id": "xemle/home-gallery",

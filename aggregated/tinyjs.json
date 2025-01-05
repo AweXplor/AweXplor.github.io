@@ -1,5 +1,38 @@
 [
   {
+    "id": "franciscop/umbrella",
+    "name": "franciscop/umbrella",
+    "description": ":umbrella: Lightweight javascript library for DOM manipulation and events",
+    "topics": [],
+    "owner": {
+      "name": "franciscop",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/2801252?v=4"
+    },
+    "stars": 2303,
+    "starsDetail": {
+      "total": 2303,
+      "week": 1,
+      "month": [
+        24,
+        23,
+        1733383684
+      ],
+      "year": 94,
+      "updatedAt": 1736062087
+    },
+    "license": "MIT License",
+    "forks": 108,
+    "primaryLanguage": "JavaScript",
+    "pushedAt": "2024-10-02T21:17:03.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2014-10-21T19:19:27.000Z",
+    "updatedAt": "2025-01-04T16:21:32.000Z"
+  },
+  {
     "id": "developit/mitt",
     "name": "developit/mitt",
     "description": "🥊 Tiny 200 byte functional event emitter / pubsub.",
@@ -65,6 +98,79 @@
     "goImportedBy": null,
     "createdAt": "2014-04-08T20:25:02.000Z",
     "updatedAt": "2025-01-04T22:44:26.000Z"
+  },
+  {
+    "id": "molefrog/wouter",
+    "name": "molefrog/wouter",
+    "description": "🥢 A minimalist-friendly ~2.1KB routing for React and Preact",
+    "topics": [
+      "hacktoberfest",
+      "microlibrary",
+      "preact",
+      "react",
+      "react-hooks",
+      "react-router",
+      "router",
+      "typescript",
+      "zero-dependency"
+    ],
+    "owner": {
+      "name": "molefrog",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/671276?v=4"
+    },
+    "stars": 6859,
+    "starsDetail": {
+      "total": 6859,
+      "week": 34,
+      "month": 76,
+      "year": 1135,
+      "updatedAt": 1736062098
+    },
+    "license": "The Unlicense",
+    "forks": 156,
+    "primaryLanguage": "JavaScript",
+    "pushedAt": "2024-12-20T10:23:19.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2019-04-09T17:36:41.000Z",
+    "updatedAt": "2025-01-04T16:21:37.000Z"
+  },
+  {
+    "id": "remeda/remeda",
+    "name": "remeda/remeda",
+    "description": "A utility library for JavaScript and TypeScript.",
+    "topics": [
+      "functional",
+      "programming",
+      "typescript",
+      "utility"
+    ],
+    "owner": {
+      "name": "remeda",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/39049333?v=4"
+    },
+    "stars": 4651,
+    "starsDetail": {
+      "total": 4651,
+      "week": 18,
+      "month": 76,
+      "year": 1099,
+      "updatedAt": 1736062105
+    },
+    "license": "MIT License",
+    "forks": 141,
+    "primaryLanguage": "JavaScript",
+    "pushedAt": "2025-01-04T14:28:05.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2018-05-07T08:56:53.000Z",
+    "updatedAt": "2025-01-04T16:21:43.000Z"
   },
   {
     "id": "marpple/FxTS",
@@ -135,6 +241,85 @@
     "goImportedBy": null,
     "createdAt": "2017-01-15T13:50:45.000Z",
     "updatedAt": "2025-01-04T22:44:08.000Z"
+  },
+  {
+    "id": "developit/unfetch",
+    "name": "developit/unfetch",
+    "description": "🐕 Bare minimum 500b fetch polyfill.",
+    "topics": [
+      "ajax",
+      "fetch",
+      "polyfill",
+      "ponyfill",
+      "tiny",
+      "unfetch",
+      "xmlhttprequest"
+    ],
+    "owner": {
+      "name": "developit",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/105127?v=4"
+    },
+    "stars": 5710,
+    "starsDetail": {
+      "total": 5710,
+      "week": 2,
+      "month": 5,
+      "year": 92,
+      "updatedAt": 1736062100
+    },
+    "license": "MIT License",
+    "forks": 202,
+    "primaryLanguage": "TypeScript",
+    "pushedAt": "2023-07-23T07:46:45.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2017-02-22T05:59:42.000Z",
+    "updatedAt": "2025-01-04T16:21:40.000Z"
+  },
+  {
+    "id": "frejs/fre",
+    "name": "frejs/fre",
+    "description": ":ghost: Tiny Concurrent UI library with Fiber.",
+    "topics": [
+      "fiber",
+      "fre",
+      "hook",
+      "hooks",
+      "jsx",
+      "keyed-reconcilation-algorithm",
+      "react-hooks",
+      "react-like",
+      "reconcilation",
+      "reconciliation-algorithm",
+      "vdom",
+      "vdom-library"
+    ],
+    "owner": {
+      "name": "frejs",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/58691454?v=4"
+    },
+    "stars": 3720,
+    "starsDetail": {
+      "total": 3720,
+      "week": 1,
+      "month": 5,
+      "year": 85,
+      "updatedAt": 1736062084
+    },
+    "license": "MIT License",
+    "forks": 350,
+    "primaryLanguage": "JavaScript",
+    "pushedAt": "2024-04-04T23:38:29.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2018-07-28T06:46:46.000Z",
+    "updatedAt": "2025-01-04T16:21:30.000Z"
   },
   {
     "id": "lukeed/navaid",
@@ -272,6 +457,90 @@
     "updatedAt": "2025-01-04T14:47:56.000Z"
   },
   {
+    "id": "preactjs/signals",
+    "name": "preactjs/signals",
+    "description": "Manage state with style in every framework",
+    "topics": [
+      "preact",
+      "react",
+      "reactivity",
+      "signals",
+      "state-management"
+    ],
+    "owner": {
+      "name": "preactjs",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/26872990?v=4"
+    },
+    "stars": 3868,
+    "starsDetail": {
+      "total": 3868,
+      "week": 11,
+      "month": 37,
+      "year": 746,
+      "updatedAt": 1736062093
+    },
+    "license": "MIT License",
+    "forks": 98,
+    "primaryLanguage": "Shell",
+    "pushedAt": "2025-01-02T09:14:22.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2022-08-08T21:29:28.000Z",
+    "updatedAt": "2025-01-04T16:21:35.000Z"
+  },
+  {
+    "id": "vanjs-org/van",
+    "name": "vanjs-org/van",
+    "description": "🍦 VanJS: World's smallest reactive UI framework. Incredibly Powerful, Insanely Small - Everyone can build a useful UI app in an hour.",
+    "topics": [
+      "data-binding",
+      "dom",
+      "dom-manipulation",
+      "grab-n-go",
+      "lightweight",
+      "lightweight-framework",
+      "lightweight-javascript-library",
+      "minimalist",
+      "no-dependencies",
+      "no-setup",
+      "reactive",
+      "reactive-ui",
+      "ui-framework",
+      "ultra-light",
+      "ultra-thin",
+      "vanilla-dom-manipulation",
+      "vanilla-javascript",
+      "vanilla-js",
+      "vannilajs"
+    ],
+    "owner": {
+      "name": "vanjs-org",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/132869025?v=4"
+    },
+    "stars": 3951,
+    "starsDetail": {
+      "total": 3951,
+      "week": 11,
+      "month": 37,
+      "year": 901,
+      "updatedAt": 1736062084
+    },
+    "license": "MIT License",
+    "forks": 96,
+    "primaryLanguage": "Shell",
+    "pushedAt": "2025-01-04T02:54:58.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2023-05-08T05:45:31.000Z",
+    "updatedAt": "2025-01-04T16:21:31.000Z"
+  },
+  {
     "id": "vercel/ms",
     "name": "vercel/ms",
     "description": "Tiny millisecond conversion utility",
@@ -385,6 +654,211 @@
     "updatedAt": "2025-01-04T14:50:37.000Z"
   },
   {
+    "id": "lukeed/regexparam",
+    "name": "lukeed/regexparam",
+    "description": "A tiny (394B) utility that converts route patterns into RegExp. Limited alternative to `path-to-regexp` 🙇‍♂️",
+    "topics": [
+      "path-to-regexp",
+      "regex",
+      "regexp",
+      "router"
+    ],
+    "owner": {
+      "name": "lukeed",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/5855893?v=4"
+    },
+    "stars": 572,
+    "starsDetail": {
+      "total": 572,
+      "week": 0,
+      "month": 3,
+      "year": 34,
+      "updatedAt": 1736062094
+    },
+    "license": "MIT License",
+    "forks": 23,
+    "primaryLanguage": "JavaScript",
+    "pushedAt": "2023-12-03T21:39:16.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2018-04-08T21:02:42.000Z",
+    "updatedAt": "2025-01-04T16:21:38.000Z"
+  },
+  {
+    "id": "lukeed/tinydate",
+    "name": "lukeed/tinydate",
+    "description": "A tiny (349B) reusable date formatter. Extremely fast!",
+    "topics": [
+      "date",
+      "datetime",
+      "format",
+      "javascript",
+      "time",
+      "timestamp"
+    ],
+    "owner": {
+      "name": "lukeed",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/5855893?v=4"
+    },
+    "stars": 1067,
+    "starsDetail": {
+      "total": 1067,
+      "week": 1,
+      "month": 3,
+      "year": 11,
+      "updatedAt": 1736062101
+    },
+    "license": "MIT License",
+    "forks": 16,
+    "primaryLanguage": "JavaScript",
+    "pushedAt": "2024-01-20T17:52:53.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2017-05-02T01:09:25.000Z",
+    "updatedAt": "2025-01-04T16:21:42.000Z"
+  },
+  {
+    "id": "lukeed/uid",
+    "name": "lukeed/uid",
+    "description": "A tiny (130B to 205B) and fast utility to generate random IDs of fixed length",
+    "topics": [],
+    "owner": {
+      "name": "lukeed",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/5855893?v=4"
+    },
+    "stars": 659,
+    "starsDetail": {
+      "total": 659,
+      "week": 1,
+      "month": 3,
+      "year": 35,
+      "updatedAt": 1736062106
+    },
+    "license": "MIT License",
+    "forks": 14,
+    "primaryLanguage": "HTML",
+    "pushedAt": "2024-09-27T06:12:32.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2020-03-03T07:51:36.000Z",
+    "updatedAt": "2025-01-04T16:21:45.000Z"
+  },
+  {
+    "id": "staltz/callbag-basics",
+    "name": "staltz/callbag-basics",
+    "description": "👜 Tiny and fast reactive/iterable programming library",
+    "topics": [
+      "callbacks",
+      "callbag",
+      "iterables",
+      "observables",
+      "reactive"
+    ],
+    "owner": {
+      "name": "staltz",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/90512?v=4"
+    },
+    "stars": 1652,
+    "starsDetail": {
+      "total": 1652,
+      "week": 2,
+      "month": 3,
+      "year": 11,
+      "updatedAt": 1736062093
+    },
+    "license": "MIT License",
+    "forks": 43,
+    "primaryLanguage": "JavaScript",
+    "pushedAt": "2023-04-20T06:28:40.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2018-01-29T10:58:59.000Z",
+    "updatedAt": "2025-01-04T16:21:37.000Z"
+  },
+  {
+    "id": "storeon/storeon",
+    "name": "storeon/storeon",
+    "description": "🌩 A tiny (185 bytes) event-based Redux-like state manager for React, Preact, Angular, Vue, and Svelte",
+    "topics": [],
+    "owner": {
+      "name": "storeon",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/50117058?v=4"
+    },
+    "stars": 1978,
+    "starsDetail": {
+      "total": 1978,
+      "week": 2,
+      "month": 3,
+      "year": 34,
+      "updatedAt": 1736062090
+    },
+    "license": "MIT License",
+    "forks": 67,
+    "primaryLanguage": "HTML",
+    "pushedAt": "2024-12-10T17:42:24.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2019-03-16T04:52:02.000Z",
+    "updatedAt": "2025-01-04T16:21:34.000Z"
+  },
+  {
+    "id": "teafuljs/teaful",
+    "name": "teafuljs/teaful",
+    "description": "🍵 Tiny, easy and powerful React state management",
+    "topics": [
+      "easy",
+      "fragmented",
+      "javascript",
+      "management",
+      "performance",
+      "preact",
+      "react",
+      "state",
+      "state-management",
+      "store",
+      "teaful",
+      "tiny"
+    ],
+    "owner": {
+      "name": "teafuljs",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/93487249?v=4"
+    },
+    "stars": 714,
+    "starsDetail": {
+      "total": 714,
+      "week": 2,
+      "month": 3,
+      "year": 23,
+      "updatedAt": 1736062092
+    },
+    "license": "MIT License",
+    "forks": 25,
+    "primaryLanguage": "JavaScript",
+    "pushedAt": "2022-10-30T19:37:20.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2021-03-11T20:18:22.000Z",
+    "updatedAt": "2025-01-04T16:21:34.000Z"
+  },
+  {
     "id": "NaturalNode/natural",
     "name": "NaturalNode/natural",
     "description": "general natural language facilities for node",
@@ -447,6 +921,69 @@
     "updatedAt": "2025-01-04T14:51:45.000Z"
   },
   {
+    "id": "jorgebucaran/superfine",
+    "name": "jorgebucaran/superfine",
+    "description": "Absolutely minimal view layer for building web interfaces",
+    "topics": [
+      "hyperapp",
+      "library",
+      "vdom",
+      "web"
+    ],
+    "owner": {
+      "name": "jorgebucaran",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/56996?v=4"
+    },
+    "stars": 1596,
+    "starsDetail": {
+      "total": 1596,
+      "week": 0,
+      "month": 2,
+      "year": 46,
+      "updatedAt": 1736062084
+    },
+    "license": "MIT License",
+    "forks": 79,
+    "primaryLanguage": "JavaScript",
+    "pushedAt": "2022-08-16T03:08:33.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2017-05-19T12:53:23.000Z",
+    "updatedAt": "2025-01-04T16:21:31.000Z"
+  },
+  {
+    "id": "lukeed/rosetta",
+    "name": "lukeed/rosetta",
+    "description": "A general purpose internationalization library in 292 bytes",
+    "topics": [],
+    "owner": {
+      "name": "lukeed",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/5855893?v=4"
+    },
+    "stars": 792,
+    "starsDetail": {
+      "total": 792,
+      "week": 1,
+      "month": 2,
+      "year": 38,
+      "updatedAt": 1736062099
+    },
+    "license": "MIT License",
+    "forks": 15,
+    "primaryLanguage": "JavaScript",
+    "pushedAt": "2024-01-20T17:17:37.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2020-03-19T01:29:35.000Z",
+    "updatedAt": "2025-01-04T16:21:41.000Z"
+  },
+  {
     "id": "redom/redom",
     "name": "redom/redom",
     "description": "Tiny (2 KB) turboboosted JavaScript library for creating user interfaces.",
@@ -483,6 +1020,72 @@
     "updatedAt": "2025-01-04T14:52:43.000Z"
   },
   {
+    "id": "nanostores/nanostores",
+    "name": "nanostores/nanostores",
+    "description": "A tiny (286 bytes) state manager for React/RN/Preact/Vue/Svelte with many atomic tree-shakable stores",
+    "topics": [],
+    "owner": {
+      "name": "nanostores",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/85066968?v=4"
+    },
+    "stars": 5660,
+    "starsDetail": {
+      "total": 5660,
+      "week": 26,
+      "month": 199,
+      "year": 1453,
+      "updatedAt": 1736062090
+    },
+    "license": "MIT License",
+    "forks": 110,
+    "primaryLanguage": "JavaScript",
+    "pushedAt": "2024-09-10T19:47:27.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2020-10-14T19:51:28.000Z",
+    "updatedAt": "2025-01-04T16:21:33.000Z"
+  },
+  {
+    "id": "justin-schroeder/arrow-js",
+    "name": "justin-schroeder/arrow-js",
+    "description": "Reactivity without the framework",
+    "topics": [
+      "declarative",
+      "reactive",
+      "rendering",
+      "ui",
+      "ux",
+      "web",
+      "webcomponents"
+    ],
+    "owner": {
+      "name": "justin-schroeder",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1950463?v=4"
+    },
+    "stars": 2429,
+    "starsDetail": {
+      "total": 2429,
+      "week": 1,
+      "month": 18,
+      "year": 342,
+      "updatedAt": 1736062087
+    },
+    "license": "MIT License",
+    "forks": 50,
+    "primaryLanguage": "JavaScript",
+    "pushedAt": "2024-05-23T13:52:52.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2022-11-08T22:29:40.000Z",
+    "updatedAt": "2025-01-04T16:21:31.000Z"
+  },
+  {
     "id": "ai/nanoid",
     "name": "ai/nanoid",
     "description": "A tiny (124 bytes), secure, URL-friendly, unique string ID generator for JavaScript",
@@ -510,6 +1113,35 @@
     "goImportedBy": 0,
     "createdAt": "2017-08-05T05:24:35.000Z",
     "updatedAt": "2025-01-04T14:48:02.000Z"
+  },
+  {
+    "id": "developit/redaxios",
+    "name": "developit/redaxios",
+    "description": "The Axios API, as an 800 byte Fetch wrapper.",
+    "topics": [],
+    "owner": {
+      "name": "developit",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/105127?v=4"
+    },
+    "stars": 4736,
+    "starsDetail": {
+      "total": 4736,
+      "week": 12,
+      "month": 17,
+      "year": 398,
+      "updatedAt": 1736062097
+    },
+    "license": "Apache License 2.0",
+    "forks": 100,
+    "primaryLanguage": "TypeScript",
+    "pushedAt": "2023-08-15T22:45:22.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2018-08-23T22:00:17.000Z",
+    "updatedAt": "2025-01-04T16:21:39.000Z"
   },
   {
     "id": "jorgebucaran/hyperapp",
@@ -581,6 +1213,179 @@
     "goImportedBy": null,
     "createdAt": "2016-06-23T02:06:23.000Z",
     "updatedAt": "2025-01-04T22:44:15.000Z"
+  },
+  {
+    "id": "lingui/js-lingui",
+    "name": "lingui/js-lingui",
+    "description": "🌍 📖 A readable, automated, and optimized (3 kb) internationalization for JavaScript",
+    "topics": [
+      "hacktoberfest",
+      "i18n",
+      "icu",
+      "internationalization",
+      "intl",
+      "javascript",
+      "localization",
+      "messageformat",
+      "react",
+      "react-components",
+      "react-native",
+      "translation"
+    ],
+    "owner": {
+      "name": "lingui",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/11225539?v=4"
+    },
+    "stars": 4801,
+    "starsDetail": {
+      "total": 4801,
+      "week": 17,
+      "month": 131,
+      "year": 794,
+      "updatedAt": 1736062103
+    },
+    "license": "MIT License",
+    "forks": 386,
+    "primaryLanguage": "Shell",
+    "pushedAt": "2024-12-27T15:28:50.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2017-01-17T17:26:46.000Z",
+    "updatedAt": "2025-01-04T16:21:42.000Z"
+  },
+  {
+    "id": "ai/nanoevents",
+    "name": "ai/nanoevents",
+    "description": "Simple and tiny (107 bytes) event emitter library for JavaScript",
+    "topics": [],
+    "owner": {
+      "name": "ai",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/19343?v=4"
+    },
+    "stars": 1504,
+    "starsDetail": {
+      "total": 1504,
+      "week": [
+        16,
+        15,
+        1735457287
+      ],
+      "month": 12,
+      "year": 149,
+      "updatedAt": 1736062089
+    },
+    "license": "MIT License",
+    "forks": 47,
+    "primaryLanguage": "JavaScript",
+    "pushedAt": "2024-12-10T07:00:27.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2016-09-20T05:47:44.000Z",
+    "updatedAt": "2025-01-04T16:21:32.000Z"
+  },
+  {
+    "id": "aweary/tinytime",
+    "name": "aweary/tinytime",
+    "description": "⏰ A straightforward date and time formatter in <1kb",
+    "topics": [
+      "date",
+      "template",
+      "time"
+    ],
+    "owner": {
+      "name": "aweary",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/6886061?v=4"
+    },
+    "stars": 1337,
+    "starsDetail": {
+      "total": 1337,
+      "week": 1,
+      "month": 1,
+      "year": 4,
+      "updatedAt": 1736062099
+    },
+    "license": "MIT License",
+    "forks": 37,
+    "primaryLanguage": "Makefile",
+    "pushedAt": "2023-01-12T05:12:08.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2017-01-19T23:37:50.000Z",
+    "updatedAt": "2025-01-04T16:21:41.000Z"
+  },
+  {
+    "id": "developit/unistore",
+    "name": "developit/unistore",
+    "description": "🌶 350b / 650b state container with component actions for Preact & React",
+    "topics": [
+      "architecture",
+      "preact",
+      "redux",
+      "state",
+      "subscription",
+      "unistore"
+    ],
+    "owner": {
+      "name": "developit",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/105127?v=4"
+    },
+    "stars": 2857,
+    "starsDetail": {
+      "total": 2857,
+      "week": 1,
+      "month": 1,
+      "year": 12,
+      "updatedAt": 1736062090
+    },
+    "license": null,
+    "forks": 139,
+    "primaryLanguage": "JavaScript",
+    "pushedAt": "2021-06-07T10:00:27.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2017-12-06T18:15:34.000Z",
+    "updatedAt": "2025-01-04T16:21:34.000Z"
+  },
+  {
+    "id": "paldepind/flyd",
+    "name": "paldepind/flyd",
+    "description": "The minimalistic but powerful, modular, functional reactive programming library in JavaScript.",
+    "topics": [],
+    "owner": {
+      "name": "paldepind",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/521604?v=4"
+    },
+    "stars": 1562,
+    "starsDetail": {
+      "total": 1562,
+      "week": 0,
+      "month": 0,
+      "year": 13,
+      "updatedAt": 1736062092
+    },
+    "license": "MIT License",
+    "forks": 84,
+    "primaryLanguage": "HTML",
+    "pushedAt": "2024-02-05T20:10:57.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2015-02-25T21:50:16.000Z",
+    "updatedAt": "2025-01-04T16:21:37.000Z"
   },
   {
     "id": "AlloyTeam/AlloyFinger",
@@ -696,7 +1501,9 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/85749?v=4"
     },
     "stars": 225,
-    "starsDetail": null,
+    "starsDetail": {
+      "total": 225
+    },
     "license": "ISC License",
     "forks": 15,
     "primaryLanguage": "TypeScript",
@@ -708,29 +1515,6 @@
     "goImportedBy": null,
     "createdAt": "2022-09-09T07:37:44.000Z",
     "updatedAt": "2025-01-04T16:21:35.000Z"
-  },
-  {
-    "id": "ai/nanoevents",
-    "name": "ai/nanoevents",
-    "description": "Simple and tiny (107 bytes) event emitter library for JavaScript",
-    "topics": [],
-    "owner": {
-      "name": "ai",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/19343?v=4"
-    },
-    "stars": 1504,
-    "starsDetail": null,
-    "license": "MIT License",
-    "forks": 47,
-    "primaryLanguage": "JavaScript",
-    "pushedAt": "2024-12-10T07:00:27.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2016-09-20T05:47:44.000Z",
-    "updatedAt": "2025-01-04T16:21:32.000Z"
   },
   {
     "id": "antonioru/deep-waters",
@@ -751,7 +1535,9 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/6342784?v=4"
     },
     "stars": 201,
-    "starsDetail": null,
+    "starsDetail": {
+      "total": 201
+    },
     "license": "MIT License",
     "forks": 9,
     "primaryLanguage": "JavaScript",
@@ -804,33 +1590,6 @@
     "goImportedBy": null,
     "createdAt": "2018-08-29T06:34:52.000Z",
     "updatedAt": "2025-01-04T16:21:48.000Z"
-  },
-  {
-    "id": "aweary/tinytime",
-    "name": "aweary/tinytime",
-    "description": "⏰ A straightforward date and time formatter in <1kb",
-    "topics": [
-      "date",
-      "template",
-      "time"
-    ],
-    "owner": {
-      "name": "aweary",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/6886061?v=4"
-    },
-    "stars": 1337,
-    "starsDetail": null,
-    "license": "MIT License",
-    "forks": 37,
-    "primaryLanguage": "Makefile",
-    "pushedAt": "2023-01-12T05:12:08.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2017-01-19T23:37:50.000Z",
-    "updatedAt": "2025-01-04T16:21:41.000Z"
   },
   {
     "id": "bevacqua/fuzzysearch",
@@ -949,90 +1708,6 @@
     "updatedAt": "2025-01-04T22:44:14.000Z"
   },
   {
-    "id": "developit/redaxios",
-    "name": "developit/redaxios",
-    "description": "The Axios API, as an 800 byte Fetch wrapper.",
-    "topics": [],
-    "owner": {
-      "name": "developit",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/105127?v=4"
-    },
-    "stars": 4736,
-    "starsDetail": null,
-    "license": "Apache License 2.0",
-    "forks": 100,
-    "primaryLanguage": "TypeScript",
-    "pushedAt": "2023-08-15T22:45:22.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2018-08-23T22:00:17.000Z",
-    "updatedAt": "2025-01-04T16:21:39.000Z"
-  },
-  {
-    "id": "developit/unfetch",
-    "name": "developit/unfetch",
-    "description": "🐕 Bare minimum 500b fetch polyfill.",
-    "topics": [
-      "ajax",
-      "fetch",
-      "polyfill",
-      "ponyfill",
-      "tiny",
-      "unfetch",
-      "xmlhttprequest"
-    ],
-    "owner": {
-      "name": "developit",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/105127?v=4"
-    },
-    "stars": 5710,
-    "starsDetail": null,
-    "license": "MIT License",
-    "forks": 202,
-    "primaryLanguage": "TypeScript",
-    "pushedAt": "2023-07-23T07:46:45.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2017-02-22T05:59:42.000Z",
-    "updatedAt": "2025-01-04T16:21:40.000Z"
-  },
-  {
-    "id": "developit/unistore",
-    "name": "developit/unistore",
-    "description": "🌶 350b / 650b state container with component actions for Preact & React",
-    "topics": [
-      "architecture",
-      "preact",
-      "redux",
-      "state",
-      "subscription",
-      "unistore"
-    ],
-    "owner": {
-      "name": "developit",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/105127?v=4"
-    },
-    "stars": 2857,
-    "starsDetail": null,
-    "license": null,
-    "forks": 139,
-    "primaryLanguage": "JavaScript",
-    "pushedAt": "2021-06-07T10:00:27.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2017-12-06T18:15:34.000Z",
-    "updatedAt": "2025-01-04T16:21:34.000Z"
-  },
-  {
     "id": "elbywan/hyperactiv",
     "name": "elbywan/hyperactiv",
     "description": "A super tiny reactive library. :zap:",
@@ -1049,7 +1724,9 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/3428394?v=4"
     },
     "stars": 440,
-    "starsDetail": null,
+    "starsDetail": {
+      "total": 440
+    },
     "license": "MIT License",
     "forks": 25,
     "primaryLanguage": "JavaScript",
@@ -1109,7 +1786,9 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/1812093?v=4"
     },
     "stars": 189,
-    "starsDetail": null,
+    "starsDetail": {
+      "total": 189
+    },
     "license": "MIT License",
     "forks": 7,
     "primaryLanguage": "JavaScript",
@@ -1144,65 +1823,6 @@
     "goImportedBy": null,
     "createdAt": "2011-03-09T23:16:34.000Z",
     "updatedAt": "2025-01-04T16:21:51.000Z"
-  },
-  {
-    "id": "franciscop/umbrella",
-    "name": "franciscop/umbrella",
-    "description": ":umbrella: Lightweight javascript library for DOM manipulation and events",
-    "topics": [],
-    "owner": {
-      "name": "franciscop",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/2801252?v=4"
-    },
-    "stars": 2303,
-    "starsDetail": null,
-    "license": "MIT License",
-    "forks": 108,
-    "primaryLanguage": "JavaScript",
-    "pushedAt": "2024-10-02T21:17:03.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2014-10-21T19:19:27.000Z",
-    "updatedAt": "2025-01-04T16:21:32.000Z"
-  },
-  {
-    "id": "frejs/fre",
-    "name": "frejs/fre",
-    "description": ":ghost: Tiny Concurrent UI library with Fiber.",
-    "topics": [
-      "fiber",
-      "fre",
-      "hook",
-      "hooks",
-      "jsx",
-      "keyed-reconcilation-algorithm",
-      "react-hooks",
-      "react-like",
-      "reconcilation",
-      "reconciliation-algorithm",
-      "vdom",
-      "vdom-library"
-    ],
-    "owner": {
-      "name": "frejs",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/58691454?v=4"
-    },
-    "stars": 3720,
-    "starsDetail": null,
-    "license": "MIT License",
-    "forks": 350,
-    "primaryLanguage": "JavaScript",
-    "pushedAt": "2024-04-04T23:38:29.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2018-07-28T06:46:46.000Z",
-    "updatedAt": "2025-01-04T16:21:30.000Z"
   },
   {
     "id": "fwextensions/quick-score",
@@ -1248,7 +1868,9 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/7856674?v=4"
     },
     "stars": 499,
-    "starsDetail": null,
+    "starsDetail": {
+      "total": 499
+    },
     "license": "MIT License",
     "forks": 109,
     "primaryLanguage": "TypeScript",
@@ -1322,7 +1944,9 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/25608689?v=4"
     },
     "stars": 348,
-    "starsDetail": null,
+    "starsDetail": {
+      "total": 348
+    },
     "license": "MIT License",
     "forks": 12,
     "primaryLanguage": "Shell",
@@ -1410,7 +2034,9 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/383994?v=4"
     },
     "stars": 111,
-    "starsDetail": null,
+    "starsDetail": {
+      "total": 111
+    },
     "license": "MIT License",
     "forks": 17,
     "primaryLanguage": "JavaScript",
@@ -1422,65 +2048,6 @@
     "goImportedBy": null,
     "createdAt": "2015-05-01T09:01:49.000Z",
     "updatedAt": "2025-01-04T16:21:43.000Z"
-  },
-  {
-    "id": "jorgebucaran/superfine",
-    "name": "jorgebucaran/superfine",
-    "description": "Absolutely minimal view layer for building web interfaces",
-    "topics": [
-      "hyperapp",
-      "library",
-      "vdom",
-      "web"
-    ],
-    "owner": {
-      "name": "jorgebucaran",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/56996?v=4"
-    },
-    "stars": 1596,
-    "starsDetail": null,
-    "license": "MIT License",
-    "forks": 79,
-    "primaryLanguage": "JavaScript",
-    "pushedAt": "2022-08-16T03:08:33.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2017-05-19T12:53:23.000Z",
-    "updatedAt": "2025-01-04T16:21:31.000Z"
-  },
-  {
-    "id": "justin-schroeder/arrow-js",
-    "name": "justin-schroeder/arrow-js",
-    "description": "Reactivity without the framework",
-    "topics": [
-      "declarative",
-      "reactive",
-      "rendering",
-      "ui",
-      "ux",
-      "web",
-      "webcomponents"
-    ],
-    "owner": {
-      "name": "justin-schroeder",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/1950463?v=4"
-    },
-    "stars": 2429,
-    "starsDetail": null,
-    "license": "MIT License",
-    "forks": 50,
-    "primaryLanguage": "JavaScript",
-    "pushedAt": "2024-05-23T13:52:52.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2022-11-08T22:29:40.000Z",
-    "updatedAt": "2025-01-04T16:21:31.000Z"
   },
   {
     "id": "kbrsh/wade",
@@ -1504,42 +2071,6 @@
     "goImportedBy": null,
     "createdAt": "2017-05-21T01:53:54.000Z",
     "updatedAt": "2025-01-04T16:21:50.000Z"
-  },
-  {
-    "id": "lingui/js-lingui",
-    "name": "lingui/js-lingui",
-    "description": "🌍 📖 A readable, automated, and optimized (3 kb) internationalization for JavaScript",
-    "topics": [
-      "hacktoberfest",
-      "i18n",
-      "icu",
-      "internationalization",
-      "intl",
-      "javascript",
-      "localization",
-      "messageformat",
-      "react",
-      "react-components",
-      "react-native",
-      "translation"
-    ],
-    "owner": {
-      "name": "lingui",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/11225539?v=4"
-    },
-    "stars": 4801,
-    "starsDetail": null,
-    "license": "MIT License",
-    "forks": 386,
-    "primaryLanguage": "Shell",
-    "pushedAt": "2024-12-27T15:28:50.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2017-01-17T17:26:46.000Z",
-    "updatedAt": "2025-01-04T16:21:42.000Z"
   },
   {
     "id": "localvoid/ndx",
@@ -1580,7 +2111,9 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/5855893?v=4"
     },
     "stars": 191,
-    "starsDetail": null,
+    "starsDetail": {
+      "total": 191
+    },
     "license": null,
     "forks": 11,
     "primaryLanguage": "JavaScript",
@@ -1603,7 +2136,9 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/5855893?v=4"
     },
     "stars": 197,
-    "starsDetail": null,
+    "starsDetail": {
+      "total": 197
+    },
     "license": "MIT License",
     "forks": 6,
     "primaryLanguage": "JavaScript",
@@ -1626,7 +2161,9 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/5855893?v=4"
     },
     "stars": 322,
-    "starsDetail": null,
+    "starsDetail": {
+      "total": 322
+    },
     "license": "MIT License",
     "forks": 13,
     "primaryLanguage": "JavaScript",
@@ -1649,7 +2186,9 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/5855893?v=4"
     },
     "stars": 449,
-    "starsDetail": null,
+    "starsDetail": {
+      "total": 449
+    },
     "license": "MIT License",
     "forks": 17,
     "primaryLanguage": "JavaScript",
@@ -1663,110 +2202,6 @@
     "updatedAt": "2025-01-04T16:21:39.000Z"
   },
   {
-    "id": "lukeed/regexparam",
-    "name": "lukeed/regexparam",
-    "description": "A tiny (394B) utility that converts route patterns into RegExp. Limited alternative to `path-to-regexp` 🙇‍♂️",
-    "topics": [
-      "path-to-regexp",
-      "regex",
-      "regexp",
-      "router"
-    ],
-    "owner": {
-      "name": "lukeed",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/5855893?v=4"
-    },
-    "stars": 572,
-    "starsDetail": null,
-    "license": "MIT License",
-    "forks": 23,
-    "primaryLanguage": "JavaScript",
-    "pushedAt": "2023-12-03T21:39:16.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2018-04-08T21:02:42.000Z",
-    "updatedAt": "2025-01-04T16:21:38.000Z"
-  },
-  {
-    "id": "lukeed/rosetta",
-    "name": "lukeed/rosetta",
-    "description": "A general purpose internationalization library in 292 bytes",
-    "topics": [],
-    "owner": {
-      "name": "lukeed",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/5855893?v=4"
-    },
-    "stars": 792,
-    "starsDetail": null,
-    "license": "MIT License",
-    "forks": 15,
-    "primaryLanguage": "JavaScript",
-    "pushedAt": "2024-01-20T17:17:37.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2020-03-19T01:29:35.000Z",
-    "updatedAt": "2025-01-04T16:21:41.000Z"
-  },
-  {
-    "id": "lukeed/tinydate",
-    "name": "lukeed/tinydate",
-    "description": "A tiny (349B) reusable date formatter. Extremely fast!",
-    "topics": [
-      "date",
-      "datetime",
-      "format",
-      "javascript",
-      "time",
-      "timestamp"
-    ],
-    "owner": {
-      "name": "lukeed",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/5855893?v=4"
-    },
-    "stars": 1067,
-    "starsDetail": null,
-    "license": "MIT License",
-    "forks": 16,
-    "primaryLanguage": "JavaScript",
-    "pushedAt": "2024-01-20T17:52:53.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2017-05-02T01:09:25.000Z",
-    "updatedAt": "2025-01-04T16:21:42.000Z"
-  },
-  {
-    "id": "lukeed/uid",
-    "name": "lukeed/uid",
-    "description": "A tiny (130B to 205B) and fast utility to generate random IDs of fixed length",
-    "topics": [],
-    "owner": {
-      "name": "lukeed",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/5855893?v=4"
-    },
-    "stars": 659,
-    "starsDetail": null,
-    "license": "MIT License",
-    "forks": 14,
-    "primaryLanguage": "HTML",
-    "pushedAt": "2024-09-27T06:12:32.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2020-03-03T07:51:36.000Z",
-    "updatedAt": "2025-01-04T16:21:45.000Z"
-  },
-  {
     "id": "lukeed/uuid",
     "name": "lukeed/uuid",
     "description": "A tiny (~230B)and fast UUID (V4) generator for Node and the browser",
@@ -1776,7 +2211,9 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/5855893?v=4"
     },
     "stars": 399,
-    "starsDetail": null,
+    "starsDetail": {
+      "total": 399
+    },
     "license": "MIT License",
     "forks": 12,
     "primaryLanguage": "HTML",
@@ -1813,39 +2250,6 @@
     "updatedAt": "2025-01-04T16:21:52.000Z"
   },
   {
-    "id": "molefrog/wouter",
-    "name": "molefrog/wouter",
-    "description": "🥢 A minimalist-friendly ~2.1KB routing for React and Preact",
-    "topics": [
-      "hacktoberfest",
-      "microlibrary",
-      "preact",
-      "react",
-      "react-hooks",
-      "react-router",
-      "router",
-      "typescript",
-      "zero-dependency"
-    ],
-    "owner": {
-      "name": "molefrog",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/671276?v=4"
-    },
-    "stars": 6859,
-    "starsDetail": null,
-    "license": "The Unlicense",
-    "forks": 156,
-    "primaryLanguage": "JavaScript",
-    "pushedAt": "2024-12-20T10:23:19.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2019-04-09T17:36:41.000Z",
-    "updatedAt": "2025-01-04T16:21:37.000Z"
-  },
-  {
     "id": "nanostores/i18n",
     "name": "nanostores/i18n",
     "description": "A tiny (≈600 bytes) i18n library for React/Preact/Vue/Svelte",
@@ -1855,7 +2259,9 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/85066968?v=4"
     },
     "stars": 231,
-    "starsDetail": null,
+    "starsDetail": {
+      "total": 231
+    },
     "license": "MIT License",
     "forks": 12,
     "primaryLanguage": "JavaScript",
@@ -1869,29 +2275,6 @@
     "updatedAt": "2025-01-04T16:21:40.000Z"
   },
   {
-    "id": "nanostores/nanostores",
-    "name": "nanostores/nanostores",
-    "description": "A tiny (286 bytes) state manager for React/RN/Preact/Vue/Svelte with many atomic tree-shakable stores",
-    "topics": [],
-    "owner": {
-      "name": "nanostores",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/85066968?v=4"
-    },
-    "stars": 5660,
-    "starsDetail": null,
-    "license": "MIT License",
-    "forks": 110,
-    "primaryLanguage": "JavaScript",
-    "pushedAt": "2024-09-10T19:47:27.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2020-10-14T19:51:28.000Z",
-    "updatedAt": "2025-01-04T16:21:33.000Z"
-  },
-  {
     "id": "nanostores/router",
     "name": "nanostores/router",
     "description": "A tiny (673 bytes) router for Nano Stores state manager",
@@ -1901,7 +2284,9 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/85066968?v=4"
     },
     "stars": 248,
-    "starsDetail": null,
+    "starsDetail": {
+      "total": 248
+    },
     "license": "MIT License",
     "forks": 19,
     "primaryLanguage": "JavaScript",
@@ -1956,29 +2341,6 @@
     "updatedAt": "2025-01-04T16:21:46.000Z"
   },
   {
-    "id": "paldepind/flyd",
-    "name": "paldepind/flyd",
-    "description": "The minimalistic but powerful, modular, functional reactive programming library in JavaScript.",
-    "topics": [],
-    "owner": {
-      "name": "paldepind",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/521604?v=4"
-    },
-    "stars": 1562,
-    "starsDetail": null,
-    "license": "MIT License",
-    "forks": 84,
-    "primaryLanguage": "HTML",
-    "pushedAt": "2024-02-05T20:10:57.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2015-02-25T21:50:16.000Z",
-    "updatedAt": "2025-01-04T16:21:37.000Z"
-  },
-  {
     "id": "pmndrs/zustand",
     "name": "pmndrs/zustand",
     "description": "🐻 Bear necessities for state management in React",
@@ -1996,7 +2358,9 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/45790596?v=4"
     },
     "stars": 49074,
-    "starsDetail": null,
+    "starsDetail": {
+      "total": 49074
+    },
     "license": "MIT License",
     "forks": 1542,
     "primaryLanguage": "JavaScript",
@@ -2027,7 +2391,9 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/26872990?v=4"
     },
     "stars": 36998,
-    "starsDetail": null,
+    "starsDetail": {
+      "total": 36998
+    },
     "license": "MIT License",
     "forks": 1960,
     "primaryLanguage": "TypeScript",
@@ -2039,35 +2405,6 @@
     "goImportedBy": null,
     "createdAt": "2015-09-11T02:40:18.000Z",
     "updatedAt": "2025-01-04T14:18:50.000Z"
-  },
-  {
-    "id": "preactjs/signals",
-    "name": "preactjs/signals",
-    "description": "Manage state with style in every framework",
-    "topics": [
-      "preact",
-      "react",
-      "reactivity",
-      "signals",
-      "state-management"
-    ],
-    "owner": {
-      "name": "preactjs",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/26872990?v=4"
-    },
-    "stars": 3868,
-    "starsDetail": null,
-    "license": "MIT License",
-    "forks": 98,
-    "primaryLanguage": "Shell",
-    "pushedAt": "2025-01-02T09:14:22.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2022-08-08T21:29:28.000Z",
-    "updatedAt": "2025-01-04T16:21:35.000Z"
   },
   {
     "id": "rafgraph/detect-it",
@@ -2125,34 +2462,6 @@
     "goImportedBy": null,
     "createdAt": "2017-07-19T09:30:18.000Z",
     "updatedAt": "2025-01-04T16:21:49.000Z"
-  },
-  {
-    "id": "remeda/remeda",
-    "name": "remeda/remeda",
-    "description": "A utility library for JavaScript and TypeScript.",
-    "topics": [
-      "functional",
-      "programming",
-      "typescript",
-      "utility"
-    ],
-    "owner": {
-      "name": "remeda",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/39049333?v=4"
-    },
-    "stars": 4651,
-    "starsDetail": null,
-    "license": "MIT License",
-    "forks": 141,
-    "primaryLanguage": "JavaScript",
-    "pushedAt": "2025-01-04T14:28:05.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2018-05-07T08:56:53.000Z",
-    "updatedAt": "2025-01-04T16:21:43.000Z"
   },
   {
     "id": "rmm5t/liquidmetal",
@@ -2219,35 +2528,6 @@
     "updatedAt": "2025-01-04T16:21:47.000Z"
   },
   {
-    "id": "staltz/callbag-basics",
-    "name": "staltz/callbag-basics",
-    "description": "👜 Tiny and fast reactive/iterable programming library",
-    "topics": [
-      "callbacks",
-      "callbag",
-      "iterables",
-      "observables",
-      "reactive"
-    ],
-    "owner": {
-      "name": "staltz",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/90512?v=4"
-    },
-    "stars": 1652,
-    "starsDetail": null,
-    "license": "MIT License",
-    "forks": 43,
-    "primaryLanguage": "JavaScript",
-    "pushedAt": "2023-04-20T06:28:40.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2018-01-29T10:58:59.000Z",
-    "updatedAt": "2025-01-04T16:21:37.000Z"
-  },
-  {
     "id": "stayradiated/colr",
     "name": "stayradiated/colr",
     "description": "Fast and simple color conversion.",
@@ -2269,65 +2549,6 @@
     "goImportedBy": null,
     "createdAt": "2014-08-22T08:23:20.000Z",
     "updatedAt": "2025-01-04T16:21:46.000Z"
-  },
-  {
-    "id": "storeon/storeon",
-    "name": "storeon/storeon",
-    "description": "🌩 A tiny (185 bytes) event-based Redux-like state manager for React, Preact, Angular, Vue, and Svelte",
-    "topics": [],
-    "owner": {
-      "name": "storeon",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/50117058?v=4"
-    },
-    "stars": 1978,
-    "starsDetail": null,
-    "license": "MIT License",
-    "forks": 67,
-    "primaryLanguage": "HTML",
-    "pushedAt": "2024-12-10T17:42:24.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2019-03-16T04:52:02.000Z",
-    "updatedAt": "2025-01-04T16:21:34.000Z"
-  },
-  {
-    "id": "teafuljs/teaful",
-    "name": "teafuljs/teaful",
-    "description": "🍵 Tiny, easy and powerful React state management",
-    "topics": [
-      "easy",
-      "fragmented",
-      "javascript",
-      "management",
-      "performance",
-      "preact",
-      "react",
-      "state",
-      "state-management",
-      "store",
-      "teaful",
-      "tiny"
-    ],
-    "owner": {
-      "name": "teafuljs",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/93487249?v=4"
-    },
-    "stars": 714,
-    "starsDetail": null,
-    "license": "MIT License",
-    "forks": 25,
-    "primaryLanguage": "JavaScript",
-    "pushedAt": "2022-10-30T19:37:20.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2021-03-11T20:18:22.000Z",
-    "updatedAt": "2025-01-04T16:21:34.000Z"
   },
   {
     "id": "thesephist/libsearch",
@@ -2372,7 +2593,9 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/5262915?v=4"
     },
     "stars": 171,
-    "starsDetail": null,
+    "starsDetail": {
+      "total": 171
+    },
     "license": "MIT License",
     "forks": 5,
     "primaryLanguage": "JavaScript",
@@ -2403,7 +2626,9 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/31940585?v=4"
     },
     "stars": 331,
-    "starsDetail": null,
+    "starsDetail": {
+      "total": 331
+    },
     "license": null,
     "forks": 5,
     "primaryLanguage": "Shell",
@@ -2415,49 +2640,6 @@
     "goImportedBy": null,
     "createdAt": "2020-01-17T22:07:51.000Z",
     "updatedAt": "2025-01-04T16:21:40.000Z"
-  },
-  {
-    "id": "vanjs-org/van",
-    "name": "vanjs-org/van",
-    "description": "🍦 VanJS: World's smallest reactive UI framework. Incredibly Powerful, Insanely Small - Everyone can build a useful UI app in an hour.",
-    "topics": [
-      "data-binding",
-      "dom",
-      "dom-manipulation",
-      "grab-n-go",
-      "lightweight",
-      "lightweight-framework",
-      "lightweight-javascript-library",
-      "minimalist",
-      "no-dependencies",
-      "no-setup",
-      "reactive",
-      "reactive-ui",
-      "ui-framework",
-      "ultra-light",
-      "ultra-thin",
-      "vanilla-dom-manipulation",
-      "vanilla-javascript",
-      "vanilla-js",
-      "vannilajs"
-    ],
-    "owner": {
-      "name": "vanjs-org",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/132869025?v=4"
-    },
-    "stars": 3951,
-    "starsDetail": null,
-    "license": "MIT License",
-    "forks": 96,
-    "primaryLanguage": "Shell",
-    "pushedAt": "2025-01-04T02:54:58.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2023-05-08T05:45:31.000Z",
-    "updatedAt": "2025-01-04T16:21:31.000Z"
   },
   {
     "id": "vobyjs/oby",
@@ -2474,7 +2656,9 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/105102203?v=4"
     },
     "stars": 236,
-    "starsDetail": null,
+    "starsDetail": {
+      "total": 236
+    },
     "license": "MIT License",
     "forks": 8,
     "primaryLanguage": "TypeScript",

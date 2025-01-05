@@ -1,5 +1,92 @@
 [
   {
+    "id": "rails/tailwindcss-rails",
+    "name": "rails/tailwindcss-rails",
+    "description": "",
+    "topics": [],
+    "owner": {
+      "name": "rails",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/4223?v=4"
+    },
+    "stars": 1435,
+    "starsDetail": {
+      "total": 1435,
+      "week": 1,
+      "month": 9,
+      "year": 163,
+      "updatedAt": 1736060582
+    },
+    "license": "MIT License",
+    "forks": 174,
+    "primaryLanguage": "JavaScript",
+    "pushedAt": "2024-12-29T19:06:11.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2021-01-09T10:26:36.000Z",
+    "updatedAt": "2025-01-04T16:02:16.000Z"
+  },
+  {
+    "id": "tailwindlabs/prettier-plugin-tailwindcss",
+    "name": "tailwindlabs/prettier-plugin-tailwindcss",
+    "description": "A Prettier plugin for Tailwind CSS that automatically sorts classes based on our recommended class order.",
+    "topics": [],
+    "owner": {
+      "name": "tailwindlabs",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/67109815?v=4"
+    },
+    "stars": 5777,
+    "starsDetail": {
+      "total": 5777,
+      "week": 12,
+      "month": 88,
+      "year": 1733,
+      "updatedAt": 1736060578
+    },
+    "license": "MIT License",
+    "forks": 138,
+    "primaryLanguage": "JavaScript",
+    "pushedAt": "2024-12-09T14:47:27.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2021-08-26T11:45:14.000Z",
+    "updatedAt": "2025-01-04T16:02:13.000Z"
+  },
+  {
+    "id": "seek-oss/capsize",
+    "name": "seek-oss/capsize",
+    "description": "Flipping how we define typography in CSS.",
+    "topics": [],
+    "owner": {
+      "name": "seek-oss",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/22927121?v=4"
+    },
+    "stars": 1540,
+    "starsDetail": {
+      "total": 1540,
+      "week": 1,
+      "month": 8,
+      "year": 227,
+      "updatedAt": 1736060572
+    },
+    "license": "MIT License",
+    "forks": 40,
+    "primaryLanguage": "Shell",
+    "pushedAt": "2024-11-13T00:37:42.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2020-06-03T22:57:36.000Z",
+    "updatedAt": "2025-01-04T16:02:07.000Z"
+  },
+  {
     "id": "alfonsobries/vue-tailwind",
     "name": "alfonsobries/vue-tailwind",
     "description": "Vue UI components with configurable classes ready for TailwindCSS",
@@ -35,6 +122,148 @@
     "goImportedBy": null,
     "createdAt": "2019-03-22T04:28:15.000Z",
     "updatedAt": "2025-01-04T15:14:38.000Z"
+  },
+  {
+    "id": "sindresorhus/awesome-lint",
+    "name": "sindresorhus/awesome-lint",
+    "description": "Linter for Awesome lists",
+    "topics": [
+      "awesome",
+      "lint",
+      "linter",
+      "nodejs"
+    ],
+    "owner": {
+      "name": "sindresorhus",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/170270?v=4"
+    },
+    "stars": 619,
+    "starsDetail": {
+      "total": 619,
+      "week": 0,
+      "month": 7,
+      "year": 50,
+      "updatedAt": 1736060558
+    },
+    "license": "MIT License",
+    "forks": 60,
+    "primaryLanguage": "JavaScript",
+    "pushedAt": "2024-06-04T13:38:21.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2016-08-01T10:55:57.000Z",
+    "updatedAt": "2025-01-04T16:01:57.000Z"
+  },
+  {
+    "id": "themesberg/flowbite-admin-dashboard",
+    "name": "themesberg/flowbite-admin-dashboard",
+    "description": "Free and open-source admin dashboard template built with Tailwind CSS and Flowbite",
+    "topics": [
+      "admin-dashboard",
+      "charts",
+      "css",
+      "dashboard",
+      "flowbite",
+      "html",
+      "hugo",
+      "javascript",
+      "tailwind",
+      "tailwindcss",
+      "webpack",
+      "widget"
+    ],
+    "owner": {
+      "name": "themesberg",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/52166837?v=4"
+    },
+    "stars": 2254,
+    "starsDetail": {
+      "total": 2254,
+      "week": 15,
+      "month": 67,
+      "year": 990,
+      "updatedAt": 1736060592
+    },
+    "license": "MIT License",
+    "forks": 544,
+    "primaryLanguage": "CSS",
+    "pushedAt": "2024-05-15T02:47:54.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2023-01-09T15:52:21.000Z",
+    "updatedAt": "2025-01-04T16:02:24.000Z"
+  },
+  {
+    "id": "jorenvanhee/tailwindcss-debug-screens",
+    "name": "jorenvanhee/tailwindcss-debug-screens",
+    "description": "A Tailwind CSS component that shows the currently active screen (responsive breakpoint).",
+    "topics": [
+      "tailwind",
+      "tailwindcss-plugin"
+    ],
+    "owner": {
+      "name": "jorenvanhee",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/231202?v=4"
+    },
+    "stars": 619,
+    "starsDetail": {
+      "total": 619,
+      "week": 1,
+      "month": 6,
+      "year": 73,
+      "updatedAt": 1736060574
+    },
+    "license": null,
+    "forks": 18,
+    "primaryLanguage": "JavaScript",
+    "pushedAt": "2023-05-01T20:55:00.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2019-10-29T19:18:34.000Z",
+    "updatedAt": "2025-01-04T16:02:11.000Z"
+  },
+  {
+    "id": "rgossiaux/svelte-headlessui",
+    "name": "rgossiaux/svelte-headlessui",
+    "description": "Unofficial Svelte port of the Headless UI component library",
+    "topics": [
+      "svelte",
+      "svelte-components",
+      "svelte3",
+      "sveltejs"
+    ],
+    "owner": {
+      "name": "rgossiaux",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/3475509?v=4"
+    },
+    "stars": 1796,
+    "starsDetail": {
+      "total": 1796,
+      "week": 0,
+      "month": 6,
+      "year": 132,
+      "updatedAt": 1736060586
+    },
+    "license": "MIT License",
+    "forks": 97,
+    "primaryLanguage": "HTML",
+    "pushedAt": "2024-03-31T09:03:14.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2021-12-05T07:13:54.000Z",
+    "updatedAt": "2025-01-04T16:02:20.000Z"
   },
   {
     "id": "uicrooks/shopify-theme-lab",
@@ -74,6 +303,204 @@
     "goImportedBy": null,
     "createdAt": "2020-09-11T21:52:19.000Z",
     "updatedAt": "2025-01-04T15:12:59.000Z"
+  },
+  {
+    "id": "barvian/fluid-tailwind",
+    "name": "barvian/fluid-tailwind",
+    "description": "Build better responsive designs in less code.",
+    "topics": [
+      "clamp",
+      "fluid",
+      "fluid-type",
+      "fluid-typography",
+      "plugin",
+      "responsive",
+      "tailwind",
+      "tailwind-plugin",
+      "tailwindcss",
+      "tailwindcss-plugin",
+      "vw"
+    ],
+    "owner": {
+      "name": "barvian",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/868352?v=4"
+    },
+    "stars": 1369,
+    "starsDetail": {
+      "total": 1369,
+      "week": 15,
+      "month": 58,
+      "year": 1369,
+      "updatedAt": 1736060572
+    },
+    "license": "MIT License",
+    "forks": 21,
+    "primaryLanguage": "HTML",
+    "pushedAt": "2024-11-12T22:51:10.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2024-02-12T22:49:35.000Z",
+    "updatedAt": "2025-01-04T16:02:10.000Z"
+  },
+  {
+    "id": "chrismwilliams/astro-theme-cactus",
+    "name": "chrismwilliams/astro-theme-cactus",
+    "description": "A simple Astro theme. Use it to create your blog or website.",
+    "topics": [
+      "astro",
+      "astro-template",
+      "astrobuild",
+      "astrodotbuild",
+      "astrojs",
+      "blog",
+      "personal-webpage",
+      "portfolio-website",
+      "static-site",
+      "static-site-generator",
+      "tailwindcss",
+      "theme",
+      "website-template"
+    ],
+    "owner": {
+      "name": "chrismwilliams",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/12715988?v=4"
+    },
+    "stars": 1012,
+    "starsDetail": {
+      "total": 1012,
+      "week": 14,
+      "month": 58,
+      "year": 543,
+      "updatedAt": 1736060592
+    },
+    "license": "MIT License",
+    "forks": 160,
+    "primaryLanguage": "JavaScript",
+    "pushedAt": "2024-12-06T14:34:31.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2022-05-13T07:51:31.000Z",
+    "updatedAt": "2025-01-04T16:02:25.000Z"
+  },
+  {
+    "id": "awssat/tailwindo",
+    "name": "awssat/tailwindo",
+    "description": "🔌  Convert Bootstrap CSS code to Tailwind CSS code",
+    "topics": [
+      "bootstrap",
+      "bootstrap-css",
+      "bootstrap4",
+      "converter",
+      "css",
+      "css-converter",
+      "css-framework",
+      "css-framework-bootstrap",
+      "html",
+      "tailwind",
+      "tailwind-css",
+      "tailwind-scaffolding",
+      "tailwindcss"
+    ],
+    "owner": {
+      "name": "awssat",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/33674885?v=4"
+    },
+    "stars": 1097,
+    "starsDetail": {
+      "total": 1097,
+      "week": 1,
+      "month": 5,
+      "year": 61,
+      "updatedAt": 1736060579
+    },
+    "license": "MIT License",
+    "forks": 108,
+    "primaryLanguage": "PHP",
+    "pushedAt": "2023-01-03T12:45:26.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2017-11-12T00:07:10.000Z",
+    "updatedAt": "2025-01-04T16:02:13.000Z"
+  },
+  {
+    "id": "tailwindlabs/tailwindcss-line-clamp",
+    "name": "tailwindlabs/tailwindcss-line-clamp",
+    "description": "A plugin that provides utilities for visually truncating text after a fixed number of lines.",
+    "topics": [],
+    "owner": {
+      "name": "tailwindlabs",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/67109815?v=4"
+    },
+    "stars": 1183,
+    "starsDetail": {
+      "total": 1183,
+      "week": 1,
+      "month": 5,
+      "year": 58,
+      "updatedAt": 1736060573
+    },
+    "license": "MIT License",
+    "forks": 36,
+    "primaryLanguage": "JavaScript",
+    "pushedAt": "2024-03-22T17:16:16.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2021-01-06T19:09:34.000Z",
+    "updatedAt": "2025-01-04T16:02:12.000Z"
+  },
+  {
+    "id": "cruip/tailwind-landing-page-template",
+    "name": "cruip/tailwind-landing-page-template",
+    "description": "Simple Light is a free landing page template built on top of TailwindCSS and fully coded in React / Next.js. Made by ",
+    "topics": [
+      "free",
+      "landing",
+      "landing-page",
+      "nextjs",
+      "page",
+      "react",
+      "reactjs",
+      "startup",
+      "tailwind",
+      "tailwindcss",
+      "vite",
+      "vitejs"
+    ],
+    "owner": {
+      "name": "cruip",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/63243128?v=4"
+    },
+    "stars": 3874,
+    "starsDetail": {
+      "total": 3874,
+      "week": 12,
+      "month": 44,
+      "year": 1363,
+      "updatedAt": 1736060588
+    },
+    "license": null,
+    "forks": 1537,
+    "primaryLanguage": "JavaScript",
+    "pushedAt": "2024-12-08T13:44:05.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2020-10-15T14:20:56.000Z",
+    "updatedAt": "2025-01-04T16:02:23.000Z"
   },
   {
     "id": "mdbootstrap/TW-Elements",
@@ -126,6 +553,69 @@
     "updatedAt": "2025-01-04T14:48:44.000Z"
   },
   {
+    "id": "tailwindlabs/tailwindcss-container-queries",
+    "name": "tailwindlabs/tailwindcss-container-queries",
+    "description": "A plugin for Tailwind CSS v3.2+ that provides utilities for container queries.",
+    "topics": [],
+    "owner": {
+      "name": "tailwindlabs",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/67109815?v=4"
+    },
+    "stars": 1313,
+    "starsDetail": {
+      "total": 1313,
+      "week": 3,
+      "month": 41,
+      "year": 542,
+      "updatedAt": 1736060568
+    },
+    "license": "MIT License",
+    "forks": 39,
+    "primaryLanguage": "JavaScript",
+    "pushedAt": "2024-12-26T22:08:04.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2022-10-12T10:39:32.000Z",
+    "updatedAt": "2025-01-04T16:01:59.000Z"
+  },
+  {
+    "id": "wobsoriano/v-dashboard",
+    "name": "wobsoriano/v-dashboard",
+    "description": "Dashboard starter template built with Vue 3 and Tailwind CSS.",
+    "topics": [
+      "hacktoberfest",
+      "tailwindcss",
+      "vite",
+      "vue"
+    ],
+    "owner": {
+      "name": "wobsoriano",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/13049130?v=4"
+    },
+    "stars": 924,
+    "starsDetail": {
+      "total": 924,
+      "week": 1,
+      "month": 4,
+      "year": 84,
+      "updatedAt": 1736060589
+    },
+    "license": "MIT License",
+    "forks": 206,
+    "primaryLanguage": "CSS",
+    "pushedAt": "2023-07-05T19:48:53.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2020-08-19T03:48:00.000Z",
+    "updatedAt": "2025-01-04T16:02:23.000Z"
+  },
+  {
     "id": "formkit/formkit",
     "name": "formkit/formkit",
     "description": "Vue Forms ⚡️ Supercharged",
@@ -158,6 +648,240 @@
     "goImportedBy": null,
     "createdAt": "2021-06-02T21:35:19.000Z",
     "updatedAt": "2025-01-04T15:20:11.000Z"
+  },
+  {
+    "id": "tailwindlabs/tailwindcss-forms",
+    "name": "tailwindlabs/tailwindcss-forms",
+    "description": "A plugin that provides a basic reset for form styles that makes form elements easy to override with utilities.",
+    "topics": [],
+    "owner": {
+      "name": "tailwindlabs",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/67109815?v=4"
+    },
+    "stars": 4297,
+    "starsDetail": {
+      "total": 4297,
+      "week": 8,
+      "month": 31,
+      "year": 645,
+      "updatedAt": 1736060568
+    },
+    "license": "MIT License",
+    "forks": 223,
+    "primaryLanguage": "JavaScript",
+    "pushedAt": "2024-11-29T15:04:01.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2020-11-11T22:29:13.000Z",
+    "updatedAt": "2025-01-04T16:02:00.000Z"
+  },
+  {
+    "id": "rogden/tailwind-config-viewer",
+    "name": "rogden/tailwind-config-viewer",
+    "description": "A local UI tool for visualizing your Tailwind CSS configuration file.",
+    "topics": [
+      "tailwind",
+      "tailwind-css",
+      "tailwindcss",
+      "vue"
+    ],
+    "owner": {
+      "name": "rogden",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/367368?v=4"
+    },
+    "stars": 2063,
+    "starsDetail": {
+      "total": 2063,
+      "week": 5,
+      "month": 26,
+      "year": 310,
+      "updatedAt": 1736060584
+    },
+    "license": null,
+    "forks": 114,
+    "primaryLanguage": "CSS",
+    "pushedAt": "2024-11-22T04:02:27.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2019-07-03T14:30:47.000Z",
+    "updatedAt": "2025-01-04T16:02:17.000Z"
+  },
+  {
+    "id": "tw-in-js/twind",
+    "name": "tw-in-js/twind",
+    "description": "The smallest, fastest, most feature complete Tailwind-in-JS solution in existence.",
+    "topics": [
+      "css",
+      "css-in-js",
+      "tailwind",
+      "tailwind-in-js",
+      "tailwindcss"
+    ],
+    "owner": {
+      "name": "tw-in-js",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/75540906?v=4"
+    },
+    "stars": 3818,
+    "starsDetail": {
+      "total": 3818,
+      "week": 5,
+      "month": 26,
+      "year": 251,
+      "updatedAt": 1736060579
+    },
+    "license": "MIT License",
+    "forks": 104,
+    "primaryLanguage": "Shell",
+    "pushedAt": "2025-01-01T04:09:19.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2020-12-05T17:59:21.000Z",
+    "updatedAt": "2025-01-04T16:02:13.000Z"
+  },
+  {
+    "id": "ixartz/Next-js-Boilerplate",
+    "name": "ixartz/Next-js-Boilerplate",
+    "description": "🚀🎉📚 Boilerplate and Starter for Next.js 15 with App Router and Page Router support, Tailwind CSS 3.4 and TypeScript ⚡️ Made with developer experience first: Next.js + TypeScript + ESLint + Prettier + Drizzle ORM + Husky + Lint-Staged + Vitest + Testing Library + Playwright + Storybook + Commitlint + VSCode + Netlify + PostCSS + Tailwind CSS ✨",
+    "topics": [
+      "boilerplate",
+      "boilerplate-code",
+      "jamstack",
+      "javascript",
+      "js-boilerplate",
+      "netlify-template",
+      "next-js",
+      "next-theme",
+      "nextjs",
+      "nextjs-starter",
+      "nextjs-template",
+      "react",
+      "react-boilerplate",
+      "reactjs",
+      "starter-kit",
+      "starter-project",
+      "starter-template",
+      "tailwind-css",
+      "tailwindcss",
+      "typescript"
+    ],
+    "owner": {
+      "name": "ixartz",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/5209935?v=4"
+    },
+    "stars": 9760,
+    "starsDetail": {
+      "total": 9760,
+      "week": 49,
+      "month": 246,
+      "year": 4374,
+      "updatedAt": 1736060598
+    },
+    "license": "MIT License",
+    "forks": 1848,
+    "primaryLanguage": "CSS",
+    "pushedAt": "2024-12-20T14:53:33.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2020-07-22T19:47:35.000Z",
+    "updatedAt": "2025-01-04T16:02:37.000Z"
+  },
+  {
+    "id": "tailwindlabs/headlessui",
+    "name": "tailwindlabs/headlessui",
+    "description": "Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.",
+    "topics": [
+      "a11y",
+      "accessibility",
+      "components",
+      "headless-ui",
+      "headlessui",
+      "react",
+      "tailwindcss",
+      "vue"
+    ],
+    "owner": {
+      "name": "tailwindlabs",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/67109815?v=4"
+    },
+    "stars": 26499,
+    "starsDetail": {
+      "total": 26499,
+      "week": 49,
+      "month": 230,
+      "year": 3734,
+      "updatedAt": 1736060566
+    },
+    "license": "MIT License",
+    "forks": 1095,
+    "primaryLanguage": "HTML",
+    "pushedAt": "2024-12-12T16:41:03.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2020-09-16T09:53:09.000Z",
+    "updatedAt": "2025-01-04T16:01:57.000Z"
+  },
+  {
+    "id": "ben-rogerson/twin.macro",
+    "name": "ben-rogerson/twin.macro",
+    "description": "🦹‍♂️ Twin blends the magic of Tailwind with the flexibility of css-in-js (emotion, styled-components, solid-styled-components, stitches and goober) at build time.",
+    "topics": [
+      "babel",
+      "babel-macro",
+      "css-in-js",
+      "emotion",
+      "emotionjs",
+      "goober",
+      "react",
+      "reactjs",
+      "solidjs",
+      "stitches",
+      "styled-components",
+      "styling-css-in-js",
+      "styling-react",
+      "tailwind",
+      "tailwind-css",
+      "tailwind-in-js",
+      "tailwindcss",
+      "twin"
+    ],
+    "owner": {
+      "name": "ben-rogerson",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/21288568?v=4"
+    },
+    "stars": 7968,
+    "starsDetail": {
+      "total": 7968,
+      "week": 6,
+      "month": 23,
+      "year": 381,
+      "updatedAt": 1736060585
+    },
+    "license": "MIT License",
+    "forks": 184,
+    "primaryLanguage": "JavaScript",
+    "pushedAt": "2024-04-08T04:13:35.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2020-02-19T04:45:25.000Z",
+    "updatedAt": "2025-01-04T16:02:17.000Z"
   },
   {
     "id": "justboil/admin-one-vue-tailwind",
@@ -202,6 +926,316 @@
     "updatedAt": "2025-01-04T15:14:44.000Z"
   },
   {
+    "id": "onwidget/astrowind",
+    "name": "onwidget/astrowind",
+    "description": "⭕️ AstroWind: A free template using Astro 5 and Tailwind CSS. Astro starter theme.",
+    "topics": [
+      "astro",
+      "astro-blog",
+      "astro-starter",
+      "astro-template",
+      "astro-theme",
+      "astro-themes",
+      "blog",
+      "jamstack",
+      "javascript",
+      "landing-page",
+      "ssg",
+      "static-site",
+      "static-site-generator",
+      "tailwind",
+      "tailwind-css-template",
+      "tailwind-template",
+      "tailwindcss",
+      "template",
+      "theme",
+      "website-template"
+    ],
+    "owner": {
+      "name": "onwidget",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/106269169?v=4"
+    },
+    "stars": 3747,
+    "starsDetail": {
+      "total": 3747,
+      "week": 35,
+      "month": 188,
+      "year": 1984,
+      "updatedAt": 1736060597
+    },
+    "license": "MIT License",
+    "forks": 1137,
+    "primaryLanguage": "HTML",
+    "pushedAt": "2024-12-11T21:03:15.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2022-06-24T03:13:29.000Z",
+    "updatedAt": "2025-01-04T16:02:38.000Z"
+  },
+  {
+    "id": "tailwindlabs/tailwindcss-typography",
+    "name": "tailwindlabs/tailwindcss-typography",
+    "description": "Beautiful typographic defaults for HTML you don't control.",
+    "topics": [],
+    "owner": {
+      "name": "tailwindlabs",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/67109815?v=4"
+    },
+    "stars": 4881,
+    "starsDetail": {
+      "total": 4881,
+      "week": 26,
+      "month": 117,
+      "year": 1600,
+      "updatedAt": 1736060566
+    },
+    "license": "MIT License",
+    "forks": 277,
+    "primaryLanguage": "JavaScript",
+    "pushedAt": "2024-12-17T19:48:30.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2019-11-01T16:16:59.000Z",
+    "updatedAt": "2025-01-04T16:01:59.000Z"
+  },
+  {
+    "id": "ecklf/tailwindcss-radix",
+    "name": "ecklf/tailwindcss-radix",
+    "description": "Utilities and variants for styling Radix state",
+    "topics": [
+      "plugin",
+      "radix",
+      "react",
+      "tailwindcss"
+    ],
+    "owner": {
+      "name": "ecklf",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/8146736?v=4"
+    },
+    "stars": 2118,
+    "starsDetail": {
+      "total": 2118,
+      "week": 3,
+      "month": 11,
+      "year": 176,
+      "updatedAt": 1736060570
+    },
+    "license": "MIT License",
+    "forks": 67,
+    "primaryLanguage": "TypeScript",
+    "pushedAt": "2024-09-04T09:59:31.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2021-11-17T16:38:20.000Z",
+    "updatedAt": "2025-01-04T16:02:02.000Z"
+  },
+  {
+    "id": "twbs/rfs",
+    "name": "twbs/rfs",
+    "description": "✩ Automates responsive resizing ✩",
+    "topics": [
+      "css",
+      "font-size",
+      "frontend",
+      "postcss",
+      "responsive",
+      "rfs",
+      "sass",
+      "scss",
+      "stylus"
+    ],
+    "owner": {
+      "name": "twbs",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/2918581?v=4"
+    },
+    "stars": 3336,
+    "starsDetail": {
+      "total": 3336,
+      "week": 1,
+      "month": 11,
+      "year": 120,
+      "updatedAt": 1736060572
+    },
+    "license": "MIT License",
+    "forks": 216,
+    "primaryLanguage": "Sass",
+    "pushedAt": "2024-09-03T15:19:49.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2017-06-04T13:49:56.000Z",
+    "updatedAt": "2025-01-04T16:02:03.000Z"
+  },
+  {
+    "id": "tailwindlabs/tailwindcss-aspect-ratio",
+    "name": "tailwindlabs/tailwindcss-aspect-ratio",
+    "description": "",
+    "topics": [],
+    "owner": {
+      "name": "tailwindlabs",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/67109815?v=4"
+    },
+    "stars": 989,
+    "starsDetail": {
+      "total": 989,
+      "week": 2,
+      "month": 10,
+      "year": 123,
+      "updatedAt": 1736060576
+    },
+    "license": "MIT License",
+    "forks": 34,
+    "primaryLanguage": "JavaScript",
+    "pushedAt": "2024-03-22T17:16:27.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2020-11-06T19:20:06.000Z",
+    "updatedAt": "2025-01-04T16:02:12.000Z"
+  },
+  {
+    "id": "TVke/react-native-tailwindcss",
+    "name": "TVke/react-native-tailwindcss",
+    "description": "A react-native style system based on TailwindCSS",
+    "topics": [
+      "react-native",
+      "tailwindcss"
+    ],
+    "owner": {
+      "name": "TVke",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/15680337?v=4"
+    },
+    "stars": 566,
+    "starsDetail": {
+      "total": 566,
+      "week": 0,
+      "month": 1,
+      "year": 11,
+      "updatedAt": 1736060580
+    },
+    "license": "MIT License",
+    "forks": 33,
+    "primaryLanguage": "Shell",
+    "pushedAt": "2021-08-26T11:06:13.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2018-12-26T16:10:40.000Z",
+    "updatedAt": "2025-01-04T16:02:14.000Z"
+  },
+  {
+    "id": "laravel-frontend-presets/tailwindcss",
+    "name": "laravel-frontend-presets/tailwindcss",
+    "description": "A Tailwind CSS frontend preset for the Laravel Framework",
+    "topics": [
+      "laravel",
+      "preset",
+      "tailwind",
+      "tailwind-scaffolding",
+      "tailwindcss"
+    ],
+    "owner": {
+      "name": "laravel-frontend-presets",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/29518218?v=4"
+    },
+    "stars": 1151,
+    "starsDetail": {
+      "total": 1151,
+      "week": 1,
+      "month": 1,
+      "year": 20,
+      "updatedAt": 1736060593
+    },
+    "license": "MIT License",
+    "forks": 140,
+    "primaryLanguage": "CSS",
+    "pushedAt": "2023-04-16T06:54:38.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2017-11-01T06:32:49.000Z",
+    "updatedAt": "2025-01-04T16:02:27.000Z"
+  },
+  {
+    "id": "hasinhayder/tailwind-cards",
+    "name": "hasinhayder/tailwind-cards",
+    "description": "A growing collection of text/image cards you can use/copy-paste in your tailwind css projects",
+    "topics": [
+      "learning-by-doing",
+      "tailwind-css",
+      "tailwindcss"
+    ],
+    "owner": {
+      "name": "hasinhayder",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/490779?v=4"
+    },
+    "stars": 584,
+    "starsDetail": {
+      "total": 584,
+      "week": 0,
+      "month": 0,
+      "year": 44,
+      "updatedAt": 1736060586
+    },
+    "license": "MIT License",
+    "forks": 76,
+    "primaryLanguage": "JavaScript",
+    "pushedAt": "2024-06-09T13:56:52.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2021-03-11T19:30:50.000Z",
+    "updatedAt": "2025-01-04T16:02:21.000Z"
+  },
+  {
+    "id": "tailwindlabs/tailwindcss-custom-forms",
+    "name": "tailwindlabs/tailwindcss-custom-forms",
+    "description": "A better base for styling form elements with Tailwind CSS.",
+    "topics": [],
+    "owner": {
+      "name": "tailwindlabs",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/67109815?v=4"
+    },
+    "stars": 1553,
+    "starsDetail": {
+      "total": 1553,
+      "week": 0,
+      "month": 0,
+      "year": 1,
+      "updatedAt": 1736060574
+    },
+    "license": "MIT License",
+    "forks": 72,
+    "primaryLanguage": "CSS",
+    "pushedAt": "2021-08-31T20:54:24.000Z",
+    "archived": true,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2019-05-19T13:48:09.000Z",
+    "updatedAt": "2025-01-04T16:02:12.000Z"
+  },
+  {
     "id": "20lives/tailwindcss-rtl",
     "name": "20lives/tailwindcss-rtl",
     "description": "Enabling bidirectional support on tailwindcss framework",
@@ -219,7 +1253,9 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/8869390?v=4"
     },
     "stars": 355,
-    "starsDetail": null,
+    "starsDetail": {
+      "total": 355
+    },
     "license": "MIT License",
     "forks": 33,
     "primaryLanguage": "JavaScript",
@@ -242,7 +1278,9 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/48467762?v=4"
     },
     "stars": 22,
-    "starsDetail": null,
+    "starsDetail": {
+      "total": 22
+    },
     "license": null,
     "forks": 0,
     "primaryLanguage": "JavaScript",
@@ -273,7 +1311,9 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/5346497?v=4"
     },
     "stars": 29,
-    "starsDetail": null,
+    "starsDetail": {
+      "total": 29
+    },
     "license": null,
     "forks": 3,
     "primaryLanguage": "AppleScript",
@@ -303,7 +1343,9 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/6459679?v=4"
     },
     "stars": 8,
-    "starsDetail": null,
+    "starsDetail": {
+      "total": 8
+    },
     "license": "MIT License",
     "forks": 2,
     "primaryLanguage": "CSS",
@@ -334,7 +1376,9 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/24757335?v=4"
     },
     "stars": 67,
-    "starsDetail": null,
+    "starsDetail": {
+      "total": 67
+    },
     "license": "MIT License",
     "forks": 10,
     "primaryLanguage": "TypeScript",
@@ -368,7 +1412,9 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/124627927?v=4"
     },
     "stars": 312,
-    "starsDetail": null,
+    "starsDetail": {
+      "total": 312
+    },
     "license": "GNU General Public License v3.0",
     "forks": 147,
     "primaryLanguage": "CSS",
@@ -401,7 +1447,9 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/124627927?v=4"
     },
     "stars": 90,
-    "starsDetail": null,
+    "starsDetail": {
+      "total": 90
+    },
     "license": "GNU General Public License v3.0",
     "forks": 25,
     "primaryLanguage": "CSS",
@@ -424,7 +1472,9 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/57622665?v=4"
     },
     "stars": 213,
-    "starsDetail": null,
+    "starsDetail": {
+      "total": 213
+    },
     "license": "MIT License",
     "forks": 49,
     "primaryLanguage": "CSS",
@@ -452,7 +1502,9 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/10154100?v=4"
     },
     "stars": 41,
-    "starsDetail": null,
+    "starsDetail": {
+      "total": 41
+    },
     "license": "MIT License",
     "forks": 2,
     "primaryLanguage": "CSS",
@@ -484,7 +1536,9 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/1146444?v=4"
     },
     "stars": 79,
-    "starsDetail": null,
+    "starsDetail": {
+      "total": 79
+    },
     "license": "MIT License",
     "forks": 28,
     "primaryLanguage": "Shell",
@@ -507,7 +1561,9 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/68534330?v=4"
     },
     "stars": 34,
-    "starsDetail": null,
+    "starsDetail": {
+      "total": 34
+    },
     "license": "MIT License",
     "forks": 9,
     "primaryLanguage": "TypeScript",
@@ -539,7 +1595,9 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/20916810?v=4"
     },
     "stars": 306,
-    "starsDetail": null,
+    "starsDetail": {
+      "total": 306
+    },
     "license": "MIT License",
     "forks": 11,
     "primaryLanguage": "HTML",
@@ -562,7 +1620,9 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/35688086?v=4"
     },
     "stars": 139,
-    "starsDetail": null,
+    "starsDetail": {
+      "total": 139
+    },
     "license": "MIT License",
     "forks": 4,
     "primaryLanguage": "JavaScript",
@@ -574,32 +1634,6 @@
     "goImportedBy": null,
     "createdAt": "2020-10-17T00:48:17.000Z",
     "updatedAt": "2025-01-04T16:02:08.000Z"
-  },
-  {
-    "id": "TVke/react-native-tailwindcss",
-    "name": "TVke/react-native-tailwindcss",
-    "description": "A react-native style system based on TailwindCSS",
-    "topics": [
-      "react-native",
-      "tailwindcss"
-    ],
-    "owner": {
-      "name": "TVke",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/15680337?v=4"
-    },
-    "stars": 566,
-    "starsDetail": null,
-    "license": "MIT License",
-    "forks": 33,
-    "primaryLanguage": "Shell",
-    "pushedAt": "2021-08-26T11:06:13.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2018-12-26T16:10:40.000Z",
-    "updatedAt": "2025-01-04T16:02:14.000Z"
   },
   {
     "id": "TheNaubit/tailwind-dot-grid-backgrounds",
@@ -622,7 +1656,9 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/22015497?v=4"
     },
     "stars": 23,
-    "starsDetail": null,
+    "starsDetail": {
+      "total": 23
+    },
     "license": "MIT License",
     "forks": 0,
     "primaryLanguage": "TypeScript",
@@ -657,7 +1693,9 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/188896?v=4"
     },
     "stars": 99,
-    "starsDetail": null,
+    "starsDetail": {
+      "total": 99
+    },
     "license": "MIT License",
     "forks": 101,
     "primaryLanguage": "Shell",
@@ -685,7 +1723,9 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/23167701?v=4"
     },
     "stars": 61,
-    "starsDetail": null,
+    "starsDetail": {
+      "total": 61
+    },
     "license": "MIT License",
     "forks": 3,
     "primaryLanguage": "CSS",
@@ -714,7 +1754,9 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/8883368?v=4"
     },
     "stars": 32,
-    "starsDetail": null,
+    "starsDetail": {
+      "total": 32
+    },
     "license": "MIT License",
     "forks": 4,
     "primaryLanguage": "Shell",
@@ -737,7 +1779,9 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/18599486?v=4"
     },
     "stars": 19,
-    "starsDetail": null,
+    "starsDetail": {
+      "total": 19
+    },
     "license": "MIT License",
     "forks": 0,
     "primaryLanguage": "TypeScript",
@@ -765,7 +1809,9 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/5235065?v=4"
     },
     "stars": 102,
-    "starsDetail": null,
+    "starsDetail": {
+      "total": 102
+    },
     "license": "MIT License",
     "forks": 19,
     "primaryLanguage": "CSS",
@@ -793,7 +1839,9 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/28076164?v=4"
     },
     "stars": 491,
-    "starsDetail": null,
+    "starsDetail": {
+      "total": 491
+    },
     "license": "Apache License 2.0",
     "forks": 26,
     "primaryLanguage": "Dockerfile",
@@ -816,7 +1864,9 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/41503212?v=4"
     },
     "stars": 38,
-    "starsDetail": null,
+    "starsDetail": {
+      "total": 38
+    },
     "license": "MIT License",
     "forks": 0,
     "primaryLanguage": "Shell",
@@ -830,78 +1880,6 @@
     "updatedAt": "2025-01-04T16:02:17.000Z"
   },
   {
-    "id": "awssat/tailwindo",
-    "name": "awssat/tailwindo",
-    "description": "🔌  Convert Bootstrap CSS code to Tailwind CSS code",
-    "topics": [
-      "bootstrap",
-      "bootstrap-css",
-      "bootstrap4",
-      "converter",
-      "css",
-      "css-converter",
-      "css-framework",
-      "css-framework-bootstrap",
-      "html",
-      "tailwind",
-      "tailwind-css",
-      "tailwind-scaffolding",
-      "tailwindcss"
-    ],
-    "owner": {
-      "name": "awssat",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/33674885?v=4"
-    },
-    "stars": 1097,
-    "starsDetail": null,
-    "license": "MIT License",
-    "forks": 108,
-    "primaryLanguage": "PHP",
-    "pushedAt": "2023-01-03T12:45:26.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2017-11-12T00:07:10.000Z",
-    "updatedAt": "2025-01-04T16:02:13.000Z"
-  },
-  {
-    "id": "barvian/fluid-tailwind",
-    "name": "barvian/fluid-tailwind",
-    "description": "Build better responsive designs in less code.",
-    "topics": [
-      "clamp",
-      "fluid",
-      "fluid-type",
-      "fluid-typography",
-      "plugin",
-      "responsive",
-      "tailwind",
-      "tailwind-plugin",
-      "tailwindcss",
-      "tailwindcss-plugin",
-      "vw"
-    ],
-    "owner": {
-      "name": "barvian",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/868352?v=4"
-    },
-    "stars": 1369,
-    "starsDetail": null,
-    "license": "MIT License",
-    "forks": 21,
-    "primaryLanguage": "HTML",
-    "pushedAt": "2024-11-12T22:51:10.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2024-02-12T22:49:35.000Z",
-    "updatedAt": "2025-01-04T16:02:10.000Z"
-  },
-  {
     "id": "basarozcan/vue-tailwindcss-typeahead",
     "name": "basarozcan/vue-tailwindcss-typeahead",
     "description": "Just another vue&tailwind component that present you complete typeahead/autocomplete input.",
@@ -911,7 +1889,9 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/2423158?v=4"
     },
     "stars": 21,
-    "starsDetail": null,
+    "starsDetail": {
+      "total": 21
+    },
     "license": null,
     "forks": 7,
     "primaryLanguage": "CSS",
@@ -923,85 +1903,6 @@
     "goImportedBy": null,
     "createdAt": "2020-11-17T21:29:45.000Z",
     "updatedAt": "2025-01-04T16:02:22.000Z"
-  },
-  {
-    "id": "ben-rogerson/twin.macro",
-    "name": "ben-rogerson/twin.macro",
-    "description": "🦹‍♂️ Twin blends the magic of Tailwind with the flexibility of css-in-js (emotion, styled-components, solid-styled-components, stitches and goober) at build time.",
-    "topics": [
-      "babel",
-      "babel-macro",
-      "css-in-js",
-      "emotion",
-      "emotionjs",
-      "goober",
-      "react",
-      "reactjs",
-      "solidjs",
-      "stitches",
-      "styled-components",
-      "styling-css-in-js",
-      "styling-react",
-      "tailwind",
-      "tailwind-css",
-      "tailwind-in-js",
-      "tailwindcss",
-      "twin"
-    ],
-    "owner": {
-      "name": "ben-rogerson",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/21288568?v=4"
-    },
-    "stars": 7968,
-    "starsDetail": null,
-    "license": "MIT License",
-    "forks": 184,
-    "primaryLanguage": "JavaScript",
-    "pushedAt": "2024-04-08T04:13:35.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2020-02-19T04:45:25.000Z",
-    "updatedAt": "2025-01-04T16:02:17.000Z"
-  },
-  {
-    "id": "chrismwilliams/astro-theme-cactus",
-    "name": "chrismwilliams/astro-theme-cactus",
-    "description": "A simple Astro theme. Use it to create your blog or website.",
-    "topics": [
-      "astro",
-      "astro-template",
-      "astrobuild",
-      "astrodotbuild",
-      "astrojs",
-      "blog",
-      "personal-webpage",
-      "portfolio-website",
-      "static-site",
-      "static-site-generator",
-      "tailwindcss",
-      "theme",
-      "website-template"
-    ],
-    "owner": {
-      "name": "chrismwilliams",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/12715988?v=4"
-    },
-    "stars": 1012,
-    "starsDetail": null,
-    "license": "MIT License",
-    "forks": 160,
-    "primaryLanguage": "JavaScript",
-    "pushedAt": "2024-12-06T14:34:31.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2022-05-13T07:51:31.000Z",
-    "updatedAt": "2025-01-04T16:02:25.000Z"
   },
   {
     "id": "clnt/alfred-tailwindcss-docs",
@@ -1018,7 +1919,9 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/19330442?v=4"
     },
     "stars": 123,
-    "starsDetail": null,
+    "starsDetail": {
+      "total": 123
+    },
     "license": "MIT License",
     "forks": 4,
     "primaryLanguage": "PHP",
@@ -1041,7 +1944,9 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/182222?v=4"
     },
     "stars": 170,
-    "starsDetail": null,
+    "starsDetail": {
+      "total": 170
+    },
     "license": null,
     "forks": 2,
     "primaryLanguage": "JavaScript",
@@ -1067,7 +1972,9 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/182222?v=4"
     },
     "stars": 321,
-    "starsDetail": null,
+    "starsDetail": {
+      "total": 321
+    },
     "license": null,
     "forks": 15,
     "primaryLanguage": "JavaScript",
@@ -1079,42 +1986,6 @@
     "goImportedBy": null,
     "createdAt": "2020-03-06T21:51:14.000Z",
     "updatedAt": "2025-01-04T16:02:00.000Z"
-  },
-  {
-    "id": "cruip/tailwind-landing-page-template",
-    "name": "cruip/tailwind-landing-page-template",
-    "description": "Simple Light is a free landing page template built on top of TailwindCSS and fully coded in React / Next.js. Made by ",
-    "topics": [
-      "free",
-      "landing",
-      "landing-page",
-      "nextjs",
-      "page",
-      "react",
-      "reactjs",
-      "startup",
-      "tailwind",
-      "tailwindcss",
-      "vite",
-      "vitejs"
-    ],
-    "owner": {
-      "name": "cruip",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/63243128?v=4"
-    },
-    "stars": 3874,
-    "starsDetail": null,
-    "license": null,
-    "forks": 1537,
-    "primaryLanguage": "JavaScript",
-    "pushedAt": "2024-12-08T13:44:05.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2020-10-15T14:20:56.000Z",
-    "updatedAt": "2025-01-04T16:02:23.000Z"
   },
   {
     "id": "dance2die/cra-template-tailwindcss-typescript",
@@ -1131,7 +2002,9 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/8465237?v=4"
     },
     "stars": 110,
-    "starsDetail": null,
+    "starsDetail": {
+      "total": 110
+    },
     "license": "MIT License",
     "forks": 18,
     "primaryLanguage": "CSS",
@@ -1160,7 +2033,9 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/764292?v=4"
     },
     "stars": 351,
-    "starsDetail": null,
+    "starsDetail": {
+      "total": 351
+    },
     "license": "MIT License",
     "forks": 9,
     "primaryLanguage": "JavaScript",
@@ -1186,7 +2061,9 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/38227845?v=4"
     },
     "stars": 60,
-    "starsDetail": null,
+    "starsDetail": {
+      "total": 60
+    },
     "license": "MIT License",
     "forks": 2,
     "primaryLanguage": "HTML",
@@ -1215,7 +2092,9 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/45963660?v=4"
     },
     "stars": 20,
-    "starsDetail": null,
+    "starsDetail": {
+      "total": 20
+    },
     "license": "MIT License",
     "forks": 0,
     "primaryLanguage": "CSS",
@@ -1247,7 +2126,9 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/8146736?v=4"
     },
     "stars": 76,
-    "starsDetail": null,
+    "starsDetail": {
+      "total": 76
+    },
     "license": "MIT License",
     "forks": 10,
     "primaryLanguage": "CSS",
@@ -1259,34 +2140,6 @@
     "goImportedBy": null,
     "createdAt": "2019-11-13T19:47:01.000Z",
     "updatedAt": "2025-01-04T16:02:31.000Z"
-  },
-  {
-    "id": "ecklf/tailwindcss-radix",
-    "name": "ecklf/tailwindcss-radix",
-    "description": "Utilities and variants for styling Radix state",
-    "topics": [
-      "plugin",
-      "radix",
-      "react",
-      "tailwindcss"
-    ],
-    "owner": {
-      "name": "ecklf",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/8146736?v=4"
-    },
-    "stars": 2118,
-    "starsDetail": null,
-    "license": "MIT License",
-    "forks": 67,
-    "primaryLanguage": "TypeScript",
-    "pushedAt": "2024-09-04T09:59:31.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2021-11-17T16:38:20.000Z",
-    "updatedAt": "2025-01-04T16:02:02.000Z"
   },
   {
     "id": "enjidev/tailwindcss-accent",
@@ -1308,7 +2161,9 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/95107212?v=4"
     },
     "stars": 16,
-    "starsDetail": null,
+    "starsDetail": {
+      "total": 16
+    },
     "license": "MIT License",
     "forks": 1,
     "primaryLanguage": "JavaScript",
@@ -1334,7 +2189,9 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/1168625?v=4"
     },
     "stars": 211,
-    "starsDetail": null,
+    "starsDetail": {
+      "total": 211
+    },
     "license": "MIT License",
     "forks": 10,
     "primaryLanguage": "CSS",
@@ -1357,7 +2214,9 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/9128724?v=4"
     },
     "stars": 4,
-    "starsDetail": null,
+    "starsDetail": {
+      "total": 4
+    },
     "license": null,
     "forks": 1,
     "primaryLanguage": "CSS",
@@ -1406,7 +2265,9 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/1107521?v=4"
     },
     "stars": 82,
-    "starsDetail": null,
+    "starsDetail": {
+      "total": 82
+    },
     "license": null,
     "forks": 1,
     "primaryLanguage": "JavaScript",
@@ -1418,33 +2279,6 @@
     "goImportedBy": null,
     "createdAt": "2018-07-01T15:49:53.000Z",
     "updatedAt": "2025-01-04T16:02:02.000Z"
-  },
-  {
-    "id": "hasinhayder/tailwind-cards",
-    "name": "hasinhayder/tailwind-cards",
-    "description": "A growing collection of text/image cards you can use/copy-paste in your tailwind css projects",
-    "topics": [
-      "learning-by-doing",
-      "tailwind-css",
-      "tailwindcss"
-    ],
-    "owner": {
-      "name": "hasinhayder",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/490779?v=4"
-    },
-    "stars": 584,
-    "starsDetail": null,
-    "license": "MIT License",
-    "forks": 76,
-    "primaryLanguage": "JavaScript",
-    "pushedAt": "2024-06-09T13:56:52.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2021-03-11T19:30:50.000Z",
-    "updatedAt": "2025-01-04T16:02:21.000Z"
   },
   {
     "id": "huphtur/tailwind-theme-switcher",
@@ -1462,7 +2296,9 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/469438?v=4"
     },
     "stars": 188,
-    "starsDetail": null,
+    "starsDetail": {
+      "total": 188
+    },
     "license": null,
     "forks": 11,
     "primaryLanguage": "JavaScript",
@@ -1490,7 +2326,9 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/107615226?v=4"
     },
     "stars": 461,
-    "starsDetail": null,
+    "starsDetail": {
+      "total": 461
+    },
     "license": "MIT License",
     "forks": 13,
     "primaryLanguage": "CSS",
@@ -1533,7 +2371,9 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/5209935?v=4"
     },
     "stars": 270,
-    "starsDetail": null,
+    "starsDetail": {
+      "total": 270
+    },
     "license": "MIT License",
     "forks": 57,
     "primaryLanguage": "HTML",
@@ -1547,50 +2387,6 @@
     "updatedAt": "2025-01-04T16:02:35.000Z"
   },
   {
-    "id": "ixartz/Next-js-Boilerplate",
-    "name": "ixartz/Next-js-Boilerplate",
-    "description": "🚀🎉📚 Boilerplate and Starter for Next.js 15 with App Router and Page Router support, Tailwind CSS 3.4 and TypeScript ⚡️ Made with developer experience first: Next.js + TypeScript + ESLint + Prettier + Drizzle ORM + Husky + Lint-Staged + Vitest + Testing Library + Playwright + Storybook + Commitlint + VSCode + Netlify + PostCSS + Tailwind CSS ✨",
-    "topics": [
-      "boilerplate",
-      "boilerplate-code",
-      "jamstack",
-      "javascript",
-      "js-boilerplate",
-      "netlify-template",
-      "next-js",
-      "next-theme",
-      "nextjs",
-      "nextjs-starter",
-      "nextjs-template",
-      "react",
-      "react-boilerplate",
-      "reactjs",
-      "starter-kit",
-      "starter-project",
-      "starter-template",
-      "tailwind-css",
-      "tailwindcss",
-      "typescript"
-    ],
-    "owner": {
-      "name": "ixartz",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/5209935?v=4"
-    },
-    "stars": 9760,
-    "starsDetail": null,
-    "license": "MIT License",
-    "forks": 1848,
-    "primaryLanguage": "CSS",
-    "pushedAt": "2024-12-20T14:53:33.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2020-07-22T19:47:35.000Z",
-    "updatedAt": "2025-01-04T16:02:37.000Z"
-  },
-  {
     "id": "jack-pallot/dogpatch",
     "name": "jack-pallot/dogpatch",
     "description": "A WordPress starter theme including Webpack (via Laravel Mix), Vue, Babel and Tailwind CSS.",
@@ -1600,7 +2396,9 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/2361645?v=4"
     },
     "stars": 51,
-    "starsDetail": null,
+    "starsDetail": {
+      "total": 51
+    },
     "license": null,
     "forks": 6,
     "primaryLanguage": "CSS",
@@ -1623,7 +2421,9 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/34066517?v=4"
     },
     "stars": 168,
-    "starsDetail": null,
+    "starsDetail": {
+      "total": 168
+    },
     "license": null,
     "forks": 7,
     "primaryLanguage": "HTML",
@@ -1637,32 +2437,6 @@
     "updatedAt": "2025-01-04T16:02:03.000Z"
   },
   {
-    "id": "jorenvanhee/tailwindcss-debug-screens",
-    "name": "jorenvanhee/tailwindcss-debug-screens",
-    "description": "A Tailwind CSS component that shows the currently active screen (responsive breakpoint).",
-    "topics": [
-      "tailwind",
-      "tailwindcss-plugin"
-    ],
-    "owner": {
-      "name": "jorenvanhee",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/231202?v=4"
-    },
-    "stars": 619,
-    "starsDetail": null,
-    "license": null,
-    "forks": 18,
-    "primaryLanguage": "JavaScript",
-    "pushedAt": "2023-05-01T20:55:00.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2019-10-29T19:18:34.000Z",
-    "updatedAt": "2025-01-04T16:02:11.000Z"
-  },
-  {
     "id": "joshdavenport/tailwindcss-filter-order",
     "name": "joshdavenport/tailwindcss-filter-order",
     "description": "A plugin to customise the order Tailwind applies CSS filters",
@@ -1672,7 +2446,9 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/757828?v=4"
     },
     "stars": 2,
-    "starsDetail": null,
+    "starsDetail": {
+      "total": 2
+    },
     "license": null,
     "forks": 0,
     "primaryLanguage": "JavaScript",
@@ -1704,7 +2480,9 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/62835950?v=4"
     },
     "stars": 493,
-    "starsDetail": null,
+    "starsDetail": {
+      "total": 493
+    },
     "license": "MIT License",
     "forks": 147,
     "primaryLanguage": "JavaScript",
@@ -1735,7 +2513,9 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/3521740?v=4"
     },
     "stars": 181,
-    "starsDetail": null,
+    "starsDetail": {
+      "total": 181
+    },
     "license": "MIT License",
     "forks": 20,
     "primaryLanguage": "Shell",
@@ -1763,7 +2543,9 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/17788063?v=4"
     },
     "stars": 374,
-    "starsDetail": null,
+    "starsDetail": {
+      "total": 374
+    },
     "license": "MIT License",
     "forks": 75,
     "primaryLanguage": "JavaScript",
@@ -1795,7 +2577,9 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/8836059?v=4"
     },
     "stars": 111,
-    "starsDetail": null,
+    "starsDetail": {
+      "total": 111
+    },
     "license": "MIT License",
     "forks": 12,
     "primaryLanguage": "HTML",
@@ -1829,7 +2613,9 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/12519008?v=4"
     },
     "stars": 370,
-    "starsDetail": null,
+    "starsDetail": {
+      "total": 370
+    },
     "license": "MIT License",
     "forks": 136,
     "primaryLanguage": "JavaScript",
@@ -1862,7 +2648,9 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/12519008?v=4"
     },
     "stars": 24,
-    "starsDetail": null,
+    "starsDetail": {
+      "total": 24
+    },
     "license": "MIT License",
     "forks": 13,
     "primaryLanguage": "CSS",
@@ -1876,35 +2664,6 @@
     "updatedAt": "2025-01-04T16:02:38.000Z"
   },
   {
-    "id": "laravel-frontend-presets/tailwindcss",
-    "name": "laravel-frontend-presets/tailwindcss",
-    "description": "A Tailwind CSS frontend preset for the Laravel Framework",
-    "topics": [
-      "laravel",
-      "preset",
-      "tailwind",
-      "tailwind-scaffolding",
-      "tailwindcss"
-    ],
-    "owner": {
-      "name": "laravel-frontend-presets",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/29518218?v=4"
-    },
-    "stars": 1151,
-    "starsDetail": null,
-    "license": "MIT License",
-    "forks": 140,
-    "primaryLanguage": "CSS",
-    "pushedAt": "2023-04-16T06:54:38.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2017-11-01T06:32:49.000Z",
-    "updatedAt": "2025-01-04T16:02:27.000Z"
-  },
-  {
     "id": "merrickluo/lsp-tailwindcss",
     "name": "merrickluo/lsp-tailwindcss",
     "description": "the lsp-mode client for tailwindcss",
@@ -1914,7 +2673,9 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/1495875?v=4"
     },
     "stars": 197,
-    "starsDetail": null,
+    "starsDetail": {
+      "total": 197
+    },
     "license": "GNU General Public License v3.0",
     "forks": 21,
     "primaryLanguage": "Makefile",
@@ -1944,7 +2705,9 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/13007665?v=4"
     },
     "stars": 232,
-    "starsDetail": null,
+    "starsDetail": {
+      "total": 232
+    },
     "license": "MIT License",
     "forks": 15,
     "primaryLanguage": "CSS",
@@ -1967,7 +2730,9 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/5523984?v=4"
     },
     "stars": 117,
-    "starsDetail": null,
+    "starsDetail": {
+      "total": 117
+    },
     "license": null,
     "forks": 19,
     "primaryLanguage": "JavaScript",
@@ -2001,7 +2766,9 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/3891?v=4"
     },
     "stars": 121,
-    "starsDetail": null,
+    "starsDetail": {
+      "total": 121
+    },
     "license": "MIT License",
     "forks": 18,
     "primaryLanguage": "Shell",
@@ -2029,7 +2796,9 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/3891?v=4"
     },
     "stars": 147,
-    "starsDetail": null,
+    "starsDetail": {
+      "total": 147
+    },
     "license": "MIT License",
     "forks": 26,
     "primaryLanguage": "Shell",
@@ -2052,7 +2821,9 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/736316?v=4"
     },
     "stars": 0,
-    "starsDetail": null,
+    "starsDetail": {
+      "total": 0
+    },
     "license": "MIT License",
     "forks": 0,
     "primaryLanguage": "CSS",
@@ -2081,7 +2852,9 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/59800600?v=4"
     },
     "stars": 47,
-    "starsDetail": null,
+    "starsDetail": {
+      "total": 47
+    },
     "license": null,
     "forks": 8,
     "primaryLanguage": "CSS",
@@ -2119,7 +2892,9 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/44341551?v=4"
     },
     "stars": 85,
-    "starsDetail": null,
+    "starsDetail": {
+      "total": 85
+    },
     "license": "MIT License",
     "forks": 5,
     "primaryLanguage": "CSS",
@@ -2157,7 +2932,9 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/44341551?v=4"
     },
     "stars": 251,
-    "starsDetail": null,
+    "starsDetail": {
+      "total": 251
+    },
     "license": "MIT License",
     "forks": 14,
     "primaryLanguage": "CSS",
@@ -2169,50 +2946,6 @@
     "goImportedBy": null,
     "createdAt": "2021-06-10T15:29:40.000Z",
     "updatedAt": "2025-01-04T16:02:28.000Z"
-  },
-  {
-    "id": "onwidget/astrowind",
-    "name": "onwidget/astrowind",
-    "description": "⭕️ AstroWind: A free template using Astro 5 and Tailwind CSS. Astro starter theme.",
-    "topics": [
-      "astro",
-      "astro-blog",
-      "astro-starter",
-      "astro-template",
-      "astro-theme",
-      "astro-themes",
-      "blog",
-      "jamstack",
-      "javascript",
-      "landing-page",
-      "ssg",
-      "static-site",
-      "static-site-generator",
-      "tailwind",
-      "tailwind-css-template",
-      "tailwind-template",
-      "tailwindcss",
-      "template",
-      "theme",
-      "website-template"
-    ],
-    "owner": {
-      "name": "onwidget",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/106269169?v=4"
-    },
-    "stars": 3747,
-    "starsDetail": null,
-    "license": "MIT License",
-    "forks": 1137,
-    "primaryLanguage": "HTML",
-    "pushedAt": "2024-12-11T21:03:15.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2022-06-24T03:13:29.000Z",
-    "updatedAt": "2025-01-04T16:02:38.000Z"
   },
   {
     "id": "opdavies/rebuilding-acquia",
@@ -2228,7 +2961,9 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/339813?v=4"
     },
     "stars": 20,
-    "starsDetail": null,
+    "starsDetail": {
+      "total": 20
+    },
     "license": null,
     "forks": 3,
     "primaryLanguage": "Shell",
@@ -2285,7 +3020,9 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/13696888?v=4"
     },
     "stars": 86,
-    "starsDetail": null,
+    "starsDetail": {
+      "total": 86
+    },
     "license": "MIT License",
     "forks": 8,
     "primaryLanguage": "JavaScript",
@@ -2299,29 +3036,6 @@
     "updatedAt": "2025-01-04T16:02:05.000Z"
   },
   {
-    "id": "rails/tailwindcss-rails",
-    "name": "rails/tailwindcss-rails",
-    "description": "",
-    "topics": [],
-    "owner": {
-      "name": "rails",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/4223?v=4"
-    },
-    "stars": 1435,
-    "starsDetail": null,
-    "license": "MIT License",
-    "forks": 174,
-    "primaryLanguage": "JavaScript",
-    "pushedAt": "2024-12-29T19:06:11.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2021-01-09T10:26:36.000Z",
-    "updatedAt": "2025-01-04T16:02:16.000Z"
-  },
-  {
     "id": "raytiley/tailwind-ember-example",
     "name": "raytiley/tailwind-ember-example",
     "description": "",
@@ -2331,7 +3045,9 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/41680?v=4"
     },
     "stars": 23,
-    "starsDetail": null,
+    "starsDetail": {
+      "total": 23
+    },
     "license": null,
     "forks": 2,
     "primaryLanguage": "CSS",
@@ -2354,7 +3070,9 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/12596485?v=4"
     },
     "stars": 256,
-    "starsDetail": null,
+    "starsDetail": {
+      "total": 256
+    },
     "license": "MIT License",
     "forks": 8,
     "primaryLanguage": "CSS",
@@ -2366,62 +3084,6 @@
     "goImportedBy": null,
     "createdAt": "2021-01-31T17:12:47.000Z",
     "updatedAt": "2025-01-04T16:02:07.000Z"
-  },
-  {
-    "id": "rgossiaux/svelte-headlessui",
-    "name": "rgossiaux/svelte-headlessui",
-    "description": "Unofficial Svelte port of the Headless UI component library",
-    "topics": [
-      "svelte",
-      "svelte-components",
-      "svelte3",
-      "sveltejs"
-    ],
-    "owner": {
-      "name": "rgossiaux",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/3475509?v=4"
-    },
-    "stars": 1796,
-    "starsDetail": null,
-    "license": "MIT License",
-    "forks": 97,
-    "primaryLanguage": "HTML",
-    "pushedAt": "2024-03-31T09:03:14.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2021-12-05T07:13:54.000Z",
-    "updatedAt": "2025-01-04T16:02:20.000Z"
-  },
-  {
-    "id": "rogden/tailwind-config-viewer",
-    "name": "rogden/tailwind-config-viewer",
-    "description": "A local UI tool for visualizing your Tailwind CSS configuration file.",
-    "topics": [
-      "tailwind",
-      "tailwind-css",
-      "tailwindcss",
-      "vue"
-    ],
-    "owner": {
-      "name": "rogden",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/367368?v=4"
-    },
-    "stars": 2063,
-    "starsDetail": null,
-    "license": null,
-    "forks": 114,
-    "primaryLanguage": "CSS",
-    "pushedAt": "2024-11-22T04:02:27.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2019-07-03T14:30:47.000Z",
-    "updatedAt": "2025-01-04T16:02:17.000Z"
   },
   {
     "id": "running-grass/starter-lit-with-tailwind",
@@ -2446,7 +3108,9 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/17241154?v=4"
     },
     "stars": 32,
-    "starsDetail": null,
+    "starsDetail": {
+      "total": 32
+    },
     "license": null,
     "forks": 1,
     "primaryLanguage": "CSS",
@@ -2478,7 +3142,9 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/7342023?v=4"
     },
     "stars": 11,
-    "starsDetail": null,
+    "starsDetail": {
+      "total": 11
+    },
     "license": null,
     "forks": 1,
     "primaryLanguage": "CSS",
@@ -2522,7 +3188,9 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/7342023?v=4"
     },
     "stars": 34722,
-    "starsDetail": null,
+    "starsDetail": {
+      "total": 34722
+    },
     "license": "MIT License",
     "forks": 1329,
     "primaryLanguage": "HTML",
@@ -2555,7 +3223,9 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/7342023?v=4"
     },
     "stars": 8,
-    "starsDetail": null,
+    "starsDetail": {
+      "total": 8
+    },
     "license": null,
     "forks": 0,
     "primaryLanguage": "TypeScript",
@@ -2587,7 +3257,9 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/7342023?v=4"
     },
     "stars": 31,
-    "starsDetail": null,
+    "starsDetail": {
+      "total": 31
+    },
     "license": null,
     "forks": 2,
     "primaryLanguage": "HTML",
@@ -2615,7 +3287,9 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/1025156?v=4"
     },
     "stars": 264,
-    "starsDetail": null,
+    "starsDetail": {
+      "total": 264
+    },
     "license": "MIT License",
     "forks": 7,
     "primaryLanguage": "JavaScript",
@@ -2627,29 +3301,6 @@
     "goImportedBy": null,
     "createdAt": "2023-01-20T08:58:49.000Z",
     "updatedAt": "2025-01-04T16:02:09.000Z"
-  },
-  {
-    "id": "seek-oss/capsize",
-    "name": "seek-oss/capsize",
-    "description": "Flipping how we define typography in CSS.",
-    "topics": [],
-    "owner": {
-      "name": "seek-oss",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/22927121?v=4"
-    },
-    "stars": 1540,
-    "starsDetail": null,
-    "license": "MIT License",
-    "forks": 40,
-    "primaryLanguage": "Shell",
-    "pushedAt": "2024-11-13T00:37:42.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2020-06-03T22:57:36.000Z",
-    "updatedAt": "2025-01-04T16:02:07.000Z"
   },
   {
     "id": "shenlu89/jekyll-tailwindcss-starter",
@@ -2671,7 +3322,9 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/32006082?v=4"
     },
     "stars": 8,
-    "starsDetail": null,
+    "starsDetail": {
+      "total": 8
+    },
     "license": "MIT License",
     "forks": 0,
     "primaryLanguage": "Ruby",
@@ -2700,7 +3353,9 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/1337479?v=4"
     },
     "stars": 20,
-    "starsDetail": null,
+    "starsDetail": {
+      "total": 20
+    },
     "license": "MIT License",
     "forks": 0,
     "primaryLanguage": "JavaScript",
@@ -2723,7 +3378,9 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/485747?v=4"
     },
     "stars": 96,
-    "starsDetail": null,
+    "starsDetail": {
+      "total": 96
+    },
     "license": null,
     "forks": 11,
     "primaryLanguage": "CSS",
@@ -2737,34 +3394,6 @@
     "updatedAt": "2025-01-04T16:02:30.000Z"
   },
   {
-    "id": "sindresorhus/awesome-lint",
-    "name": "sindresorhus/awesome-lint",
-    "description": "Linter for Awesome lists",
-    "topics": [
-      "awesome",
-      "lint",
-      "linter",
-      "nodejs"
-    ],
-    "owner": {
-      "name": "sindresorhus",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/170270?v=4"
-    },
-    "stars": 619,
-    "starsDetail": null,
-    "license": "MIT License",
-    "forks": 60,
-    "primaryLanguage": "JavaScript",
-    "pushedAt": "2024-06-04T13:38:21.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2016-08-01T10:55:57.000Z",
-    "updatedAt": "2025-01-04T16:01:57.000Z"
-  },
-  {
     "id": "skttl/tailwindcss-quantity-queries",
     "name": "skttl/tailwindcss-quantity-queries",
     "description": "Variants for using quantity queries with Tailwind CSS",
@@ -2774,7 +3403,9 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/3726467?v=4"
     },
     "stars": 11,
-    "starsDetail": null,
+    "starsDetail": {
+      "total": 11
+    },
     "license": "MIT License",
     "forks": 0,
     "primaryLanguage": "TypeScript",
@@ -2803,7 +3434,9 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/999825?v=4"
     },
     "stars": 107,
-    "starsDetail": null,
+    "starsDetail": {
+      "total": 107
+    },
     "license": "ISC License",
     "forks": 3,
     "primaryLanguage": "JavaScript",
@@ -2835,7 +3468,9 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/39724569?v=4"
     },
     "stars": 477,
-    "starsDetail": null,
+    "starsDetail": {
+      "total": 477
+    },
     "license": "MIT License",
     "forks": 101,
     "primaryLanguage": "CSS",
@@ -2849,176 +3484,6 @@
     "updatedAt": "2025-01-04T16:02:22.000Z"
   },
   {
-    "id": "tailwindlabs/headlessui",
-    "name": "tailwindlabs/headlessui",
-    "description": "Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.",
-    "topics": [
-      "a11y",
-      "accessibility",
-      "components",
-      "headless-ui",
-      "headlessui",
-      "react",
-      "tailwindcss",
-      "vue"
-    ],
-    "owner": {
-      "name": "tailwindlabs",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/67109815?v=4"
-    },
-    "stars": 26499,
-    "starsDetail": null,
-    "license": "MIT License",
-    "forks": 1095,
-    "primaryLanguage": "HTML",
-    "pushedAt": "2024-12-12T16:41:03.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2020-09-16T09:53:09.000Z",
-    "updatedAt": "2025-01-04T16:01:57.000Z"
-  },
-  {
-    "id": "tailwindlabs/prettier-plugin-tailwindcss",
-    "name": "tailwindlabs/prettier-plugin-tailwindcss",
-    "description": "A Prettier plugin for Tailwind CSS that automatically sorts classes based on our recommended class order.",
-    "topics": [],
-    "owner": {
-      "name": "tailwindlabs",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/67109815?v=4"
-    },
-    "stars": 5777,
-    "starsDetail": null,
-    "license": "MIT License",
-    "forks": 138,
-    "primaryLanguage": "JavaScript",
-    "pushedAt": "2024-12-09T14:47:27.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2021-08-26T11:45:14.000Z",
-    "updatedAt": "2025-01-04T16:02:13.000Z"
-  },
-  {
-    "id": "tailwindlabs/tailwindcss-aspect-ratio",
-    "name": "tailwindlabs/tailwindcss-aspect-ratio",
-    "description": "",
-    "topics": [],
-    "owner": {
-      "name": "tailwindlabs",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/67109815?v=4"
-    },
-    "stars": 989,
-    "starsDetail": null,
-    "license": "MIT License",
-    "forks": 34,
-    "primaryLanguage": "JavaScript",
-    "pushedAt": "2024-03-22T17:16:27.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2020-11-06T19:20:06.000Z",
-    "updatedAt": "2025-01-04T16:02:12.000Z"
-  },
-  {
-    "id": "tailwindlabs/tailwindcss-container-queries",
-    "name": "tailwindlabs/tailwindcss-container-queries",
-    "description": "A plugin for Tailwind CSS v3.2+ that provides utilities for container queries.",
-    "topics": [],
-    "owner": {
-      "name": "tailwindlabs",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/67109815?v=4"
-    },
-    "stars": 1313,
-    "starsDetail": null,
-    "license": "MIT License",
-    "forks": 39,
-    "primaryLanguage": "JavaScript",
-    "pushedAt": "2024-12-26T22:08:04.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2022-10-12T10:39:32.000Z",
-    "updatedAt": "2025-01-04T16:01:59.000Z"
-  },
-  {
-    "id": "tailwindlabs/tailwindcss-custom-forms",
-    "name": "tailwindlabs/tailwindcss-custom-forms",
-    "description": "A better base for styling form elements with Tailwind CSS.",
-    "topics": [],
-    "owner": {
-      "name": "tailwindlabs",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/67109815?v=4"
-    },
-    "stars": 1553,
-    "starsDetail": null,
-    "license": "MIT License",
-    "forks": 72,
-    "primaryLanguage": "CSS",
-    "pushedAt": "2021-08-31T20:54:24.000Z",
-    "archived": true,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2019-05-19T13:48:09.000Z",
-    "updatedAt": "2025-01-04T16:02:12.000Z"
-  },
-  {
-    "id": "tailwindlabs/tailwindcss-forms",
-    "name": "tailwindlabs/tailwindcss-forms",
-    "description": "A plugin that provides a basic reset for form styles that makes form elements easy to override with utilities.",
-    "topics": [],
-    "owner": {
-      "name": "tailwindlabs",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/67109815?v=4"
-    },
-    "stars": 4297,
-    "starsDetail": null,
-    "license": "MIT License",
-    "forks": 223,
-    "primaryLanguage": "JavaScript",
-    "pushedAt": "2024-11-29T15:04:01.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2020-11-11T22:29:13.000Z",
-    "updatedAt": "2025-01-04T16:02:00.000Z"
-  },
-  {
-    "id": "tailwindlabs/tailwindcss-line-clamp",
-    "name": "tailwindlabs/tailwindcss-line-clamp",
-    "description": "A plugin that provides utilities for visually truncating text after a fixed number of lines.",
-    "topics": [],
-    "owner": {
-      "name": "tailwindlabs",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/67109815?v=4"
-    },
-    "stars": 1183,
-    "starsDetail": null,
-    "license": "MIT License",
-    "forks": 36,
-    "primaryLanguage": "JavaScript",
-    "pushedAt": "2024-03-22T17:16:16.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2021-01-06T19:09:34.000Z",
-    "updatedAt": "2025-01-04T16:02:12.000Z"
-  },
-  {
     "id": "tailwindlabs/tailwindcss-plugin-examples",
     "name": "tailwindlabs/tailwindcss-plugin-examples",
     "description": "Examples to help you get started building your own Tailwind CSS plugins.",
@@ -3028,7 +3493,9 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/67109815?v=4"
     },
     "stars": 211,
-    "starsDetail": null,
+    "starsDetail": {
+      "total": 211
+    },
     "license": "MIT License",
     "forks": 27,
     "primaryLanguage": "CSS",
@@ -3040,29 +3507,6 @@
     "goImportedBy": null,
     "createdAt": "2018-03-15T16:31:27.000Z",
     "updatedAt": "2025-01-04T16:02:39.000Z"
-  },
-  {
-    "id": "tailwindlabs/tailwindcss-typography",
-    "name": "tailwindlabs/tailwindcss-typography",
-    "description": "Beautiful typographic defaults for HTML you don't control.",
-    "topics": [],
-    "owner": {
-      "name": "tailwindlabs",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/67109815?v=4"
-    },
-    "stars": 4881,
-    "starsDetail": null,
-    "license": "MIT License",
-    "forks": 277,
-    "primaryLanguage": "JavaScript",
-    "pushedAt": "2024-12-17T19:48:30.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2019-11-01T16:16:59.000Z",
-    "updatedAt": "2025-01-04T16:01:59.000Z"
   },
   {
     "id": "taylorbryant/gatsby-starter-tailwind",
@@ -3080,7 +3524,9 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/3718939?v=4"
     },
     "stars": 495,
-    "starsDetail": null,
+    "starsDetail": {
+      "total": 495
+    },
     "license": "MIT License",
     "forks": 91,
     "primaryLanguage": "CSS",
@@ -3107,7 +3553,9 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/3056664?v=4"
     },
     "stars": 62,
-    "starsDetail": null,
+    "starsDetail": {
+      "total": 62
+    },
     "license": "MIT License",
     "forks": 12,
     "primaryLanguage": "PHP",
@@ -3121,42 +3569,6 @@
     "updatedAt": "2025-01-04T16:02:19.000Z"
   },
   {
-    "id": "themesberg/flowbite-admin-dashboard",
-    "name": "themesberg/flowbite-admin-dashboard",
-    "description": "Free and open-source admin dashboard template built with Tailwind CSS and Flowbite",
-    "topics": [
-      "admin-dashboard",
-      "charts",
-      "css",
-      "dashboard",
-      "flowbite",
-      "html",
-      "hugo",
-      "javascript",
-      "tailwind",
-      "tailwindcss",
-      "webpack",
-      "widget"
-    ],
-    "owner": {
-      "name": "themesberg",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/52166837?v=4"
-    },
-    "stars": 2254,
-    "starsDetail": null,
-    "license": "MIT License",
-    "forks": 544,
-    "primaryLanguage": "CSS",
-    "pushedAt": "2024-05-15T02:47:54.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2023-01-09T15:52:21.000Z",
-    "updatedAt": "2025-01-04T16:02:24.000Z"
-  },
-  {
     "id": "theron-wang/VS2022-Editor-Support-for-Tailwind-CSS",
     "name": "theron-wang/VS2022-Editor-Support-for-Tailwind-CSS",
     "description": "Unofficial VS2022 Tailwind CSS extension for IntelliSense, linting, sorting, and more to enhance the development experience in Visual Studio 2022.",
@@ -3166,7 +3578,9 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/65189291?v=4"
     },
     "stars": 98,
-    "starsDetail": null,
+    "starsDetail": {
+      "total": 98
+    },
     "license": "MIT License",
     "forks": 6,
     "primaryLanguage": "JavaScript",
@@ -3178,68 +3592,6 @@
     "goImportedBy": null,
     "createdAt": "2023-07-20T15:45:51.000Z",
     "updatedAt": "2025-01-04T16:01:58.000Z"
-  },
-  {
-    "id": "tw-in-js/twind",
-    "name": "tw-in-js/twind",
-    "description": "The smallest, fastest, most feature complete Tailwind-in-JS solution in existence.",
-    "topics": [
-      "css",
-      "css-in-js",
-      "tailwind",
-      "tailwind-in-js",
-      "tailwindcss"
-    ],
-    "owner": {
-      "name": "tw-in-js",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/75540906?v=4"
-    },
-    "stars": 3818,
-    "starsDetail": null,
-    "license": "MIT License",
-    "forks": 104,
-    "primaryLanguage": "Shell",
-    "pushedAt": "2025-01-01T04:09:19.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2020-12-05T17:59:21.000Z",
-    "updatedAt": "2025-01-04T16:02:13.000Z"
-  },
-  {
-    "id": "twbs/rfs",
-    "name": "twbs/rfs",
-    "description": "✩ Automates responsive resizing ✩",
-    "topics": [
-      "css",
-      "font-size",
-      "frontend",
-      "postcss",
-      "responsive",
-      "rfs",
-      "sass",
-      "scss",
-      "stylus"
-    ],
-    "owner": {
-      "name": "twbs",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/2918581?v=4"
-    },
-    "stars": 3336,
-    "starsDetail": null,
-    "license": "MIT License",
-    "forks": 216,
-    "primaryLanguage": "Sass",
-    "pushedAt": "2024-09-03T15:19:49.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2017-06-04T13:49:56.000Z",
-    "updatedAt": "2025-01-04T16:02:03.000Z"
   },
   {
     "id": "windedge/gatsby-tailwind-serif",
@@ -3255,7 +3607,9 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/27651?v=4"
     },
     "stars": 27,
-    "starsDetail": null,
+    "starsDetail": {
+      "total": 27
+    },
     "license": "MIT License",
     "forks": 20,
     "primaryLanguage": "CSS",
@@ -3267,34 +3621,6 @@
     "goImportedBy": null,
     "createdAt": "2019-07-08T15:05:18.000Z",
     "updatedAt": "2025-01-04T16:02:34.000Z"
-  },
-  {
-    "id": "wobsoriano/v-dashboard",
-    "name": "wobsoriano/v-dashboard",
-    "description": "Dashboard starter template built with Vue 3 and Tailwind CSS.",
-    "topics": [
-      "hacktoberfest",
-      "tailwindcss",
-      "vite",
-      "vue"
-    ],
-    "owner": {
-      "name": "wobsoriano",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/13049130?v=4"
-    },
-    "stars": 924,
-    "starsDetail": null,
-    "license": "MIT License",
-    "forks": 206,
-    "primaryLanguage": "CSS",
-    "pushedAt": "2023-07-05T19:48:53.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2020-08-19T03:48:00.000Z",
-    "updatedAt": "2025-01-04T16:02:23.000Z"
   },
   {
     "id": "xiaoluoboding/vuepress-tailwind-theme-starter",
@@ -3311,7 +3637,9 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/6118824?v=4"
     },
     "stars": 15,
-    "starsDetail": null,
+    "starsDetail": {
+      "total": 15
+    },
     "license": "MIT License",
     "forks": 3,
     "primaryLanguage": "JavaScript",

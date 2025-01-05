@@ -37,6 +37,56 @@
     "updatedAt": "2025-01-04T15:10:26.000Z"
   },
   {
+    "id": "ml-tooling/ml-workspace",
+    "name": "ml-tooling/ml-workspace",
+    "description": "🛠 All-in-one web-based IDE specialized for machine learning and data science.",
+    "topics": [
+      "anaconda",
+      "data-analysis",
+      "data-science",
+      "data-visualization",
+      "deep-learning",
+      "docker",
+      "gpu",
+      "jupyter",
+      "jupyter-lab",
+      "jupyter-notebook",
+      "kubernetes",
+      "machine-learning",
+      "neural-networks",
+      "nlp",
+      "python",
+      "pytorch",
+      "r",
+      "scikit-learn",
+      "tensorflow",
+      "vscode"
+    ],
+    "owner": {
+      "name": "ml-tooling",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/45942048?v=4"
+    },
+    "stars": 3449,
+    "starsDetail": {
+      "total": 3449,
+      "week": 1,
+      "month": 9,
+      "year": 241,
+      "updatedAt": 1736060208
+    },
+    "license": "Apache License 2.0",
+    "forks": 453,
+    "primaryLanguage": "Lua",
+    "pushedAt": "2024-07-26T07:39:39.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2019-05-27T16:55:15.000Z",
+    "updatedAt": "2025-01-04T16:25:35.000Z"
+  },
+  {
     "id": "seatgeek/fuzzywuzzy",
     "name": "seatgeek/fuzzywuzzy",
     "description": "Fuzzy String Matching in Python",
@@ -64,6 +114,45 @@
     "goImportedBy": null,
     "createdAt": "2011-07-08T19:32:34.000Z",
     "updatedAt": "2025-01-04T15:10:55.000Z"
+  },
+  {
+    "id": "kaldi-asr/kaldi",
+    "name": "kaldi-asr/kaldi",
+    "description": "kaldi-asr/kaldi is the official location of the Kaldi project.",
+    "topics": [
+      "c-plus-plus",
+      "cuda",
+      "kaldi",
+      "shell",
+      "speaker-id",
+      "speaker-verification",
+      "speech",
+      "speech-recognition",
+      "speech-to-text"
+    ],
+    "owner": {
+      "name": "kaldi-asr",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/11650082?v=4"
+    },
+    "stars": 14413,
+    "starsDetail": {
+      "total": 14413,
+      "week": 18,
+      "month": 81,
+      "year": 1128,
+      "updatedAt": 1736058260
+    },
+    "license": "Other",
+    "forks": 5331,
+    "primaryLanguage": "Cython",
+    "pushedAt": "2024-11-29T09:50:54.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2015-04-20T17:23:16.000Z",
+    "updatedAt": "2025-01-04T15:26:15.000Z"
   },
   {
     "id": "Swift-AI/Swift-AI",
@@ -264,6 +353,84 @@
     "updatedAt": "2025-01-04T22:42:54.000Z"
   },
   {
+    "id": "stellargraph/stellargraph",
+    "name": "stellargraph/stellargraph",
+    "description": "StellarGraph - Machine Learning on Graphs",
+    "topics": [
+      "data-science",
+      "deep-learning",
+      "gcn",
+      "geometric-deep-learning",
+      "graph-analysis",
+      "graph-convolutional-networks",
+      "graph-data",
+      "graph-machine-learning",
+      "graph-neural-networks",
+      "graphs",
+      "heterogeneous-networks",
+      "interpretability",
+      "link-prediction",
+      "machine-learning",
+      "machine-learning-algorithms",
+      "networkx",
+      "python",
+      "saliency-map",
+      "stellargraph-library"
+    ],
+    "owner": {
+      "name": "stellargraph",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/36725857?v=4"
+    },
+    "stars": 2962,
+    "starsDetail": {
+      "total": 2962,
+      "week": 2,
+      "month": 7,
+      "year": 153,
+      "updatedAt": 1736060207
+    },
+    "license": "Apache License 2.0",
+    "forks": 432,
+    "primaryLanguage": "Dockerfile",
+    "pushedAt": "2024-04-10T12:25:23.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2018-04-13T07:35:51.000Z",
+    "updatedAt": "2025-01-04T16:24:19.000Z"
+  },
+  {
+    "id": "pjreddie/darknet",
+    "name": "pjreddie/darknet",
+    "description": "Convolutional Neural Networks",
+    "topics": [],
+    "owner": {
+      "name": "pjreddie",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/302108?v=4"
+    },
+    "stars": 25918,
+    "starsDetail": {
+      "total": 25918,
+      "week": 11,
+      "month": 62,
+      "year": 1195,
+      "updatedAt": 1736058653
+    },
+    "license": "Other",
+    "forks": 21326,
+    "primaryLanguage": "Shell",
+    "pushedAt": "2024-05-03T13:53:58.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2014-04-11T07:59:16.000Z",
+    "updatedAt": "2025-01-04T15:28:28.000Z"
+  },
+  {
     "id": "cazala/synaptic",
     "name": "cazala/synaptic",
     "description": "architecture-free neural network library for node.js and the browser",
@@ -291,6 +458,45 @@
     "goImportedBy": null,
     "createdAt": "2014-09-30T18:07:03.000Z",
     "updatedAt": "2025-01-04T22:44:40.000Z"
+  },
+  {
+    "id": "giacomelli/GeneticSharp",
+    "name": "giacomelli/GeneticSharp",
+    "description": "GeneticSharp is a fast, extensible, multi-platform and multithreading C# Genetic Algorithm library that simplifies the development of applications using Genetic Algorithms (GAs).",
+    "topics": [
+      "artificial-intelligence",
+      "c-sharp",
+      "dotnet",
+      "dotnet-core",
+      "dotnet-standard",
+      "dotnet6",
+      "genetic-algorithm",
+      "genetic-algorithms",
+      "unity3d"
+    ],
+    "owner": {
+      "name": "giacomelli",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/177389?v=4"
+    },
+    "stars": 1295,
+    "starsDetail": {
+      "total": 1295,
+      "week": 1,
+      "month": 6,
+      "year": 123,
+      "updatedAt": 1736059375
+    },
+    "license": "MIT License",
+    "forks": 336,
+    "primaryLanguage": "PowerShell",
+    "pushedAt": "2024-04-24T14:34:18.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2013-08-02T00:37:51.000Z",
+    "updatedAt": "2025-01-04T15:48:12.000Z"
   },
   {
     "id": "maciejkula/rustlearn",
@@ -359,6 +565,43 @@
     "updatedAt": "2025-01-04T14:51:11.000Z"
   },
   {
+    "id": "yoshoku/rumale",
+    "name": "yoshoku/rumale",
+    "description": "Rumale is a machine learning library in Ruby",
+    "topics": [
+      "artificial-intelligence",
+      "data-analysis",
+      "data-science",
+      "machine-learning",
+      "ml",
+      "ruby",
+      "rubyml"
+    ],
+    "owner": {
+      "name": "yoshoku",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/5562409?v=4"
+    },
+    "stars": 791,
+    "starsDetail": {
+      "total": 791,
+      "week": 4,
+      "month": 6,
+      "year": 77,
+      "updatedAt": 1736059940
+    },
+    "license": "BSD 3-Clause \"New\" or \"Revised\" License",
+    "forks": 31,
+    "primaryLanguage": "JavaScript",
+    "pushedAt": "2025-01-03T00:37:00.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2017-09-30T13:24:56.000Z",
+    "updatedAt": "2025-01-04T15:52:54.000Z"
+  },
+  {
     "id": "hybridgroup/gocv",
     "name": "hybridgroup/gocv",
     "description": "Go package for computer vision using OpenCV 4 and beyond. Includes support for DNN, CUDA, OpenCV Contrib, and OpenVINO.",
@@ -406,6 +649,88 @@
     "goImportedBy": 1368,
     "createdAt": "2017-09-18T21:54:17.000Z",
     "updatedAt": "2025-01-04T14:34:17.000Z"
+  },
+  {
+    "id": "catboost/catboost",
+    "name": "catboost/catboost",
+    "description": "A fast, scalable, high performance Gradient Boosting on Decision Trees library, used for ranking, classification, regression and other machine learning tasks for Python, R, Java, C++. Supports computation on CPU and GPU.",
+    "topics": [
+      "big-data",
+      "catboost",
+      "categorical-features",
+      "coreml",
+      "cuda",
+      "data-mining",
+      "data-science",
+      "decision-trees",
+      "gbdt",
+      "gbm",
+      "gpu",
+      "gpu-computing",
+      "gradient-boosting",
+      "kaggle",
+      "machine-learning",
+      "python",
+      "r",
+      "tutorial"
+    ],
+    "owner": {
+      "name": "catboost",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/29043415?v=4"
+    },
+    "stars": 8170,
+    "starsDetail": {
+      "total": 8170,
+      "week": 13,
+      "month": 54,
+      "year": 737,
+      "updatedAt": 1736058643
+    },
+    "license": "Apache License 2.0",
+    "forks": 1198,
+    "primaryLanguage": "Lua",
+    "pushedAt": "2025-01-04T12:11:52.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2017-07-18T05:29:04.000Z",
+    "updatedAt": "2025-01-04T15:28:27.000Z"
+  },
+  {
+    "id": "dotnet/machinelearning",
+    "name": "dotnet/machinelearning",
+    "description": "ML.NET is an open source and cross-platform machine learning framework for .NET.",
+    "topics": [
+      "algorithms",
+      "dotnet",
+      "machine-learning",
+      "ml"
+    ],
+    "owner": {
+      "name": "dotnet",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/9141961?v=4"
+    },
+    "stars": 9091,
+    "starsDetail": {
+      "total": 9091,
+      "week": 6,
+      "month": 51,
+      "year": 489,
+      "updatedAt": 1736059378
+    },
+    "license": "MIT License",
+    "forks": 1892,
+    "primaryLanguage": "Assembly",
+    "pushedAt": "2024-12-30T05:01:57.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2018-05-03T16:20:42.000Z",
+    "updatedAt": "2025-01-04T15:48:13.000Z"
   },
   {
     "id": "rust-ml/linfa",
@@ -500,6 +825,48 @@
     "goImportedBy": 0,
     "createdAt": "2015-06-27T05:52:01.000Z",
     "updatedAt": "2025-01-04T14:35:40.000Z"
+  },
+  {
+    "id": "meta-toolkit/meta",
+    "name": "meta-toolkit/meta",
+    "description": "A Modern C++ Data Sciences Toolkit",
+    "topics": [
+      "c-plus-plus",
+      "graph-algorithms",
+      "inverted-index",
+      "language-modeling",
+      "nlp",
+      "nlp-parsing",
+      "pos-tag",
+      "search-engine",
+      "text-analysis",
+      "text-analytics",
+      "text-classification",
+      "word-embeddings"
+    ],
+    "owner": {
+      "name": "meta-toolkit",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/6588029?v=4"
+    },
+    "stars": 702,
+    "starsDetail": {
+      "total": 702,
+      "week": 1,
+      "month": 5,
+      "year": 25,
+      "updatedAt": 1736058655
+    },
+    "license": "MIT License",
+    "forks": 236,
+    "primaryLanguage": "Ruby",
+    "pushedAt": "2023-04-17T08:37:52.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2014-02-02T23:54:34.000Z",
+    "updatedAt": "2025-01-04T15:28:29.000Z"
   },
   {
     "id": "twitter/twitter-text",
@@ -694,6 +1061,78 @@
     "goImportedBy": null,
     "createdAt": "2015-10-26T08:20:56.000Z",
     "updatedAt": "2025-01-04T22:49:21.000Z"
+  },
+  {
+    "id": "shogun-toolbox/shogun",
+    "name": "shogun-toolbox/shogun",
+    "description": "Shōgun",
+    "topics": [
+      "artificial-intelligence",
+      "c-plus-plus",
+      "cmake",
+      "data-science",
+      "machine-learning",
+      "swig"
+    ],
+    "owner": {
+      "name": "shogun-toolbox",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/690673?v=4"
+    },
+    "stars": 3032,
+    "starsDetail": {
+      "total": 3032,
+      "week": 0,
+      "month": 4,
+      "year": 73,
+      "updatedAt": 1736058670
+    },
+    "license": "BSD 3-Clause \"New\" or \"Revised\" License",
+    "forks": 1036,
+    "primaryLanguage": "GDB",
+    "pushedAt": "2023-12-19T18:37:18.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2011-04-01T10:44:32.000Z",
+    "updatedAt": "2025-01-04T15:28:33.000Z"
+  },
+  {
+    "id": "tflearn/tflearn",
+    "name": "tflearn/tflearn",
+    "description": "Deep learning library featuring a higher-level API for TensorFlow.",
+    "topics": [
+      "data-science",
+      "deep-learning",
+      "machine-learning",
+      "neural-network",
+      "tensorflow",
+      "tflearn"
+    ],
+    "owner": {
+      "name": "tflearn",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/16848261?v=4"
+    },
+    "stars": 9618,
+    "starsDetail": {
+      "total": 9618,
+      "week": 1,
+      "month": 4,
+      "year": 70,
+      "updatedAt": 1736060200
+    },
+    "license": "Other",
+    "forks": 2414,
+    "primaryLanguage": "Python",
+    "pushedAt": "2024-05-06T11:34:20.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2016-03-31T12:05:53.000Z",
+    "updatedAt": "2025-01-04T16:24:13.000Z"
   },
   {
     "id": "xmartlabs/Bender",
@@ -1021,6 +1460,48 @@
     "updatedAt": "2025-01-04T14:35:34.000Z"
   },
   {
+    "id": "arbox/nlp-with-ruby",
+    "name": "arbox/nlp-with-ruby",
+    "description": "Curated List: Practical Natural Language Processing done in Ruby",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "computational-linguistics",
+      "list",
+      "machine-learning",
+      "natural-language-processing",
+      "nlp",
+      "pos-tag",
+      "ruby",
+      "rubyml",
+      "rubynlp",
+      "sentiment-analysis"
+    ],
+    "owner": {
+      "name": "arbox",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/357237?v=4"
+    },
+    "stars": 1046,
+    "starsDetail": {
+      "total": 1046,
+      "week": 0,
+      "month": 3,
+      "year": 28,
+      "updatedAt": 1736059950
+    },
+    "license": "Creative Commons Zero v1.0 Universal",
+    "forks": 70,
+    "primaryLanguage": "Ruby",
+    "pushedAt": "2023-06-27T09:38:04.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2016-03-15T20:56:12.000Z",
+    "updatedAt": "2025-01-04T15:53:01.000Z"
+  },
+  {
     "id": "harthur/brain",
     "name": "harthur/brain",
     "description": "Simple feed-forward neural network in JavaScript",
@@ -1050,6 +1531,35 @@
     "updatedAt": "2025-01-04T14:49:54.000Z"
   },
   {
+    "id": "twitter/algebird",
+    "name": "twitter/algebird",
+    "description": "Abstract Algebra for Scala",
+    "topics": [],
+    "owner": {
+      "name": "twitter",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/50278?v=4"
+    },
+    "stars": 2290,
+    "starsDetail": {
+      "total": 2290,
+      "week": 0,
+      "month": 3,
+      "year": 39,
+      "updatedAt": 1736060998
+    },
+    "license": "Apache License 2.0",
+    "forks": 346,
+    "primaryLanguage": "Ruby",
+    "pushedAt": "2024-08-19T21:31:41.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2012-08-02T17:24:42.000Z",
+    "updatedAt": "2025-01-04T16:25:25.000Z"
+  },
+  {
     "id": "NaturalNode/natural",
     "name": "NaturalNode/natural",
     "description": "general natural language facilities for node",
@@ -1077,6 +1587,54 @@
     "goImportedBy": null,
     "createdAt": "2011-05-07T02:35:16.000Z",
     "updatedAt": "2025-01-04T22:42:56.000Z"
+  },
+  {
+    "id": "oneapi-src/oneDNN",
+    "name": "oneapi-src/oneDNN",
+    "description": "oneAPI Deep Neural Network Library (oneDNN)",
+    "topics": [
+      "aarch64",
+      "amx",
+      "avx512",
+      "bfloat16",
+      "cpp",
+      "deep-learning",
+      "deep-neural-networks",
+      "library",
+      "oneapi",
+      "onednn",
+      "openmp",
+      "performance",
+      "sycl",
+      "tbb",
+      "vnni",
+      "x64",
+      "x86-64",
+      "xe-architecture"
+    ],
+    "owner": {
+      "name": "oneapi-src",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/60144784?v=4"
+    },
+    "stars": 3667,
+    "starsDetail": {
+      "total": 3667,
+      "week": 11,
+      "month": 28,
+      "year": 398,
+      "updatedAt": 1736058254
+    },
+    "license": "Apache License 2.0",
+    "forks": 1012,
+    "primaryLanguage": "Shell",
+    "pushedAt": "2025-01-04T07:35:22.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2016-05-09T23:26:42.000Z",
+    "updatedAt": "2025-01-04T15:26:14.000Z"
   },
   {
     "id": "axa-group/nlp.js",
@@ -1266,6 +1824,56 @@
     "updatedAt": "2025-01-04T15:10:16.000Z"
   },
   {
+    "id": "JohnSnowLabs/spark-nlp",
+    "name": "JohnSnowLabs/spark-nlp",
+    "description": "State of the Art Natural Language Processing",
+    "topics": [
+      "bert",
+      "entity-extraction",
+      "language-detection",
+      "lemmatizer",
+      "llamacpp",
+      "llm",
+      "machine-translation",
+      "named-entity-recognition",
+      "natural-language-processing",
+      "nlp",
+      "onnx",
+      "part-of-speech-tagger",
+      "pyspark",
+      "question-answering",
+      "sentiment-analysis",
+      "spark",
+      "spell-checker",
+      "tensorflow",
+      "text-classification",
+      "transformers"
+    ],
+    "owner": {
+      "name": "JohnSnowLabs",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/15903364?v=4"
+    },
+    "stars": 3891,
+    "starsDetail": {
+      "total": 3891,
+      "week": 2,
+      "month": 21,
+      "year": 386,
+      "updatedAt": 1736061005
+    },
+    "license": "Apache License 2.0",
+    "forks": 717,
+    "primaryLanguage": "Makefile",
+    "pushedAt": "2025-01-03T23:29:26.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2017-09-24T19:36:44.000Z",
+    "updatedAt": "2025-01-04T16:25:24.000Z"
+  },
+  {
     "id": "DLR-RM/stable-baselines3",
     "name": "DLR-RM/stable-baselines3",
     "description": "PyTorch version of Stable Baselines, reliable implementations of reinforcement learning algorithms. ",
@@ -1337,6 +1945,35 @@
     "goImportedBy": null,
     "createdAt": "2016-03-27T21:52:53.000Z",
     "updatedAt": "2025-01-04T14:58:47.000Z"
+  },
+  {
+    "id": "scalanlp/breeze",
+    "name": "scalanlp/breeze",
+    "description": "Breeze is/was a numerical processing library for Scala.",
+    "topics": [],
+    "owner": {
+      "name": "scalanlp",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/103090?v=4"
+    },
+    "stars": 3448,
+    "starsDetail": {
+      "total": 3448,
+      "week": 2,
+      "month": 2,
+      "year": 43,
+      "updatedAt": 1736060999
+    },
+    "license": "Apache License 2.0",
+    "forks": 689,
+    "primaryLanguage": "Java",
+    "pushedAt": "2024-08-29T06:08:38.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2009-07-08T23:22:52.000Z",
+    "updatedAt": "2025-01-04T16:25:21.000Z"
   },
   {
     "id": "mindsdb/mindsdb",
@@ -1621,6 +2258,54 @@
     "updatedAt": "2025-01-04T15:09:22.000Z"
   },
   {
+    "id": "infiniflow/infinity",
+    "name": "infiniflow/infinity",
+    "description": "The AI-native database built for LLM applications, providing incredibly fast hybrid search of dense vector, sparse vector, tensor (multi-vector), and full-text",
+    "topics": [
+      "ai-native",
+      "approximate-nearest-neighbor-search",
+      "bm25",
+      "cpp20",
+      "cpp20-modules",
+      "embedding",
+      "full-text-search",
+      "hnsw",
+      "hybrid-search",
+      "information-retrival",
+      "nearest-neighbor-search",
+      "rag",
+      "search-engine",
+      "tensor-database",
+      "vector",
+      "vector-database",
+      "vector-search",
+      "vectordatabase"
+    ],
+    "owner": {
+      "name": "infiniflow",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/69962740?v=4"
+    },
+    "stars": 2881,
+    "starsDetail": {
+      "total": 2881,
+      "week": 35,
+      "month": 159,
+      "year": 2203,
+      "updatedAt": 1736058423
+    },
+    "license": "Apache License 2.0",
+    "forks": 281,
+    "primaryLanguage": "JavaScript",
+    "pushedAt": "2025-01-04T13:06:04.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2022-07-18T13:52:38.000Z",
+    "updatedAt": "2025-01-04T15:27:12.000Z"
+  },
+  {
     "id": "Theano/Theano",
     "name": "Theano/Theano",
     "description": "Theano was a Python library that allows you to define, optimize, and evaluate mathematical expressions involving multi-dimensional arrays efficiently. It is being continued as PyTensor: www.github.com/pymc-devs/pytensor",
@@ -1679,6 +2364,35 @@
     "updatedAt": "2025-01-04T15:10:16.000Z"
   },
   {
+    "id": "liuliu/ccv",
+    "name": "liuliu/ccv",
+    "description": "C-based/Cached/Core Computer Vision Library, A Modern Computer Vision Library",
+    "topics": [],
+    "owner": {
+      "name": "liuliu",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/127987?v=4"
+    },
+    "stars": 7103,
+    "starsDetail": {
+      "total": 7103,
+      "week": 5,
+      "month": 15,
+      "year": 120,
+      "updatedAt": 1736058646
+    },
+    "license": "Other",
+    "forks": 1714,
+    "primaryLanguage": "Smarty",
+    "pushedAt": "2025-01-01T17:26:32.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2010-09-15T15:59:47.000Z",
+    "updatedAt": "2025-01-04T15:28:27.000Z"
+  },
+  {
     "id": "quantopian/zipline",
     "name": "quantopian/zipline",
     "description": "Zipline, a Pythonic Algorithmic Trading Library",
@@ -1711,6 +2425,42 @@
     "goImportedBy": null,
     "createdAt": "2012-10-19T15:50:29.000Z",
     "updatedAt": "2025-01-04T15:10:36.000Z"
+  },
+  {
+    "id": "CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers",
+    "name": "CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers",
+    "description": "aka \"Bayesian Methods for Hackers\": An introduction to Bayesian methods + probabilistic programming with a computation/understanding-first, mathematics-second point of view. All in pure Python ;)  ",
+    "topics": [
+      "bayesian-methods",
+      "data-science",
+      "jupyter-notebook",
+      "mathematical-analysis",
+      "pymc",
+      "statistics"
+    ],
+    "owner": {
+      "name": "CamDavidsonPilon",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/884032?v=4"
+    },
+    "stars": 26964,
+    "starsDetail": {
+      "total": 26964,
+      "week": 74,
+      "month": 130,
+      "year": 1024,
+      "updatedAt": 1736060217
+    },
+    "license": "MIT License",
+    "forks": 7885,
+    "primaryLanguage": "Shell",
+    "pushedAt": "2024-06-25T20:42:58.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2013-01-14T15:46:28.000Z",
+    "updatedAt": "2025-01-04T16:23:57.000Z"
   },
   {
     "id": "simple-statistics/simple-statistics",
@@ -2157,6 +2907,45 @@
     "updatedAt": "2025-01-04T15:10:11.000Z"
   },
   {
+    "id": "arbox/machine-learning-with-ruby",
+    "name": "arbox/machine-learning-with-ruby",
+    "description": "Curated list: Resources for machine learning in Ruby",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "list",
+      "machine-learning",
+      "ml",
+      "ruby",
+      "ruby-gem",
+      "rubyml",
+      "rubynlp"
+    ],
+    "owner": {
+      "name": "arbox",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/357237?v=4"
+    },
+    "stars": 2135,
+    "starsDetail": {
+      "total": 2135,
+      "week": 4,
+      "month": 10,
+      "year": 138,
+      "updatedAt": 1736059939
+    },
+    "license": "Creative Commons Zero v1.0 Universal",
+    "forks": 181,
+    "primaryLanguage": "Ruby",
+    "pushedAt": "2024-12-26T17:58:24.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2017-04-20T09:44:48.000Z",
+    "updatedAt": "2025-01-04T15:52:52.000Z"
+  },
+  {
     "id": "ml5js/ml5-library",
     "name": "ml5js/ml5-library",
     "description": "Friendly machine learning for the web! 🤖 ",
@@ -2280,6 +3069,35 @@
     "goImportedBy": 0,
     "createdAt": "2011-11-23T04:17:00.000Z",
     "updatedAt": "2025-01-04T14:35:33.000Z"
+  },
+  {
+    "id": "louismullie/treat",
+    "name": "louismullie/treat",
+    "description": "Natural language processing framework for Ruby.",
+    "topics": [],
+    "owner": {
+      "name": "louismullie",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/681636?v=4"
+    },
+    "stars": 1368,
+    "starsDetail": {
+      "total": 1368,
+      "week": 0,
+      "month": 1,
+      "year": 12,
+      "updatedAt": 1736059953
+    },
+    "license": "Other",
+    "forks": 128,
+    "primaryLanguage": "Ruby",
+    "pushedAt": "2017-05-05T22:31:43.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2012-01-24T02:07:29.000Z",
+    "updatedAt": "2025-01-04T15:53:04.000Z"
   },
   {
     "id": "ryanbressler/CloudForest",
@@ -2773,7 +3591,9 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/6182163?v=4"
     },
     "stars": 34173,
-    "starsDetail": null,
+    "starsDetail": {
+      "total": 34173
+    },
     "license": "Other",
     "forks": 18660,
     "primaryLanguage": "Dockerfile",
@@ -2860,36 +3680,6 @@
     "goImportedBy": null,
     "createdAt": "2017-04-24T14:06:31.000Z",
     "updatedAt": "2025-01-04T16:21:57.000Z"
-  },
-  {
-    "id": "CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers",
-    "name": "CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers",
-    "description": "aka \"Bayesian Methods for Hackers\": An introduction to Bayesian methods + probabilistic programming with a computation/understanding-first, mathematics-second point of view. All in pure Python ;)  ",
-    "topics": [
-      "bayesian-methods",
-      "data-science",
-      "jupyter-notebook",
-      "mathematical-analysis",
-      "pymc",
-      "statistics"
-    ],
-    "owner": {
-      "name": "CamDavidsonPilon",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/884032?v=4"
-    },
-    "stars": 26964,
-    "starsDetail": null,
-    "license": "MIT License",
-    "forks": 7885,
-    "primaryLanguage": "Shell",
-    "pushedAt": "2024-06-25T20:42:58.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2013-01-14T15:46:28.000Z",
-    "updatedAt": "2025-01-04T16:23:57.000Z"
   },
   {
     "id": "CamDavidsonPilon/decision-weights",
@@ -3082,7 +3872,9 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/14893101?v=4"
     },
     "stars": 475,
-    "starsDetail": null,
+    "starsDetail": {
+      "total": 475
+    },
     "license": "Other",
     "forks": 142,
     "primaryLanguage": "Perl",
@@ -3319,7 +4111,9 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/415599?v=4"
     },
     "stars": 138,
-    "starsDetail": null,
+    "starsDetail": {
+      "total": 138
+    },
     "license": "GNU Affero General Public License v3.0",
     "forks": 8,
     "primaryLanguage": "Shell",
@@ -3419,7 +4213,9 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/17830624?v=4"
     },
     "stars": 442,
-    "starsDetail": null,
+    "starsDetail": {
+      "total": 442
+    },
     "license": "MIT License",
     "forks": 81,
     "primaryLanguage": "Shell",
@@ -3477,7 +4273,9 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/1172832?v=4"
     },
     "stars": 267,
-    "starsDetail": null,
+    "starsDetail": {
+      "total": 267
+    },
     "license": "BSD 2-Clause \"Simplified\" License",
     "forks": 63,
     "primaryLanguage": "Shell",
@@ -3698,50 +4496,6 @@
     "goImportedBy": null,
     "createdAt": "2014-07-02T21:37:57.000Z",
     "updatedAt": "2025-01-04T16:23:04.000Z"
-  },
-  {
-    "id": "JohnSnowLabs/spark-nlp",
-    "name": "JohnSnowLabs/spark-nlp",
-    "description": "State of the Art Natural Language Processing",
-    "topics": [
-      "bert",
-      "entity-extraction",
-      "language-detection",
-      "lemmatizer",
-      "llamacpp",
-      "llm",
-      "machine-translation",
-      "named-entity-recognition",
-      "natural-language-processing",
-      "nlp",
-      "onnx",
-      "part-of-speech-tagger",
-      "pyspark",
-      "question-answering",
-      "sentiment-analysis",
-      "spark",
-      "spell-checker",
-      "tensorflow",
-      "text-classification",
-      "transformers"
-    ],
-    "owner": {
-      "name": "JohnSnowLabs",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/15903364?v=4"
-    },
-    "stars": 3891,
-    "starsDetail": null,
-    "license": "Apache License 2.0",
-    "forks": 717,
-    "primaryLanguage": "Makefile",
-    "pushedAt": "2025-01-03T23:29:26.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2017-09-24T19:36:44.000Z",
-    "updatedAt": "2025-01-04T16:25:24.000Z"
   },
   {
     "id": "JuliaCon/presentations",
@@ -6806,75 +7560,6 @@
     "updatedAt": "2025-01-04T16:24:18.000Z"
   },
   {
-    "id": "arbox/machine-learning-with-ruby",
-    "name": "arbox/machine-learning-with-ruby",
-    "description": "Curated list: Resources for machine learning in Ruby",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "list",
-      "machine-learning",
-      "ml",
-      "ruby",
-      "ruby-gem",
-      "rubyml",
-      "rubynlp"
-    ],
-    "owner": {
-      "name": "arbox",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/357237?v=4"
-    },
-    "stars": 2135,
-    "starsDetail": null,
-    "license": "Creative Commons Zero v1.0 Universal",
-    "forks": 181,
-    "primaryLanguage": "Ruby",
-    "pushedAt": "2024-12-26T17:58:24.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2017-04-20T09:44:48.000Z",
-    "updatedAt": "2025-01-04T15:52:52.000Z"
-  },
-  {
-    "id": "arbox/nlp-with-ruby",
-    "name": "arbox/nlp-with-ruby",
-    "description": "Curated List: Practical Natural Language Processing done in Ruby",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "computational-linguistics",
-      "list",
-      "machine-learning",
-      "natural-language-processing",
-      "nlp",
-      "pos-tag",
-      "ruby",
-      "rubyml",
-      "rubynlp",
-      "sentiment-analysis"
-    ],
-    "owner": {
-      "name": "arbox",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/357237?v=4"
-    },
-    "stars": 1046,
-    "starsDetail": null,
-    "license": "Creative Commons Zero v1.0 Universal",
-    "forks": 70,
-    "primaryLanguage": "Ruby",
-    "pushedAt": "2023-06-27T09:38:04.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2016-03-15T20:56:12.000Z",
-    "updatedAt": "2025-01-04T15:53:01.000Z"
-  },
-  {
     "id": "aria42/flare",
     "name": "aria42/flare",
     "description": "Dynamic Tensor Graph library in Clojure (think PyTorch, DynNet, etc.)",
@@ -7170,7 +7855,9 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/350?v=4"
     },
     "stars": 251,
-    "starsDetail": null,
+    "starsDetail": {
+      "total": 251
+    },
     "license": "MIT License",
     "forks": 22,
     "primaryLanguage": "Makefile",
@@ -7598,7 +8285,9 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/13734?v=4"
     },
     "stars": 378,
-    "starsDetail": null,
+    "starsDetail": {
+      "total": 378
+    },
     "license": "Other",
     "forks": 109,
     "primaryLanguage": "Batchfile",
@@ -7878,48 +8567,6 @@
     "goImportedBy": null,
     "createdAt": "2018-08-20T07:56:13.000Z",
     "updatedAt": "2025-01-04T16:24:20.000Z"
-  },
-  {
-    "id": "catboost/catboost",
-    "name": "catboost/catboost",
-    "description": "A fast, scalable, high performance Gradient Boosting on Decision Trees library, used for ranking, classification, regression and other machine learning tasks for Python, R, Java, C++. Supports computation on CPU and GPU.",
-    "topics": [
-      "big-data",
-      "catboost",
-      "categorical-features",
-      "coreml",
-      "cuda",
-      "data-mining",
-      "data-science",
-      "decision-trees",
-      "gbdt",
-      "gbm",
-      "gpu",
-      "gpu-computing",
-      "gradient-boosting",
-      "kaggle",
-      "machine-learning",
-      "python",
-      "r",
-      "tutorial"
-    ],
-    "owner": {
-      "name": "catboost",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/29043415?v=4"
-    },
-    "stars": 8170,
-    "starsDetail": null,
-    "license": "Apache License 2.0",
-    "forks": 1198,
-    "primaryLanguage": "Lua",
-    "pushedAt": "2025-01-04T12:11:52.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2017-07-18T05:29:04.000Z",
-    "updatedAt": "2025-01-04T15:28:27.000Z"
   },
   {
     "id": "cdslaborg/paramonte",
@@ -9773,34 +10420,6 @@
     "updatedAt": "2025-01-04T16:22:54.000Z"
   },
   {
-    "id": "dotnet/machinelearning",
-    "name": "dotnet/machinelearning",
-    "description": "ML.NET is an open source and cross-platform machine learning framework for .NET.",
-    "topics": [
-      "algorithms",
-      "dotnet",
-      "machine-learning",
-      "ml"
-    ],
-    "owner": {
-      "name": "dotnet",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/9141961?v=4"
-    },
-    "stars": 9091,
-    "starsDetail": null,
-    "license": "MIT License",
-    "forks": 1892,
-    "primaryLanguage": "Assembly",
-    "pushedAt": "2024-12-30T05:01:57.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2018-05-03T16:20:42.000Z",
-    "updatedAt": "2025-01-04T15:48:13.000Z"
-  },
-  {
     "id": "doukremt/distance",
     "name": "doukremt/distance",
     "description": "Levenshtein and Hamming distance computation",
@@ -10576,7 +11195,9 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/4313?v=4"
     },
     "stars": 278,
-    "starsDetail": null,
+    "starsDetail": {
+      "total": 278
+    },
     "license": "BSD 3-Clause \"New\" or \"Revised\" License",
     "forks": 33,
     "primaryLanguage": "Ruby",
@@ -10764,7 +11385,9 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/31945?v=4"
     },
     "stars": 392,
-    "starsDetail": null,
+    "starsDetail": {
+      "total": 392
+    },
     "license": null,
     "forks": 25,
     "primaryLanguage": "Elixir",
@@ -10791,7 +11414,9 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/31945?v=4"
     },
     "stars": 150,
-    "starsDetail": null,
+    "starsDetail": {
+      "total": 150
+    },
     "license": null,
     "forks": 9,
     "primaryLanguage": "Elixir",
@@ -11022,39 +11647,6 @@
     "goImportedBy": null,
     "createdAt": "2018-03-07T14:48:45.000Z",
     "updatedAt": "2025-01-04T16:22:20.000Z"
-  },
-  {
-    "id": "giacomelli/GeneticSharp",
-    "name": "giacomelli/GeneticSharp",
-    "description": "GeneticSharp is a fast, extensible, multi-platform and multithreading C# Genetic Algorithm library that simplifies the development of applications using Genetic Algorithms (GAs).",
-    "topics": [
-      "artificial-intelligence",
-      "c-sharp",
-      "dotnet",
-      "dotnet-core",
-      "dotnet-standard",
-      "dotnet6",
-      "genetic-algorithm",
-      "genetic-algorithms",
-      "unity3d"
-    ],
-    "owner": {
-      "name": "giacomelli",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/177389?v=4"
-    },
-    "stars": 1295,
-    "starsDetail": null,
-    "license": "MIT License",
-    "forks": 336,
-    "primaryLanguage": "PowerShell",
-    "pushedAt": "2024-04-24T14:34:18.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2013-08-02T00:37:51.000Z",
-    "updatedAt": "2025-01-04T15:48:12.000Z"
   },
   {
     "id": "gianlucabertani/MAChineLearning",
@@ -11701,48 +12293,6 @@
     "goImportedBy": null,
     "createdAt": "2013-02-19T16:09:53.000Z",
     "updatedAt": "2025-01-04T16:24:47.000Z"
-  },
-  {
-    "id": "infiniflow/infinity",
-    "name": "infiniflow/infinity",
-    "description": "The AI-native database built for LLM applications, providing incredibly fast hybrid search of dense vector, sparse vector, tensor (multi-vector), and full-text",
-    "topics": [
-      "ai-native",
-      "approximate-nearest-neighbor-search",
-      "bm25",
-      "cpp20",
-      "cpp20-modules",
-      "embedding",
-      "full-text-search",
-      "hnsw",
-      "hybrid-search",
-      "information-retrival",
-      "nearest-neighbor-search",
-      "rag",
-      "search-engine",
-      "tensor-database",
-      "vector",
-      "vector-database",
-      "vector-search",
-      "vectordatabase"
-    ],
-    "owner": {
-      "name": "infiniflow",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/69962740?v=4"
-    },
-    "stars": 2881,
-    "starsDetail": null,
-    "license": "Apache License 2.0",
-    "forks": 281,
-    "primaryLanguage": "JavaScript",
-    "pushedAt": "2025-01-04T13:06:04.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2022-07-18T13:52:38.000Z",
-    "updatedAt": "2025-01-04T15:27:12.000Z"
   },
   {
     "id": "infochimps-labs/big_data_for_chimps",
@@ -12725,39 +13275,6 @@
     "updatedAt": "2025-01-04T16:23:20.000Z"
   },
   {
-    "id": "kaldi-asr/kaldi",
-    "name": "kaldi-asr/kaldi",
-    "description": "kaldi-asr/kaldi is the official location of the Kaldi project.",
-    "topics": [
-      "c-plus-plus",
-      "cuda",
-      "kaldi",
-      "shell",
-      "speaker-id",
-      "speaker-verification",
-      "speech",
-      "speech-recognition",
-      "speech-to-text"
-    ],
-    "owner": {
-      "name": "kaldi-asr",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/11650082?v=4"
-    },
-    "stars": 14413,
-    "starsDetail": null,
-    "license": "Other",
-    "forks": 5331,
-    "primaryLanguage": "Cython",
-    "pushedAt": "2024-11-29T09:50:54.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2015-04-20T17:23:16.000Z",
-    "updatedAt": "2025-01-04T15:26:15.000Z"
-  },
-  {
     "id": "karpathy/neuraltalk",
     "name": "karpathy/neuraltalk",
     "description": "NeuralTalk is a Python+numpy project for learning Multimodal Recurrent Neural Networks that describe images with sentences.",
@@ -13364,29 +13881,6 @@
     "updatedAt": "2025-01-04T16:23:59.000Z"
   },
   {
-    "id": "liuliu/ccv",
-    "name": "liuliu/ccv",
-    "description": "C-based/Cached/Core Computer Vision Library, A Modern Computer Vision Library",
-    "topics": [],
-    "owner": {
-      "name": "liuliu",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/127987?v=4"
-    },
-    "stars": 7103,
-    "starsDetail": null,
-    "license": "Other",
-    "forks": 1714,
-    "primaryLanguage": "Smarty",
-    "pushedAt": "2025-01-01T17:26:32.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2010-09-15T15:59:47.000Z",
-    "updatedAt": "2025-01-04T15:28:27.000Z"
-  },
-  {
     "id": "lmcinnes/hdbscan",
     "name": "lmcinnes/hdbscan",
     "description": "A high performance implementation of HDBSCAN clustering. http://hdbscan.readthedocs.io/en/latest/",
@@ -13449,29 +13943,6 @@
     "goImportedBy": null,
     "createdAt": "2018-07-26T08:13:34.000Z",
     "updatedAt": "2025-01-04T16:22:02.000Z"
-  },
-  {
-    "id": "louismullie/treat",
-    "name": "louismullie/treat",
-    "description": "Natural language processing framework for Ruby.",
-    "topics": [],
-    "owner": {
-      "name": "louismullie",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/681636?v=4"
-    },
-    "stars": 1368,
-    "starsDetail": null,
-    "license": "Other",
-    "forks": 128,
-    "primaryLanguage": "Ruby",
-    "pushedAt": "2017-05-05T22:31:43.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2012-01-24T02:07:29.000Z",
-    "updatedAt": "2025-01-04T15:53:04.000Z"
   },
   {
     "id": "lspector/Clojush",
@@ -14216,42 +14687,6 @@
     "updatedAt": "2025-01-04T16:22:06.000Z"
   },
   {
-    "id": "meta-toolkit/meta",
-    "name": "meta-toolkit/meta",
-    "description": "A Modern C++ Data Sciences Toolkit",
-    "topics": [
-      "c-plus-plus",
-      "graph-algorithms",
-      "inverted-index",
-      "language-modeling",
-      "nlp",
-      "nlp-parsing",
-      "pos-tag",
-      "search-engine",
-      "text-analysis",
-      "text-analytics",
-      "text-classification",
-      "word-embeddings"
-    ],
-    "owner": {
-      "name": "meta-toolkit",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/6588029?v=4"
-    },
-    "stars": 702,
-    "starsDetail": null,
-    "license": "MIT License",
-    "forks": 236,
-    "primaryLanguage": "Ruby",
-    "pushedAt": "2023-04-17T08:37:52.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2014-02-02T23:54:34.000Z",
-    "updatedAt": "2025-01-04T15:28:29.000Z"
-  },
-  {
     "id": "metasoarous/oz",
     "name": "metasoarous/oz",
     "description": "Data visualizations in Clojure and ClojureScript using Vega and Vega-lite",
@@ -14583,50 +15018,6 @@
     "updatedAt": "2025-01-04T16:23:38.000Z"
   },
   {
-    "id": "ml-tooling/ml-workspace",
-    "name": "ml-tooling/ml-workspace",
-    "description": "🛠 All-in-one web-based IDE specialized for machine learning and data science.",
-    "topics": [
-      "anaconda",
-      "data-analysis",
-      "data-science",
-      "data-visualization",
-      "deep-learning",
-      "docker",
-      "gpu",
-      "jupyter",
-      "jupyter-lab",
-      "jupyter-notebook",
-      "kubernetes",
-      "machine-learning",
-      "neural-networks",
-      "nlp",
-      "python",
-      "pytorch",
-      "r",
-      "scikit-learn",
-      "tensorflow",
-      "vscode"
-    ],
-    "owner": {
-      "name": "ml-tooling",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/45942048?v=4"
-    },
-    "stars": 3449,
-    "starsDetail": null,
-    "license": "Apache License 2.0",
-    "forks": 453,
-    "primaryLanguage": "Lua",
-    "pushedAt": "2024-07-26T07:39:39.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2019-05-27T16:55:15.000Z",
-    "updatedAt": "2025-01-04T16:25:35.000Z"
-  },
-  {
     "id": "mljar/mljar-supervised",
     "name": "mljar/mljar-supervised",
     "description": "Python package for AutoML on Tabular Data with Feature Engineering, Hyper-Parameters Tuning, Explanations and Automatic Documentation",
@@ -14954,7 +15345,9 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/16052487?v=4"
     },
     "stars": 107,
-    "starsDetail": null,
+    "starsDetail": {
+      "total": 107
+    },
     "license": null,
     "forks": 5,
     "primaryLanguage": "Gleam",
@@ -15720,48 +16113,6 @@
     "updatedAt": "2025-01-04T16:22:44.000Z"
   },
   {
-    "id": "oneapi-src/oneDNN",
-    "name": "oneapi-src/oneDNN",
-    "description": "oneAPI Deep Neural Network Library (oneDNN)",
-    "topics": [
-      "aarch64",
-      "amx",
-      "avx512",
-      "bfloat16",
-      "cpp",
-      "deep-learning",
-      "deep-neural-networks",
-      "library",
-      "oneapi",
-      "onednn",
-      "openmp",
-      "performance",
-      "sycl",
-      "tbb",
-      "vnni",
-      "x64",
-      "x86-64",
-      "xe-architecture"
-    ],
-    "owner": {
-      "name": "oneapi-src",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/60144784?v=4"
-    },
-    "stars": 3667,
-    "starsDetail": null,
-    "license": "Apache License 2.0",
-    "forks": 1012,
-    "primaryLanguage": "Shell",
-    "pushedAt": "2025-01-04T07:35:22.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2016-05-09T23:26:42.000Z",
-    "updatedAt": "2025-01-04T15:26:14.000Z"
-  },
-  {
     "id": "online-ml/river",
     "name": "online-ml/river",
     "description": "🌊 Online machine learning in Python",
@@ -15913,7 +16264,9 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/5009934?v=4"
     },
     "stars": 79919,
-    "starsDetail": null,
+    "starsDetail": {
+      "total": 79919
+    },
     "license": "Apache License 2.0",
     "forks": 55907,
     "primaryLanguage": "Dockerfile",
@@ -16220,7 +16573,9 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/36879561?v=4"
     },
     "stars": 137,
-    "starsDetail": null,
+    "starsDetail": {
+      "total": 137
+    },
     "license": "Apache License 2.0",
     "forks": 23,
     "primaryLanguage": "Scala",
@@ -16232,29 +16587,6 @@
     "goImportedBy": null,
     "createdAt": "2018-02-09T13:54:54.000Z",
     "updatedAt": "2025-01-04T16:25:30.000Z"
-  },
-  {
-    "id": "pjreddie/darknet",
-    "name": "pjreddie/darknet",
-    "description": "Convolutional Neural Networks",
-    "topics": [],
-    "owner": {
-      "name": "pjreddie",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/302108?v=4"
-    },
-    "stars": 25918,
-    "starsDetail": null,
-    "license": "Other",
-    "forks": 21326,
-    "primaryLanguage": "Shell",
-    "pushedAt": "2024-05-03T13:53:58.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2014-04-11T07:59:16.000Z",
-    "updatedAt": "2025-01-04T15:28:28.000Z"
   },
   {
     "id": "plotly/dash",
@@ -17588,29 +17920,6 @@
     "updatedAt": "2025-01-04T16:25:21.000Z"
   },
   {
-    "id": "scalanlp/breeze",
-    "name": "scalanlp/breeze",
-    "description": "Breeze is/was a numerical processing library for Scala.",
-    "topics": [],
-    "owner": {
-      "name": "scalanlp",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/103090?v=4"
-    },
-    "stars": 3448,
-    "starsDetail": null,
-    "license": "Apache License 2.0",
-    "forks": 689,
-    "primaryLanguage": "Java",
-    "pushedAt": "2024-08-29T06:08:38.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2009-07-08T23:22:52.000Z",
-    "updatedAt": "2025-01-04T16:25:21.000Z"
-  },
-  {
     "id": "scalanlp/chalk",
     "name": "scalanlp/chalk",
     "description": "Chalk is a natural language processing library.",
@@ -18142,36 +18451,6 @@
     "updatedAt": "2025-01-04T16:25:01.000Z"
   },
   {
-    "id": "shogun-toolbox/shogun",
-    "name": "shogun-toolbox/shogun",
-    "description": "Shōgun",
-    "topics": [
-      "artificial-intelligence",
-      "c-plus-plus",
-      "cmake",
-      "data-science",
-      "machine-learning",
-      "swig"
-    ],
-    "owner": {
-      "name": "shogun-toolbox",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/690673?v=4"
-    },
-    "stars": 3032,
-    "starsDetail": null,
-    "license": "BSD 3-Clause \"New\" or \"Revised\" License",
-    "forks": 1036,
-    "primaryLanguage": "GDB",
-    "pushedAt": "2023-12-19T18:37:18.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2011-04-01T10:44:32.000Z",
-    "updatedAt": "2025-01-04T15:28:33.000Z"
-  },
-  {
     "id": "siavashserver/neonrvm",
     "name": "siavashserver/neonrvm",
     "description": "An open source machine learning library for performing regression tasks using RVM technique.",
@@ -18607,49 +18886,6 @@
     "updatedAt": "2025-01-04T16:23:46.000Z"
   },
   {
-    "id": "stellargraph/stellargraph",
-    "name": "stellargraph/stellargraph",
-    "description": "StellarGraph - Machine Learning on Graphs",
-    "topics": [
-      "data-science",
-      "deep-learning",
-      "gcn",
-      "geometric-deep-learning",
-      "graph-analysis",
-      "graph-convolutional-networks",
-      "graph-data",
-      "graph-machine-learning",
-      "graph-neural-networks",
-      "graphs",
-      "heterogeneous-networks",
-      "interpretability",
-      "link-prediction",
-      "machine-learning",
-      "machine-learning-algorithms",
-      "networkx",
-      "python",
-      "saliency-map",
-      "stellargraph-library"
-    ],
-    "owner": {
-      "name": "stellargraph",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/36725857?v=4"
-    },
-    "stars": 2962,
-    "starsDetail": null,
-    "license": "Apache License 2.0",
-    "forks": 432,
-    "primaryLanguage": "Dockerfile",
-    "pushedAt": "2024-04-10T12:25:23.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2018-04-13T07:35:51.000Z",
-    "updatedAt": "2025-01-04T16:24:19.000Z"
-  },
-  {
     "id": "streamlit/streamlit",
     "name": "streamlit/streamlit",
     "description": "Streamlit — A faster way to build and share data apps.",
@@ -19060,36 +19296,6 @@
     "updatedAt": "2025-01-04T16:23:32.000Z"
   },
   {
-    "id": "tflearn/tflearn",
-    "name": "tflearn/tflearn",
-    "description": "Deep learning library featuring a higher-level API for TensorFlow.",
-    "topics": [
-      "data-science",
-      "deep-learning",
-      "machine-learning",
-      "neural-network",
-      "tensorflow",
-      "tflearn"
-    ],
-    "owner": {
-      "name": "tflearn",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/16848261?v=4"
-    },
-    "stars": 9618,
-    "starsDetail": null,
-    "license": "Other",
-    "forks": 2414,
-    "primaryLanguage": "Python",
-    "pushedAt": "2024-05-06T11:34:20.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2016-03-31T12:05:53.000Z",
-    "updatedAt": "2025-01-04T16:24:13.000Z"
-  },
-  {
     "id": "therfoo/therfoo",
     "name": "therfoo/therfoo",
     "description": "An embedded deep learning library for Go.",
@@ -19466,29 +19672,6 @@
     "updatedAt": "2025-01-04T16:25:13.000Z"
   },
   {
-    "id": "twitter/algebird",
-    "name": "twitter/algebird",
-    "description": "Abstract Algebra for Scala",
-    "topics": [],
-    "owner": {
-      "name": "twitter",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/50278?v=4"
-    },
-    "stars": 2290,
-    "starsDetail": null,
-    "license": "Apache License 2.0",
-    "forks": 346,
-    "primaryLanguage": "Ruby",
-    "pushedAt": "2024-08-19T21:31:41.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2012-08-02T17:24:42.000Z",
-    "updatedAt": "2025-01-04T16:25:25.000Z"
-  },
-  {
     "id": "twitter/scalding",
     "name": "twitter/scalding",
     "description": "A Scala API for Cascading",
@@ -19584,7 +19767,9 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/897680?v=4"
     },
     "stars": 415,
-    "starsDetail": null,
+    "starsDetail": {
+      "total": 415
+    },
     "license": "Other",
     "forks": 193,
     "primaryLanguage": "Shell",
@@ -20206,37 +20391,6 @@
     "goImportedBy": null,
     "createdAt": "2013-10-07T13:30:53.000Z",
     "updatedAt": "2025-01-04T16:24:35.000Z"
-  },
-  {
-    "id": "yoshoku/rumale",
-    "name": "yoshoku/rumale",
-    "description": "Rumale is a machine learning library in Ruby",
-    "topics": [
-      "artificial-intelligence",
-      "data-analysis",
-      "data-science",
-      "machine-learning",
-      "ml",
-      "ruby",
-      "rubyml"
-    ],
-    "owner": {
-      "name": "yoshoku",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/5562409?v=4"
-    },
-    "stars": 791,
-    "starsDetail": null,
-    "license": "BSD 3-Clause \"New\" or \"Revised\" License",
-    "forks": 31,
-    "primaryLanguage": "JavaScript",
-    "pushedAt": "2025-01-03T00:37:00.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2017-09-30T13:24:56.000Z",
-    "updatedAt": "2025-01-04T15:52:54.000Z"
   },
   {
     "id": "yzhao062/pyod",

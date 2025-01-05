@@ -1,5 +1,146 @@
 [
   {
+    "id": "thangchung/awesome-dotnet-core",
+    "name": "thangchung/awesome-dotnet-core",
+    "description": ":honeybee: A collection of awesome .NET core libraries, tools, frameworks and software",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "csharp",
+      "dotnet-core",
+      "list",
+      "microsoft"
+    ],
+    "owner": {
+      "name": "thangchung",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/422341?v=4"
+    },
+    "stars": 20110,
+    "starsDetail": {
+      "total": 20110,
+      "week": 18,
+      "month": 90,
+      "year": 1557,
+      "updatedAt": 1736059610
+    },
+    "license": null,
+    "forks": 2904,
+    "primaryLanguage": "C#",
+    "pushedAt": "2024-08-26T03:59:45.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2016-03-17T03:52:09.000Z",
+    "updatedAt": "2025-01-04T15:50:09.000Z"
+  },
+  {
+    "id": "cicdops/awesome-ciandcd",
+    "name": "cicdops/awesome-ciandcd",
+    "description": "continuous integration and continuous delivery",
+    "topics": [],
+    "owner": {
+      "name": "cicdops",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/11013015?v=4"
+    },
+    "stars": 1893,
+    "starsDetail": {
+      "total": 1893,
+      "week": 1,
+      "month": 9,
+      "year": 169,
+      "updatedAt": 1736058206
+    },
+    "license": "GNU General Public License v2.0",
+    "forks": 207,
+    "primaryLanguage": "",
+    "pushedAt": "2024-04-01T18:08:23.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2014-11-23T04:36:38.000Z",
+    "updatedAt": "2025-01-04T12:04:27.000Z"
+  },
+  {
+    "id": "mhinz/vim-galore",
+    "name": "mhinz/vim-galore",
+    "description": ":mortar_board: All things Vim!",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "guide",
+      "help",
+      "learn",
+      "neovim",
+      "tips",
+      "tricks",
+      "vim",
+      "vim-scripts",
+      "viml"
+    ],
+    "owner": {
+      "name": "mhinz",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/972014?v=4"
+    },
+    "stars": 16994,
+    "starsDetail": {
+      "total": 16994,
+      "week": 21,
+      "month": 89,
+      "year": 1126,
+      "updatedAt": 1736061769
+    },
+    "license": "Creative Commons Attribution Share Alike 4.0 International",
+    "forks": 610,
+    "primaryLanguage": "Vim Script",
+    "pushedAt": "2023-12-22T22:15:38.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2016-01-04T17:02:16.000Z",
+    "updatedAt": "2025-01-04T16:18:05.000Z"
+  },
+  {
+    "id": "drobakowski/awesome-erlang",
+    "name": "drobakowski/awesome-erlang",
+    "description": "A curated list of awesome Erlang libraries, resources and shiny things.",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "erlang",
+      "erlang-library",
+      "lists"
+    ],
+    "owner": {
+      "name": "drobakowski",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/81381?v=4"
+    },
+    "stars": 1645,
+    "starsDetail": {
+      "total": 1645,
+      "week": 2,
+      "month": 8,
+      "year": 109,
+      "updatedAt": 1736060750
+    },
+    "license": null,
+    "forks": 209,
+    "primaryLanguage": "",
+    "pushedAt": "2022-11-17T23:40:26.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2014-07-10T12:50:18.000Z",
+    "updatedAt": "2025-01-04T16:10:56.000Z"
+  },
+  {
     "id": "willianjusten/awesome-svg",
     "name": "willianjusten/awesome-svg",
     "description": "A curated list of SVG. ",
@@ -104,6 +245,211 @@
     "updatedAt": "2025-01-04T15:09:24.000Z"
   },
   {
+    "id": "heynickc/awesome-ddd",
+    "name": "heynickc/awesome-ddd",
+    "description": "A curated list of Domain-Driven Design (DDD), Command Query Responsibility Segregation (CQRS), Event Sourcing, and Event Storming resources",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "list"
+    ],
+    "owner": {
+      "name": "heynickc",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1671359?v=4"
+    },
+    "stars": 11376,
+    "starsDetail": {
+      "total": 11376,
+      "week": 13,
+      "month": 63,
+      "year": 966,
+      "updatedAt": 1736059609
+    },
+    "license": null,
+    "forks": 1355,
+    "primaryLanguage": "",
+    "pushedAt": "2024-08-14T22:38:53.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2016-08-31T14:14:50.000Z",
+    "updatedAt": "2025-01-04T15:50:10.000Z"
+  },
+  {
+    "id": "christian-bromann/awesome-selenium",
+    "name": "christian-bromann/awesome-selenium",
+    "description": "A curated list of delightful Selenium resources.",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "list"
+    ],
+    "owner": {
+      "name": "christian-bromann",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/731337?v=4"
+    },
+    "stars": 1024,
+    "starsDetail": {
+      "total": 1024,
+      "week": 2,
+      "month": 6,
+      "year": 73,
+      "updatedAt": 1736058204
+    },
+    "license": "Creative Commons Zero v1.0 Universal",
+    "forks": 154,
+    "primaryLanguage": "",
+    "pushedAt": "2025-01-03T23:22:36.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2014-07-25T19:38:14.000Z",
+    "updatedAt": "2025-01-04T15:26:02.000Z"
+  },
+  {
+    "id": "ironcev/awesome-roslyn",
+    "name": "ironcev/awesome-roslyn",
+    "description": "Curated list of awesome Roslyn books, tutorials, open-source projects, analyzers, code fixes, refactorings, and source generators",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "code-generation",
+      "csharp",
+      "hacktoberfest",
+      "roslyn",
+      "roslyn-analyzer",
+      "roslyn-api",
+      "vbnet"
+    ],
+    "owner": {
+      "name": "ironcev",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/4142833?v=4"
+    },
+    "stars": 677,
+    "starsDetail": {
+      "total": 677,
+      "week": 1,
+      "month": 6,
+      "year": 74,
+      "updatedAt": 1736059610
+    },
+    "license": null,
+    "forks": 59,
+    "primaryLanguage": "",
+    "pushedAt": "2024-01-16T06:01:24.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2018-04-14T00:15:14.000Z",
+    "updatedAt": "2025-01-04T15:50:11.000Z"
+  },
+  {
+    "id": "emacs-tw/awesome-emacs",
+    "name": "emacs-tw/awesome-emacs",
+    "description": "A community driven list of useful Emacs packages, libraries and other items.",
+    "topics": [
+      "awesome-list",
+      "emacs"
+    ],
+    "owner": {
+      "name": "emacs-tw",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/7908858?v=4"
+    },
+    "stars": 8656,
+    "starsDetail": {
+      "total": 8656,
+      "week": 16,
+      "month": 59,
+      "year": 674,
+      "updatedAt": 1736061763
+    },
+    "license": "The Unlicense",
+    "forks": 561,
+    "primaryLanguage": "",
+    "pushedAt": "2024-12-27T04:23:31.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2014-08-01T02:51:10.000Z",
+    "updatedAt": "2025-01-04T16:18:03.000Z"
+  },
+  {
+    "id": "mfornos/awesome-microservices",
+    "name": "mfornos/awesome-microservices",
+    "description": "A curated list of Microservice Architecture related principles and technologies.",
+    "topics": [
+      "awesome",
+      "cloud-computing",
+      "cloud-native",
+      "microservices",
+      "microservices-architecture"
+    ],
+    "owner": {
+      "name": "mfornos",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/663840?v=4"
+    },
+    "stars": 13433,
+    "starsDetail": {
+      "total": 13433,
+      "week": 14,
+      "month": 56,
+      "year": 837,
+      "updatedAt": 1736058203
+    },
+    "license": "Creative Commons Zero v1.0 Universal",
+    "forks": 1796,
+    "primaryLanguage": "",
+    "pushedAt": "2024-11-17T17:14:34.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2015-05-03T13:56:04.000Z",
+    "updatedAt": "2025-01-04T15:26:01.000Z"
+  },
+  {
+    "id": "RyanNielson/awesome-unity",
+    "name": "RyanNielson/awesome-unity",
+    "description": "A curated list of awesome Unity assets, resources, and more.",
+    "topics": [
+      "awesome-list",
+      "game-development",
+      "unity"
+    ],
+    "owner": {
+      "name": "RyanNielson",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/794694?v=4"
+    },
+    "stars": 6721,
+    "starsDetail": {
+      "total": 6721,
+      "week": 10,
+      "month": 52,
+      "year": 605,
+      "updatedAt": 1736059614
+    },
+    "license": "Creative Commons Zero v1.0 Universal",
+    "forks": 706,
+    "primaryLanguage": "",
+    "pushedAt": "2024-05-24T08:07:01.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2014-07-25T01:22:07.000Z",
+    "updatedAt": "2025-01-04T15:50:10.000Z"
+  },
+  {
     "id": "addyosmani/es6-tools",
     "name": "addyosmani/es6-tools",
     "description": "An aggregation of tooling for using ES6 today",
@@ -131,6 +477,75 @@
     "goImportedBy": null,
     "createdAt": "2013-12-19T23:18:59.000Z",
     "updatedAt": "2025-01-04T22:45:54.000Z"
+  },
+  {
+    "id": "dreikanter/sublime-bookmarks",
+    "name": "dreikanter/sublime-bookmarks",
+    "description": "Sublime Text essential plugins and resources",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "bookmarks",
+      "list",
+      "sublime-text"
+    ],
+    "owner": {
+      "name": "dreikanter",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/126636?v=4"
+    },
+    "stars": 1028,
+    "starsDetail": {
+      "total": 1028,
+      "week": 1,
+      "month": 5,
+      "year": 40,
+      "updatedAt": 1736061766
+    },
+    "license": null,
+    "forks": 72,
+    "primaryLanguage": "",
+    "pushedAt": "2024-01-15T15:02:30.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2014-07-14T16:03:22.000Z",
+    "updatedAt": "2025-01-04T16:18:04.000Z"
+  },
+  {
+    "id": "k4m4/terminals-are-sexy",
+    "name": "k4m4/terminals-are-sexy",
+    "description": "💥 A curated list of Terminal frameworks, plugins & resources for CLI lovers.",
+    "topics": [
+      "awesome-lists",
+      "cli-lovers",
+      "curated-list",
+      "terminal"
+    ],
+    "owner": {
+      "name": "k4m4",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/8945656?v=4"
+    },
+    "stars": 12342,
+    "starsDetail": {
+      "total": 12342,
+      "week": 14,
+      "month": 45,
+      "year": 697,
+      "updatedAt": 1736061755
+    },
+    "license": "Creative Commons Zero v1.0 Universal",
+    "forks": 605,
+    "primaryLanguage": "Makefile",
+    "pushedAt": "2024-07-26T15:27:31.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2017-02-01T14:23:25.000Z",
+    "updatedAt": "2025-01-04T16:18:00.000Z"
   },
   {
     "id": "markusschanta/awesome-jupyter",
@@ -213,6 +628,68 @@
     "updatedAt": "2025-01-04T15:08:42.000Z"
   },
   {
+    "id": "sindresorhus/quick-look-plugins",
+    "name": "sindresorhus/quick-look-plugins",
+    "description": "List of useful Quick Look plugins for developers",
+    "topics": [],
+    "owner": {
+      "name": "sindresorhus",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/170270?v=4"
+    },
+    "stars": 18132,
+    "starsDetail": {
+      "total": 18132,
+      "week": 10,
+      "month": 40,
+      "year": 590,
+      "updatedAt": 1736061248
+    },
+    "license": null,
+    "forks": 535,
+    "primaryLanguage": "",
+    "pushedAt": "2023-12-06T11:51:34.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2013-12-07T15:43:33.000Z",
+    "updatedAt": "2025-01-04T16:20:07.000Z"
+  },
+  {
+    "id": "jorgebucaran/awsm.fish",
+    "name": "jorgebucaran/awsm.fish",
+    "description": "A curation of prompts, plugins & other Fish treasures 🐚💎",
+    "topics": [
+      "awesome",
+      "fish",
+      "fish-plugin"
+    ],
+    "owner": {
+      "name": "jorgebucaran",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/56996?v=4"
+    },
+    "stars": 4278,
+    "starsDetail": {
+      "total": 4278,
+      "week": 18,
+      "month": 39,
+      "year": 579,
+      "updatedAt": 1736061754
+    },
+    "license": "Creative Commons Zero v1.0 Universal",
+    "forks": 132,
+    "primaryLanguage": "",
+    "pushedAt": "2024-08-02T22:19:52.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2015-10-13T08:37:26.000Z",
+    "updatedAt": "2025-01-04T12:11:51.000Z"
+  },
+  {
     "id": "tayllan/awesome-algorithms",
     "name": "tayllan/awesome-algorithms",
     "description": "A curated list of awesome places to learn and/or practice algorithms.",
@@ -290,6 +767,83 @@
     "goImportedBy": null,
     "createdAt": "2017-08-22T10:43:47.000Z",
     "updatedAt": "2025-01-04T14:58:49.000Z"
+  },
+  {
+    "id": "arbox/nlp-with-ruby",
+    "name": "arbox/nlp-with-ruby",
+    "description": "Curated List: Practical Natural Language Processing done in Ruby",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "computational-linguistics",
+      "list",
+      "machine-learning",
+      "natural-language-processing",
+      "nlp",
+      "pos-tag",
+      "ruby",
+      "rubyml",
+      "rubynlp",
+      "sentiment-analysis"
+    ],
+    "owner": {
+      "name": "arbox",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/357237?v=4"
+    },
+    "stars": 1046,
+    "starsDetail": {
+      "total": 1046,
+      "week": 0,
+      "month": 3,
+      "year": 28,
+      "updatedAt": 1736059950
+    },
+    "license": "Creative Commons Zero v1.0 Universal",
+    "forks": 70,
+    "primaryLanguage": "Ruby",
+    "pushedAt": "2023-06-27T09:38:04.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2016-03-15T20:56:12.000Z",
+    "updatedAt": "2025-01-04T15:53:01.000Z"
+  },
+  {
+    "id": "iJackUA/awesome-vagrant",
+    "name": "iJackUA/awesome-vagrant",
+    "description": "A curated list of awesome Vagrant resources, plugins, tutorials and other nice things.",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "list",
+      "vagrant",
+      "vagrant-resources"
+    ],
+    "owner": {
+      "name": "iJackUA",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/568566?v=4"
+    },
+    "stars": 608,
+    "starsDetail": {
+      "total": 608,
+      "week": 0,
+      "month": 3,
+      "year": 29,
+      "updatedAt": 1736061866
+    },
+    "license": null,
+    "forks": 56,
+    "primaryLanguage": "",
+    "pushedAt": "2020-10-08T13:38:09.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2014-07-31T08:32:13.000Z",
+    "updatedAt": "2025-01-04T16:18:48.000Z"
   },
   {
     "id": "bolshchikov/js-must-watch",
@@ -402,6 +956,40 @@
     "updatedAt": "2025-01-04T15:12:00.000Z"
   },
   {
+    "id": "inputsh/awesome-c",
+    "name": "inputsh/awesome-c",
+    "description": "Continuing the development of awesome-c list on GitHub",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "c",
+      "list"
+    ],
+    "owner": {
+      "name": "inputsh",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/4890548?v=4"
+    },
+    "stars": 3516,
+    "starsDetail": {
+      "total": 3516,
+      "week": 9,
+      "month": 24,
+      "year": 292,
+      "updatedAt": 1736058982
+    },
+    "license": "Other",
+    "forks": 358,
+    "primaryLanguage": "",
+    "pushedAt": "2022-09-27T14:10:08.000Z",
+    "archived": true,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2015-05-31T01:56:17.000Z",
+    "updatedAt": "2025-01-04T12:05:10.000Z"
+  },
+  {
     "id": "denolib/awesome-deno",
     "name": "denolib/awesome-deno",
     "description": "Curated list of awesome things related to Deno",
@@ -504,6 +1092,41 @@
     "updatedAt": "2025-01-04T15:11:11.000Z"
   },
   {
+    "id": "agarrharr/awesome-cli-apps",
+    "name": "agarrharr/awesome-cli-apps",
+    "description": "🖥 📊 🕹 🛠 A curated list of command line apps",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "cli",
+      "cli-app",
+      "list"
+    ],
+    "owner": {
+      "name": "agarrharr",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/3266363?v=4"
+    },
+    "stars": 15640,
+    "starsDetail": {
+      "total": 15640,
+      "week": 38,
+      "month": 197,
+      "year": 2831,
+      "updatedAt": 1736061752
+    },
+    "license": null,
+    "forks": 897,
+    "primaryLanguage": "Shell",
+    "pushedAt": "2024-11-21T21:08:42.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2015-07-09T16:44:07.000Z",
+    "updatedAt": "2025-01-04T16:17:59.000Z"
+  },
+  {
     "id": "ChristosChristofidis/awesome-deep-learning",
     "name": "ChristosChristofidis/awesome-deep-learning",
     "description": "A curated list of awesome Deep Learning tutorials, projects and communities.",
@@ -581,6 +1204,81 @@
     "updatedAt": "2025-01-04T15:10:18.000Z"
   },
   {
+    "id": "unixorn/awesome-zsh-plugins",
+    "name": "unixorn/awesome-zsh-plugins",
+    "description": "A collection of ZSH frameworks, plugins, themes and tutorials.",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "collection",
+      "hacktoberfest",
+      "list",
+      "oh-my-zsh",
+      "zgenom",
+      "zsh-completions",
+      "zsh-configuration",
+      "zsh-framework",
+      "zsh-plugin",
+      "zsh-prompt",
+      "zsh-theme"
+    ],
+    "owner": {
+      "name": "unixorn",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/23920?v=4"
+    },
+    "stars": 15725,
+    "starsDetail": {
+      "total": 15725,
+      "week": 46,
+      "month": 162,
+      "year": 2006,
+      "updatedAt": 1736061758
+    },
+    "license": "BSD 3-Clause \"New\" or \"Revised\" License",
+    "forks": 550,
+    "primaryLanguage": "Shell",
+    "pushedAt": "2025-01-02T23:54:16.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2014-10-07T06:11:17.000Z",
+    "updatedAt": "2025-01-04T16:18:39.000Z"
+  },
+  {
+    "id": "marmelab/awesome-rest",
+    "name": "marmelab/awesome-rest",
+    "description": "A collaborative list of great resources about RESTful API architecture, development, test, and performance",
+    "topics": [
+      "awesome",
+      "rest"
+    ],
+    "owner": {
+      "name": "marmelab",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/3116319?v=4"
+    },
+    "stars": 3668,
+    "starsDetail": {
+      "total": 3668,
+      "week": 3,
+      "month": 16,
+      "year": 215,
+      "updatedAt": 1736058201
+    },
+    "license": "Creative Commons Zero v1.0 Universal",
+    "forks": 404,
+    "primaryLanguage": "",
+    "pushedAt": "2024-08-22T16:48:35.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2015-05-07T07:04:42.000Z",
+    "updatedAt": "2025-01-04T15:26:02.000Z"
+  },
+  {
     "id": "dariubs/GoBooks",
     "name": "dariubs/GoBooks",
     "description": "List of Golang books",
@@ -622,6 +1320,105 @@
     "goImportedBy": 0,
     "createdAt": "2015-05-05T10:45:36.000Z",
     "updatedAt": "2025-01-04T14:47:37.000Z"
+  },
+  {
+    "id": "viatsko/awesome-vscode",
+    "name": "viatsko/awesome-vscode",
+    "description": "🎨 A curated list of delightful VS Code packages and resources.",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "list",
+      "visual-studio",
+      "visual-studio-code",
+      "visual-studio-code-extension",
+      "visual-studio-code-theme",
+      "visualstudio",
+      "vscode",
+      "vscode-extension",
+      "vscode-theme"
+    ],
+    "owner": {
+      "name": "viatsko",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/376065?v=4"
+    },
+    "stars": 25302,
+    "starsDetail": {
+      "total": 25302,
+      "week": 27,
+      "month": 148,
+      "year": 1864,
+      "updatedAt": 1736061804
+    },
+    "license": "Creative Commons Zero v1.0 Universal",
+    "forks": 1214,
+    "primaryLanguage": "JavaScript",
+    "pushedAt": "2024-06-21T09:46:41.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2016-02-07T23:02:45.000Z",
+    "updatedAt": "2025-01-04T16:18:18.000Z"
+  },
+  {
+    "id": "JanVanRyswyck/awesome-talks",
+    "name": "JanVanRyswyck/awesome-talks",
+    "description": "Awesome online talks and screencasts",
+    "topics": [],
+    "owner": {
+      "name": "JanVanRyswyck",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/463786?v=4"
+    },
+    "stars": 6105,
+    "starsDetail": {
+      "total": 6105,
+      "week": 2,
+      "month": 14,
+      "year": 188,
+      "updatedAt": 1736058986
+    },
+    "license": null,
+    "forks": 418,
+    "primaryLanguage": "",
+    "pushedAt": "2025-01-01T17:14:11.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2014-01-17T20:32:22.000Z",
+    "updatedAt": "2025-01-04T15:43:51.000Z"
+  },
+  {
+    "id": "deephacks/awesome-jvm",
+    "name": "deephacks/awesome-jvm",
+    "description": "A curated list of awesome loosely performance related JVM stuff. Inspired by awesome-python.",
+    "topics": [],
+    "owner": {
+      "name": "deephacks",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/910009?v=4"
+    },
+    "stars": 2093,
+    "starsDetail": {
+      "total": 2093,
+      "week": 2,
+      "month": 13,
+      "year": 108,
+      "updatedAt": 1736058198
+    },
+    "license": "Creative Commons Zero v1.0 Universal",
+    "forks": 220,
+    "primaryLanguage": "",
+    "pushedAt": "2022-08-30T06:38:00.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2015-08-13T13:03:55.000Z",
+    "updatedAt": "2025-01-04T15:26:01.000Z"
   },
   {
     "id": "hsavit1/Awesome-Swift-Education",
@@ -701,6 +1498,117 @@
     "goImportedBy": null,
     "createdAt": "2016-01-30T10:14:48.000Z",
     "updatedAt": "2025-01-04T15:08:24.000Z"
+  },
+  {
+    "id": "BubuAnabelas/awesome-markdown",
+    "name": "BubuAnabelas/awesome-markdown",
+    "description": ":memo: Delightful Markdown stuff.",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "commonmark",
+      "gfm",
+      "list",
+      "markdown",
+      "resources"
+    ],
+    "owner": {
+      "name": "BubuAnabelas",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/14363444?v=4"
+    },
+    "stars": 819,
+    "starsDetail": {
+      "total": 819,
+      "week": 2,
+      "month": 12,
+      "year": 107,
+      "updatedAt": 1736061771
+    },
+    "license": "Creative Commons Zero v1.0 Universal",
+    "forks": 73,
+    "primaryLanguage": "",
+    "pushedAt": "2024-08-21T03:06:19.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2016-07-26T20:38:59.000Z",
+    "updatedAt": "2025-01-04T16:18:07.000Z"
+  },
+  {
+    "id": "ramnes/awesome-mongodb",
+    "name": "ramnes/awesome-mongodb",
+    "description": ":leaves: A curated list of awesome MongoDB resources, libraries, tools and applications",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "list",
+      "mongodb",
+      "mongodb-resources"
+    ],
+    "owner": {
+      "name": "ramnes",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/835072?v=4"
+    },
+    "stars": 2502,
+    "starsDetail": {
+      "total": 2502,
+      "week": 0,
+      "month": 11,
+      "year": 218,
+      "updatedAt": 1736061880
+    },
+    "license": null,
+    "forks": 322,
+    "primaryLanguage": "",
+    "pushedAt": "2024-10-03T12:17:39.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2016-02-21T21:58:16.000Z",
+    "updatedAt": "2025-01-04T16:18:52.000Z"
+  },
+  {
+    "id": "arbox/machine-learning-with-ruby",
+    "name": "arbox/machine-learning-with-ruby",
+    "description": "Curated list: Resources for machine learning in Ruby",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "list",
+      "machine-learning",
+      "ml",
+      "ruby",
+      "ruby-gem",
+      "rubyml",
+      "rubynlp"
+    ],
+    "owner": {
+      "name": "arbox",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/357237?v=4"
+    },
+    "stars": 2135,
+    "starsDetail": {
+      "total": 2135,
+      "week": 4,
+      "month": 10,
+      "year": 138,
+      "updatedAt": 1736059939
+    },
+    "license": "Creative Commons Zero v1.0 Universal",
+    "forks": 181,
+    "primaryLanguage": "Ruby",
+    "pushedAt": "2024-12-26T17:58:24.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2017-04-20T09:44:48.000Z",
+    "updatedAt": "2025-01-04T15:52:52.000Z"
   },
   {
     "id": "sindresorhus/awesome-npm",
@@ -1069,37 +1977,6 @@
     "updatedAt": "2025-01-04T16:27:32.000Z"
   },
   {
-    "id": "BubuAnabelas/awesome-markdown",
-    "name": "BubuAnabelas/awesome-markdown",
-    "description": ":memo: Delightful Markdown stuff.",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "commonmark",
-      "gfm",
-      "list",
-      "markdown",
-      "resources"
-    ],
-    "owner": {
-      "name": "BubuAnabelas",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/14363444?v=4"
-    },
-    "stars": 819,
-    "starsDetail": null,
-    "license": "Creative Commons Zero v1.0 Universal",
-    "forks": 73,
-    "primaryLanguage": "",
-    "pushedAt": "2024-08-21T03:06:19.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2016-07-26T20:38:59.000Z",
-    "updatedAt": "2025-01-04T16:18:07.000Z"
-  },
-  {
     "id": "Chalarangelo/30-seconds-of-code",
     "name": "Chalarangelo/30-seconds-of-code",
     "description": "Coding articles to level up your development skills",
@@ -1365,7 +2242,9 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/34022344?v=4"
     },
     "stars": 72297,
-    "starsDetail": null,
+    "starsDetail": {
+      "total": 72297
+    },
     "license": null,
     "forks": 8930,
     "primaryLanguage": "",
@@ -1430,7 +2309,9 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/14127308?v=4"
     },
     "stars": 345931,
-    "starsDetail": null,
+    "starsDetail": {
+      "total": 345931
+    },
     "license": "Creative Commons Attribution 4.0 International",
     "forks": 62363,
     "primaryLanguage": "HTML",
@@ -1790,29 +2671,6 @@
     "goImportedBy": null,
     "createdAt": "2014-07-13T01:39:20.000Z",
     "updatedAt": "2025-01-04T16:25:44.000Z"
-  },
-  {
-    "id": "JanVanRyswyck/awesome-talks",
-    "name": "JanVanRyswyck/awesome-talks",
-    "description": "Awesome online talks and screencasts",
-    "topics": [],
-    "owner": {
-      "name": "JanVanRyswyck",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/463786?v=4"
-    },
-    "stars": 6105,
-    "starsDetail": null,
-    "license": null,
-    "forks": 418,
-    "primaryLanguage": "",
-    "pushedAt": "2025-01-01T17:14:11.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2014-01-17T20:32:22.000Z",
-    "updatedAt": "2025-01-04T15:43:51.000Z"
   },
   {
     "id": "JesseTG/awesome-qt",
@@ -2549,33 +3407,6 @@
     "updatedAt": "2025-01-04T16:26:04.000Z"
   },
   {
-    "id": "RyanNielson/awesome-unity",
-    "name": "RyanNielson/awesome-unity",
-    "description": "A curated list of awesome Unity assets, resources, and more.",
-    "topics": [
-      "awesome-list",
-      "game-development",
-      "unity"
-    ],
-    "owner": {
-      "name": "RyanNielson",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/794694?v=4"
-    },
-    "stars": 6721,
-    "starsDetail": null,
-    "license": "Creative Commons Zero v1.0 Universal",
-    "forks": 706,
-    "primaryLanguage": "",
-    "pushedAt": "2024-05-24T08:07:01.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2014-07-25T01:22:07.000Z",
-    "updatedAt": "2025-01-04T15:50:10.000Z"
-  },
-  {
     "id": "RyanZim/awesome-npm-scripts",
     "name": "RyanZim/awesome-npm-scripts",
     "description": "Everything awesome related to npm scripts and using npm as a build tool.",
@@ -3234,35 +4065,6 @@
     "updatedAt": "2025-01-04T16:28:03.000Z"
   },
   {
-    "id": "agarrharr/awesome-cli-apps",
-    "name": "agarrharr/awesome-cli-apps",
-    "description": "🖥 📊 🕹 🛠 A curated list of command line apps",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "cli",
-      "cli-app",
-      "list"
-    ],
-    "owner": {
-      "name": "agarrharr",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/3266363?v=4"
-    },
-    "stars": 15640,
-    "starsDetail": null,
-    "license": null,
-    "forks": 897,
-    "primaryLanguage": "Shell",
-    "pushedAt": "2024-11-21T21:08:42.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2015-07-09T16:44:07.000Z",
-    "updatedAt": "2025-01-04T16:17:59.000Z"
-  },
-  {
     "id": "agarrharr/awesome-macos-screensavers",
     "name": "agarrharr/awesome-macos-screensavers",
     "description": "🍎 🖥 🎆 A curated list of screensavers for Mac OS X",
@@ -3854,75 +4656,6 @@
     "goImportedBy": null,
     "createdAt": "2015-02-28T05:43:09.000Z",
     "updatedAt": "2025-01-04T16:27:45.000Z"
-  },
-  {
-    "id": "arbox/machine-learning-with-ruby",
-    "name": "arbox/machine-learning-with-ruby",
-    "description": "Curated list: Resources for machine learning in Ruby",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "list",
-      "machine-learning",
-      "ml",
-      "ruby",
-      "ruby-gem",
-      "rubyml",
-      "rubynlp"
-    ],
-    "owner": {
-      "name": "arbox",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/357237?v=4"
-    },
-    "stars": 2135,
-    "starsDetail": null,
-    "license": "Creative Commons Zero v1.0 Universal",
-    "forks": 181,
-    "primaryLanguage": "Ruby",
-    "pushedAt": "2024-12-26T17:58:24.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2017-04-20T09:44:48.000Z",
-    "updatedAt": "2025-01-04T15:52:52.000Z"
-  },
-  {
-    "id": "arbox/nlp-with-ruby",
-    "name": "arbox/nlp-with-ruby",
-    "description": "Curated List: Practical Natural Language Processing done in Ruby",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "computational-linguistics",
-      "list",
-      "machine-learning",
-      "natural-language-processing",
-      "nlp",
-      "pos-tag",
-      "ruby",
-      "rubyml",
-      "rubynlp",
-      "sentiment-analysis"
-    ],
-    "owner": {
-      "name": "arbox",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/357237?v=4"
-    },
-    "stars": 1046,
-    "starsDetail": null,
-    "license": "Creative Commons Zero v1.0 Universal",
-    "forks": 70,
-    "primaryLanguage": "Ruby",
-    "pushedAt": "2023-06-27T09:38:04.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2016-03-15T20:56:12.000Z",
-    "updatedAt": "2025-01-04T15:53:01.000Z"
   },
   {
     "id": "arslanbilal/git-cheat-sheet",
@@ -5012,56 +5745,6 @@
     "updatedAt": "2025-01-04T16:27:34.000Z"
   },
   {
-    "id": "christian-bromann/awesome-selenium",
-    "name": "christian-bromann/awesome-selenium",
-    "description": "A curated list of delightful Selenium resources.",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "list"
-    ],
-    "owner": {
-      "name": "christian-bromann",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/731337?v=4"
-    },
-    "stars": 1024,
-    "starsDetail": null,
-    "license": "Creative Commons Zero v1.0 Universal",
-    "forks": 154,
-    "primaryLanguage": "",
-    "pushedAt": "2025-01-03T23:22:36.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2014-07-25T19:38:14.000Z",
-    "updatedAt": "2025-01-04T15:26:02.000Z"
-  },
-  {
-    "id": "cicdops/awesome-ciandcd",
-    "name": "cicdops/awesome-ciandcd",
-    "description": "continuous integration and continuous delivery",
-    "topics": [],
-    "owner": {
-      "name": "cicdops",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/11013015?v=4"
-    },
-    "stars": 1893,
-    "starsDetail": null,
-    "license": "GNU General Public License v2.0",
-    "forks": 207,
-    "primaryLanguage": "",
-    "pushedAt": "2024-04-01T18:08:23.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2014-11-23T04:36:38.000Z",
-    "updatedAt": "2025-01-04T12:04:27.000Z"
-  },
-  {
     "id": "cjbarber/ToolsOfTheTrade",
     "name": "cjbarber/ToolsOfTheTrade",
     "description": "Tools of The Trade, from Hacker News.",
@@ -5680,29 +6363,6 @@
     "updatedAt": "2025-01-04T16:26:26.000Z"
   },
   {
-    "id": "deephacks/awesome-jvm",
-    "name": "deephacks/awesome-jvm",
-    "description": "A curated list of awesome loosely performance related JVM stuff. Inspired by awesome-python.",
-    "topics": [],
-    "owner": {
-      "name": "deephacks",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/910009?v=4"
-    },
-    "stars": 2093,
-    "starsDetail": null,
-    "license": "Creative Commons Zero v1.0 Universal",
-    "forks": 220,
-    "primaryLanguage": "",
-    "pushedAt": "2022-08-30T06:38:00.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2015-08-13T13:03:55.000Z",
-    "updatedAt": "2025-01-04T15:26:01.000Z"
-  },
-  {
     "id": "delftopenhardware/awesome-open-hardware",
     "name": "delftopenhardware/awesome-open-hardware",
     "description": "🛠Helpful items for making open source hardware projects.",
@@ -6101,35 +6761,6 @@
     "updatedAt": "2025-01-04T16:28:16.000Z"
   },
   {
-    "id": "dreikanter/sublime-bookmarks",
-    "name": "dreikanter/sublime-bookmarks",
-    "description": "Sublime Text essential plugins and resources",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "bookmarks",
-      "list",
-      "sublime-text"
-    ],
-    "owner": {
-      "name": "dreikanter",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/126636?v=4"
-    },
-    "stars": 1028,
-    "starsDetail": null,
-    "license": null,
-    "forks": 72,
-    "primaryLanguage": "",
-    "pushedAt": "2024-01-15T15:02:30.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2014-07-14T16:03:22.000Z",
-    "updatedAt": "2025-01-04T16:18:04.000Z"
-  },
-  {
     "id": "drewrwilson/toolsforactivism",
     "name": "drewrwilson/toolsforactivism",
     "description": "growing list of digital tools for activism things",
@@ -6210,35 +6841,6 @@
     "goImportedBy": null,
     "createdAt": "2015-03-30T19:18:44.000Z",
     "updatedAt": "2025-01-04T16:27:54.000Z"
-  },
-  {
-    "id": "drobakowski/awesome-erlang",
-    "name": "drobakowski/awesome-erlang",
-    "description": "A curated list of awesome Erlang libraries, resources and shiny things.",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "erlang",
-      "erlang-library",
-      "lists"
-    ],
-    "owner": {
-      "name": "drobakowski",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/81381?v=4"
-    },
-    "stars": 1645,
-    "starsDetail": null,
-    "license": null,
-    "forks": 209,
-    "primaryLanguage": "",
-    "pushedAt": "2022-11-17T23:40:26.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2014-07-10T12:50:18.000Z",
-    "updatedAt": "2025-01-04T16:10:56.000Z"
   },
   {
     "id": "dspinellis/awesome-msr",
@@ -6368,7 +6970,9 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/425735?v=4"
     },
     "stars": 42930,
-    "starsDetail": null,
+    "starsDetail": {
+      "total": 42930
+    },
     "license": null,
     "forks": 5091,
     "primaryLanguage": "",
@@ -6611,32 +7215,6 @@
     "goImportedBy": null,
     "createdAt": "2014-07-17T21:27:07.000Z",
     "updatedAt": "2025-01-04T16:27:12.000Z"
-  },
-  {
-    "id": "emacs-tw/awesome-emacs",
-    "name": "emacs-tw/awesome-emacs",
-    "description": "A community driven list of useful Emacs packages, libraries and other items.",
-    "topics": [
-      "awesome-list",
-      "emacs"
-    ],
-    "owner": {
-      "name": "emacs-tw",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/7908858?v=4"
-    },
-    "stars": 8656,
-    "starsDetail": null,
-    "license": "The Unlicense",
-    "forks": 561,
-    "primaryLanguage": "",
-    "pushedAt": "2024-12-27T04:23:31.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2014-08-01T02:51:10.000Z",
-    "updatedAt": "2025-01-04T16:18:03.000Z"
   },
   {
     "id": "ember-community-russia/awesome-ember",
@@ -8226,33 +8804,6 @@
     "updatedAt": "2025-01-04T16:26:37.000Z"
   },
   {
-    "id": "heynickc/awesome-ddd",
-    "name": "heynickc/awesome-ddd",
-    "description": "A curated list of Domain-Driven Design (DDD), Command Query Responsibility Segregation (CQRS), Event Sourcing, and Event Storming resources",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "list"
-    ],
-    "owner": {
-      "name": "heynickc",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/1671359?v=4"
-    },
-    "stars": 11376,
-    "starsDetail": null,
-    "license": null,
-    "forks": 1355,
-    "primaryLanguage": "",
-    "pushedAt": "2024-08-14T22:38:53.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2016-08-31T14:14:50.000Z",
-    "updatedAt": "2025-01-04T15:50:10.000Z"
-  },
-  {
     "id": "hkirat/awesome-chess",
     "name": "hkirat/awesome-chess",
     "description": "Chess!",
@@ -8511,35 +9062,6 @@
     "goImportedBy": null,
     "createdAt": "2015-01-09T05:01:55.000Z",
     "updatedAt": "2025-01-04T16:27:12.000Z"
-  },
-  {
-    "id": "iJackUA/awesome-vagrant",
-    "name": "iJackUA/awesome-vagrant",
-    "description": "A curated list of awesome Vagrant resources, plugins, tutorials and other nice things.",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "list",
-      "vagrant",
-      "vagrant-resources"
-    ],
-    "owner": {
-      "name": "iJackUA",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/568566?v=4"
-    },
-    "stars": 608,
-    "starsDetail": null,
-    "license": null,
-    "forks": 56,
-    "primaryLanguage": "",
-    "pushedAt": "2020-10-08T13:38:09.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2014-07-31T08:32:13.000Z",
-    "updatedAt": "2025-01-04T16:18:48.000Z"
   },
   {
     "id": "iamericfletcher/awesome-r-learning-resources",
@@ -8817,34 +9339,6 @@
     "updatedAt": "2025-01-04T16:28:59.000Z"
   },
   {
-    "id": "inputsh/awesome-c",
-    "name": "inputsh/awesome-c",
-    "description": "Continuing the development of awesome-c list on GitHub",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "c",
-      "list"
-    ],
-    "owner": {
-      "name": "inputsh",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/4890548?v=4"
-    },
-    "stars": 3516,
-    "starsDetail": null,
-    "license": "Other",
-    "forks": 358,
-    "primaryLanguage": "",
-    "pushedAt": "2022-09-27T14:10:08.000Z",
-    "archived": true,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2015-05-31T01:56:17.000Z",
-    "updatedAt": "2025-01-04T12:05:10.000Z"
-  },
-  {
     "id": "inputsh/awesome-linux",
     "name": "inputsh/awesome-linux",
     "description": ":penguin: A list of awesome projects and resources that make Linux even more awesome. :penguin:",
@@ -8960,39 +9454,6 @@
     "goImportedBy": null,
     "createdAt": "2019-06-24T11:21:03.000Z",
     "updatedAt": "2025-01-04T16:25:55.000Z"
-  },
-  {
-    "id": "ironcev/awesome-roslyn",
-    "name": "ironcev/awesome-roslyn",
-    "description": "Curated list of awesome Roslyn books, tutorials, open-source projects, analyzers, code fixes, refactorings, and source generators",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "code-generation",
-      "csharp",
-      "hacktoberfest",
-      "roslyn",
-      "roslyn-analyzer",
-      "roslyn-api",
-      "vbnet"
-    ],
-    "owner": {
-      "name": "ironcev",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/4142833?v=4"
-    },
-    "stars": 677,
-    "starsDetail": null,
-    "license": null,
-    "forks": 59,
-    "primaryLanguage": "",
-    "pushedAt": "2024-01-16T06:01:24.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2018-04-14T00:15:14.000Z",
-    "updatedAt": "2025-01-04T15:50:11.000Z"
   },
   {
     "id": "j0hnm4r5/awesome-creative-technology",
@@ -9623,33 +10084,6 @@
     "updatedAt": "2025-01-04T16:25:53.000Z"
   },
   {
-    "id": "jorgebucaran/awsm.fish",
-    "name": "jorgebucaran/awsm.fish",
-    "description": "A curation of prompts, plugins & other Fish treasures 🐚💎",
-    "topics": [
-      "awesome",
-      "fish",
-      "fish-plugin"
-    ],
-    "owner": {
-      "name": "jorgebucaran",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/56996?v=4"
-    },
-    "stars": 4278,
-    "starsDetail": null,
-    "license": "Creative Commons Zero v1.0 Universal",
-    "forks": 132,
-    "primaryLanguage": "",
-    "pushedAt": "2024-08-02T22:19:52.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2015-10-13T08:37:26.000Z",
-    "updatedAt": "2025-01-04T12:11:51.000Z"
-  },
-  {
     "id": "jthegedus/awesome-firebase",
     "name": "jthegedus/awesome-firebase",
     "description": "🔥 List of Firebase talks, tools, examples & articles! Translations in  🇬🇧 🇷🇺 Contributions welcome!",
@@ -9767,34 +10201,6 @@
     "goImportedBy": null,
     "createdAt": "2018-10-10T09:24:16.000Z",
     "updatedAt": "2025-01-04T16:28:49.000Z"
-  },
-  {
-    "id": "k4m4/terminals-are-sexy",
-    "name": "k4m4/terminals-are-sexy",
-    "description": "💥 A curated list of Terminal frameworks, plugins & resources for CLI lovers.",
-    "topics": [
-      "awesome-lists",
-      "cli-lovers",
-      "curated-list",
-      "terminal"
-    ],
-    "owner": {
-      "name": "k4m4",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/8945656?v=4"
-    },
-    "stars": 12342,
-    "starsDetail": null,
-    "license": "Creative Commons Zero v1.0 Universal",
-    "forks": 605,
-    "primaryLanguage": "Makefile",
-    "pushedAt": "2024-07-26T15:27:31.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2017-02-01T14:23:25.000Z",
-    "updatedAt": "2025-01-04T16:18:00.000Z"
   },
   {
     "id": "kakoni/awesome-healthcare",
@@ -11067,32 +11473,6 @@
     "updatedAt": "2025-01-04T16:27:29.000Z"
   },
   {
-    "id": "marmelab/awesome-rest",
-    "name": "marmelab/awesome-rest",
-    "description": "A collaborative list of great resources about RESTful API architecture, development, test, and performance",
-    "topics": [
-      "awesome",
-      "rest"
-    ],
-    "owner": {
-      "name": "marmelab",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/3116319?v=4"
-    },
-    "stars": 3668,
-    "starsDetail": null,
-    "license": "Creative Commons Zero v1.0 Universal",
-    "forks": 404,
-    "primaryLanguage": "",
-    "pushedAt": "2024-08-22T16:48:35.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2015-05-07T07:04:42.000Z",
-    "updatedAt": "2025-01-04T15:26:02.000Z"
-  },
-  {
     "id": "master-co/awesome-master-css",
     "name": "master-co/awesome-master-css",
     "description": "Master CSS - A Virtual CSS language with enhanced syntax.",
@@ -11505,35 +11885,6 @@
     "updatedAt": "2025-01-04T16:27:38.000Z"
   },
   {
-    "id": "mfornos/awesome-microservices",
-    "name": "mfornos/awesome-microservices",
-    "description": "A curated list of Microservice Architecture related principles and technologies.",
-    "topics": [
-      "awesome",
-      "cloud-computing",
-      "cloud-native",
-      "microservices",
-      "microservices-architecture"
-    ],
-    "owner": {
-      "name": "mfornos",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/663840?v=4"
-    },
-    "stars": 13433,
-    "starsDetail": null,
-    "license": "Creative Commons Zero v1.0 Universal",
-    "forks": 1796,
-    "primaryLanguage": "",
-    "pushedAt": "2024-11-17T17:14:34.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2015-05-03T13:56:04.000Z",
-    "updatedAt": "2025-01-04T15:26:01.000Z"
-  },
-  {
     "id": "mgramin/awesome-db-tools",
     "name": "mgramin/awesome-db-tools",
     "description": "Everything that makes working with databases easier",
@@ -11565,41 +11916,6 @@
     "goImportedBy": null,
     "createdAt": "2018-05-18T16:01:34.000Z",
     "updatedAt": "2025-01-04T16:27:31.000Z"
-  },
-  {
-    "id": "mhinz/vim-galore",
-    "name": "mhinz/vim-galore",
-    "description": ":mortar_board: All things Vim!",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "guide",
-      "help",
-      "learn",
-      "neovim",
-      "tips",
-      "tricks",
-      "vim",
-      "vim-scripts",
-      "viml"
-    ],
-    "owner": {
-      "name": "mhinz",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/972014?v=4"
-    },
-    "stars": 16994,
-    "starsDetail": null,
-    "license": "Creative Commons Attribution Share Alike 4.0 International",
-    "forks": 610,
-    "primaryLanguage": "Vim Script",
-    "pushedAt": "2023-12-22T22:15:38.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2016-01-04T17:02:16.000Z",
-    "updatedAt": "2025-01-04T16:18:05.000Z"
   },
   {
     "id": "mhxion/awesome-discord-communities",
@@ -13054,7 +13370,9 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/6187757?v=4"
     },
     "stars": 89713,
-    "starsDetail": null,
+    "starsDetail": {
+      "total": 89713
+    },
     "license": null,
     "forks": 5799,
     "primaryLanguage": "Shell",
@@ -13915,35 +14233,6 @@
     "goImportedBy": null,
     "createdAt": "2015-10-15T12:14:48.000Z",
     "updatedAt": "2025-01-04T16:26:47.000Z"
-  },
-  {
-    "id": "ramnes/awesome-mongodb",
-    "name": "ramnes/awesome-mongodb",
-    "description": ":leaves: A curated list of awesome MongoDB resources, libraries, tools and applications",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "list",
-      "mongodb",
-      "mongodb-resources"
-    ],
-    "owner": {
-      "name": "ramnes",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/835072?v=4"
-    },
-    "stars": 2502,
-    "starsDetail": null,
-    "license": null,
-    "forks": 322,
-    "primaryLanguage": "",
-    "pushedAt": "2024-10-03T12:17:39.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2016-02-21T21:58:16.000Z",
-    "updatedAt": "2025-01-04T16:18:52.000Z"
   },
   {
     "id": "raphamorim/awesome-canvas",
@@ -15376,29 +15665,6 @@
     "updatedAt": "2025-01-04T16:29:01.000Z"
   },
   {
-    "id": "sindresorhus/quick-look-plugins",
-    "name": "sindresorhus/quick-look-plugins",
-    "description": "List of useful Quick Look plugins for developers",
-    "topics": [],
-    "owner": {
-      "name": "sindresorhus",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/170270?v=4"
-    },
-    "stars": 18132,
-    "starsDetail": null,
-    "license": null,
-    "forks": 535,
-    "primaryLanguage": "",
-    "pushedAt": "2023-12-06T11:51:34.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2013-12-07T15:43:33.000Z",
-    "updatedAt": "2025-01-04T16:20:07.000Z"
-  },
-  {
     "id": "sitepoint-editors/awesome-symfony",
     "name": "sitepoint-editors/awesome-symfony",
     "description": "A list of awesome Symfony bundles, utilities and resources.",
@@ -16240,36 +16506,6 @@
     "updatedAt": "2025-01-04T16:27:00.000Z"
   },
   {
-    "id": "thangchung/awesome-dotnet-core",
-    "name": "thangchung/awesome-dotnet-core",
-    "description": ":honeybee: A collection of awesome .NET core libraries, tools, frameworks and software",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "csharp",
-      "dotnet-core",
-      "list",
-      "microsoft"
-    ],
-    "owner": {
-      "name": "thangchung",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/422341?v=4"
-    },
-    "stars": 20110,
-    "starsDetail": null,
-    "license": null,
-    "forks": 2904,
-    "primaryLanguage": "C#",
-    "pushedAt": "2024-08-26T03:59:45.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2016-03-17T03:52:09.000Z",
-    "updatedAt": "2025-01-04T15:50:09.000Z"
-  },
-  {
     "id": "theimpossibleastronaut/awesome-linguistics",
     "name": "theimpossibleastronaut/awesome-linguistics",
     "description": "A curated list of anything remotely related to linguistics",
@@ -16948,43 +17184,6 @@
     "updatedAt": "2025-01-04T16:26:36.000Z"
   },
   {
-    "id": "unixorn/awesome-zsh-plugins",
-    "name": "unixorn/awesome-zsh-plugins",
-    "description": "A collection of ZSH frameworks, plugins, themes and tutorials.",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "collection",
-      "hacktoberfest",
-      "list",
-      "oh-my-zsh",
-      "zgenom",
-      "zsh-completions",
-      "zsh-configuration",
-      "zsh-framework",
-      "zsh-plugin",
-      "zsh-prompt",
-      "zsh-theme"
-    ],
-    "owner": {
-      "name": "unixorn",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/23920?v=4"
-    },
-    "stars": 15725,
-    "starsDetail": null,
-    "license": "BSD 3-Clause \"New\" or \"Revised\" License",
-    "forks": 550,
-    "primaryLanguage": "Shell",
-    "pushedAt": "2025-01-02T23:54:16.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2014-10-07T06:11:17.000Z",
-    "updatedAt": "2025-01-04T16:18:39.000Z"
-  },
-  {
     "id": "uraimo/awesome-software-patreons",
     "name": "uraimo/awesome-software-patreons",
     "description": "A curated list of awesome programmers and software projects you can support!",
@@ -17103,7 +17302,9 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/5487021?v=4"
     },
     "stars": 30886,
-    "starsDetail": null,
+    "starsDetail": {
+      "total": 30886
+    },
     "license": "Apache License 2.0",
     "forks": 3015,
     "primaryLanguage": "",
@@ -17194,41 +17395,6 @@
     "goImportedBy": null,
     "createdAt": "2013-11-15T20:43:23.000Z",
     "updatedAt": "2025-01-04T16:28:10.000Z"
-  },
-  {
-    "id": "viatsko/awesome-vscode",
-    "name": "viatsko/awesome-vscode",
-    "description": "🎨 A curated list of delightful VS Code packages and resources.",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "list",
-      "visual-studio",
-      "visual-studio-code",
-      "visual-studio-code-extension",
-      "visual-studio-code-theme",
-      "visualstudio",
-      "vscode",
-      "vscode-extension",
-      "vscode-theme"
-    ],
-    "owner": {
-      "name": "viatsko",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/376065?v=4"
-    },
-    "stars": 25302,
-    "starsDetail": null,
-    "license": "Creative Commons Zero v1.0 Universal",
-    "forks": 1214,
-    "primaryLanguage": "JavaScript",
-    "pushedAt": "2024-06-21T09:46:41.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2016-02-07T23:02:45.000Z",
-    "updatedAt": "2025-01-04T16:18:18.000Z"
   },
   {
     "id": "victorlaerte/awesome-it-quotes",

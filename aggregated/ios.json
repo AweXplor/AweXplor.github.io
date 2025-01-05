@@ -1261,6 +1261,41 @@
     "updatedAt": "2025-01-04T15:07:24.000Z"
   },
   {
+    "id": "CoderMJLee/MJExtension",
+    "name": "CoderMJLee/MJExtension",
+    "description": "A fast, convenient and nonintrusive conversion framework between JSON and model. Your model class doesn't need to extend any base class. You don't need to modify any model file.",
+    "topics": [
+      "array",
+      "dictionary",
+      "json",
+      "model",
+      "objective-c"
+    ],
+    "owner": {
+      "name": "CoderMJLee",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/3817366?v=4"
+    },
+    "stars": 8523,
+    "starsDetail": {
+      "total": 8523,
+      "week": 3,
+      "month": 8,
+      "year": 47,
+      "updatedAt": 1736046923
+    },
+    "license": "MIT License",
+    "forks": 2157,
+    "primaryLanguage": "Ruby",
+    "pushedAt": "2024-03-13T05:26:26.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2014-05-23T15:54:00.000Z",
+    "updatedAt": "2025-01-04T15:00:39.000Z"
+  },
+  {
     "id": "ElaWorkshop/TagListView",
     "name": "ElaWorkshop/TagListView",
     "description": "Simple and highly customizable iOS tag list view, in Swift.",
@@ -40621,35 +40656,6 @@
     "updatedAt": "2025-01-04T15:07:33.000Z"
   },
   {
-    "id": "CoderMJLee/MJExtension",
-    "name": "CoderMJLee/MJExtension",
-    "description": "A fast, convenient and nonintrusive conversion framework between JSON and model. Your model class doesn't need to extend any base class. You don't need to modify any model file.",
-    "topics": [
-      "array",
-      "dictionary",
-      "json",
-      "model",
-      "objective-c"
-    ],
-    "owner": {
-      "name": "CoderMJLee",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/3817366?v=4"
-    },
-    "stars": 8523,
-    "starsDetail": null,
-    "license": "MIT License",
-    "forks": 2157,
-    "primaryLanguage": "Ruby",
-    "pushedAt": "2024-03-13T05:26:26.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2014-05-23T15:54:00.000Z",
-    "updatedAt": "2025-01-04T15:00:39.000Z"
-  },
-  {
     "id": "ContinuousLearning/PokemonKit",
     "name": "ContinuousLearning/PokemonKit",
     "description": "Pokeapi wrapper, written in Swift",
@@ -41273,7 +41279,9 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/34022344?v=4"
     },
     "stars": 72297,
-    "starsDetail": null,
+    "starsDetail": {
+      "total": 72297
+    },
     "license": null,
     "forks": 8930,
     "primaryLanguage": "",

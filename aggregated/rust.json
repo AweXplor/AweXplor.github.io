@@ -13940,6 +13940,40 @@
     "updatedAt": "2025-01-04T22:46:05.000Z"
   },
   {
+    "id": "cloudwego/sonic-rs",
+    "name": "cloudwego/sonic-rs",
+    "description": "A fast Rust JSON library based on SIMD.",
+    "topics": [
+      "json",
+      "rust",
+      "serde",
+      "simd"
+    ],
+    "owner": {
+      "name": "cloudwego",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/79236453?v=4"
+    },
+    "stars": 513,
+    "starsDetail": {
+      "total": 513,
+      "week": 1,
+      "month": 24,
+      "year": 290,
+      "updatedAt": 1736046919
+    },
+    "license": "Apache License 2.0",
+    "forks": 34,
+    "primaryLanguage": "RenderScript",
+    "pushedAt": "2024-12-30T09:01:49.000Z",
+    "archived": false,
+    "npmPackage": "",
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2023-07-27T06:17:26.000Z",
+    "updatedAt": "2025-01-04T14:02:28.000Z"
+  },
+  {
     "id": "ilai-deutel/kibi",
     "name": "ilai-deutel/kibi",
     "description": "A text editor in ≤1024 lines of code, written in Rust",
@@ -27750,34 +27784,6 @@
     "goImportedBy": null,
     "createdAt": "2023-04-27T03:10:23.000Z",
     "updatedAt": "2025-01-04T22:52:21.000Z"
-  },
-  {
-    "id": "cloudwego/sonic-rs",
-    "name": "cloudwego/sonic-rs",
-    "description": "A fast Rust JSON library based on SIMD.",
-    "topics": [
-      "json",
-      "rust",
-      "serde",
-      "simd"
-    ],
-    "owner": {
-      "name": "cloudwego",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/79236453?v=4"
-    },
-    "stars": 513,
-    "starsDetail": null,
-    "license": "Apache License 2.0",
-    "forks": 34,
-    "primaryLanguage": "RenderScript",
-    "pushedAt": "2024-12-30T09:01:49.000Z",
-    "archived": false,
-    "npmPackage": "",
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2023-07-27T06:17:26.000Z",
-    "updatedAt": "2025-01-04T14:02:28.000Z"
   },
   {
     "id": "comex/rust-shlex",

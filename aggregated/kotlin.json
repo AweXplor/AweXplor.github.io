@@ -16,7 +16,13 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/15851227?v=4"
     },
     "stars": 11065,
-    "starsDetail": null,
+    "starsDetail": {
+      "total": 11065,
+      "week": 7,
+      "month": 33,
+      "year": 461,
+      "updatedAt": 1736061075
+    },
     "license": "Apache License 2.0",
     "forks": 1219,
     "primaryLanguage": "Dockerfile",

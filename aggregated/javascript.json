@@ -43573,7 +43573,9 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/34022344?v=4"
     },
     "stars": 72297,
-    "starsDetail": null,
+    "starsDetail": {
+      "total": 72297
+    },
     "license": null,
     "forks": 8930,
     "primaryLanguage": "",
@@ -49480,7 +49482,9 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/26872990?v=4"
     },
     "stars": 36998,
-    "starsDetail": null,
+    "starsDetail": {
+      "total": 36998
+    },
     "license": "MIT License",
     "forks": 1960,
     "primaryLanguage": "TypeScript",
