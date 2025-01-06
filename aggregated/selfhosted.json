@@ -1107,7 +1107,7 @@
       "name": "dnote",
       "avatarUrl": "https://avatars.githubusercontent.com/u/26827777?v=4"
     },
-    "stars": 2811,
+    "stars": 2812,
     "starsDetail": {
       "total": 2811,
       "week": 2,
@@ -1125,7 +1125,7 @@
     "goPackage": "github.com/dnote/dnote",
     "goImportedBy": 0,
     "createdAt": "2017-03-30T23:07:25.000Z",
-    "updatedAt": "2025-01-05T13:49:16.000Z"
+    "updatedAt": "2025-01-06T14:00:54.000Z"
   },
   {
     "id": "inspircd/inspircd",
@@ -1537,7 +1537,7 @@
       "name": "postalserver",
       "avatarUrl": "https://avatars.githubusercontent.com/u/58169103?v=4"
     },
-    "stars": 15062,
+    "stars": 15065,
     "starsDetail": {
       "total": 15060,
       "week": 18,
@@ -1555,7 +1555,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-04-19T12:04:57.000Z",
-    "updatedAt": "2025-01-05T13:39:35.000Z"
+    "updatedAt": "2025-01-06T13:50:50.000Z"
   },
   {
     "id": "sct/overseerr",
@@ -2582,7 +2582,7 @@
       "name": "zincsearch",
       "avatarUrl": "https://avatars.githubusercontent.com/u/129023705?v=4"
     },
-    "stars": 17123,
+    "stars": 17125,
     "starsDetail": {
       "total": 17123,
       "week": 16,
@@ -2591,7 +2591,7 @@
       "updatedAt": 1736086839
     },
     "license": "Other",
-    "forks": 744,
+    "forks": 741,
     "primaryLanguage": "Sass",
     "pushedAt": "2024-10-25T15:15:16.000Z",
     "archived": false,
@@ -2600,7 +2600,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2021-12-02T12:49:41.000Z",
-    "updatedAt": "2025-01-05T13:47:43.000Z"
+    "updatedAt": "2025-01-06T13:59:14.000Z"
   },
   {
     "id": "DOMjudge/domjudge",
@@ -3611,7 +3611,7 @@
       "name": "koel",
       "avatarUrl": "https://avatars.githubusercontent.com/u/20983373?v=4"
     },
-    "stars": 16150,
+    "stars": 16154,
     "starsDetail": {
       "total": 16147,
       "week": 20,
@@ -3629,7 +3629,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-12-06T12:13:19.000Z",
-    "updatedAt": "2025-01-05T13:43:59.000Z"
+    "updatedAt": "2025-01-06T13:55:22.000Z"
   },
   {
     "id": "IgnisDa/ryot",
@@ -9050,7 +9050,7 @@
       "name": "svix",
       "avatarUrl": "https://avatars.githubusercontent.com/u/80175132?v=4"
     },
-    "stars": 2477,
+    "stars": 2482,
     "starsDetail": {
       "total": 2475,
       "week": 14,
@@ -9061,14 +9061,14 @@
     "license": "MIT License",
     "forks": 172,
     "primaryLanguage": "HTML",
-    "pushedAt": "2025-01-04T01:25:51.000Z",
+    "pushedAt": "2025-01-06T13:55:12.000Z",
     "archived": false,
     "npmPackage": "",
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2021-02-25T13:49:38.000Z",
-    "updatedAt": "2025-01-05T13:48:05.000Z"
+    "updatedAt": "2025-01-06T13:59:38.000Z"
   },
   {
     "id": "zammad/zammad",
@@ -13169,7 +13169,7 @@
       "name": "anycable",
       "avatarUrl": "https://avatars.githubusercontent.com/u/20143762?v=4"
     },
-    "stars": 1961,
+    "stars": 1962,
     "starsDetail": {
       "total": 1961,
       "week": 1,
@@ -13187,7 +13187,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-09-03T09:50:11.000Z",
-    "updatedAt": "2025-01-05T13:48:00.000Z"
+    "updatedAt": "2025-01-06T13:59:33.000Z"
   },
   {
     "id": "concretecms/concretecms",
@@ -15461,7 +15461,7 @@
       "name": "wabarc",
       "avatarUrl": "https://avatars.githubusercontent.com/u/66000339?v=4"
     },
-    "stars": 1849,
+    "stars": 1851,
     "starsDetail": {
       "total": 1849,
       "week": 4,
@@ -15479,7 +15479,7 @@
     "goPackage": "github.com/wabarc/wayback",
     "goImportedBy": 0,
     "createdAt": "2020-06-13T10:08:05.000Z",
-    "updatedAt": "2025-01-05T13:48:52.000Z"
+    "updatedAt": "2025-01-06T14:00:29.000Z"
   },
   {
     "id": "mealie-recipes/mealie",
@@ -17647,7 +17647,7 @@
       "name": "bytebase",
       "avatarUrl": "https://avatars.githubusercontent.com/u/74386897?v=4"
     },
-    "stars": 11722,
+    "stars": 11731,
     "starsDetail": {
       "total": 11718,
       "week": 50,
@@ -17658,14 +17658,14 @@
     "license": "Other",
     "forks": 754,
     "primaryLanguage": "Smarty",
-    "pushedAt": "2025-01-05T07:18:17.000Z",
+    "pushedAt": "2025-01-06T09:05:42.000Z",
     "archived": false,
     "npmPackage": "",
     "npmLastMonthDownloads": null,
     "goPackage": "github.com/bytebase/bytebase",
     "goImportedBy": 0,
     "createdAt": "2021-01-27T04:33:50.000Z",
-    "updatedAt": "2025-01-05T13:50:56.000Z"
+    "updatedAt": "2025-01-06T14:02:35.000Z"
   },
   {
     "id": "stashapp/stash",
@@ -18539,7 +18539,7 @@
       "name": "stringer-rss",
       "avatarUrl": "https://avatars.githubusercontent.com/u/96632003?v=4"
     },
-    "stars": 3961,
+    "stars": 3962,
     "starsDetail": {
       "total": 3961,
       "week": 2,
@@ -18550,14 +18550,14 @@
     "license": "MIT License",
     "forks": 396,
     "primaryLanguage": "Procfile",
-    "pushedAt": "2025-01-02T02:59:11.000Z",
+    "pushedAt": "2025-01-06T06:29:20.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2013-04-06T04:51:27.000Z",
-    "updatedAt": "2025-01-05T13:40:12.000Z"
+    "updatedAt": "2025-01-06T13:51:28.000Z"
   },
   {
     "id": "webtorrent/instant.io",
@@ -25035,7 +25035,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-07-18T10:03:05.000Z",
-    "updatedAt": "2025-01-05T13:48:01.000Z"
+    "updatedAt": "2025-01-06T13:59:34.000Z"
   },
   {
     "id": "Admidio/admidio",
@@ -27523,21 +27523,21 @@
       "name": "apache",
       "avatarUrl": "https://avatars.githubusercontent.com/u/47359?v=4"
     },
-    "stars": 63645,
+    "stars": 63668,
     "starsDetail": {
-      "total": 63645
+      "total": 63668
     },
     "license": "Apache License 2.0",
-    "forks": 14166,
+    "forks": 14171,
     "primaryLanguage": "Mako",
-    "pushedAt": "2025-01-05T08:40:52.000Z",
+    "pushedAt": "2025-01-05T21:51:55.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-07-21T18:55:34.000Z",
-    "updatedAt": "2025-01-05T13:46:28.000Z"
+    "updatedAt": "2025-01-06T13:57:55.000Z"
   },
   {
     "id": "appsmithorg/appsmith",
@@ -29909,12 +29909,12 @@
       "name": "huginn",
       "avatarUrl": "https://avatars.githubusercontent.com/u/23225142?v=4"
     },
-    "stars": 44145,
+    "stars": 44158,
     "starsDetail": {
-      "total": 44145
+      "total": 44158
     },
     "license": "MIT License",
-    "forks": 3813,
+    "forks": 3815,
     "primaryLanguage": "Makefile",
     "pushedAt": "2025-01-04T16:02:31.000Z",
     "archived": false,
@@ -29923,7 +29923,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2013-03-10T06:00:31.000Z",
-    "updatedAt": "2025-01-05T13:39:05.000Z"
+    "updatedAt": "2025-01-06T13:50:19.000Z"
   },
   {
     "id": "hyperupcall/awesome-mastodon",
@@ -30376,7 +30376,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-03-21T21:30:19.000Z",
-    "updatedAt": "2025-01-05T13:48:01.000Z"
+    "updatedAt": "2025-01-06T13:59:34.000Z"
   },
   {
     "id": "jaywink/socialhome",
@@ -31661,14 +31661,14 @@
     "license": "MIT License",
     "forks": 25,
     "primaryLanguage": "Dockerfile",
-    "pushedAt": "2025-01-04T19:16:26.000Z",
+    "pushedAt": "2025-01-05T15:57:18.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2020-10-17T08:54:02.000Z",
-    "updatedAt": "2025-01-05T13:48:02.000Z"
+    "updatedAt": "2025-01-06T13:59:35.000Z"
   },
   {
     "id": "mcarbonne/minimal-git-server",
@@ -33258,7 +33258,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2022-11-27T11:00:41.000Z",
-    "updatedAt": "2025-01-05T13:48:02.000Z"
+    "updatedAt": "2025-01-06T13:59:36.000Z"
   },
   {
     "id": "r3-team/r3",

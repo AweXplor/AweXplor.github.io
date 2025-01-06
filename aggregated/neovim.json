@@ -57,7 +57,7 @@
       "name": "folke",
       "avatarUrl": "https://avatars.githubusercontent.com/u/292349?v=4"
     },
-    "stars": 718,
+    "stars": 719,
     "starsDetail": {
       "total": 718,
       "week": 2,
@@ -79,7 +79,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2021-07-02T06:54:30.000Z",
-    "updatedAt": "2025-01-05T13:40:52.000Z"
+    "updatedAt": "2025-01-06T13:59:25.000Z"
   },
   {
     "id": "echasnovski/mini.nvim",
@@ -10435,14 +10435,14 @@
     "license": "MIT License",
     "forks": 13,
     "primaryLanguage": "Python",
-    "pushedAt": "2025-01-05T11:25:39.000Z",
+    "pushedAt": "2025-01-05T16:36:34.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2021-07-22T05:32:15.000Z",
-    "updatedAt": "2025-01-05T13:40:55.000Z"
+    "updatedAt": "2025-01-06T13:52:13.000Z"
   },
   {
     "id": "Abstract-IDE/Abstract-cs",
@@ -12297,6 +12297,37 @@
     "goImportedBy": null,
     "createdAt": "2023-01-08T19:48:13.000Z",
     "updatedAt": "2025-01-05T21:52:06.000Z"
+  },
+  {
+    "id": "LucasTavaresA/headers.nvim",
+    "name": "LucasTavaresA/headers.nvim",
+    "description": "Zero-config header/footer warnings.",
+    "topics": [
+      "lua",
+      "neovim",
+      "neovim-plugin",
+      "nvim",
+      "plugin"
+    ],
+    "owner": {
+      "name": "LucasTavaresA",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/80704612?v=4"
+    },
+    "stars": 2,
+    "starsDetail": {
+      "total": 2
+    },
+    "license": "GNU General Public License v3.0",
+    "forks": 0,
+    "primaryLanguage": "Lua",
+    "pushedAt": "2025-01-05T15:35:54.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2024-11-27T21:24:03.000Z",
+    "updatedAt": "2025-01-06T13:52:07.000Z"
   },
   {
     "id": "LucasTavaresA/simpleIndentGuides.nvim",
@@ -15776,7 +15807,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-12-31T17:59:45.000Z",
-    "updatedAt": "2025-01-05T13:47:59.000Z"
+    "updatedAt": "2025-01-06T13:59:32.000Z"
   },
   {
     "id": "atusy/treemonkey.nvim",
@@ -20718,9 +20749,9 @@
       "name": "isak102",
       "avatarUrl": "https://avatars.githubusercontent.com/u/90389894?v=4"
     },
-    "stars": 16,
+    "stars": 18,
     "starsDetail": {
-      "total": 16
+      "total": 18
     },
     "license": null,
     "forks": 0,
@@ -20732,7 +20763,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-12-30T17:50:07.000Z",
-    "updatedAt": "2025-01-05T13:47:59.000Z"
+    "updatedAt": "2025-01-06T13:59:32.000Z"
   },
   {
     "id": "isak102/telescope-git-file-history.nvim",
@@ -22143,7 +22174,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-12-28T23:34:01.000Z",
-    "updatedAt": "2025-01-05T13:48:00.000Z"
+    "updatedAt": "2025-01-06T13:59:32.000Z"
   },
   {
     "id": "koenverburg/peepsight.nvim",
@@ -31672,21 +31703,21 @@
       "name": "zongben",
       "avatarUrl": "https://avatars.githubusercontent.com/u/119837502?v=4"
     },
-    "stars": 5,
+    "stars": 6,
     "starsDetail": {
-      "total": 5
+      "total": 6
     },
     "license": "MIT License",
     "forks": 0,
     "primaryLanguage": "Lua",
-    "pushedAt": "2025-01-03T17:22:52.000Z",
+    "pushedAt": "2025-01-06T09:57:03.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-12-30T13:10:27.000Z",
-    "updatedAt": "2025-01-05T13:47:58.000Z"
+    "updatedAt": "2025-01-06T13:59:32.000Z"
   },
   {
     "id": "zootedb0t/citruszest.nvim",

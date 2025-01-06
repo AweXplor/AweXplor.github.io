@@ -1929,7 +1929,7 @@
       "name": "Ranchero-Software",
       "avatarUrl": "https://avatars.githubusercontent.com/u/59430456?v=4"
     },
-    "stars": 8518,
+    "stars": 8521,
     "starsDetail": {
       "total": 8516,
       "week": 23,
@@ -1938,7 +1938,7 @@
       "updatedAt": 1736034156
     },
     "license": "MIT License",
-    "forks": 541,
+    "forks": 542,
     "primaryLanguage": "C",
     "pushedAt": "2025-01-05T04:49:20.000Z",
     "archived": false,
@@ -1947,7 +1947,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-05-21T17:59:23.000Z",
-    "updatedAt": "2025-01-05T13:44:45.000Z"
+    "updatedAt": "2025-01-06T13:56:09.000Z"
   },
   {
     "id": "SwifterSwift/SwifterSwift",
@@ -6328,7 +6328,7 @@
       "name": "exyte",
       "avatarUrl": "https://avatars.githubusercontent.com/u/10406525?v=4"
     },
-    "stars": 1018,
+    "stars": 1021,
     "starsDetail": {
       "total": 1015,
       "week": 10,
@@ -6346,7 +6346,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2022-05-23T07:29:19.000Z",
-    "updatedAt": "2025-01-05T13:37:48.000Z"
+    "updatedAt": "2025-01-06T13:49:00.000Z"
   },
   {
     "id": "0xced/XCDYouTubeKit",
@@ -8221,7 +8221,7 @@
       "name": "Mijick",
       "avatarUrl": "https://avatars.githubusercontent.com/u/125037042?v=4"
     },
-    "stars": 1430,
+    "stars": 1433,
     "starsDetail": {
       "total": 1428,
       "week": 6,
@@ -8239,7 +8239,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2023-02-10T22:48:37.000Z",
-    "updatedAt": "2025-01-05T13:38:02.000Z"
+    "updatedAt": "2025-01-06T13:49:14.000Z"
   },
   {
     "id": "krzysztofzablocki/Sourcery",
@@ -9174,7 +9174,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-04-08T14:57:55.000Z",
-    "updatedAt": "2025-01-05T13:37:53.000Z"
+    "updatedAt": "2025-01-06T13:49:04.000Z"
   },
   {
     "id": "Ramotion/circle-menu",
@@ -13598,6 +13598,41 @@
     "goImportedBy": null,
     "createdAt": "2016-07-04T08:54:51.000Z",
     "updatedAt": "2025-01-05T18:08:17.000Z"
+  },
+  {
+    "id": "alexaubry/BulletinBoard",
+    "name": "alexaubry/BulletinBoard",
+    "description": "General-purpose contextual cards for iOS",
+    "topics": [
+      "card",
+      "configuration",
+      "ios",
+      "onboarding",
+      "swift"
+    ],
+    "owner": {
+      "name": "alexaubry",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/16192914?v=4"
+    },
+    "stars": 5378,
+    "starsDetail": {
+      "total": 5378,
+      "week": 1,
+      "month": 2,
+      "year": 70,
+      "updatedAt": 1736172169
+    },
+    "license": "MIT License",
+    "forks": 304,
+    "primaryLanguage": "Shell",
+    "pushedAt": "2022-05-16T18:03:28.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2017-09-26T07:43:43.000Z",
+    "updatedAt": "2025-01-06T13:59:24.000Z"
   },
   {
     "id": "alexbw/novocaine",
@@ -19271,7 +19306,7 @@
       "updatedAt": 1736034507
     },
     "license": "Other",
-    "forks": 523,
+    "forks": 522,
     "primaryLanguage": "Ruby",
     "pushedAt": "2024-02-07T16:00:59.000Z",
     "archived": false,
@@ -19280,7 +19315,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-06-22T18:56:17.000Z",
-    "updatedAt": "2025-01-05T13:38:02.000Z"
+    "updatedAt": "2025-01-06T13:49:14.000Z"
   },
   {
     "id": "SVGKit/SVGKit",
@@ -25784,7 +25819,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-04-11T20:52:23.000Z",
-    "updatedAt": "2025-01-05T13:37:47.000Z"
+    "updatedAt": "2025-01-06T13:48:59.000Z"
   },
   {
     "id": "shu223/PulsingHalo",
@@ -41278,12 +41313,12 @@
       "name": "DopplerHQ",
       "avatarUrl": "https://avatars.githubusercontent.com/u/34022344?v=4"
     },
-    "stars": 72307,
+    "stars": 72330,
     "starsDetail": {
-      "total": 72307
+      "total": 72330
     },
     "license": null,
-    "forks": 8931,
+    "forks": 8930,
     "primaryLanguage": "",
     "pushedAt": "2024-07-29T14:21:23.000Z",
     "archived": true,
@@ -41292,7 +41327,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-11-28T09:48:17.000Z",
-    "updatedAt": "2025-01-05T13:37:46.000Z"
+    "updatedAt": "2025-01-06T13:48:58.000Z"
   },
   {
     "id": "DrewKiino/Atlantis",
@@ -61500,7 +61535,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-12-01T03:59:46.000Z",
-    "updatedAt": "2025-01-05T13:37:59.000Z"
+    "updatedAt": "2025-01-06T13:49:11.000Z"
   },
   {
     "id": "mukeshthawani/TriLabelView",
@@ -66435,7 +66470,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-03-31T19:10:54.000Z",
-    "updatedAt": "2025-01-05T13:37:56.000Z"
+    "updatedAt": "2025-01-06T13:49:08.000Z"
   },
   {
     "id": "sgr-ksmt/Alertift",
@@ -67688,7 +67723,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-07-14T13:20:19.000Z",
-    "updatedAt": "2025-01-05T13:38:07.000Z"
+    "updatedAt": "2025-01-06T13:49:19.000Z"
   },
   {
     "id": "suzuki-0000/AnimatablePlayButton",
