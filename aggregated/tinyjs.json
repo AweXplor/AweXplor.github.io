@@ -30,7 +30,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2014-10-21T19:19:27.000Z",
-    "updatedAt": "2025-01-04T16:21:32.000Z"
+    "updatedAt": "2025-01-05T22:10:57.000Z"
   },
   {
     "id": "developit/mitt",
@@ -68,7 +68,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-01-15T01:10:50.000Z",
-    "updatedAt": "2025-01-04T15:21:41.000Z"
+    "updatedAt": "2025-01-05T18:25:14.000Z"
   },
   {
     "id": "davidmerfield/randomColor",
@@ -88,7 +88,7 @@
       "updatedAt": 1736031292
     },
     "license": "Creative Commons Zero v1.0 Universal",
-    "forks": 403,
+    "forks": 404,
     "primaryLanguage": "JavaScript",
     "pushedAt": "2024-02-08T08:25:12.000Z",
     "archived": false,
@@ -97,7 +97,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2014-04-08T20:25:02.000Z",
-    "updatedAt": "2025-01-04T22:44:26.000Z"
+    "updatedAt": "2025-01-06T01:29:54.000Z"
   },
   {
     "id": "molefrog/wouter",
@@ -118,7 +118,7 @@
       "name": "molefrog",
       "avatarUrl": "https://avatars.githubusercontent.com/u/671276?v=4"
     },
-    "stars": 6859,
+    "stars": 6861,
     "starsDetail": {
       "total": 6859,
       "week": 34,
@@ -136,7 +136,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-04-09T17:36:41.000Z",
-    "updatedAt": "2025-01-04T16:21:37.000Z"
+    "updatedAt": "2025-01-05T22:11:03.000Z"
   },
   {
     "id": "remeda/remeda",
@@ -152,7 +152,7 @@
       "name": "remeda",
       "avatarUrl": "https://avatars.githubusercontent.com/u/39049333?v=4"
     },
-    "stars": 4651,
+    "stars": 4657,
     "starsDetail": {
       "total": 4651,
       "week": 18,
@@ -170,7 +170,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-05-07T08:56:53.000Z",
-    "updatedAt": "2025-01-04T16:21:43.000Z"
+    "updatedAt": "2025-01-05T22:11:09.000Z"
   },
   {
     "id": "marpple/FxTS",
@@ -187,7 +187,7 @@
       "name": "marpple",
       "avatarUrl": "https://avatars.githubusercontent.com/u/27278709?v=4"
     },
-    "stars": 943,
+    "stars": 944,
     "starsDetail": {
       "total": 943,
       "week": 2,
@@ -205,7 +205,65 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2021-09-30T06:00:50.000Z",
-    "updatedAt": "2025-01-04T22:44:09.000Z"
+    "updatedAt": "2025-01-06T01:29:37.000Z"
+  },
+  {
+    "id": "Glench/fuzzyset.js",
+    "name": "Glench/fuzzyset.js",
+    "description": "fuzzyset.js - A fuzzy string set for javascript",
+    "topics": [],
+    "owner": {
+      "name": "Glench",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/451461?v=4"
+    },
+    "stars": 1372,
+    "starsDetail": {
+      "total": 1372,
+      "week": 3,
+      "month": 6,
+      "year": 21,
+      "updatedAt": 1736085076
+    },
+    "license": "Other",
+    "forks": 105,
+    "primaryLanguage": "JavaScript",
+    "pushedAt": "2021-12-13T18:44:00.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2012-12-27T02:07:33.000Z",
+    "updatedAt": "2025-01-05T22:11:20.000Z"
+  },
+  {
+    "id": "bevacqua/fuzzysearch",
+    "name": "bevacqua/fuzzysearch",
+    "description": ":crystal_ball: Tiny and blazing-fast fuzzy search in JavaScript",
+    "topics": [],
+    "owner": {
+      "name": "bevacqua",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/934293?v=4"
+    },
+    "stars": 2717,
+    "starsDetail": {
+      "total": 2717,
+      "week": 2,
+      "month": 6,
+      "year": 36,
+      "updatedAt": 1736085078
+    },
+    "license": "MIT License",
+    "forks": 87,
+    "primaryLanguage": "JavaScript",
+    "pushedAt": "2023-05-31T04:51:39.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2015-03-03T19:52:53.000Z",
+    "updatedAt": "2025-01-05T22:11:18.000Z"
   },
   {
     "id": "selfrefactor/rambda",
@@ -240,7 +298,41 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-01-15T13:50:45.000Z",
-    "updatedAt": "2025-01-04T22:44:08.000Z"
+    "updatedAt": "2025-01-06T01:29:37.000Z"
+  },
+  {
+    "id": "bvaughn/js-search",
+    "name": "bvaughn/js-search",
+    "description": "JS Search is an efficient, client-side search library for JavaScript and JSON objects",
+    "topics": [
+      "database",
+      "indexing",
+      "performance",
+      "search"
+    ],
+    "owner": {
+      "name": "bvaughn",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/29597?v=4"
+    },
+    "stars": 2217,
+    "starsDetail": {
+      "total": 2217,
+      "week": 2,
+      "month": 5,
+      "year": 67,
+      "updatedAt": 1736085074
+    },
+    "license": "MIT License",
+    "forks": 113,
+    "primaryLanguage": "HTML",
+    "pushedAt": "2023-05-12T13:18:33.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2015-07-31T00:37:40.000Z",
+    "updatedAt": "2025-01-05T22:11:15.000Z"
   },
   {
     "id": "developit/unfetch",
@@ -277,7 +369,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-02-22T05:59:42.000Z",
-    "updatedAt": "2025-01-04T16:21:40.000Z"
+    "updatedAt": "2025-01-05T22:11:05.000Z"
   },
   {
     "id": "frejs/fre",
@@ -319,7 +411,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-07-28T06:46:46.000Z",
-    "updatedAt": "2025-01-04T16:21:30.000Z"
+    "updatedAt": "2025-01-05T22:10:56.000Z"
   },
   {
     "id": "lukeed/navaid",
@@ -354,7 +446,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-06-21T08:16:56.000Z",
-    "updatedAt": "2025-01-04T22:44:32.000Z"
+    "updatedAt": "2025-01-06T01:30:00.000Z"
   },
   {
     "id": "olivernn/lunr.js",
@@ -388,7 +480,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2011-06-23T20:53:57.000Z",
-    "updatedAt": "2025-01-04T14:49:41.000Z"
+    "updatedAt": "2025-01-05T17:46:07.000Z"
   },
   {
     "id": "ianstormtaylor/superstruct",
@@ -407,7 +499,7 @@
       "name": "ianstormtaylor",
       "avatarUrl": "https://avatars.githubusercontent.com/u/311752?v=4"
     },
-    "stars": 7055,
+    "stars": 7056,
     "starsDetail": {
       "total": 7004,
       "week": 8,
@@ -425,7 +517,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-11-23T03:03:25.000Z",
-    "updatedAt": "2025-01-04T22:42:15.000Z"
+    "updatedAt": "2025-01-06T01:27:42.000Z"
   },
   {
     "id": "jashkenas/underscore",
@@ -436,7 +528,7 @@
       "name": "jashkenas",
       "avatarUrl": "https://avatars.githubusercontent.com/u/4732?v=4"
     },
-    "stars": 27356,
+    "stars": 27357,
     "starsDetail": {
       "total": 27323,
       "week": 9,
@@ -445,7 +537,7 @@
       "updatedAt": 1729322123
     },
     "license": "MIT License",
-    "forks": 5520,
+    "forks": 5519,
     "primaryLanguage": "HTML",
     "pushedAt": "2024-10-16T10:57:01.000Z",
     "archived": false,
@@ -454,7 +546,7 @@
     "goPackage": null,
     "goImportedBy": 0,
     "createdAt": "2009-10-25T18:31:06.000Z",
-    "updatedAt": "2025-01-04T14:47:56.000Z"
+    "updatedAt": "2025-01-05T17:44:30.000Z"
   },
   {
     "id": "preactjs/signals",
@@ -489,7 +581,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2022-08-08T21:29:28.000Z",
-    "updatedAt": "2025-01-04T16:21:35.000Z"
+    "updatedAt": "2025-01-05T22:11:00.000Z"
   },
   {
     "id": "vanjs-org/van",
@@ -520,7 +612,7 @@
       "name": "vanjs-org",
       "avatarUrl": "https://avatars.githubusercontent.com/u/132869025?v=4"
     },
-    "stars": 3951,
+    "stars": 3953,
     "starsDetail": {
       "total": 3951,
       "week": 11,
@@ -538,7 +630,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2023-05-08T05:45:31.000Z",
-    "updatedAt": "2025-01-04T16:21:31.000Z"
+    "updatedAt": "2025-01-05T22:10:57.000Z"
   },
   {
     "id": "vercel/ms",
@@ -571,7 +663,45 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2012-03-08T02:10:13.000Z",
-    "updatedAt": "2025-01-04T14:19:08.000Z"
+    "updatedAt": "2025-01-05T17:30:46.000Z"
+  },
+  {
+    "id": "fabian-hiller/valibot",
+    "name": "fabian-hiller/valibot",
+    "description": "The modular and type safe schema library for validating structural data 🤖",
+    "topics": [
+      "bundle-size",
+      "modular",
+      "parsing",
+      "runtime",
+      "schema",
+      "type-safe",
+      "typescript",
+      "validation"
+    ],
+    "owner": {
+      "name": "fabian-hiller",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/35291865?v=4"
+    },
+    "stars": 6726,
+    "starsDetail": {
+      "total": 6719,
+      "week": 33,
+      "month": 336,
+      "year": 2452,
+      "updatedAt": 1736085070
+    },
+    "license": "MIT License",
+    "forks": 217,
+    "primaryLanguage": "CSS",
+    "pushedAt": "2025-01-05T03:55:24.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2023-07-07T10:31:24.000Z",
+    "updatedAt": "2025-01-05T22:11:09.000Z"
   },
   {
     "id": "elbywan/wretch",
@@ -613,7 +743,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-09-13T18:27:25.000Z",
-    "updatedAt": "2025-01-04T22:44:38.000Z"
+    "updatedAt": "2025-01-06T01:30:06.000Z"
   },
   {
     "id": "angus-c/just",
@@ -651,7 +781,54 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-06-26T02:04:54.000Z",
-    "updatedAt": "2025-01-04T14:50:37.000Z"
+    "updatedAt": "2025-01-05T17:47:01.000Z"
+  },
+  {
+    "id": "any86/any-touch",
+    "name": "any86/any-touch",
+    "description": ":wave: Touch gesture library, 1kb~5kb, compatible with PC / mobile",
+    "topics": [
+      "angular",
+      "drag",
+      "finger",
+      "gesture",
+      "javascript",
+      "mouse",
+      "pan",
+      "pinch",
+      "press",
+      "react",
+      "rotate",
+      "swipe",
+      "tap",
+      "touch",
+      "typescript",
+      "vanilla",
+      "vue"
+    ],
+    "owner": {
+      "name": "any86",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/8264787?v=4"
+    },
+    "stars": 1234,
+    "starsDetail": {
+      "total": 1234,
+      "week": 0,
+      "month": 3,
+      "year": 30,
+      "updatedAt": 1736085071
+    },
+    "license": "MIT License",
+    "forks": 122,
+    "primaryLanguage": "HTML",
+    "pushedAt": "2023-12-24T07:26:40.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2018-08-29T06:34:52.000Z",
+    "updatedAt": "2025-01-05T22:11:14.000Z"
   },
   {
     "id": "lukeed/regexparam",
@@ -685,7 +862,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-04-08T21:02:42.000Z",
-    "updatedAt": "2025-01-04T16:21:38.000Z"
+    "updatedAt": "2025-01-05T22:11:04.000Z"
   },
   {
     "id": "lukeed/tinydate",
@@ -721,7 +898,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-05-02T01:09:25.000Z",
-    "updatedAt": "2025-01-04T16:21:42.000Z"
+    "updatedAt": "2025-01-05T22:11:08.000Z"
   },
   {
     "id": "lukeed/uid",
@@ -732,7 +909,7 @@
       "name": "lukeed",
       "avatarUrl": "https://avatars.githubusercontent.com/u/5855893?v=4"
     },
-    "stars": 659,
+    "stars": 660,
     "starsDetail": {
       "total": 659,
       "week": 1,
@@ -750,7 +927,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2020-03-03T07:51:36.000Z",
-    "updatedAt": "2025-01-04T16:21:45.000Z"
+    "updatedAt": "2025-01-05T22:11:10.000Z"
   },
   {
     "id": "staltz/callbag-basics",
@@ -785,7 +962,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-01-29T10:58:59.000Z",
-    "updatedAt": "2025-01-04T16:21:37.000Z"
+    "updatedAt": "2025-01-05T22:11:02.000Z"
   },
   {
     "id": "storeon/storeon",
@@ -814,7 +991,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-03-16T04:52:02.000Z",
-    "updatedAt": "2025-01-04T16:21:34.000Z"
+    "updatedAt": "2025-01-05T22:10:59.000Z"
   },
   {
     "id": "teafuljs/teaful",
@@ -856,7 +1033,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2021-03-11T20:18:22.000Z",
-    "updatedAt": "2025-01-04T16:21:34.000Z"
+    "updatedAt": "2025-01-05T22:11:00.000Z"
   },
   {
     "id": "NaturalNode/natural",
@@ -885,7 +1062,41 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2011-05-07T02:35:16.000Z",
-    "updatedAt": "2025-01-04T22:42:56.000Z"
+    "updatedAt": "2025-01-06T01:28:23.000Z"
+  },
+  {
+    "id": "AlloyTeam/AlloyFinger",
+    "name": "AlloyTeam/AlloyFinger",
+    "description": "Super tiny size multi-touch gestures library for the web. 　　　You can touch this →",
+    "topics": [
+      "alloyfinger",
+      "finger",
+      "gesture",
+      "touch"
+    ],
+    "owner": {
+      "name": "AlloyTeam",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1503033?v=4"
+    },
+    "stars": 3431,
+    "starsDetail": {
+      "total": 3431,
+      "week": 1,
+      "month": 2,
+      "year": 64,
+      "updatedAt": 1736085073
+    },
+    "license": "MIT License",
+    "forks": 542,
+    "primaryLanguage": "HTML",
+    "pushedAt": "2019-01-03T07:05:23.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2016-05-25T23:17:03.000Z",
+    "updatedAt": "2025-01-05T22:11:12.000Z"
   },
   {
     "id": "imbrn/v8n",
@@ -918,7 +1129,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-06-25T20:06:33.000Z",
-    "updatedAt": "2025-01-04T14:51:45.000Z"
+    "updatedAt": "2025-01-05T17:48:07.000Z"
   },
   {
     "id": "jorgebucaran/superfine",
@@ -952,7 +1163,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-05-19T12:53:23.000Z",
-    "updatedAt": "2025-01-04T16:21:31.000Z"
+    "updatedAt": "2025-01-05T22:10:56.000Z"
   },
   {
     "id": "lukeed/rosetta",
@@ -981,7 +1192,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2020-03-19T01:29:35.000Z",
-    "updatedAt": "2025-01-04T16:21:41.000Z"
+    "updatedAt": "2025-01-05T22:11:06.000Z"
   },
   {
     "id": "redom/redom",
@@ -1017,7 +1228,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-08-28T17:32:43.000Z",
-    "updatedAt": "2025-01-04T14:52:43.000Z"
+    "updatedAt": "2025-01-05T17:49:01.000Z"
   },
   {
     "id": "nanostores/nanostores",
@@ -1028,7 +1239,7 @@
       "name": "nanostores",
       "avatarUrl": "https://avatars.githubusercontent.com/u/85066968?v=4"
     },
-    "stars": 5660,
+    "stars": 5663,
     "starsDetail": {
       "total": 5660,
       "week": 26,
@@ -1046,7 +1257,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2020-10-14T19:51:28.000Z",
-    "updatedAt": "2025-01-04T16:21:33.000Z"
+    "updatedAt": "2025-01-05T22:10:59.000Z"
   },
   {
     "id": "justin-schroeder/arrow-js",
@@ -1065,7 +1276,7 @@
       "name": "justin-schroeder",
       "avatarUrl": "https://avatars.githubusercontent.com/u/1950463?v=4"
     },
-    "stars": 2429,
+    "stars": 2430,
     "starsDetail": {
       "total": 2429,
       "week": 1,
@@ -1083,7 +1294,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2022-11-08T22:29:40.000Z",
-    "updatedAt": "2025-01-04T16:21:31.000Z"
+    "updatedAt": "2025-01-05T22:10:57.000Z"
   },
   {
     "id": "ai/nanoid",
@@ -1094,7 +1305,7 @@
       "name": "ai",
       "avatarUrl": "https://avatars.githubusercontent.com/u/19343?v=4"
     },
-    "stars": 24900,
+    "stars": 24905,
     "starsDetail": {
       "total": 24515,
       "week": 28,
@@ -1103,7 +1314,7 @@
       "updatedAt": 1729322135
     },
     "license": "MIT License",
-    "forks": 801,
+    "forks": 802,
     "primaryLanguage": "HTML",
     "pushedAt": "2024-12-09T11:32:02.000Z",
     "archived": false,
@@ -1112,7 +1323,7 @@
     "goPackage": null,
     "goImportedBy": 0,
     "createdAt": "2017-08-05T05:24:35.000Z",
-    "updatedAt": "2025-01-04T14:48:02.000Z"
+    "updatedAt": "2025-01-05T17:44:35.000Z"
   },
   {
     "id": "developit/redaxios",
@@ -1123,7 +1334,7 @@
       "name": "developit",
       "avatarUrl": "https://avatars.githubusercontent.com/u/105127?v=4"
     },
-    "stars": 4736,
+    "stars": 4735,
     "starsDetail": {
       "total": 4736,
       "week": 12,
@@ -1141,7 +1352,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-08-23T22:00:17.000Z",
-    "updatedAt": "2025-01-04T16:21:39.000Z"
+    "updatedAt": "2025-01-05T22:11:05.000Z"
   },
   {
     "id": "jorgebucaran/hyperapp",
@@ -1175,7 +1386,7 @@
     "goPackage": null,
     "goImportedBy": 0,
     "createdAt": "2017-01-20T05:20:21.000Z",
-    "updatedAt": "2025-01-04T14:18:50.000Z"
+    "updatedAt": "2025-01-05T17:30:37.000Z"
   },
   {
     "id": "hustcc/timeago.js",
@@ -1212,7 +1423,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-06-23T02:06:23.000Z",
-    "updatedAt": "2025-01-04T22:44:15.000Z"
+    "updatedAt": "2025-01-06T01:29:43.000Z"
   },
   {
     "id": "lingui/js-lingui",
@@ -1236,7 +1447,7 @@
       "name": "lingui",
       "avatarUrl": "https://avatars.githubusercontent.com/u/11225539?v=4"
     },
-    "stars": 4801,
+    "stars": 4806,
     "starsDetail": {
       "total": 4801,
       "week": 17,
@@ -1254,7 +1465,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-01-17T17:26:46.000Z",
-    "updatedAt": "2025-01-04T16:21:42.000Z"
+    "updatedAt": "2025-01-05T22:11:07.000Z"
   },
   {
     "id": "ai/nanoevents",
@@ -1265,7 +1476,7 @@
       "name": "ai",
       "avatarUrl": "https://avatars.githubusercontent.com/u/19343?v=4"
     },
-    "stars": 1504,
+    "stars": 1505,
     "starsDetail": {
       "total": 1504,
       "week": [
@@ -1287,7 +1498,54 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-09-20T05:47:44.000Z",
-    "updatedAt": "2025-01-04T16:21:32.000Z"
+    "updatedAt": "2025-01-05T22:10:58.000Z"
+  },
+  {
+    "id": "omgovich/colord",
+    "name": "omgovich/colord",
+    "description": "👑 A tiny yet powerful tool for high-performance color manipulations and conversions",
+    "topics": [
+      "a11y",
+      "color",
+      "color-names",
+      "converter",
+      "css-color",
+      "hacktoberfest",
+      "hex",
+      "hsl",
+      "hsv",
+      "hwb",
+      "lab",
+      "lch",
+      "parser",
+      "rgb",
+      "tiny",
+      "xyz",
+      "zero-dependency"
+    ],
+    "owner": {
+      "name": "omgovich",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/206567?v=4"
+    },
+    "stars": 1706,
+    "starsDetail": {
+      "total": 1706,
+      "week": 1,
+      "month": 12,
+      "year": 202,
+      "updatedAt": 1736085069
+    },
+    "license": "MIT License",
+    "forks": 54,
+    "primaryLanguage": "JavaScript",
+    "pushedAt": "2023-10-02T00:32:53.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2020-11-27T10:47:20.000Z",
+    "updatedAt": "2025-01-05T22:11:11.000Z"
   },
   {
     "id": "aweary/tinytime",
@@ -1320,7 +1578,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-01-19T23:37:50.000Z",
-    "updatedAt": "2025-01-04T16:21:41.000Z"
+    "updatedAt": "2025-01-05T22:11:07.000Z"
   },
   {
     "id": "developit/unistore",
@@ -1356,7 +1614,65 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-12-06T18:15:34.000Z",
-    "updatedAt": "2025-01-04T16:21:34.000Z"
+    "updatedAt": "2025-01-05T22:11:00.000Z"
+  },
+  {
+    "id": "kbrsh/wade",
+    "name": "kbrsh/wade",
+    "description": ":ocean: Blazing fast 1kb search library",
+    "topics": [],
+    "owner": {
+      "name": "kbrsh",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/15644571?v=4"
+    },
+    "stars": 2978,
+    "starsDetail": {
+      "total": 2978,
+      "week": 0,
+      "month": 1,
+      "year": 17,
+      "updatedAt": 1736085074
+    },
+    "license": "MIT License",
+    "forks": 60,
+    "primaryLanguage": "JavaScript",
+    "pushedAt": "2023-05-13T08:18:33.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2017-05-21T01:53:54.000Z",
+    "updatedAt": "2025-01-05T22:11:15.000Z"
+  },
+  {
+    "id": "mattyork/fuzzy",
+    "name": "mattyork/fuzzy",
+    "description": "Filters a list based on a fuzzy string search",
+    "topics": [],
+    "owner": {
+      "name": "mattyork",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/666259?v=4"
+    },
+    "stars": 833,
+    "starsDetail": {
+      "total": 833,
+      "week": 0,
+      "month": 1,
+      "year": 14,
+      "updatedAt": 1736085075
+    },
+    "license": "MIT License",
+    "forks": 86,
+    "primaryLanguage": "Makefile",
+    "pushedAt": "2021-12-20T07:11:22.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2012-07-15T08:31:52.000Z",
+    "updatedAt": "2025-01-05T22:11:18.000Z"
   },
   {
     "id": "paldepind/flyd",
@@ -1385,58 +1701,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-02-25T21:50:16.000Z",
-    "updatedAt": "2025-01-04T16:21:37.000Z"
-  },
-  {
-    "id": "AlloyTeam/AlloyFinger",
-    "name": "AlloyTeam/AlloyFinger",
-    "description": "Super tiny size multi-touch gestures library for the web. 　　　You can touch this →",
-    "topics": [
-      "alloyfinger",
-      "finger",
-      "gesture",
-      "touch"
-    ],
-    "owner": {
-      "name": "AlloyTeam",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/1503033?v=4"
-    },
-    "stars": 3431,
-    "starsDetail": null,
-    "license": "MIT License",
-    "forks": 542,
-    "primaryLanguage": "HTML",
-    "pushedAt": "2019-01-03T07:05:23.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2016-05-25T23:17:03.000Z",
-    "updatedAt": "2025-01-04T16:21:47.000Z"
-  },
-  {
-    "id": "Glench/fuzzyset.js",
-    "name": "Glench/fuzzyset.js",
-    "description": "fuzzyset.js - A fuzzy string set for javascript",
-    "topics": [],
-    "owner": {
-      "name": "Glench",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/451461?v=4"
-    },
-    "stars": 1372,
-    "starsDetail": null,
-    "license": "Other",
-    "forks": 105,
-    "primaryLanguage": "JavaScript",
-    "pushedAt": "2021-12-13T18:44:00.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2012-12-27T02:07:33.000Z",
-    "updatedAt": "2025-01-04T16:21:54.000Z"
+    "updatedAt": "2025-01-05T22:11:02.000Z"
   },
   {
     "id": "GoogleChromeLabs/pointer-tracker",
@@ -1448,7 +1713,9 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/31970254?v=4"
     },
     "stars": 186,
-    "starsDetail": null,
+    "starsDetail": {
+      "total": 186
+    },
     "license": "Apache License 2.0",
     "forks": 24,
     "primaryLanguage": "JavaScript",
@@ -1459,7 +1726,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-10-10T18:16:47.000Z",
-    "updatedAt": "2025-01-04T16:21:48.000Z"
+    "updatedAt": "2025-01-05T22:11:13.000Z"
   },
   {
     "id": "MihaiValentin/lunr-languages",
@@ -1478,7 +1745,9 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/3695685?v=4"
     },
     "stars": 434,
-    "starsDetail": null,
+    "starsDetail": {
+      "total": 434
+    },
     "license": "Other",
     "forks": 163,
     "primaryLanguage": "JavaScript",
@@ -1489,7 +1758,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2014-04-20T15:41:13.000Z",
-    "updatedAt": "2025-01-04T16:21:52.000Z"
+    "updatedAt": "2025-01-05T22:11:17.000Z"
   },
   {
     "id": "WebReflection/usignal",
@@ -1514,7 +1783,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2022-09-09T07:37:44.000Z",
-    "updatedAt": "2025-01-04T16:21:35.000Z"
+    "updatedAt": "2025-01-05T22:11:01.000Z"
   },
   {
     "id": "antonioru/deep-waters",
@@ -1548,99 +1817,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2020-04-25T14:46:54.000Z",
-    "updatedAt": "2025-01-04T16:21:44.000Z"
-  },
-  {
-    "id": "any86/any-touch",
-    "name": "any86/any-touch",
-    "description": ":wave: Touch gesture library, 1kb~5kb, compatible with PC / mobile",
-    "topics": [
-      "angular",
-      "drag",
-      "finger",
-      "gesture",
-      "javascript",
-      "mouse",
-      "pan",
-      "pinch",
-      "press",
-      "react",
-      "rotate",
-      "swipe",
-      "tap",
-      "touch",
-      "typescript",
-      "vanilla",
-      "vue"
-    ],
-    "owner": {
-      "name": "any86",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/8264787?v=4"
-    },
-    "stars": 1234,
-    "starsDetail": null,
-    "license": "MIT License",
-    "forks": 122,
-    "primaryLanguage": "HTML",
-    "pushedAt": "2023-12-24T07:26:40.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2018-08-29T06:34:52.000Z",
-    "updatedAt": "2025-01-04T16:21:48.000Z"
-  },
-  {
-    "id": "bevacqua/fuzzysearch",
-    "name": "bevacqua/fuzzysearch",
-    "description": ":crystal_ball: Tiny and blazing-fast fuzzy search in JavaScript",
-    "topics": [],
-    "owner": {
-      "name": "bevacqua",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/934293?v=4"
-    },
-    "stars": 2717,
-    "starsDetail": null,
-    "license": "MIT License",
-    "forks": 87,
-    "primaryLanguage": "JavaScript",
-    "pushedAt": "2023-05-31T04:51:39.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2015-03-03T19:52:53.000Z",
-    "updatedAt": "2025-01-04T16:21:53.000Z"
-  },
-  {
-    "id": "bvaughn/js-search",
-    "name": "bvaughn/js-search",
-    "description": "JS Search is an efficient, client-side search library for JavaScript and JSON objects",
-    "topics": [
-      "database",
-      "indexing",
-      "performance",
-      "search"
-    ],
-    "owner": {
-      "name": "bvaughn",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/29597?v=4"
-    },
-    "stars": 2217,
-    "starsDetail": null,
-    "license": "MIT License",
-    "forks": 113,
-    "primaryLanguage": "HTML",
-    "pushedAt": "2023-05-12T13:18:33.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2015-07-31T00:37:40.000Z",
-    "updatedAt": "2025-01-04T16:21:49.000Z"
+    "updatedAt": "2025-01-05T22:11:10.000Z"
   },
   {
     "id": "cdonohue/polychrome",
@@ -1660,7 +1837,9 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/1928846?v=4"
     },
     "stars": 288,
-    "starsDetail": null,
+    "starsDetail": {
+      "total": 288
+    },
     "license": "MIT License",
     "forks": 0,
     "primaryLanguage": "JavaScript",
@@ -1671,7 +1850,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-03-21T14:06:26.000Z",
-    "updatedAt": "2025-01-04T16:21:46.000Z"
+    "updatedAt": "2025-01-05T22:11:12.000Z"
   },
   {
     "id": "date-fns/date-fns",
@@ -1691,9 +1870,9 @@
       "name": "date-fns",
       "avatarUrl": "https://avatars.githubusercontent.com/u/14921202?v=4"
     },
-    "stars": 35097,
+    "stars": 35100,
     "starsDetail": {
-      "total": 35097
+      "total": 35100
     },
     "license": "MIT License",
     "forks": 1799,
@@ -1705,7 +1884,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2014-10-06T10:24:22.000Z",
-    "updatedAt": "2025-01-04T22:44:14.000Z"
+    "updatedAt": "2025-01-06T01:29:42.000Z"
   },
   {
     "id": "elbywan/hyperactiv",
@@ -1737,39 +1916,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-12-31T15:13:10.000Z",
-    "updatedAt": "2025-01-04T16:21:36.000Z"
-  },
-  {
-    "id": "fabian-hiller/valibot",
-    "name": "fabian-hiller/valibot",
-    "description": "The modular and type safe schema library for validating structural data 🤖",
-    "topics": [
-      "bundle-size",
-      "modular",
-      "parsing",
-      "runtime",
-      "schema",
-      "type-safe",
-      "typescript",
-      "validation"
-    ],
-    "owner": {
-      "name": "fabian-hiller",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/35291865?v=4"
-    },
-    "stars": 6719,
-    "starsDetail": null,
-    "license": "MIT License",
-    "forks": 218,
-    "primaryLanguage": "CSS",
-    "pushedAt": "2025-01-04T01:47:04.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2023-07-07T10:31:24.000Z",
-    "updatedAt": "2025-01-04T16:21:44.000Z"
+    "updatedAt": "2025-01-05T22:11:02.000Z"
   },
   {
     "id": "fabiospampinato/flimsy",
@@ -1799,7 +1946,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2022-08-13T14:18:30.000Z",
-    "updatedAt": "2025-01-04T16:21:35.000Z"
+    "updatedAt": "2025-01-05T22:11:01.000Z"
   },
   {
     "id": "fortnightlabs/snowball-js",
@@ -1811,7 +1958,9 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/404872?v=4"
     },
     "stars": 103,
-    "starsDetail": null,
+    "starsDetail": {
+      "total": 103
+    },
     "license": "Other",
     "forks": 16,
     "primaryLanguage": "JavaScript",
@@ -1822,7 +1971,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2011-03-09T23:16:34.000Z",
-    "updatedAt": "2025-01-04T16:21:51.000Z"
+    "updatedAt": "2025-01-05T22:11:17.000Z"
   },
   {
     "id": "fwextensions/quick-score",
@@ -1840,7 +1989,9 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/61631?v=4"
     },
     "stars": 159,
-    "starsDetail": null,
+    "starsDetail": {
+      "total": 159
+    },
     "license": "MIT License",
     "forks": 6,
     "primaryLanguage": "CSS",
@@ -1851,7 +2002,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-07-14T21:40:29.000Z",
-    "updatedAt": "2025-01-04T16:21:54.000Z"
+    "updatedAt": "2025-01-05T22:11:19.000Z"
   },
   {
     "id": "hustcc/onfire.js",
@@ -1881,7 +2032,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-07-15T07:10:34.000Z",
-    "updatedAt": "2025-01-04T16:21:32.000Z"
+    "updatedAt": "2025-01-05T22:10:58.000Z"
   },
   {
     "id": "iamkun/dayjs",
@@ -1899,21 +2050,21 @@
       "name": "iamkun",
       "avatarUrl": "https://avatars.githubusercontent.com/u/17680888?v=4"
     },
-    "stars": 47232,
+    "stars": 47235,
     "starsDetail": {
-      "total": 47232
+      "total": 47235
     },
     "license": "MIT License",
-    "forks": 2312,
+    "forks": 2313,
     "primaryLanguage": "JavaScript",
-    "pushedAt": "2024-12-20T05:15:21.000Z",
+    "pushedAt": "2025-01-05T13:57:07.000Z",
     "archived": false,
     "npmPackage": "dayjs",
     "npmLastMonthDownloads": 91999829,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-04-10T09:26:44.000Z",
-    "updatedAt": "2025-01-04T22:44:13.000Z"
+    "updatedAt": "2025-01-06T01:29:41.000Z"
   },
   {
     "id": "ibitcy/eo-locale",
@@ -1957,7 +2108,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-05-10T13:59:53.000Z",
-    "updatedAt": "2025-01-04T16:21:41.000Z"
+    "updatedAt": "2025-01-05T22:11:07.000Z"
   },
   {
     "id": "jedp/porter-stemmer",
@@ -1969,7 +2120,9 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/532953?v=4"
     },
     "stars": 100,
-    "starsDetail": null,
+    "starsDetail": {
+      "total": 100
+    },
     "license": "MIT License",
     "forks": 15,
     "primaryLanguage": "JavaScript",
@@ -1980,7 +2133,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2011-04-20T03:58:26.000Z",
-    "updatedAt": "2025-01-04T16:21:51.000Z"
+    "updatedAt": "2025-01-05T22:11:16.000Z"
   },
   {
     "id": "jhawthorn/fzy.js",
@@ -1997,7 +2150,9 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/131752?v=4"
     },
     "stars": 154,
-    "starsDetail": null,
+    "starsDetail": {
+      "total": 154
+    },
     "license": "MIT License",
     "forks": 10,
     "primaryLanguage": "JavaScript",
@@ -2008,7 +2163,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-11-04T00:34:12.000Z",
-    "updatedAt": "2025-01-04T16:21:53.000Z"
+    "updatedAt": "2025-01-05T22:11:18.000Z"
   },
   {
     "id": "jonschlinkert/time-stamp",
@@ -2047,30 +2202,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-05-01T09:01:49.000Z",
-    "updatedAt": "2025-01-04T16:21:43.000Z"
-  },
-  {
-    "id": "kbrsh/wade",
-    "name": "kbrsh/wade",
-    "description": ":ocean: Blazing fast 1kb search library",
-    "topics": [],
-    "owner": {
-      "name": "kbrsh",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/15644571?v=4"
-    },
-    "stars": 2978,
-    "starsDetail": null,
-    "license": "MIT License",
-    "forks": 60,
-    "primaryLanguage": "JavaScript",
-    "pushedAt": "2023-05-13T08:18:33.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2017-05-21T01:53:54.000Z",
-    "updatedAt": "2025-01-04T16:21:50.000Z"
+    "updatedAt": "2025-01-05T22:11:08.000Z"
   },
   {
     "id": "localvoid/ndx",
@@ -2088,7 +2220,9 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/132045?v=4"
     },
     "stars": 154,
-    "starsDetail": null,
+    "starsDetail": {
+      "total": 154
+    },
     "license": "MIT License",
     "forks": 11,
     "primaryLanguage": "TypeScript",
@@ -2099,7 +2233,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-10-21T11:13:53.000Z",
-    "updatedAt": "2025-01-04T16:21:50.000Z"
+    "updatedAt": "2025-01-05T22:11:15.000Z"
   },
   {
     "id": "lukeed/fromnow",
@@ -2124,7 +2258,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2014-10-22T05:02:50.000Z",
-    "updatedAt": "2025-01-04T16:21:43.000Z"
+    "updatedAt": "2025-01-05T22:11:08.000Z"
   },
   {
     "id": "lukeed/hexoid",
@@ -2149,7 +2283,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2020-03-03T09:32:39.000Z",
-    "updatedAt": "2025-01-04T16:21:46.000Z"
+    "updatedAt": "2025-01-05T22:11:11.000Z"
   },
   {
     "id": "lukeed/matchit",
@@ -2174,7 +2308,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-11-05T18:37:41.000Z",
-    "updatedAt": "2025-01-04T16:21:38.000Z"
+    "updatedAt": "2025-01-05T22:11:04.000Z"
   },
   {
     "id": "lukeed/qss",
@@ -2199,7 +2333,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-10-23T06:26:30.000Z",
-    "updatedAt": "2025-01-04T16:21:39.000Z"
+    "updatedAt": "2025-01-05T22:11:04.000Z"
   },
   {
     "id": "lukeed/uuid",
@@ -2224,30 +2358,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2020-02-28T09:11:03.000Z",
-    "updatedAt": "2025-01-04T16:21:45.000Z"
-  },
-  {
-    "id": "mattyork/fuzzy",
-    "name": "mattyork/fuzzy",
-    "description": "Filters a list based on a fuzzy string search",
-    "topics": [],
-    "owner": {
-      "name": "mattyork",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/666259?v=4"
-    },
-    "stars": 833,
-    "starsDetail": null,
-    "license": "MIT License",
-    "forks": 86,
-    "primaryLanguage": "Makefile",
-    "pushedAt": "2021-12-20T07:11:22.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2012-07-15T08:31:52.000Z",
-    "updatedAt": "2025-01-04T16:21:52.000Z"
+    "updatedAt": "2025-01-05T22:11:10.000Z"
   },
   {
     "id": "nanostores/i18n",
@@ -2272,7 +2383,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2021-10-24T01:19:45.000Z",
-    "updatedAt": "2025-01-04T16:21:40.000Z"
+    "updatedAt": "2025-01-05T22:11:06.000Z"
   },
   {
     "id": "nanostores/router",
@@ -2297,48 +2408,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2021-06-24T01:08:53.000Z",
-    "updatedAt": "2025-01-04T16:21:38.000Z"
-  },
-  {
-    "id": "omgovich/colord",
-    "name": "omgovich/colord",
-    "description": "👑 A tiny yet powerful tool for high-performance color manipulations and conversions",
-    "topics": [
-      "a11y",
-      "color",
-      "color-names",
-      "converter",
-      "css-color",
-      "hacktoberfest",
-      "hex",
-      "hsl",
-      "hsv",
-      "hwb",
-      "lab",
-      "lch",
-      "parser",
-      "rgb",
-      "tiny",
-      "xyz",
-      "zero-dependency"
-    ],
-    "owner": {
-      "name": "omgovich",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/206567?v=4"
-    },
-    "stars": 1706,
-    "starsDetail": null,
-    "license": "MIT License",
-    "forks": 54,
-    "primaryLanguage": "JavaScript",
-    "pushedAt": "2023-10-02T00:32:53.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2020-11-27T10:47:20.000Z",
-    "updatedAt": "2025-01-04T16:21:46.000Z"
+    "updatedAt": "2025-01-05T22:11:03.000Z"
   },
   {
     "id": "pmndrs/zustand",
@@ -2357,9 +2427,9 @@
       "name": "pmndrs",
       "avatarUrl": "https://avatars.githubusercontent.com/u/45790596?v=4"
     },
-    "stars": 49074,
+    "stars": 49084,
     "starsDetail": {
-      "total": 49074
+      "total": 49084
     },
     "license": "MIT License",
     "forks": 1542,
@@ -2371,7 +2441,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-04-09T09:10:06.000Z",
-    "updatedAt": "2025-01-04T16:21:33.000Z"
+    "updatedAt": "2025-01-05T22:10:59.000Z"
   },
   {
     "id": "preactjs/preact",
@@ -2390,9 +2460,9 @@
       "name": "preactjs",
       "avatarUrl": "https://avatars.githubusercontent.com/u/26872990?v=4"
     },
-    "stars": 36998,
+    "stars": 37002,
     "starsDetail": {
-      "total": 36998
+      "total": 37002
     },
     "license": "MIT License",
     "forks": 1960,
@@ -2404,7 +2474,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-09-11T02:40:18.000Z",
-    "updatedAt": "2025-01-04T14:18:50.000Z"
+    "updatedAt": "2025-01-05T17:30:38.000Z"
   },
   {
     "id": "rafgraph/detect-it",
@@ -2427,7 +2497,9 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/11911299?v=4"
     },
     "stars": 419,
-    "starsDetail": null,
+    "starsDetail": {
+      "total": 419
+    },
     "license": "MIT License",
     "forks": 13,
     "primaryLanguage": "TypeScript",
@@ -2438,7 +2510,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-07-07T03:34:05.000Z",
-    "updatedAt": "2025-01-04T16:21:48.000Z"
+    "updatedAt": "2025-01-05T22:11:13.000Z"
   },
   {
     "id": "react-component/gesture",
@@ -2450,7 +2522,9 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/9441414?v=4"
     },
     "stars": 103,
-    "starsDetail": null,
+    "starsDetail": {
+      "total": 103
+    },
     "license": "MIT License",
     "forks": 10,
     "primaryLanguage": "JavaScript",
@@ -2461,7 +2535,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-07-19T09:30:18.000Z",
-    "updatedAt": "2025-01-04T16:21:49.000Z"
+    "updatedAt": "2025-01-05T22:11:14.000Z"
   },
   {
     "id": "rmm5t/liquidmetal",
@@ -2477,7 +2551,9 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/740?v=4"
     },
     "stars": 296,
-    "starsDetail": null,
+    "starsDetail": {
+      "total": 296
+    },
     "license": "MIT License",
     "forks": 25,
     "primaryLanguage": "HTML",
@@ -2488,7 +2564,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2009-02-06T00:16:49.000Z",
-    "updatedAt": "2025-01-04T16:21:54.000Z"
+    "updatedAt": "2025-01-05T22:11:19.000Z"
   },
   {
     "id": "sciactive/tinygesture",
@@ -2514,7 +2590,9 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/1653611?v=4"
     },
     "stars": 211,
-    "starsDetail": null,
+    "starsDetail": {
+      "total": 211
+    },
     "license": "Apache License 2.0",
     "forks": 18,
     "primaryLanguage": "Shell",
@@ -2525,7 +2603,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-09-07T01:22:17.000Z",
-    "updatedAt": "2025-01-04T16:21:47.000Z"
+    "updatedAt": "2025-01-05T22:11:13.000Z"
   },
   {
     "id": "stayradiated/colr",
@@ -2537,7 +2615,9 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/1140167?v=4"
     },
     "stars": 105,
-    "starsDetail": null,
+    "starsDetail": {
+      "total": 105
+    },
     "license": "MIT License",
     "forks": 12,
     "primaryLanguage": "JavaScript",
@@ -2548,7 +2628,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2014-08-22T08:23:20.000Z",
-    "updatedAt": "2025-01-04T16:21:46.000Z"
+    "updatedAt": "2025-01-05T22:11:12.000Z"
   },
   {
     "id": "thesephist/libsearch",
@@ -2563,8 +2643,10 @@
       "name": "thesephist",
       "avatarUrl": "https://avatars.githubusercontent.com/u/5403917?v=4"
     },
-    "stars": 381,
-    "starsDetail": null,
+    "stars": 382,
+    "starsDetail": {
+      "total": 382
+    },
     "license": "MIT License",
     "forks": 8,
     "primaryLanguage": "TypeScript",
@@ -2575,7 +2657,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2022-05-29T09:01:29.000Z",
-    "updatedAt": "2025-01-04T16:21:50.000Z"
+    "updatedAt": "2025-01-05T22:11:15.000Z"
   },
   {
     "id": "thoughtspile/banditypes",
@@ -2606,7 +2688,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2023-02-26T19:07:55.000Z",
-    "updatedAt": "2025-01-04T16:21:44.000Z"
+    "updatedAt": "2025-01-05T22:11:09.000Z"
   },
   {
     "id": "truework/gretchen",
@@ -2639,7 +2721,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2020-01-17T22:07:51.000Z",
-    "updatedAt": "2025-01-04T16:21:40.000Z"
+    "updatedAt": "2025-01-05T22:11:05.000Z"
   },
   {
     "id": "vobyjs/oby",
@@ -2669,7 +2751,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2021-11-05T17:30:13.000Z",
-    "updatedAt": "2025-01-04T16:21:36.000Z"
+    "updatedAt": "2025-01-05T22:11:02.000Z"
   },
   {
     "id": "words/stemmer",
@@ -2686,7 +2768,9 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/31626817?v=4"
     },
     "stars": 131,
-    "starsDetail": null,
+    "starsDetail": {
+      "total": 131
+    },
     "license": "MIT License",
     "forks": 8,
     "primaryLanguage": "JavaScript",
@@ -2697,7 +2781,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2014-06-13T17:44:06.000Z",
-    "updatedAt": "2025-01-04T16:21:50.000Z"
+    "updatedAt": "2025-01-05T22:11:16.000Z"
   },
   {
     "id": "wouterrutgers/fuzzy-search",
@@ -2709,7 +2793,9 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/8761962?v=4"
     },
     "stars": 226,
-    "starsDetail": null,
+    "starsDetail": {
+      "total": 226
+    },
     "license": "ISC License",
     "forks": 28,
     "primaryLanguage": "JavaScript",
@@ -2720,6 +2806,6 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-04-17T16:20:11.000Z",
-    "updatedAt": "2025-01-04T16:21:52.000Z"
+    "updatedAt": "2025-01-05T22:11:18.000Z"
   }
 ]

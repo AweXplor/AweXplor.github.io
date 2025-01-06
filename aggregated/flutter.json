@@ -14,7 +14,7 @@
       "name": "nank1ro",
       "avatarUrl": "https://avatars.githubusercontent.com/u/60045235?v=4"
     },
-    "stars": 1289,
+    "stars": 1295,
     "starsDetail": {
       "total": 1289,
       "week": 29,
@@ -25,14 +25,14 @@
     "license": "MIT License",
     "forks": 74,
     "primaryLanguage": "Makefile",
-    "pushedAt": "2025-01-03T10:50:19.000Z",
+    "pushedAt": "2025-01-04T19:18:00.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-01-05T14:54:24.000Z",
-    "updatedAt": "2025-01-04T15:11:22.000Z"
+    "updatedAt": "2025-01-05T18:13:56.000Z"
   },
   {
     "id": "jonataslaw/getx",
@@ -56,7 +56,7 @@
       "name": "jonataslaw",
       "avatarUrl": "https://avatars.githubusercontent.com/u/35742643?v=4"
     },
-    "stars": 10521,
+    "stars": 10520,
     "starsDetail": {
       "total": 10521,
       "week": 20,
@@ -74,7 +74,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-11-14T01:16:25.000Z",
-    "updatedAt": "2025-01-04T12:02:42.000Z"
+    "updatedAt": "2025-01-05T13:35:07.000Z"
   },
   {
     "id": "chulwoo-park/timelines",
@@ -113,7 +113,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2020-11-16T13:35:48.000Z",
-    "updatedAt": "2025-01-04T15:11:20.000Z"
+    "updatedAt": "2025-01-05T18:13:53.000Z"
   },
   {
     "id": "fluttercommunity/get_it",
@@ -142,7 +142,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-05-20T14:07:38.000Z",
-    "updatedAt": "2025-01-04T15:11:51.000Z"
+    "updatedAt": "2025-01-05T18:14:30.000Z"
   },
   {
     "id": "huextrat/Taskist",
@@ -167,7 +167,7 @@
       "updatedAt": 1736035502
     },
     "license": "MIT License",
-    "forks": 278,
+    "forks": 279,
     "primaryLanguage": "Objective-C",
     "pushedAt": "2023-12-15T14:34:43.000Z",
     "archived": false,
@@ -176,7 +176,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-09-04T13:34:52.000Z",
-    "updatedAt": "2025-01-04T15:12:02.000Z"
+    "updatedAt": "2025-01-05T18:14:43.000Z"
   },
   {
     "id": "mobxjs/mobx.dart",
@@ -213,7 +213,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-12-17T10:43:33.000Z",
-    "updatedAt": "2025-01-04T15:11:51.000Z"
+    "updatedAt": "2025-01-05T18:14:30.000Z"
   },
   {
     "id": "vintage/scratcher",
@@ -228,7 +228,7 @@
       "name": "vintage",
       "avatarUrl": "https://avatars.githubusercontent.com/u/729785?v=4"
     },
-    "stars": 595,
+    "stars": 596,
     "starsDetail": {
       "total": 595,
       "week": 2,
@@ -246,7 +246,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-07-22T18:51:35.000Z",
-    "updatedAt": "2025-01-04T15:11:18.000Z"
+    "updatedAt": "2025-01-05T18:13:52.000Z"
   },
   {
     "id": "aagarwal1012/Animated-Text-Kit",
@@ -276,14 +276,14 @@
     "license": "MIT License",
     "forks": 310,
     "primaryLanguage": "Objective-C",
-    "pushedAt": "2025-01-04T06:25:13.000Z",
+    "pushedAt": "2025-01-04T22:46:21.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-08-03T10:53:45.000Z",
-    "updatedAt": "2025-01-04T15:11:55.000Z"
+    "updatedAt": "2025-01-05T18:14:34.000Z"
   },
   {
     "id": "google/flutter-desktop-embedding",
@@ -312,7 +312,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-02-14T00:41:16.000Z",
-    "updatedAt": "2025-01-04T15:12:11.000Z"
+    "updatedAt": "2025-01-05T18:14:53.000Z"
   },
   {
     "id": "iampawan/Flutter-Music-Player",
@@ -352,7 +352,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-03-24T12:50:18.000Z",
-    "updatedAt": "2025-01-04T15:12:01.000Z"
+    "updatedAt": "2025-01-05T18:14:41.000Z"
   },
   {
     "id": "felangel/bloc",
@@ -384,16 +384,16 @@
       "updatedAt": 1736035463
     },
     "license": "MIT License",
-    "forks": 3397,
+    "forks": 3398,
     "primaryLanguage": "Objective-C",
-    "pushedAt": "2025-01-01T21:58:48.000Z",
+    "pushedAt": "2025-01-04T19:34:20.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-10-07T19:32:59.000Z",
-    "updatedAt": "2025-01-04T15:11:50.000Z"
+    "updatedAt": "2025-01-05T18:14:29.000Z"
   },
   {
     "id": "JHBitencourt/timeline_tile",
@@ -422,7 +422,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2020-06-06T20:50:25.000Z",
-    "updatedAt": "2025-01-04T15:11:20.000Z"
+    "updatedAt": "2025-01-05T18:13:54.000Z"
   },
   {
     "id": "aagarwal1012/Liquid-Pull-To-Refresh",
@@ -461,7 +461,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-12-15T19:36:46.000Z",
-    "updatedAt": "2025-01-04T15:11:17.000Z"
+    "updatedAt": "2025-01-05T18:13:51.000Z"
   },
   {
     "id": "dengyin2000/dynamic_widget",
@@ -495,7 +495,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-01-28T07:31:39.000Z",
-    "updatedAt": "2025-01-04T15:11:30.000Z"
+    "updatedAt": "2025-01-05T18:14:06.000Z"
   },
   {
     "id": "mdanics/fluttergram",
@@ -529,7 +529,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-03-12T23:06:58.000Z",
-    "updatedAt": "2025-01-04T15:12:02.000Z"
+    "updatedAt": "2025-01-05T18:14:42.000Z"
   },
   {
     "id": "robertodoering/harpy",
@@ -566,7 +566,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-10-28T14:02:58.000Z",
-    "updatedAt": "2025-01-04T15:12:06.000Z"
+    "updatedAt": "2025-01-05T18:14:47.000Z"
   },
   {
     "id": "leoafarias/fvm",
@@ -585,7 +585,7 @@
       "name": "leoafarias",
       "avatarUrl": "https://avatars.githubusercontent.com/u/435833?v=4"
     },
-    "stars": 4788,
+    "stars": 4790,
     "starsDetail": {
       "total": 4788,
       "week": 17,
@@ -603,7 +603,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-02-22T06:57:07.000Z",
-    "updatedAt": "2025-01-04T15:12:07.000Z"
+    "updatedAt": "2025-01-05T18:14:49.000Z"
   },
   {
     "id": "AbdulRahmanAlHamali/flutter_typeahead",
@@ -632,7 +632,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-08-30T19:25:44.000Z",
-    "updatedAt": "2025-01-04T15:11:23.000Z"
+    "updatedAt": "2025-01-05T18:13:57.000Z"
   },
   {
     "id": "Lyokone/flutterlocation",
@@ -667,7 +667,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-07-07T12:47:30.000Z",
-    "updatedAt": "2025-01-04T15:11:45.000Z"
+    "updatedAt": "2025-01-05T18:14:23.000Z"
   },
   {
     "id": "ReinBentdal/styled_widget",
@@ -685,7 +685,7 @@
       "name": "ReinBentdal",
       "avatarUrl": "https://avatars.githubusercontent.com/u/21336626?v=4"
     },
-    "stars": 1279,
+    "stars": 1281,
     "starsDetail": {
       "total": 1279,
       "week": 1,
@@ -703,7 +703,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-11-26T18:59:03.000Z",
-    "updatedAt": "2025-01-04T15:11:57.000Z"
+    "updatedAt": "2025-01-05T18:14:37.000Z"
   },
   {
     "id": "hnvn/flutter_shimmer",
@@ -737,7 +737,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-06-06T08:29:18.000Z",
-    "updatedAt": "2025-01-04T15:11:28.000Z"
+    "updatedAt": "2025-01-05T18:14:03.000Z"
   },
   {
     "id": "olexale/arkit_flutter_plugin",
@@ -766,7 +766,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-04-12T11:25:36.000Z",
-    "updatedAt": "2025-01-04T15:11:44.000Z"
+    "updatedAt": "2025-01-05T18:14:22.000Z"
   },
   {
     "id": "sooxt98/google_nav_bar",
@@ -807,7 +807,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-12-22T06:56:56.000Z",
-    "updatedAt": "2025-01-04T15:11:25.000Z"
+    "updatedAt": "2025-01-05T18:14:00.000Z"
   },
   {
     "id": "flutter/packages",
@@ -818,7 +818,7 @@
       "name": "flutter",
       "avatarUrl": "https://avatars.githubusercontent.com/u/14101776?v=4"
     },
-    "stars": 4494,
+    "stars": 4496,
     "starsDetail": {
       "total": 4494,
       "week": 13,
@@ -827,16 +827,16 @@
       "updatedAt": 1736035416
     },
     "license": "BSD 3-Clause \"New\" or \"Revised\" License",
-    "forks": 2982,
+    "forks": 2983,
     "primaryLanguage": "CSS",
-    "pushedAt": "2025-01-03T21:48:01.000Z",
+    "pushedAt": "2025-01-05T14:17:38.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-08-01T21:43:32.000Z",
-    "updatedAt": "2025-01-04T15:11:32.000Z"
+    "updatedAt": "2025-01-05T18:14:08.000Z"
   },
   {
     "id": "olexale/flutter_roadmap",
@@ -847,7 +847,7 @@
       "name": "olexale",
       "avatarUrl": "https://avatars.githubusercontent.com/u/4376913?v=4"
     },
-    "stars": 5557,
+    "stars": 5559,
     "starsDetail": {
       "total": 5557,
       "week": 6,
@@ -869,7 +869,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2020-04-05T14:31:06.000Z",
-    "updatedAt": "2025-01-04T15:11:15.000Z"
+    "updatedAt": "2025-01-05T18:13:48.000Z"
   },
   {
     "id": "KarimElghamry/chillify",
@@ -904,7 +904,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-05-25T14:11:36.000Z",
-    "updatedAt": "2025-01-04T15:12:04.000Z"
+    "updatedAt": "2025-01-05T18:14:45.000Z"
   },
   {
     "id": "OneSignal/OneSignal-Flutter-SDK",
@@ -942,7 +942,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-07-09T21:18:34.000Z",
-    "updatedAt": "2025-01-04T15:11:49.000Z"
+    "updatedAt": "2025-01-05T18:14:28.000Z"
   },
   {
     "id": "boyan01/flutter-tetris",
@@ -978,7 +978,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-01-11T04:31:56.000Z",
-    "updatedAt": "2025-01-04T15:12:00.000Z"
+    "updatedAt": "2025-01-05T18:14:40.000Z"
   },
   {
     "id": "fluttercandies/flutter_photo_manager",
@@ -1016,7 +1016,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-09-10T09:59:38.000Z",
-    "updatedAt": "2025-01-04T15:11:38.000Z"
+    "updatedAt": "2025-01-05T18:14:15.000Z"
   },
   {
     "id": "jaweii/Flutter_beautiful_popup",
@@ -1027,7 +1027,7 @@
       "name": "jaweii",
       "avatarUrl": "https://avatars.githubusercontent.com/u/22613580?v=4"
     },
-    "stars": 686,
+    "stars": 687,
     "starsDetail": {
       "total": 686,
       "week": 1,
@@ -1045,7 +1045,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-12-05T07:04:14.000Z",
-    "updatedAt": "2025-01-04T15:11:18.000Z"
+    "updatedAt": "2025-01-05T18:13:52.000Z"
   },
   {
     "id": "jesusrp98/spacex-go",
@@ -1070,7 +1070,7 @@
       "updatedAt": 1736035502
     },
     "license": "GNU General Public License v3.0",
-    "forks": 252,
+    "forks": 253,
     "primaryLanguage": "Objective-C",
     "pushedAt": "2024-03-28T22:03:32.000Z",
     "archived": false,
@@ -1079,7 +1079,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-06-29T21:51:06.000Z",
-    "updatedAt": "2025-01-04T15:12:04.000Z"
+    "updatedAt": "2025-01-05T18:14:45.000Z"
   },
   {
     "id": "pauldemarco/flutter_blue",
@@ -1112,7 +1112,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-06-05T05:47:02.000Z",
-    "updatedAt": "2025-01-04T15:11:47.000Z"
+    "updatedAt": "2025-01-05T18:14:26.000Z"
   },
   {
     "id": "simolus3/drift",
@@ -1130,7 +1130,7 @@
       "name": "simolus3",
       "avatarUrl": "https://avatars.githubusercontent.com/u/5738860?v=4"
     },
-    "stars": 2725,
+    "stars": 2726,
     "starsDetail": {
       "total": 2725,
       "week": 14,
@@ -1141,14 +1141,14 @@
     "license": "MIT License",
     "forks": 378,
     "primaryLanguage": "Objective-C",
-    "pushedAt": "2025-01-02T22:47:55.000Z",
+    "pushedAt": "2025-01-05T04:09:58.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-02-03T12:42:56.000Z",
-    "updatedAt": "2025-01-04T12:03:00.000Z"
+    "updatedAt": "2025-01-05T13:35:26.000Z"
   },
   {
     "id": "bdlukaa/fluent_ui",
@@ -1169,7 +1169,7 @@
       "name": "bdlukaa",
       "avatarUrl": "https://avatars.githubusercontent.com/u/45696119?v=4"
     },
-    "stars": 3033,
+    "stars": 3036,
     "starsDetail": {
       "total": 3033,
       "week": 10,
@@ -1187,7 +1187,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2020-12-19T12:36:20.000Z",
-    "updatedAt": "2025-01-04T15:12:12.000Z"
+    "updatedAt": "2025-01-05T18:14:55.000Z"
   },
   {
     "id": "leancodepl/patrol",
@@ -1226,7 +1226,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2022-05-25T11:44:09.000Z",
-    "updatedAt": "2025-01-04T15:11:56.000Z"
+    "updatedAt": "2025-01-05T18:14:36.000Z"
   },
   {
     "id": "serverpod/serverpod",
@@ -1255,7 +1255,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2021-05-22T12:01:45.000Z",
-    "updatedAt": "2025-01-04T15:11:54.000Z"
+    "updatedAt": "2025-01-05T18:14:34.000Z"
   },
   {
     "id": "LanarsInc/direct-select-flutter",
@@ -1290,7 +1290,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-03-15T09:51:29.000Z",
-    "updatedAt": "2025-01-04T15:11:18.000Z"
+    "updatedAt": "2025-01-05T18:13:51.000Z"
   },
   {
     "id": "bitsdojo/bitsdojo_window",
@@ -1310,7 +1310,7 @@
       "updatedAt": 1736035526
     },
     "license": "MIT License",
-    "forks": 230,
+    "forks": 231,
     "primaryLanguage": "Objective-C",
     "pushedAt": "2023-12-24T00:42:49.000Z",
     "archived": false,
@@ -1319,7 +1319,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2020-11-27T21:01:55.000Z",
-    "updatedAt": "2025-01-04T15:12:12.000Z"
+    "updatedAt": "2025-01-05T18:14:54.000Z"
   },
   {
     "id": "boeledi/flutter_crush",
@@ -1348,7 +1348,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-11-07T02:03:35.000Z",
-    "updatedAt": "2025-01-04T15:11:59.000Z"
+    "updatedAt": "2025-01-05T18:14:40.000Z"
   },
   {
     "id": "dnfield/flutter_svg",
@@ -1382,7 +1382,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-03-12T04:21:33.000Z",
-    "updatedAt": "2025-01-04T15:11:31.000Z"
+    "updatedAt": "2025-01-05T18:14:06.000Z"
   },
   {
     "id": "florent37/Flutter-AssetsAudioPlayer",
@@ -1431,7 +1431,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-01-24T10:38:56.000Z",
-    "updatedAt": "2025-01-04T15:11:39.000Z"
+    "updatedAt": "2025-01-05T18:14:16.000Z"
   },
   {
     "id": "janoodleFTW/timy-messenger",
@@ -1470,7 +1470,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-10-01T12:06:13.000Z",
-    "updatedAt": "2025-01-04T15:12:05.000Z"
+    "updatedAt": "2025-01-05T18:14:46.000Z"
   },
   {
     "id": "rrousselGit/functional_widget",
@@ -1487,7 +1487,7 @@
       "name": "rrousselGit",
       "avatarUrl": "https://avatars.githubusercontent.com/u/20165741?v=4"
     },
-    "stars": 601,
+    "stars": 602,
     "starsDetail": {
       "total": 601,
       "week": [
@@ -1509,7 +1509,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-12-01T17:28:50.000Z",
-    "updatedAt": "2025-01-04T15:11:52.000Z"
+    "updatedAt": "2025-01-05T18:14:31.000Z"
   },
   {
     "id": "trentpiercy/trace",
@@ -1543,7 +1543,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-04-01T06:45:33.000Z",
-    "updatedAt": "2025-01-04T15:12:02.000Z"
+    "updatedAt": "2025-01-05T18:14:43.000Z"
   },
   {
     "id": "GitJournal/GitJournal",
@@ -1565,7 +1565,7 @@
       "name": "GitJournal",
       "avatarUrl": "https://avatars.githubusercontent.com/u/46486395?v=4"
     },
-    "stars": 3542,
+    "stars": 3543,
     "starsDetail": {
       "total": 3542,
       "week": 13,
@@ -1583,7 +1583,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-01-10T11:27:18.000Z",
-    "updatedAt": "2025-01-04T15:12:05.000Z"
+    "updatedAt": "2025-01-05T18:14:46.000Z"
   },
   {
     "id": "TheAlphamerc/flutter_twitter_clone",
@@ -1605,7 +1605,7 @@
       "name": "TheAlphamerc",
       "avatarUrl": "https://avatars.githubusercontent.com/u/37103237?v=4"
     },
-    "stars": 3971,
+    "stars": 3970,
     "starsDetail": {
       "total": 3971,
       "week": 5,
@@ -1623,7 +1623,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-12-25T05:56:37.000Z",
-    "updatedAt": "2025-01-04T15:12:06.000Z"
+    "updatedAt": "2025-01-05T18:14:48.000Z"
   },
   {
     "id": "flutter/gallery",
@@ -1637,7 +1637,7 @@
       "name": "flutter",
       "avatarUrl": "https://avatars.githubusercontent.com/u/14101776?v=4"
     },
-    "stars": 6436,
+    "stars": 6437,
     "starsDetail": {
       "total": 6436,
       "week": 5,
@@ -1655,7 +1655,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2020-03-05T17:46:11.000Z",
-    "updatedAt": "2025-01-04T15:11:16.000Z"
+    "updatedAt": "2025-01-05T18:13:49.000Z"
   },
   {
     "id": "nisrulz/flutter-examples",
@@ -1681,7 +1681,7 @@
       "name": "nisrulz",
       "avatarUrl": "https://avatars.githubusercontent.com/u/2096087?v=4"
     },
-    "stars": 7004,
+    "stars": 7003,
     "starsDetail": {
       "total": 7004,
       "week": 9,
@@ -1699,7 +1699,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-08-11T08:11:07.000Z",
-    "updatedAt": "2025-01-04T15:11:15.000Z"
+    "updatedAt": "2025-01-05T18:13:49.000Z"
   },
   {
     "id": "pichillilorenzo/flutter_inappwebview",
@@ -1731,7 +1731,7 @@
       "name": "pichillilorenzo",
       "avatarUrl": "https://avatars.githubusercontent.com/u/5956938?v=4"
     },
-    "stars": 3352,
+    "stars": 3353,
     "starsDetail": {
       "total": 3352,
       "week": 9,
@@ -1749,7 +1749,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-09-14T00:21:29.000Z",
-    "updatedAt": "2025-01-04T15:11:47.000Z"
+    "updatedAt": "2025-01-05T18:14:25.000Z"
   },
   {
     "id": "AndreHaueisen/flushbar",
@@ -1778,7 +1778,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-05-23T22:32:20.000Z",
-    "updatedAt": "2025-01-04T15:11:16.000Z"
+    "updatedAt": "2025-01-05T18:13:50.000Z"
   },
   {
     "id": "brianegan/flutter_redux",
@@ -1812,7 +1812,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-11-25T14:48:13.000Z",
-    "updatedAt": "2025-01-04T15:11:51.000Z"
+    "updatedAt": "2025-01-05T18:14:31.000Z"
   },
   {
     "id": "entronad/flutter_echarts",
@@ -1853,7 +1853,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-07-05T06:38:53.000Z",
-    "updatedAt": "2025-01-04T15:11:35.000Z"
+    "updatedAt": "2025-01-05T18:14:11.000Z"
   },
   {
     "id": "felixblaschke/simple_animations",
@@ -1882,7 +1882,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-03-30T17:38:22.000Z",
-    "updatedAt": "2025-01-04T15:11:56.000Z"
+    "updatedAt": "2025-01-05T18:14:35.000Z"
   },
   {
     "id": "go-flutter-desktop/go-flutter",
@@ -1923,7 +1923,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-08-19T22:04:27.000Z",
-    "updatedAt": "2025-01-04T15:12:11.000Z"
+    "updatedAt": "2025-01-05T18:14:53.000Z"
   },
   {
     "id": "hanshengchiu/reorderables",
@@ -1952,7 +1952,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-02-12T15:47:01.000Z",
-    "updatedAt": "2025-01-04T15:11:22.000Z"
+    "updatedAt": "2025-01-05T18:13:56.000Z"
   },
   {
     "id": "iamSahdeep/liquid_swipe_flutter",
@@ -1990,7 +1990,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-07-06T16:57:57.000Z",
-    "updatedAt": "2025-01-04T15:11:29.000Z"
+    "updatedAt": "2025-01-05T18:14:04.000Z"
   },
   {
     "id": "roipeker/graphx",
@@ -2024,7 +2024,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2020-10-21T04:13:57.000Z",
-    "updatedAt": "2025-01-04T15:11:58.000Z"
+    "updatedAt": "2025-01-05T18:14:37.000Z"
   },
   {
     "id": "serenader2014/flutter_carousel_slider",
@@ -2059,7 +2059,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-04-16T17:05:04.000Z",
-    "updatedAt": "2025-01-04T15:11:31.000Z"
+    "updatedAt": "2025-01-05T18:14:06.000Z"
   },
   {
     "id": "flame-engine/flame",
@@ -2088,16 +2088,16 @@
       "updatedAt": 1736035487
     },
     "license": "MIT License",
-    "forks": 932,
+    "forks": 931,
     "primaryLanguage": "HTML",
-    "pushedAt": "2025-01-03T13:14:52.000Z",
+    "pushedAt": "2025-01-05T02:08:57.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-10-22T03:01:50.000Z",
-    "updatedAt": "2025-01-04T15:11:58.000Z"
+    "updatedAt": "2025-01-05T18:14:38.000Z"
   },
   {
     "id": "authpass/authpass",
@@ -2146,7 +2146,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-08-22T09:05:36.000Z",
-    "updatedAt": "2025-01-04T15:12:05.000Z"
+    "updatedAt": "2025-01-05T18:14:47.000Z"
   },
   {
     "id": "flame-engine/awesome-flame",
@@ -2184,7 +2184,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-10-01T13:53:01.000Z",
-    "updatedAt": "2025-01-04T15:12:00.000Z"
+    "updatedAt": "2025-01-05T18:14:40.000Z"
   },
   {
     "id": "ardera/flutter-pi",
@@ -2201,7 +2201,7 @@
       "name": "ardera",
       "avatarUrl": "https://avatars.githubusercontent.com/u/2488440?v=4"
     },
-    "stars": 1665,
+    "stars": 1666,
     "starsDetail": {
       "total": 1665,
       "week": 1,
@@ -2219,7 +2219,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-06-05T11:10:56.000Z",
-    "updatedAt": "2025-01-04T15:12:12.000Z"
+    "updatedAt": "2025-01-05T18:14:54.000Z"
   },
   {
     "id": "jogboms/flutter_offline",
@@ -2259,7 +2259,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-09-05T07:30:33.000Z",
-    "updatedAt": "2025-01-04T15:11:27.000Z"
+    "updatedAt": "2025-01-05T18:14:02.000Z"
   },
   {
     "id": "invertase/melos",
@@ -2277,7 +2277,7 @@
       "name": "invertase",
       "avatarUrl": "https://avatars.githubusercontent.com/u/13588260?v=4"
     },
-    "stars": 1211,
+    "stars": 1213,
     "starsDetail": {
       "total": 1211,
       "week": 7,
@@ -2295,7 +2295,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2020-04-29T20:28:27.000Z",
-    "updatedAt": "2025-01-04T15:12:10.000Z"
+    "updatedAt": "2025-01-05T18:14:52.000Z"
   },
   {
     "id": "rrousselGit/provider",
@@ -2312,7 +2312,7 @@
       "name": "rrousselGit",
       "avatarUrl": "https://avatars.githubusercontent.com/u/20165741?v=4"
     },
-    "stars": 5132,
+    "stars": 5133,
     "starsDetail": {
       "total": 5132,
       "week": 4,
@@ -2330,7 +2330,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-10-19T11:58:50.000Z",
-    "updatedAt": "2025-01-04T15:11:50.000Z"
+    "updatedAt": "2025-01-05T18:14:29.000Z"
   },
   {
     "id": "rodydavis/signals.dart",
@@ -2347,7 +2347,7 @@
       "name": "rodydavis",
       "avatarUrl": "https://avatars.githubusercontent.com/u/31253215?v=4"
     },
-    "stars": 506,
+    "stars": 507,
     "starsDetail": {
       "total": 506,
       "week": 2,
@@ -2365,7 +2365,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2023-11-18T07:48:45.000Z",
-    "updatedAt": "2025-01-04T15:11:51.000Z"
+    "updatedAt": "2025-01-05T18:14:31.000Z"
   },
   {
     "id": "rrousselGit/flutter_hooks",
@@ -2401,7 +2401,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-11-30T18:26:39.000Z",
-    "updatedAt": "2025-01-04T15:11:52.000Z"
+    "updatedAt": "2025-01-05T18:14:31.000Z"
   },
   {
     "id": "CodemateLtd/FlutterMates",
@@ -2436,7 +2436,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-09-15T08:35:18.000Z",
-    "updatedAt": "2025-01-04T15:11:41.000Z"
+    "updatedAt": "2025-01-05T18:14:19.000Z"
   },
   {
     "id": "PhilipsHue/flutter_reactive_ble",
@@ -2470,7 +2470,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-10-21T14:03:47.000Z",
-    "updatedAt": "2025-01-04T15:11:48.000Z"
+    "updatedAt": "2025-01-05T18:14:26.000Z"
   },
   {
     "id": "codegrue/card_settings",
@@ -2506,7 +2506,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-07-26T20:32:41.000Z",
-    "updatedAt": "2025-01-04T15:11:19.000Z"
+    "updatedAt": "2025-01-05T18:13:53.000Z"
   },
   {
     "id": "creativecreatorormaybenot/funvas",
@@ -2540,7 +2540,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2020-11-05T00:45:56.000Z",
-    "updatedAt": "2025-01-04T15:11:56.000Z"
+    "updatedAt": "2025-01-05T18:14:36.000Z"
   },
   {
     "id": "dart-code-checker/dart-code-metrics",
@@ -2585,7 +2585,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2020-01-16T06:52:24.000Z",
-    "updatedAt": "2025-01-04T15:12:10.000Z"
+    "updatedAt": "2025-01-05T18:14:52.000Z"
   },
   {
     "id": "erluxman/awesomefluttertips",
@@ -2614,7 +2614,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2020-05-02T06:22:04.000Z",
-    "updatedAt": "2025-01-04T15:11:14.000Z"
+    "updatedAt": "2025-01-05T18:13:47.000Z"
   },
   {
     "id": "fluttercommunity/flutter_blurhash",
@@ -2647,7 +2647,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2020-02-21T18:02:50.000Z",
-    "updatedAt": "2025-01-04T15:11:27.000Z"
+    "updatedAt": "2025-01-05T18:14:02.000Z"
   },
   {
     "id": "flutterkit/zerker",
@@ -2684,7 +2684,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-08-22T09:07:15.000Z",
-    "updatedAt": "2025-01-04T15:11:58.000Z"
+    "updatedAt": "2025-01-05T18:14:39.000Z"
   },
   {
     "id": "fluttify-project/amap_map_fluttify",
@@ -2719,7 +2719,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-10-14T00:30:38.000Z",
-    "updatedAt": "2025-01-04T15:11:33.000Z"
+    "updatedAt": "2025-01-05T18:14:09.000Z"
   },
   {
     "id": "gql-dart/ferry",
@@ -2753,7 +2753,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-12-20T20:03:24.000Z",
-    "updatedAt": "2025-01-04T15:11:53.000Z"
+    "updatedAt": "2025-01-05T18:14:32.000Z"
   },
   {
     "id": "hnvn/flutter_image_cropper",
@@ -2773,7 +2773,7 @@
       "name": "hnvn",
       "avatarUrl": "https://avatars.githubusercontent.com/u/5468513?v=4"
     },
-    "stars": 1004,
+    "stars": 1005,
     "starsDetail": {
       "total": 1004,
       "week": 0,
@@ -2791,7 +2791,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-06-27T09:22:55.000Z",
-    "updatedAt": "2025-01-04T15:11:31.000Z"
+    "updatedAt": "2025-01-05T18:14:07.000Z"
   },
   {
     "id": "huextrat/TheGorgeousLogin",
@@ -2817,7 +2817,7 @@
       "updatedAt": 1736035440
     },
     "license": "MIT License",
-    "forks": 504,
+    "forks": 505,
     "primaryLanguage": "Objective-C",
     "pushedAt": "2023-12-15T14:47:55.000Z",
     "archived": false,
@@ -2826,7 +2826,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-09-13T13:53:09.000Z",
-    "updatedAt": "2025-01-04T15:11:42.000Z"
+    "updatedAt": "2025-01-05T18:14:19.000Z"
   },
   {
     "id": "nativeshell/nativeshell",
@@ -2862,7 +2862,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2021-04-09T19:45:58.000Z",
-    "updatedAt": "2025-01-04T15:12:11.000Z"
+    "updatedAt": "2025-01-05T18:14:53.000Z"
   },
   {
     "id": "parse-community/Parse-SDK-Flutter",
@@ -2898,7 +2898,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-08-29T11:41:32.000Z",
-    "updatedAt": "2025-01-04T15:11:54.000Z"
+    "updatedAt": "2025-01-05T18:14:33.000Z"
   },
   {
     "id": "tunitowen/fancy_bottom_navigation",
@@ -2932,7 +2932,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-01-05T06:44:29.000Z",
-    "updatedAt": "2025-01-04T15:11:24.000Z"
+    "updatedAt": "2025-01-05T18:13:59.000Z"
   },
   {
     "id": "flutter/samples",
@@ -2943,7 +2943,7 @@
       "name": "flutter",
       "avatarUrl": "https://avatars.githubusercontent.com/u/14101776?v=4"
     },
-    "stars": 17559,
+    "stars": 17566,
     "starsDetail": {
       "total": 17559,
       "week": 37,
@@ -2952,7 +2952,7 @@
       "updatedAt": 1736035496
     },
     "license": "Other",
-    "forks": 7601,
+    "forks": 7600,
     "primaryLanguage": "Makefile",
     "pushedAt": "2025-01-03T20:32:51.000Z",
     "archived": false,
@@ -2961,7 +2961,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-06-08T21:28:03.000Z",
-    "updatedAt": "2025-01-04T15:12:01.000Z"
+    "updatedAt": "2025-01-05T18:14:41.000Z"
   },
   {
     "id": "Milad-Akarie/auto_route_library",
@@ -2997,7 +2997,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-11-10T14:59:23.000Z",
-    "updatedAt": "2025-01-04T15:11:36.000Z"
+    "updatedAt": "2025-01-05T18:14:12.000Z"
   },
   {
     "id": "RafaelBarbosatec/bonfire",
@@ -3033,7 +3033,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2020-03-13T16:40:29.000Z",
-    "updatedAt": "2025-01-04T15:11:58.000Z"
+    "updatedAt": "2025-01-05T18:14:38.000Z"
   },
   {
     "id": "FlutterGen/flutter_gen",
@@ -3071,7 +3071,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2020-08-21T09:09:54.000Z",
-    "updatedAt": "2025-01-04T15:12:09.000Z"
+    "updatedAt": "2025-01-05T18:14:50.000Z"
   },
   {
     "id": "JideGuru/FlutterFoodybite",
@@ -3093,7 +3093,7 @@
       "name": "JideGuru",
       "avatarUrl": "https://avatars.githubusercontent.com/u/24323581?v=4"
     },
-    "stars": 1630,
+    "stars": 1631,
     "starsDetail": {
       "total": 1630,
       "week": 4,
@@ -3111,7 +3111,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-06-23T12:14:42.000Z",
-    "updatedAt": "2025-01-04T15:11:42.000Z"
+    "updatedAt": "2025-01-05T18:14:20.000Z"
   },
   {
     "id": "MaikuB/flutter_local_notifications",
@@ -3130,7 +3130,7 @@
       "name": "MaikuB",
       "avatarUrl": "https://avatars.githubusercontent.com/u/25263378?v=4"
     },
-    "stars": 2486,
+    "stars": 2487,
     "starsDetail": {
       "total": 2486,
       "week": 3,
@@ -3148,7 +3148,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-03-25T11:35:47.000Z",
-    "updatedAt": "2025-01-04T15:11:45.000Z"
+    "updatedAt": "2025-01-05T18:14:23.000Z"
   },
   {
     "id": "X-Wei/flutter_catalog",
@@ -3184,7 +3184,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-08-05T08:33:21.000Z",
-    "updatedAt": "2025-01-04T15:11:16.000Z"
+    "updatedAt": "2025-01-05T18:13:49.000Z"
   },
   {
     "id": "fluttercandies/flutter_wechat_assets_picker",
@@ -3223,7 +3223,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2020-03-26T03:59:21.000Z",
-    "updatedAt": "2025-01-04T15:11:33.000Z"
+    "updatedAt": "2025-01-05T18:14:08.000Z"
   },
   {
     "id": "Milad-Akarie/smooth_page_indicator",
@@ -3252,7 +3252,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-12-28T19:35:58.000Z",
-    "updatedAt": "2025-01-04T15:11:21.000Z"
+    "updatedAt": "2025-01-05T18:13:55.000Z"
   },
   {
     "id": "jamesblasco/modal_bottom_sheet",
@@ -3288,7 +3288,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2020-04-06T12:30:38.000Z",
-    "updatedAt": "2025-01-04T15:11:26.000Z"
+    "updatedAt": "2025-01-05T18:14:00.000Z"
   },
   {
     "id": "tekartik/sqflite",
@@ -3299,7 +3299,7 @@
       "name": "tekartik",
       "avatarUrl": "https://avatars.githubusercontent.com/u/2605412?v=4"
     },
-    "stars": 2897,
+    "stars": 2898,
     "starsDetail": {
       "total": 2897,
       "week": 5,
@@ -3317,7 +3317,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-05-22T08:15:53.000Z",
-    "updatedAt": "2025-01-04T15:11:49.000Z"
+    "updatedAt": "2025-01-05T18:14:27.000Z"
   },
   {
     "id": "aleksanderwozniak/table_calendar",
@@ -3356,7 +3356,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-02-22T13:09:29.000Z",
-    "updatedAt": "2025-01-04T15:11:29.000Z"
+    "updatedAt": "2025-01-05T18:14:05.000Z"
   },
   {
     "id": "jogboms/flutter_spinkit",
@@ -3398,7 +3398,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-06-25T09:30:45.000Z",
-    "updatedAt": "2025-01-04T15:11:54.000Z"
+    "updatedAt": "2025-01-05T18:14:34.000Z"
   },
   {
     "id": "leanflutter/awesome-flutter-desktop",
@@ -3418,7 +3418,7 @@
       "name": "leanflutter",
       "avatarUrl": "https://avatars.githubusercontent.com/u/67750077?v=4"
     },
-    "stars": 1580,
+    "stars": 1581,
     "starsDetail": {
       "total": 1580,
       "week": 3,
@@ -3436,7 +3436,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2021-09-02T07:28:07.000Z",
-    "updatedAt": "2025-01-04T15:12:13.000Z"
+    "updatedAt": "2025-01-05T18:14:56.000Z"
   },
   {
     "id": "leoafarias/sidekick",
@@ -3469,7 +3469,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2021-02-18T14:22:08.000Z",
-    "updatedAt": "2025-01-04T15:12:09.000Z"
+    "updatedAt": "2025-01-05T18:14:51.000Z"
   },
   {
     "id": "objectbox/objectbox-dart",
@@ -3494,7 +3494,7 @@
       "name": "objectbox",
       "avatarUrl": "https://avatars.githubusercontent.com/u/22327943?v=4"
     },
-    "stars": 1065,
+    "stars": 1068,
     "starsDetail": {
       "total": 1065,
       "week": 3,
@@ -3512,7 +3512,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-07-18T12:38:10.000Z",
-    "updatedAt": "2025-01-04T15:11:49.000Z"
+    "updatedAt": "2025-01-05T18:14:28.000Z"
   },
   {
     "id": "Idean/Flutter-Neumorphic",
@@ -3544,7 +3544,7 @@
       "name": "Idean",
       "avatarUrl": "https://avatars.githubusercontent.com/u/1050942?v=4"
     },
-    "stars": 2059,
+    "stars": 2060,
     "starsDetail": {
       "total": 2059,
       "week": 3,
@@ -3553,7 +3553,7 @@
       "updatedAt": 1736035377
     },
     "license": "Apache License 2.0",
-    "forks": 383,
+    "forks": 382,
     "primaryLanguage": "Objective-C",
     "pushedAt": "2024-05-18T09:35:40.000Z",
     "archived": false,
@@ -3562,7 +3562,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2020-02-19T14:49:02.000Z",
-    "updatedAt": "2025-01-04T15:11:19.000Z"
+    "updatedAt": "2025-01-05T18:13:52.000Z"
   },
   {
     "id": "entronad/graphic",
@@ -3604,7 +3604,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2020-02-22T08:36:12.000Z",
-    "updatedAt": "2025-01-04T15:11:35.000Z"
+    "updatedAt": "2025-01-05T18:14:11.000Z"
   },
   {
     "id": "flyerhq/flutter_chat_ui",
@@ -3623,7 +3623,7 @@
       "name": "flyerhq",
       "avatarUrl": "https://avatars.githubusercontent.com/u/59206044?v=4"
     },
-    "stars": 1682,
+    "stars": 1683,
     "starsDetail": {
       "total": 1682,
       "week": 2,
@@ -3641,7 +3641,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2020-08-30T18:20:18.000Z",
-    "updatedAt": "2025-01-04T15:11:20.000Z"
+    "updatedAt": "2025-01-05T18:13:55.000Z"
   },
   {
     "id": "letsar/flutter_slidable",
@@ -3675,7 +3675,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-07-15T07:52:25.000Z",
-    "updatedAt": "2025-01-04T15:11:27.000Z"
+    "updatedAt": "2025-01-05T18:14:03.000Z"
   },
   {
     "id": "letsar/flutter_staggered_grid_view",
@@ -3699,7 +3699,7 @@
       "updatedAt": 1736035388
     },
     "license": "MIT License",
-    "forks": 510,
+    "forks": 511,
     "primaryLanguage": "Dart",
     "pushedAt": "2024-06-05T17:44:36.000Z",
     "archived": false,
@@ -3708,7 +3708,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-02-09T11:03:20.000Z",
-    "updatedAt": "2025-01-04T15:11:23.000Z"
+    "updatedAt": "2025-01-05T18:13:58.000Z"
   },
   {
     "id": "xvrh/lottie-flutter",
@@ -3746,7 +3746,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2020-01-23T12:41:27.000Z",
-    "updatedAt": "2025-01-04T15:11:31.000Z"
+    "updatedAt": "2025-01-05T18:14:07.000Z"
   },
   {
     "id": "BayesWitnesses/m2cgen",
@@ -3777,7 +3777,7 @@
       "name": "BayesWitnesses",
       "avatarUrl": "https://avatars.githubusercontent.com/u/46638712?v=4"
     },
-    "stars": 2833,
+    "stars": 2834,
     "starsDetail": {
       "total": 2833,
       "week": 1,
@@ -3795,7 +3795,7 @@
     "goPackage": "",
     "goImportedBy": 0,
     "createdAt": "2019-01-13T02:32:55.000Z",
-    "updatedAt": "2025-01-04T22:44:41.000Z"
+    "updatedAt": "2025-01-06T01:30:10.000Z"
   },
   {
     "id": "Codelessly/ResponsiveFramework",
@@ -3841,7 +3841,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2020-02-16T00:06:39.000Z",
-    "updatedAt": "2025-01-04T15:11:57.000Z"
+    "updatedAt": "2025-01-05T18:14:37.000Z"
   },
   {
     "id": "VeryGoodOpenSource/very_good_cli",
@@ -3877,7 +3877,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2021-01-29T23:01:39.000Z",
-    "updatedAt": "2025-01-04T15:12:09.000Z"
+    "updatedAt": "2025-01-05T18:14:51.000Z"
   },
   {
     "id": "xsahil03x/before_after",
@@ -3913,7 +3913,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-07-15T07:42:22.000Z",
-    "updatedAt": "2025-01-04T15:11:18.000Z"
+    "updatedAt": "2025-01-05T18:13:52.000Z"
   },
   {
     "id": "forus-labs/forui",
@@ -3928,7 +3928,7 @@
       "name": "forus-labs",
       "avatarUrl": "https://avatars.githubusercontent.com/u/58653901?v=4"
     },
-    "stars": 631,
+    "stars": 633,
     "starsDetail": {
       "total": 631,
       "week": 11,
@@ -3939,14 +3939,14 @@
     "license": "Other",
     "forks": 27,
     "primaryLanguage": "Objective-C",
-    "pushedAt": "2025-01-03T09:25:00.000Z",
+    "pushedAt": "2025-01-05T14:47:47.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-02-25T08:51:32.000Z",
-    "updatedAt": "2025-01-04T15:11:21.000Z"
+    "updatedAt": "2025-01-05T18:13:56.000Z"
   },
   {
     "id": "diegoveloper/flutter-samples",
@@ -3975,7 +3975,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-07-03T05:34:00.000Z",
-    "updatedAt": "2025-01-04T15:11:43.000Z"
+    "updatedAt": "2025-01-05T18:14:20.000Z"
   },
   {
     "id": "pd4d10/git-touch",
@@ -4016,7 +4016,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-04-18T12:26:00.000Z",
-    "updatedAt": "2025-01-04T15:11:44.000Z"
+    "updatedAt": "2025-01-05T18:14:21.000Z"
   },
   {
     "id": "burhanrashid52/WhatTodo",
@@ -4055,7 +4055,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-04-18T05:09:45.000Z",
-    "updatedAt": "2025-01-04T15:12:01.000Z"
+    "updatedAt": "2025-01-05T18:14:42.000Z"
   },
   {
     "id": "pedromassango/bottom_navy_bar",
@@ -4082,7 +4082,7 @@
       "updatedAt": 1736035392
     },
     "license": "Apache License 2.0",
-    "forks": 219,
+    "forks": 218,
     "primaryLanguage": "Objective-C",
     "pushedAt": "2024-12-14T13:47:16.000Z",
     "archived": false,
@@ -4091,7 +4091,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-01-31T22:00:37.000Z",
-    "updatedAt": "2025-01-04T15:11:25.000Z"
+    "updatedAt": "2025-01-05T18:13:59.000Z"
   },
   {
     "id": "Ali-Azmoud/flutter_xlider",
@@ -4124,7 +4124,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-02-23T00:23:57.000Z",
-    "updatedAt": "2025-01-04T15:11:26.000Z"
+    "updatedAt": "2025-01-05T18:14:01.000Z"
   },
   {
     "id": "bosskmk/pluto_grid",
@@ -4156,7 +4156,7 @@
       "updatedAt": 1736035387
     },
     "license": "MIT License",
-    "forks": 328,
+    "forks": 329,
     "primaryLanguage": "Objective-C",
     "pushedAt": "2024-08-12T13:56:28.000Z",
     "archived": false,
@@ -4165,7 +4165,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2020-08-16T07:35:41.000Z",
-    "updatedAt": "2025-01-04T15:11:23.000Z"
+    "updatedAt": "2025-01-05T18:13:57.000Z"
   },
   {
     "id": "pawlik92/flutter_whirlpool",
@@ -4206,7 +4206,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2020-04-25T16:01:40.000Z",
-    "updatedAt": "2025-01-04T15:11:43.000Z"
+    "updatedAt": "2025-01-05T18:14:21.000Z"
   },
   {
     "id": "slovnicki/beamer",
@@ -4240,7 +4240,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2021-01-08T18:39:40.000Z",
-    "updatedAt": "2025-01-04T15:11:35.000Z"
+    "updatedAt": "2025-01-05T18:14:12.000Z"
   },
   {
     "id": "Dn-a/flutter_inner_drawer",
@@ -4269,7 +4269,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-02-12T12:27:49.000Z",
-    "updatedAt": "2025-01-04T15:11:24.000Z"
+    "updatedAt": "2025-01-05T18:13:59.000Z"
   },
   {
     "id": "matthewtory/trinity-orientation-2018",
@@ -4298,7 +4298,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-09-30T21:55:27.000Z",
-    "updatedAt": "2025-01-04T15:12:03.000Z"
+    "updatedAt": "2025-01-05T18:14:44.000Z"
   },
   {
     "id": "mcrovero/rubber",
@@ -4318,7 +4318,7 @@
       "updatedAt": 1736035393
     },
     "license": "BSD 2-Clause \"Simplified\" License",
-    "forks": 88,
+    "forks": 89,
     "primaryLanguage": "Objective-C",
     "pushedAt": "2023-08-23T15:56:06.000Z",
     "archived": false,
@@ -4327,7 +4327,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-12-16T01:25:27.000Z",
-    "updatedAt": "2025-01-04T15:11:25.000Z"
+    "updatedAt": "2025-01-05T18:14:00.000Z"
   },
   {
     "id": "AmitJoki/Enigma",
@@ -4359,7 +4359,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-04-18T13:09:17.000Z",
-    "updatedAt": "2025-01-04T15:12:04.000Z"
+    "updatedAt": "2025-01-05T18:14:45.000Z"
   },
   {
     "id": "AngeloAvv/flutter_flavorizr",
@@ -4398,7 +4398,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2020-05-09T09:30:46.000Z",
-    "updatedAt": "2025-01-04T15:12:08.000Z"
+    "updatedAt": "2025-01-05T18:14:49.000Z"
   },
   {
     "id": "BertrandBev/code_field",
@@ -4433,7 +4433,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2021-03-06T16:52:18.000Z",
-    "updatedAt": "2025-01-04T15:11:37.000Z"
+    "updatedAt": "2025-01-05T18:14:14.000Z"
   },
   {
     "id": "Clancey/simple_auth",
@@ -4464,7 +4464,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-06-07T19:14:50.000Z",
-    "updatedAt": "2025-01-04T15:11:36.000Z"
+    "updatedAt": "2025-01-05T18:14:12.000Z"
   },
   {
     "id": "DarshanGowda0/GeoFlutterFire",
@@ -4496,7 +4496,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-01-17T10:24:24.000Z",
-    "updatedAt": "2025-01-04T15:11:53.000Z"
+    "updatedAt": "2025-01-05T18:14:32.000Z"
   },
   {
     "id": "DrPaulT/flutter-engine-test",
@@ -4521,7 +4521,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-11-23T14:00:46.000Z",
-    "updatedAt": "2025-01-04T15:12:03.000Z"
+    "updatedAt": "2025-01-05T18:14:44.000Z"
   },
   {
     "id": "GigaDroid/flutter_udid",
@@ -4546,7 +4546,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-08-16T17:39:10.000Z",
-    "updatedAt": "2025-01-04T15:11:46.000Z"
+    "updatedAt": "2025-01-05T18:14:24.000Z"
   },
   {
     "id": "Jamalianpour/time_planner",
@@ -4576,7 +4576,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2021-03-22T16:12:24.000Z",
-    "updatedAt": "2025-01-04T15:11:30.000Z"
+    "updatedAt": "2025-01-05T18:14:05.000Z"
   },
   {
     "id": "JideGuru/flutter_drawing_board",
@@ -4608,7 +4608,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2022-10-18T21:13:48.000Z",
-    "updatedAt": "2025-01-04T15:12:07.000Z"
+    "updatedAt": "2025-01-05T18:14:48.000Z"
   },
   {
     "id": "JonathanMonga/flutter_shine.dart",
@@ -4639,7 +4639,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2020-01-21T00:01:20.000Z",
-    "updatedAt": "2025-01-04T15:11:29.000Z"
+    "updatedAt": "2025-01-05T18:14:04.000Z"
   },
   {
     "id": "KRTirtho/spotube",
@@ -4665,21 +4665,21 @@
       "name": "KRTirtho",
       "avatarUrl": "https://avatars.githubusercontent.com/u/61944859?v=4"
     },
-    "stars": 33351,
+    "stars": 33387,
     "starsDetail": {
-      "total": 33351
+      "total": 33387
     },
     "license": "Other",
-    "forks": 1393,
+    "forks": 1396,
     "primaryLanguage": "Objective-C",
-    "pushedAt": "2025-01-04T14:34:51.000Z",
+    "pushedAt": "2025-01-05T11:12:09.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2021-02-14T03:17:58.000Z",
-    "updatedAt": "2025-01-04T15:12:00.000Z"
+    "updatedAt": "2025-01-05T18:14:41.000Z"
   },
   {
     "id": "KingWu/gen_lang",
@@ -4712,7 +4712,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-05-20T15:35:25.000Z",
-    "updatedAt": "2025-01-04T15:11:38.000Z"
+    "updatedAt": "2025-01-05T18:14:15.000Z"
   },
   {
     "id": "LeGoffMael/video_editor",
@@ -4744,7 +4744,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2020-12-20T04:24:28.000Z",
-    "updatedAt": "2025-01-04T15:11:40.000Z"
+    "updatedAt": "2025-01-05T18:14:16.000Z"
   },
   {
     "id": "MaikuB/flutter_appauth",
@@ -4775,7 +4775,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-02-03T06:07:55.000Z",
-    "updatedAt": "2025-01-04T15:11:36.000Z"
+    "updatedAt": "2025-01-05T18:14:13.000Z"
   },
   {
     "id": "RafaelBarbosatec/hidden_drawer_menu",
@@ -4800,7 +4800,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-11-18T14:05:28.000Z",
-    "updatedAt": "2025-01-04T15:11:24.000Z"
+    "updatedAt": "2025-01-05T18:13:58.000Z"
   },
   {
     "id": "Rahiche/stepper_touch",
@@ -4825,7 +4825,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-09-28T09:35:04.000Z",
-    "updatedAt": "2025-01-04T15:11:17.000Z"
+    "updatedAt": "2025-01-05T18:13:50.000Z"
   },
   {
     "id": "RedBrogdon/flutterflip",
@@ -4850,7 +4850,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-01-22T17:24:10.000Z",
-    "updatedAt": "2025-01-04T15:11:59.000Z"
+    "updatedAt": "2025-01-05T18:14:39.000Z"
   },
   {
     "id": "TatsuUkraine/dart_environment_config",
@@ -4884,7 +4884,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2020-02-23T21:07:41.000Z",
-    "updatedAt": "2025-01-04T15:12:07.000Z"
+    "updatedAt": "2025-01-05T18:14:49.000Z"
   },
   {
     "id": "aeyrium/bezier-chart",
@@ -4909,7 +4909,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-06-03T01:01:14.000Z",
-    "updatedAt": "2025-01-04T15:11:34.000Z"
+    "updatedAt": "2025-01-05T18:14:10.000Z"
   },
   {
     "id": "aldycool/NETCoreSync",
@@ -4943,7 +4943,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-06-03T17:47:44.000Z",
-    "updatedAt": "2025-01-04T15:11:54.000Z"
+    "updatedAt": "2025-01-05T18:14:33.000Z"
   },
   {
     "id": "aloisdeniel/flutter_geocoder",
@@ -4973,7 +4973,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-02-04T20:28:39.000Z",
-    "updatedAt": "2025-01-04T15:11:33.000Z"
+    "updatedAt": "2025-01-05T18:14:09.000Z"
   },
   {
     "id": "antz22/ultimate-guide-to-flutter",
@@ -4993,9 +4993,9 @@
       "name": "antz22",
       "avatarUrl": "https://avatars.githubusercontent.com/u/59377837?v=4"
     },
-    "stars": 389,
+    "stars": 390,
     "starsDetail": {
-      "total": 389
+      "total": 390
     },
     "license": null,
     "forks": 45,
@@ -5007,7 +5007,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2021-08-03T04:17:11.000Z",
-    "updatedAt": "2025-01-04T15:11:15.000Z"
+    "updatedAt": "2025-01-05T18:13:48.000Z"
   },
   {
     "id": "biocarl/drawing_animation",
@@ -5038,7 +5038,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-02-12T12:49:16.000Z",
-    "updatedAt": "2025-01-04T15:11:55.000Z"
+    "updatedAt": "2025-01-05T18:14:35.000Z"
   },
   {
     "id": "boeledi/RangeSlider",
@@ -5063,7 +5063,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-07-29T02:52:13.000Z",
-    "updatedAt": "2025-01-04T15:11:26.000Z"
+    "updatedAt": "2025-01-05T18:14:01.000Z"
   },
   {
     "id": "britannio/in_app_review",
@@ -5091,7 +5091,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2020-08-05T17:16:30.000Z",
-    "updatedAt": "2025-01-04T15:11:49.000Z"
+    "updatedAt": "2025-01-05T18:14:28.000Z"
   },
   {
     "id": "builttoroam/device_calendar",
@@ -5116,7 +5116,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-05-16T06:59:52.000Z",
-    "updatedAt": "2025-01-04T15:11:45.000Z"
+    "updatedAt": "2025-01-05T18:14:24.000Z"
   },
   {
     "id": "bus710/matrix2",
@@ -5141,7 +5141,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-06-01T18:34:24.000Z",
-    "updatedAt": "2025-01-04T15:12:14.000Z"
+    "updatedAt": "2025-01-05T18:14:57.000Z"
   },
   {
     "id": "chrisedg87/flutter_rounded_loading_button",
@@ -5166,7 +5166,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2020-01-23T15:11:42.000Z",
-    "updatedAt": "2025-01-04T15:11:20.000Z"
+    "updatedAt": "2025-01-05T18:13:54.000Z"
   },
   {
     "id": "dreamsoftin/facebook_audience_network",
@@ -5200,7 +5200,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-04-27T05:46:07.000Z",
-    "updatedAt": "2025-01-04T15:11:40.000Z"
+    "updatedAt": "2025-01-05T18:14:18.000Z"
   },
   {
     "id": "fayeed/flutter_parsed_text",
@@ -5231,7 +5231,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-06-22T09:02:55.000Z",
-    "updatedAt": "2025-01-04T15:11:37.000Z"
+    "updatedAt": "2025-01-05T18:14:14.000Z"
   },
   {
     "id": "fkirc/attranslate",
@@ -5247,9 +5247,9 @@
       "name": "fkirc",
       "avatarUrl": "https://avatars.githubusercontent.com/u/17876666?v=4"
     },
-    "stars": 338,
+    "stars": 339,
     "starsDetail": {
-      "total": 338
+      "total": 339
     },
     "license": "Other",
     "forks": 27,
@@ -5261,7 +5261,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2020-09-15T08:51:45.000Z",
-    "updatedAt": "2025-01-04T22:44:28.000Z"
+    "updatedAt": "2025-01-06T01:29:56.000Z"
   },
   {
     "id": "fleather-editor/fleather",
@@ -5291,7 +5291,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2022-05-30T09:18:18.000Z",
-    "updatedAt": "2025-01-04T15:11:37.000Z"
+    "updatedAt": "2025-01-05T18:14:13.000Z"
   },
   {
     "id": "fluttercommunity/backdrop",
@@ -5324,7 +5324,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-07-25T14:24:30.000Z",
-    "updatedAt": "2025-01-04T15:11:28.000Z"
+    "updatedAt": "2025-01-05T18:14:03.000Z"
   },
   {
     "id": "fzyzcjy/flutter_convenient_test",
@@ -5355,7 +5355,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2022-05-03T08:50:02.000Z",
-    "updatedAt": "2025-01-04T15:11:56.000Z"
+    "updatedAt": "2025-01-05T18:14:36.000Z"
   },
   {
     "id": "g123k/flutter_app_badger",
@@ -5379,7 +5379,7 @@
       "total": 307
     },
     "license": "Apache License 2.0",
-    "forks": 178,
+    "forks": 179,
     "primaryLanguage": "Java",
     "pushedAt": "2024-07-11T23:56:39.000Z",
     "archived": true,
@@ -5388,7 +5388,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-04-10T19:17:31.000Z",
-    "updatedAt": "2025-01-04T15:11:46.000Z"
+    "updatedAt": "2025-01-05T18:14:24.000Z"
   },
   {
     "id": "giandifra/arcore_flutter_plugin",
@@ -5413,7 +5413,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-04-24T07:59:29.000Z",
-    "updatedAt": "2025-01-04T15:11:44.000Z"
+    "updatedAt": "2025-01-05T18:14:22.000Z"
   },
   {
     "id": "gregertw/actingweb_firstapp",
@@ -5453,7 +5453,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-02-23T18:31:06.000Z",
-    "updatedAt": "2025-01-04T15:11:43.000Z"
+    "updatedAt": "2025-01-05T18:14:21.000Z"
   },
   {
     "id": "hnvn/flutter_downloader",
@@ -5478,7 +5478,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-11-01T04:04:36.000Z",
-    "updatedAt": "2025-01-04T15:11:46.000Z"
+    "updatedAt": "2025-01-05T18:14:25.000Z"
   },
   {
     "id": "joanpablo/reactive_forms",
@@ -5509,7 +5509,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2020-06-25T03:00:13.000Z",
-    "updatedAt": "2025-01-04T15:11:38.000Z"
+    "updatedAt": "2025-01-05T18:14:14.000Z"
   },
   {
     "id": "jogboms/tailor_made",
@@ -5550,7 +5550,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-04-09T11:31:40.000Z",
-    "updatedAt": "2025-01-04T15:12:03.000Z"
+    "updatedAt": "2025-01-05T18:14:45.000Z"
   },
   {
     "id": "jpnurmi/awesome-flutter-linux",
@@ -5580,7 +5580,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2021-09-05T17:52:22.000Z",
-    "updatedAt": "2025-01-04T15:12:14.000Z"
+    "updatedAt": "2025-01-05T18:14:56.000Z"
   },
   {
     "id": "kmcgill88/admob_flutter",
@@ -5614,7 +5614,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-12-10T00:33:18.000Z",
-    "updatedAt": "2025-01-04T15:11:40.000Z"
+    "updatedAt": "2025-01-05T18:14:17.000Z"
   },
   {
     "id": "longhoang2984/flutter_payment_app_ui",
@@ -5645,7 +5645,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-09-26T12:06:28.000Z",
-    "updatedAt": "2025-01-04T15:11:42.000Z"
+    "updatedAt": "2025-01-05T18:14:19.000Z"
   },
   {
     "id": "marius-h/flutter_enhancement_suite",
@@ -5677,7 +5677,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-07-08T00:30:05.000Z",
-    "updatedAt": "2025-01-04T15:12:10.000Z"
+    "updatedAt": "2025-01-05T18:14:52.000Z"
   },
   {
     "id": "okadan/flutter-nfc-manager",
@@ -5707,7 +5707,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-09-22T06:48:30.000Z",
-    "updatedAt": "2025-01-04T15:11:48.000Z"
+    "updatedAt": "2025-01-05T18:14:27.000Z"
   },
   {
     "id": "pichillilorenzo/flutter_appavailability",
@@ -5741,7 +5741,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-09-12T11:05:40.000Z",
-    "updatedAt": "2025-01-04T15:11:47.000Z"
+    "updatedAt": "2025-01-05T18:14:25.000Z"
   },
   {
     "id": "ruskakimov/mooltik",
@@ -5779,7 +5779,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2020-08-05T15:05:03.000Z",
-    "updatedAt": "2025-01-04T15:12:06.000Z"
+    "updatedAt": "2025-01-05T18:14:48.000Z"
   },
   {
     "id": "rustdesk/rustdesk",
@@ -5811,12 +5811,12 @@
       "name": "rustdesk",
       "avatarUrl": "https://avatars.githubusercontent.com/u/71636191?v=4"
     },
-    "stars": 78656,
+    "stars": 78743,
     "starsDetail": {
-      "total": 78656
+      "total": 78743
     },
     "license": "GNU Affero General Public License v3.0",
-    "forks": 10981,
+    "forks": 10996,
     "primaryLanguage": "Objective-C",
     "pushedAt": "2025-01-02T14:19:30.000Z",
     "archived": false,
@@ -5825,7 +5825,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2020-09-28T15:36:08.000Z",
-    "updatedAt": "2025-01-04T22:48:11.000Z"
+    "updatedAt": "2025-01-06T01:33:43.000Z"
   },
   {
     "id": "rxlabz/speech_recognition",
@@ -5858,7 +5858,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-06-11T21:56:34.000Z",
-    "updatedAt": "2025-01-04T15:11:40.000Z"
+    "updatedAt": "2025-01-05T18:14:17.000Z"
   },
   {
     "id": "sbis04/video_trimmer",
@@ -5886,7 +5886,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2020-04-30T04:56:04.000Z",
-    "updatedAt": "2025-01-04T15:11:39.000Z"
+    "updatedAt": "2025-01-05T18:14:16.000Z"
   },
   {
     "id": "skkallayath/photofilters",
@@ -5922,7 +5922,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-10-10T13:12:32.000Z",
-    "updatedAt": "2025-01-04T15:11:29.000Z"
+    "updatedAt": "2025-01-05T18:14:04.000Z"
   },
   {
     "id": "square/in-app-payments-flutter-plugin",
@@ -5956,7 +5956,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-11-20T18:09:50.000Z",
-    "updatedAt": "2025-01-04T15:11:41.000Z"
+    "updatedAt": "2025-01-05T18:14:18.000Z"
   },
   {
     "id": "superlistapp/super_sliver_list",
@@ -5981,7 +5981,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2022-09-25T14:41:11.000Z",
-    "updatedAt": "2025-01-04T15:11:22.000Z"
+    "updatedAt": "2025-01-05T18:13:56.000Z"
   },
   {
     "id": "ubuntu/yaru.dart",
@@ -6010,7 +6010,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2021-11-08T14:55:39.000Z",
-    "updatedAt": "2025-01-04T15:12:13.000Z"
+    "updatedAt": "2025-01-05T18:14:55.000Z"
   },
   {
     "id": "westracer/fontify",
@@ -6042,7 +6042,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2020-06-06T18:01:53.000Z",
-    "updatedAt": "2025-01-04T15:12:08.000Z"
+    "updatedAt": "2025-01-05T18:14:50.000Z"
   },
   {
     "id": "whatsupcoders/Flutter-Interview-Questions",
@@ -6067,7 +6067,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-06-26T05:38:06.000Z",
-    "updatedAt": "2025-01-04T15:12:14.000Z"
+    "updatedAt": "2025-01-05T18:14:57.000Z"
   },
   {
     "id": "whatsupcoders/Whatsupcoders-flutter",
@@ -6092,7 +6092,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-05-27T06:17:27.000Z",
-    "updatedAt": "2025-01-04T15:12:14.000Z"
+    "updatedAt": "2025-01-05T18:14:57.000Z"
   },
   {
     "id": "xclud/flutter_crop",
@@ -6129,7 +6129,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2020-01-15T09:08:37.000Z",
-    "updatedAt": "2025-01-04T15:11:32.000Z"
+    "updatedAt": "2025-01-05T18:14:08.000Z"
   },
   {
     "id": "xclud/flutter_map",
@@ -6163,7 +6163,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2020-02-22T13:31:19.000Z",
-    "updatedAt": "2025-01-04T15:11:34.000Z"
+    "updatedAt": "2025-01-05T18:14:10.000Z"
   },
   {
     "id": "xqwzts/flutter_circular_chart",
@@ -6192,6 +6192,6 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-11-03T01:46:04.000Z",
-    "updatedAt": "2025-01-04T15:11:34.000Z"
+    "updatedAt": "2025-01-05T18:14:10.000Z"
   }
 ]
