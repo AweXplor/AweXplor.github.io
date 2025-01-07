@@ -7229,7 +7229,7 @@
       "name": "klaudiosinani",
       "avatarUrl": "https://avatars.githubusercontent.com/u/12670537?v=4"
     },
-    "stars": 8999,
+    "stars": 9000,
     "starsDetail": {
       "total": 8997,
       "week": 6,
@@ -7247,7 +7247,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-02-12T05:37:22.000Z",
-    "updatedAt": "2025-01-06T20:05:38.000Z"
+    "updatedAt": "2025-01-07T20:09:32.000Z"
   },
   {
     "id": "marionebl/svg-term-cli",
@@ -7407,7 +7407,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-05-22T08:13:16.000Z",
-    "updatedAt": "2025-01-06T20:05:36.000Z"
+    "updatedAt": "2025-01-07T20:09:31.000Z"
   },
   {
     "id": "apache/couchdb-nano",
@@ -10870,7 +10870,7 @@
       "name": "jimp-dev",
       "avatarUrl": "https://avatars.githubusercontent.com/u/124403982?v=4"
     },
-    "stars": 14122,
+    "stars": 14123,
     "starsDetail": {
       "total": 13988,
       "week": 22,
@@ -10888,7 +10888,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2014-09-13T22:53:45.000Z",
-    "updatedAt": "2025-01-06T20:05:33.000Z"
+    "updatedAt": "2025-01-07T20:09:29.000Z"
   },
   {
     "id": "knex/knex",
@@ -12300,7 +12300,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-12-22T13:48:47.000Z",
-    "updatedAt": "2025-01-06T20:05:35.000Z"
+    "updatedAt": "2025-01-07T20:09:30.000Z"
   },
   {
     "id": "SamVerschueren/mobisplash-cli",
@@ -12325,7 +12325,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-01-06T18:38:31.000Z",
-    "updatedAt": "2025-01-06T20:05:36.000Z"
+    "updatedAt": "2025-01-07T20:09:31.000Z"
   },
   {
     "id": "SamVerschueren/tz-format",
@@ -12625,7 +12625,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2014-03-09T22:28:16.000Z",
-    "updatedAt": "2025-01-06T20:05:39.000Z"
+    "updatedAt": "2025-01-07T20:09:32.000Z"
   },
   {
     "id": "aerospike/aerospike-client-nodejs",
@@ -14056,7 +14056,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-11-14T05:49:34.000Z",
-    "updatedAt": "2025-01-06T20:05:39.000Z"
+    "updatedAt": "2025-01-07T20:09:33.000Z"
   },
   {
     "id": "kalm/kalm.js",
