@@ -133,7 +133,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-11-09T09:43:47.000Z",
-    "updatedAt": "2025-01-06T13:45:20.000Z"
+    "updatedAt": "2025-01-07T13:49:10.000Z"
   },
   {
     "id": "timdonnelly/Advance",
@@ -992,7 +992,7 @@
       "name": "OpenCombine",
       "avatarUrl": "https://avatars.githubusercontent.com/u/56680246?v=4"
     },
-    "stars": 2736,
+    "stars": 2737,
     "starsDetail": {
       "total": 2736,
       "week": 0,
@@ -1010,7 +1010,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-06-11T06:33:37.000Z",
-    "updatedAt": "2025-01-06T13:44:47.000Z"
+    "updatedAt": "2025-01-07T13:48:38.000Z"
   },
   {
     "id": "Quick/Quick",
@@ -1486,7 +1486,7 @@
       "name": "kodecocodes",
       "avatarUrl": "https://avatars.githubusercontent.com/u/4722515?v=4"
     },
-    "stars": 28895,
+    "stars": 28896,
     "starsDetail": {
       "total": 28892,
       "week": 10,
@@ -1504,7 +1504,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-01-26T17:56:12.000Z",
-    "updatedAt": "2025-01-06T13:43:56.000Z"
+    "updatedAt": "2025-01-07T13:47:46.000Z"
   },
   {
     "id": "CosmicMind/Material",
@@ -2266,7 +2266,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-10-27T20:55:43.000Z",
-    "updatedAt": "2025-01-06T13:44:42.000Z"
+    "updatedAt": "2025-01-07T13:48:32.000Z"
   },
   {
     "id": "FlineDev/BartyCrouch",
@@ -2306,7 +2306,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-02-14T16:08:40.000Z",
-    "updatedAt": "2025-01-06T13:44:15.000Z"
+    "updatedAt": "2025-01-07T13:48:05.000Z"
   },
   {
     "id": "GottaGetSwifty/CodableWrappers",
@@ -2584,7 +2584,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-05-10T14:22:37.000Z",
-    "updatedAt": "2025-01-06T13:43:44.000Z"
+    "updatedAt": "2025-01-07T13:47:33.000Z"
   },
   {
     "id": "jathu/UIImageColors",
@@ -2881,7 +2881,7 @@
       "name": "ChartsOrg",
       "avatarUrl": "https://avatars.githubusercontent.com/u/79675592?v=4"
     },
-    "stars": 27671,
+    "stars": 27669,
     "starsDetail": {
       "total": 27668,
       "week": 13,
@@ -2890,7 +2890,7 @@
       "updatedAt": 1736033782
     },
     "license": "Apache License 2.0",
-    "forks": 6005,
+    "forks": 6004,
     "primaryLanguage": "C",
     "pushedAt": "2024-08-19T06:17:16.000Z",
     "archived": false,
@@ -2899,7 +2899,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-03-20T10:49:12.000Z",
-    "updatedAt": "2025-01-06T13:43:44.000Z"
+    "updatedAt": "2025-01-07T13:47:33.000Z"
   },
   {
     "id": "sindresorhus/Defaults",
@@ -2949,7 +2949,7 @@
       "name": "swiftlang",
       "avatarUrl": "https://avatars.githubusercontent.com/u/42816656?v=4"
     },
-    "stars": 9812,
+    "stars": 9816,
     "starsDetail": {
       "total": 9811,
       "week": 7,
@@ -2967,7 +2967,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-10-23T21:41:12.000Z",
-    "updatedAt": "2025-01-06T13:44:02.000Z"
+    "updatedAt": "2025-01-07T13:47:52.000Z"
   },
   {
     "id": "exyte/PopupView",
@@ -4584,7 +4584,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-07-15T18:29:21.000Z",
-    "updatedAt": "2025-01-06T13:43:43.000Z"
+    "updatedAt": "2025-01-07T13:47:32.000Z"
   },
   {
     "id": "ArtSabintsev/Zephyr",
@@ -4755,7 +4755,7 @@
       "name": "Kitura",
       "avatarUrl": "https://avatars.githubusercontent.com/u/42834347?v=4"
     },
-    "stars": 7628,
+    "stars": 7627,
     "starsDetail": {
       "total": 7628,
       "week": 2,
@@ -4773,7 +4773,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-02-08T16:12:21.000Z",
-    "updatedAt": "2025-01-06T13:44:57.000Z"
+    "updatedAt": "2025-01-07T13:48:47.000Z"
   },
   {
     "id": "Krisiacik/ImageViewer",
@@ -5075,7 +5075,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-10-31T03:51:23.000Z",
-    "updatedAt": "2025-01-06T13:43:59.000Z"
+    "updatedAt": "2025-01-07T13:47:48.000Z"
   },
   {
     "id": "hyperoslo/Presentation",
@@ -6442,7 +6442,7 @@
       "name": "realm",
       "avatarUrl": "https://avatars.githubusercontent.com/u/7575099?v=4"
     },
-    "stars": 16363,
+    "stars": 16365,
     "starsDetail": {
       "total": 16360,
       "week": 3,
@@ -6460,7 +6460,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2012-04-16T20:06:56.000Z",
-    "updatedAt": "2025-01-06T13:43:52.000Z"
+    "updatedAt": "2025-01-07T13:47:41.000Z"
   },
   {
     "id": "aheze/Popovers",
@@ -6711,7 +6711,7 @@
       "name": "NMAC427",
       "avatarUrl": "https://avatars.githubusercontent.com/u/9914734?v=4"
     },
-    "stars": 4619,
+    "stars": 4618,
     "starsDetail": {
       "total": 4619,
       "week": 0,
@@ -6729,7 +6729,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-04-22T08:39:02.000Z",
-    "updatedAt": "2025-01-06T13:44:27.000Z"
+    "updatedAt": "2025-01-07T13:48:17.000Z"
   },
   {
     "id": "Ramotion/circle-menu",
@@ -6973,7 +6973,7 @@
       "name": "bryanjclark",
       "avatarUrl": "https://avatars.githubusercontent.com/u/868389?v=4"
     },
-    "stars": 1435,
+    "stars": 1434,
     "starsDetail": {
       "total": 1435,
       "week": 1,
@@ -6991,7 +6991,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-11-05T01:26:03.000Z",
-    "updatedAt": "2025-01-06T13:45:49.000Z"
+    "updatedAt": "2025-01-07T13:49:37.000Z"
   },
   {
     "id": "cezheng/Fuzi",
@@ -7692,7 +7692,7 @@
       "name": "orlandos-nl",
       "avatarUrl": "https://avatars.githubusercontent.com/u/77992622?v=4"
     },
-    "stars": 725,
+    "stars": 729,
     "starsDetail": {
       "total": 725,
       "week": 2,
@@ -7710,7 +7710,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-01-26T15:24:14.000Z",
-    "updatedAt": "2025-01-06T13:43:53.000Z"
+    "updatedAt": "2025-01-07T13:47:43.000Z"
   },
   {
     "id": "piemonte/Player",
@@ -7986,7 +7986,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-04-24T15:39:02.000Z",
-    "updatedAt": "2025-01-06T13:45:48.000Z"
+    "updatedAt": "2025-01-07T13:49:36.000Z"
   },
   {
     "id": "yapstudios/YapAnimator",
@@ -8148,7 +8148,7 @@
       "name": "alexiscreuzot",
       "avatarUrl": "https://avatars.githubusercontent.com/u/431974?v=4"
     },
-    "stars": 2076,
+    "stars": 2077,
     "starsDetail": {
       "total": 2072,
       "week": 7,
@@ -8166,7 +8166,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-03-28T09:41:26.000Z",
-    "updatedAt": "2025-01-06T13:44:21.000Z"
+    "updatedAt": "2025-01-07T13:48:11.000Z"
   },
   {
     "id": "bizz84/SwiftyStoreKit",
@@ -8672,7 +8672,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-09-15T19:58:18.000Z",
-    "updatedAt": "2025-01-06T13:44:49.000Z"
+    "updatedAt": "2025-01-07T13:48:39.000Z"
   },
   {
     "id": "devxoul/Then",
@@ -8715,7 +8715,7 @@
       "name": "kodecocodes",
       "avatarUrl": "https://avatars.githubusercontent.com/u/4722515?v=4"
     },
-    "stars": 13134,
+    "stars": 13135,
     "starsDetail": {
       "total": 13133,
       "week": 7,
@@ -8737,7 +8737,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2014-06-10T00:52:42.000Z",
-    "updatedAt": "2025-01-06T13:45:00.000Z"
+    "updatedAt": "2025-01-07T13:48:50.000Z"
   },
   {
     "id": "SwiftKickMobile/SwiftMessages",
@@ -9001,7 +9001,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-01-02T02:13:26.000Z",
-    "updatedAt": "2025-01-06T13:44:19.000Z"
+    "updatedAt": "2025-01-07T13:48:09.000Z"
   },
   {
     "id": "AFathi/ARVideoKit",
@@ -9246,7 +9246,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-12-18T03:49:56.000Z",
-    "updatedAt": "2025-01-06T13:45:44.000Z"
+    "updatedAt": "2025-01-07T13:49:32.000Z"
   },
   {
     "id": "HarshilShah/DeckTransition",
@@ -9803,7 +9803,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-09-26T07:43:43.000Z",
-    "updatedAt": "2025-01-06T13:59:24.000Z"
+    "updatedAt": "2025-01-07T14:04:00.000Z"
   },
   {
     "id": "andreamazz/AMScrollingNavbar",
@@ -10418,7 +10418,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-11-27T11:51:50.000Z",
-    "updatedAt": "2025-01-06T13:45:15.000Z"
+    "updatedAt": "2025-01-07T13:49:05.000Z"
   },
   {
     "id": "jogendra/LoadingShimmer",
@@ -14132,7 +14132,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-09-09T10:57:33.000Z",
-    "updatedAt": "2025-01-06T13:44:16.000Z"
+    "updatedAt": "2025-01-07T13:48:06.000Z"
   },
   {
     "id": "GEOSwift/GEOSwift",
@@ -16387,7 +16387,7 @@
       "name": "sahin",
       "avatarUrl": "https://avatars.githubusercontent.com/u/2508980?v=4"
     },
-    "stars": 3076,
+    "stars": 3077,
     "starsDetail": {
       "total": 3076,
       "week": 0,
@@ -16396,7 +16396,7 @@
       "updatedAt": 1736034073
     },
     "license": "Other",
-    "forks": 355,
+    "forks": 356,
     "primaryLanguage": "Shell",
     "pushedAt": "2022-07-21T22:10:51.000Z",
     "archived": false,
@@ -16405,7 +16405,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-04-22T19:15:10.000Z",
-    "updatedAt": "2025-01-06T13:44:28.000Z"
+    "updatedAt": "2025-01-07T13:48:19.000Z"
   },
   {
     "id": "schmidyy/Loaf",
@@ -16502,7 +16502,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-02-23T11:05:20.000Z",
-    "updatedAt": "2025-01-06T13:45:05.000Z"
+    "updatedAt": "2025-01-07T13:48:55.000Z"
   },
   {
     "id": "spring-media/Carlos",
@@ -17472,7 +17472,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-06-04T11:25:59.000Z",
-    "updatedAt": "2025-01-06T13:45:09.000Z"
+    "updatedAt": "2025-01-07T13:48:59.000Z"
   },
   {
     "id": "Esqarrouth/EZSwiftExtensions",
@@ -17509,7 +17509,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-11-14T16:10:25.000Z",
-    "updatedAt": "2025-01-06T13:45:47.000Z"
+    "updatedAt": "2025-01-07T13:49:35.000Z"
   },
   {
     "id": "FutureKit/FutureKit",
@@ -17966,7 +17966,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-10-25T17:20:10.000Z",
-    "updatedAt": "2025-01-06T13:45:11.000Z"
+    "updatedAt": "2025-01-07T13:49:01.000Z"
   },
   {
     "id": "Ramotion/paper-switch",
@@ -19118,7 +19118,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-02-24T09:28:05.000Z",
-    "updatedAt": "2025-01-06T13:45:32.000Z"
+    "updatedAt": "2025-01-07T13:49:19.000Z"
   },
   {
     "id": "jessesquires/JSQCoreDataKit",
@@ -20252,7 +20252,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-10-20T15:18:19.000Z",
-    "updatedAt": "2025-01-06T13:44:13.000Z"
+    "updatedAt": "2025-01-07T13:48:03.000Z"
   },
   {
     "id": "wojteklu/Watchdog",
@@ -21622,7 +21622,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-02-14T17:27:39.000Z",
-    "updatedAt": "2025-01-06T13:45:04.000Z"
+    "updatedAt": "2025-01-07T13:48:54.000Z"
   },
   {
     "id": "Jaesung-Jung/CapturePreventionKit",
@@ -23229,7 +23229,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-10-04T23:23:11.000Z",
-    "updatedAt": "2025-01-06T13:43:49.000Z"
+    "updatedAt": "2025-01-07T13:47:38.000Z"
   },
   {
     "id": "SpectralDragon/LiteRoute",
@@ -25987,7 +25987,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-05-25T20:08:36.000Z",
-    "updatedAt": "2025-01-06T13:44:04.000Z"
+    "updatedAt": "2025-01-07T13:47:54.000Z"
   },
   {
     "id": "davidask/StateViewController",
@@ -27294,7 +27294,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-09-13T03:17:48.000Z",
-    "updatedAt": "2025-01-06T13:44:46.000Z"
+    "updatedAt": "2025-01-07T13:48:36.000Z"
   },
   {
     "id": "fxm90/LightweightObservable",
@@ -31937,9 +31937,9 @@
       "name": "shadowsocks",
       "avatarUrl": "https://avatars.githubusercontent.com/u/3006190?v=4"
     },
-    "stars": 32558,
+    "stars": 32560,
     "starsDetail": {
-      "total": 32558
+      "total": 32560
     },
     "license": "GNU General Public License v3.0",
     "forks": 7933,
@@ -31951,7 +31951,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-06-10T11:49:00.000Z",
-    "updatedAt": "2025-01-06T13:56:35.000Z"
+    "updatedAt": "2025-01-07T14:01:07.000Z"
   },
   {
     "id": "shindyu/ApplyStyleKit",
@@ -33662,7 +33662,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2020-09-16T10:46:49.000Z",
-    "updatedAt": "2025-01-06T13:45:52.000Z"
+    "updatedAt": "2025-01-07T13:49:40.000Z"
   },
   {
     "id": "xai3/Shoyu",

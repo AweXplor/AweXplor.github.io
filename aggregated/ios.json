@@ -1929,7 +1929,7 @@
       "name": "Ranchero-Software",
       "avatarUrl": "https://avatars.githubusercontent.com/u/59430456?v=4"
     },
-    "stars": 8521,
+    "stars": 8520,
     "starsDetail": {
       "total": 8516,
       "week": 23,
@@ -1940,14 +1940,14 @@
     "license": "MIT License",
     "forks": 542,
     "primaryLanguage": "C",
-    "pushedAt": "2025-01-05T04:49:20.000Z",
+    "pushedAt": "2025-01-07T05:32:31.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-05-21T17:59:23.000Z",
-    "updatedAt": "2025-01-06T13:56:09.000Z"
+    "updatedAt": "2025-01-07T14:00:42.000Z"
   },
   {
     "id": "SwifterSwift/SwifterSwift",
@@ -2793,6 +2793,52 @@
     "goImportedBy": null,
     "createdAt": "2015-03-30T11:31:58.000Z",
     "updatedAt": "2025-01-06T23:46:25.000Z"
+  },
+  {
+    "id": "web3swift-team/web3swift",
+    "name": "web3swift-team/web3swift",
+    "description": "Full featured library for Ethereum interaction with the JSON RPC API in swift. Native ABI parsing and smart contract interactions.",
+    "topics": [
+      "abi-parsing",
+      "crypto",
+      "cryptoswift",
+      "dapp",
+      "ethereum",
+      "geth",
+      "hacktoberfest",
+      "infura",
+      "json-rpc",
+      "smart-contracts",
+      "web3",
+      "web3-dapp",
+      "web3-solidity",
+      "web3j",
+      "web3js",
+      "web3swift"
+    ],
+    "owner": {
+      "name": "web3swift-team",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/113441205?v=4"
+    },
+    "stars": 826,
+    "starsDetail": {
+      "total": 826,
+      "week": 1,
+      "month": 7,
+      "year": 68,
+      "updatedAt": 1736258837
+    },
+    "license": "Apache License 2.0",
+    "forks": 445,
+    "primaryLanguage": "Solidity",
+    "pushedAt": "2024-12-29T15:19:07.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2018-08-13T15:12:05.000Z",
+    "updatedAt": "2025-01-07T13:47:32.000Z"
   },
   {
     "id": "xmartlabs/XLPagerTabStrip",
@@ -6328,7 +6374,7 @@
       "name": "exyte",
       "avatarUrl": "https://avatars.githubusercontent.com/u/10406525?v=4"
     },
-    "stars": 1021,
+    "stars": 1023,
     "starsDetail": {
       "total": 1015,
       "week": 10,
@@ -6337,7 +6383,7 @@
       "updatedAt": 1736034091
     },
     "license": "MIT License",
-    "forks": 159,
+    "forks": 160,
     "primaryLanguage": "Ruby",
     "pushedAt": "2024-12-04T06:33:21.000Z",
     "archived": false,
@@ -6346,7 +6392,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2022-05-23T07:29:19.000Z",
-    "updatedAt": "2025-01-06T13:49:00.000Z"
+    "updatedAt": "2025-01-07T13:52:41.000Z"
   },
   {
     "id": "0xced/XCDYouTubeKit",
@@ -8239,7 +8285,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2023-02-10T22:48:37.000Z",
-    "updatedAt": "2025-01-06T13:49:14.000Z"
+    "updatedAt": "2025-01-07T13:52:56.000Z"
   },
   {
     "id": "krzysztofzablocki/Sourcery",
@@ -9174,7 +9220,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-04-08T14:57:55.000Z",
-    "updatedAt": "2025-01-06T13:49:04.000Z"
+    "updatedAt": "2025-01-07T13:52:46.000Z"
   },
   {
     "id": "Ramotion/circle-menu",
@@ -13632,7 +13678,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-09-26T07:43:43.000Z",
-    "updatedAt": "2025-01-06T13:59:24.000Z"
+    "updatedAt": "2025-01-07T14:04:00.000Z"
   },
   {
     "id": "alexbw/novocaine",
@@ -16331,39 +16377,6 @@
     "goImportedBy": null,
     "createdAt": "2019-02-20T08:10:20.000Z",
     "updatedAt": "2025-01-06T23:57:15.000Z"
-  },
-  {
-    "id": "square/Cleanse",
-    "name": "square/Cleanse",
-    "description": "Lightweight Swift Dependency Injection Framework",
-    "topics": [
-      "dependency-injection",
-      "ios",
-      "swift"
-    ],
-    "owner": {
-      "name": "square",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/82592?v=4"
-    },
-    "stars": 1783,
-    "starsDetail": {
-      "total": 1783,
-      "week": 1,
-      "month": 2,
-      "year": 36,
-      "updatedAt": 1736033885
-    },
-    "license": "Other",
-    "forks": 90,
-    "primaryLanguage": "Shell",
-    "pushedAt": "2024-06-13T18:34:47.000Z",
-    "archived": true,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2016-06-08T00:24:36.000Z",
-    "updatedAt": "2025-01-06T23:38:28.000Z"
   },
   {
     "id": "square/PonyDebugger",
@@ -19315,7 +19328,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-06-22T18:56:17.000Z",
-    "updatedAt": "2025-01-06T13:49:14.000Z"
+    "updatedAt": "2025-01-07T13:52:56.000Z"
   },
   {
     "id": "SVGKit/SVGKit",
@@ -25819,7 +25832,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-04-11T20:52:23.000Z",
-    "updatedAt": "2025-01-06T13:48:59.000Z"
+    "updatedAt": "2025-01-07T13:52:40.000Z"
   },
   {
     "id": "shu223/PulsingHalo",
@@ -41313,12 +41326,12 @@
       "name": "DopplerHQ",
       "avatarUrl": "https://avatars.githubusercontent.com/u/34022344?v=4"
     },
-    "stars": 72330,
+    "stars": 72346,
     "starsDetail": {
-      "total": 72330
+      "total": 72346
     },
     "license": null,
-    "forks": 8930,
+    "forks": 8932,
     "primaryLanguage": "",
     "pushedAt": "2024-07-29T14:21:23.000Z",
     "archived": true,
@@ -41327,7 +41340,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-11-28T09:48:17.000Z",
-    "updatedAt": "2025-01-06T13:48:58.000Z"
+    "updatedAt": "2025-01-07T13:53:52.000Z"
   },
   {
     "id": "DrewKiino/Atlantis",
@@ -43472,6 +43485,52 @@
     "goImportedBy": null,
     "createdAt": "2017-10-30T22:30:01.000Z",
     "updatedAt": "2025-01-06T23:43:02.000Z"
+  },
+  {
+    "id": "Mijick/Camera",
+    "name": "Mijick/Camera",
+    "description": "Camera made simple. The ultimate camera library that significantly reduces implementation time and effort. Written with and for SwiftUI.",
+    "topics": [
+      "avfoundation",
+      "camera",
+      "camera-api",
+      "cocoapods",
+      "ios",
+      "ios-camera",
+      "ios-sdk",
+      "ios-swift",
+      "mobile",
+      "swift",
+      "swift-5",
+      "swift-camera",
+      "swift-library",
+      "swift-package",
+      "swift-package-manager",
+      "swift5",
+      "swiftui",
+      "swiftui-camera",
+      "swiftui-components",
+      "swiftui-framework"
+    ],
+    "owner": {
+      "name": "Mijick",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/125037042?v=4"
+    },
+    "stars": 291,
+    "starsDetail": {
+      "total": 291
+    },
+    "license": "Apache License 2.0",
+    "forks": 36,
+    "primaryLanguage": "Ruby",
+    "pushedAt": "2024-12-16T10:44:43.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2024-04-01T22:48:29.000Z",
+    "updatedAt": "2025-01-07T13:47:59.000Z"
   },
   {
     "id": "Minitour/AZEmptyState",
@@ -52553,6 +52612,31 @@
     "updatedAt": "2025-01-07T00:01:38.000Z"
   },
   {
+    "id": "dfed/swift-async-queue",
+    "name": "dfed/swift-async-queue",
+    "description": "A library of queues that enable sending ordered tasks to asynchronous contexts",
+    "topics": [],
+    "owner": {
+      "name": "dfed",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/139364?v=4"
+    },
+    "stars": 178,
+    "starsDetail": {
+      "total": 178
+    },
+    "license": "MIT License",
+    "forks": 11,
+    "primaryLanguage": "Ruby",
+    "pushedAt": "2024-11-10T21:07:40.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2022-11-23T02:28:24.000Z",
+    "updatedAt": "2025-01-07T03:40:14.000Z"
+  },
+  {
     "id": "dhirajjadhao/Newly",
     "name": "dhirajjadhao/Newly",
     "description": "Newly is a drop in solution to add Twitter/Facebook/Linkedin style, new updates/tweets/posts available button. It can be used to notify user about new content availability and can other actions can be triggers using its delegate method.",
@@ -61535,7 +61619,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-12-01T03:59:46.000Z",
-    "updatedAt": "2025-01-06T13:49:11.000Z"
+    "updatedAt": "2025-01-07T13:52:53.000Z"
   },
   {
     "id": "mukeshthawani/TriLabelView",
@@ -66470,7 +66554,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-03-31T19:10:54.000Z",
-    "updatedAt": "2025-01-06T13:49:08.000Z"
+    "updatedAt": "2025-01-07T13:52:49.000Z"
   },
   {
     "id": "sgr-ksmt/Alertift",
@@ -67723,7 +67807,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-07-14T13:20:19.000Z",
-    "updatedAt": "2025-01-06T13:49:19.000Z"
+    "updatedAt": "2025-01-07T13:53:02.000Z"
   },
   {
     "id": "suzuki-0000/AnimatablePlayButton",

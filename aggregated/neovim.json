@@ -79,7 +79,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2021-07-02T06:54:30.000Z",
-    "updatedAt": "2025-01-06T13:59:25.000Z"
+    "updatedAt": "2025-01-07T14:04:01.000Z"
   },
   {
     "id": "echasnovski/mini.nvim",
@@ -10475,7 +10475,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2021-07-22T05:32:15.000Z",
-    "updatedAt": "2025-01-06T13:52:13.000Z"
+    "updatedAt": "2025-01-07T13:56:44.000Z"
   },
   {
     "id": "Abstract-IDE/Abstract-cs",
@@ -12360,7 +12360,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-11-27T21:24:03.000Z",
-    "updatedAt": "2025-01-06T13:52:07.000Z"
+    "updatedAt": "2025-01-07T14:03:58.000Z"
   },
   {
     "id": "LucasTavaresA/simpleIndentGuides.nvim",
@@ -15840,7 +15840,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-12-31T17:59:45.000Z",
-    "updatedAt": "2025-01-06T13:59:32.000Z"
+    "updatedAt": "2025-01-07T14:04:07.000Z"
   },
   {
     "id": "atusy/treemonkey.nvim",
@@ -20782,9 +20782,9 @@
       "name": "isak102",
       "avatarUrl": "https://avatars.githubusercontent.com/u/90389894?v=4"
     },
-    "stars": 18,
+    "stars": 19,
     "starsDetail": {
-      "total": 18
+      "total": 19
     },
     "license": null,
     "forks": 0,
@@ -20796,7 +20796,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-12-30T17:50:07.000Z",
-    "updatedAt": "2025-01-06T13:59:32.000Z"
+    "updatedAt": "2025-01-07T14:04:08.000Z"
   },
   {
     "id": "isak102/telescope-git-file-history.nvim",
@@ -22207,7 +22207,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-12-28T23:34:01.000Z",
-    "updatedAt": "2025-01-06T13:59:32.000Z"
+    "updatedAt": "2025-01-07T14:04:08.000Z"
   },
   {
     "id": "koenverburg/peepsight.nvim",
@@ -31707,21 +31707,21 @@
       "name": "zongben",
       "avatarUrl": "https://avatars.githubusercontent.com/u/119837502?v=4"
     },
-    "stars": 6,
+    "stars": 7,
     "starsDetail": {
-      "total": 6
+      "total": 7
     },
     "license": "MIT License",
     "forks": 0,
     "primaryLanguage": "Lua",
-    "pushedAt": "2025-01-06T09:57:03.000Z",
+    "pushedAt": "2025-01-06T14:14:25.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-12-30T13:10:27.000Z",
-    "updatedAt": "2025-01-06T13:59:32.000Z"
+    "updatedAt": "2025-01-07T14:04:07.000Z"
   },
   {
     "id": "zootedb0t/citruszest.nvim",
