@@ -79,7 +79,7 @@
       "name": "davidmerfield",
       "avatarUrl": "https://avatars.githubusercontent.com/u/747928?v=4"
     },
-    "stars": 6098,
+    "stars": 6099,
     "starsDetail": {
       "total": 6099,
       "week": 2,
@@ -97,7 +97,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2014-04-08T20:25:02.000Z",
-    "updatedAt": "2025-01-07T07:35:35.000Z"
+    "updatedAt": "2025-01-08T10:14:12.000Z"
   },
   {
     "id": "molefrog/wouter",
@@ -205,7 +205,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2021-09-30T06:00:50.000Z",
-    "updatedAt": "2025-01-07T07:35:19.000Z"
+    "updatedAt": "2025-01-08T10:13:55.000Z"
   },
   {
     "id": "Glench/fuzzyset.js",
@@ -298,7 +298,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-01-15T13:50:45.000Z",
-    "updatedAt": "2025-01-07T07:35:19.000Z"
+    "updatedAt": "2025-01-08T10:13:54.000Z"
   },
   {
     "id": "bvaughn/js-search",
@@ -446,7 +446,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-06-21T08:16:56.000Z",
-    "updatedAt": "2025-01-07T07:35:40.000Z"
+    "updatedAt": "2025-01-08T10:14:17.000Z"
   },
   {
     "id": "olivernn/lunr.js",
@@ -499,7 +499,7 @@
       "name": "ianstormtaylor",
       "avatarUrl": "https://avatars.githubusercontent.com/u/311752?v=4"
     },
-    "stars": 7056,
+    "stars": 7059,
     "starsDetail": {
       "total": 7004,
       "week": 8,
@@ -517,7 +517,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-11-23T03:03:25.000Z",
-    "updatedAt": "2025-01-07T07:33:32.000Z"
+    "updatedAt": "2025-01-08T10:12:00.000Z"
   },
   {
     "id": "jashkenas/underscore",
@@ -725,7 +725,7 @@
       "name": "elbywan",
       "avatarUrl": "https://avatars.githubusercontent.com/u/3428394?v=4"
     },
-    "stars": 4875,
+    "stars": 4876,
     "starsDetail": {
       "total": 4874,
       "week": 5,
@@ -743,7 +743,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-09-13T18:27:25.000Z",
-    "updatedAt": "2025-01-07T07:35:45.000Z"
+    "updatedAt": "2025-01-08T10:14:23.000Z"
   },
   {
     "id": "angus-c/just",
@@ -1044,7 +1044,7 @@
       "name": "NaturalNode",
       "avatarUrl": "https://avatars.githubusercontent.com/u/1005344?v=4"
     },
-    "stars": 10679,
+    "stars": 10680,
     "starsDetail": {
       "total": 10597,
       "week": 8,
@@ -1062,7 +1062,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2011-05-07T02:35:16.000Z",
-    "updatedAt": "2025-01-07T07:34:10.000Z"
+    "updatedAt": "2025-01-08T10:12:42.000Z"
   },
   {
     "id": "AlloyTeam/AlloyFinger",
@@ -1423,7 +1423,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-06-23T02:06:23.000Z",
-    "updatedAt": "2025-01-07T07:35:25.000Z"
+    "updatedAt": "2025-01-08T10:14:02.000Z"
   },
   {
     "id": "lingui/js-lingui",
@@ -1870,9 +1870,9 @@
       "name": "date-fns",
       "avatarUrl": "https://avatars.githubusercontent.com/u/14921202?v=4"
     },
-    "stars": 35104,
+    "stars": 35119,
     "starsDetail": {
-      "total": 35104
+      "total": 35119
     },
     "license": "MIT License",
     "forks": 1801,
@@ -1884,7 +1884,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2014-10-06T10:24:22.000Z",
-    "updatedAt": "2025-01-07T07:35:23.000Z"
+    "updatedAt": "2025-01-08T10:13:59.000Z"
   },
   {
     "id": "elbywan/hyperactiv",
@@ -2050,9 +2050,9 @@
       "name": "iamkun",
       "avatarUrl": "https://avatars.githubusercontent.com/u/17680888?v=4"
     },
-    "stars": 47238,
+    "stars": 47249,
     "starsDetail": {
-      "total": 47238
+      "total": 47249
     },
     "license": "MIT License",
     "forks": 2313,
@@ -2064,7 +2064,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-04-10T09:26:44.000Z",
-    "updatedAt": "2025-01-07T07:35:22.000Z"
+    "updatedAt": "2025-01-08T10:13:58.000Z"
   },
   {
     "id": "ibitcy/eo-locale",
