@@ -7409,7 +7409,7 @@
       "name": "HeyPuter",
       "avatarUrl": "https://avatars.githubusercontent.com/u/103972607?v=4"
     },
-    "stars": 27392,
+    "stars": 27430,
     "starsDetail": {
       "total": 25432,
       "week": 240,
@@ -7418,16 +7418,16 @@
       "updatedAt": 1729322130
     },
     "license": "GNU Affero General Public License v3.0",
-    "forks": 1943,
+    "forks": 1944,
     "primaryLanguage": "C",
-    "pushedAt": "2025-01-07T02:20:55.000Z",
+    "pushedAt": "2025-01-07T20:56:04.000Z",
     "archived": false,
     "npmPackage": "",
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": 0,
     "createdAt": "2024-03-03T01:44:32.000Z",
-    "updatedAt": "2025-01-07T14:03:32.000Z"
+    "updatedAt": "2025-01-08T16:41:22.000Z"
   },
   {
     "id": "CodeByZach/pace",
@@ -10207,7 +10207,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-02-19T06:30:29.000Z",
-    "updatedAt": "2025-01-07T13:52:15.000Z"
+    "updatedAt": "2025-01-08T16:30:00.000Z"
   },
   {
     "id": "blueimp/JavaScript-MD5",
@@ -13520,7 +13520,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-08-02T21:07:04.000Z",
-    "updatedAt": "2025-01-07T13:59:38.000Z"
+    "updatedAt": "2025-01-08T16:37:28.000Z"
   },
   {
     "id": "FrDH/mmenu-js",
@@ -18310,7 +18310,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-04-23T13:02:33.000Z",
-    "updatedAt": "2025-01-07T13:51:54.000Z"
+    "updatedAt": "2025-01-08T16:29:39.000Z"
   },
   {
     "id": "xojs/xo",
@@ -22334,7 +22334,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-01-05T19:05:31.000Z",
-    "updatedAt": "2025-01-07T13:53:41.000Z"
+    "updatedAt": "2025-01-08T16:31:03.000Z"
   },
   {
     "id": "clappr/clappr",
@@ -34615,7 +34615,7 @@
       "name": "vuelidate",
       "avatarUrl": "https://avatars.githubusercontent.com/u/48122861?v=4"
     },
-    "stars": 6901,
+    "stars": 6900,
     "starsDetail": {
       "total": 6868,
       "week": 5,
@@ -34633,7 +34633,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-11-05T14:30:37.000Z",
-    "updatedAt": "2025-01-07T13:52:01.000Z"
+    "updatedAt": "2025-01-08T16:29:47.000Z"
   },
   {
     "id": "waylaidwanderer/node-chatgpt-api",
@@ -45306,12 +45306,12 @@
       "name": "DopplerHQ",
       "avatarUrl": "https://avatars.githubusercontent.com/u/34022344?v=4"
     },
-    "stars": 72346,
+    "stars": 72410,
     "starsDetail": {
-      "total": 72346
+      "total": 72410
     },
     "license": null,
-    "forks": 8932,
+    "forks": 8939,
     "primaryLanguage": "",
     "pushedAt": "2024-07-29T14:21:23.000Z",
     "archived": true,
@@ -45320,7 +45320,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-11-28T09:48:17.000Z",
-    "updatedAt": "2025-01-07T13:53:52.000Z"
+    "updatedAt": "2025-01-08T16:31:14.000Z"
   },
   {
     "id": "EvandroLG/selecting",
@@ -45917,21 +45917,21 @@
       "name": "TanStack",
       "avatarUrl": "https://avatars.githubusercontent.com/u/72518640?v=4"
     },
-    "stars": 43240,
+    "stars": 43258,
     "starsDetail": {
-      "total": 43240
+      "total": 43258
     },
     "license": "MIT License",
-    "forks": 2973,
+    "forks": 2976,
     "primaryLanguage": "CSS",
-    "pushedAt": "2025-01-07T12:18:12.000Z",
+    "pushedAt": "2025-01-08T14:32:31.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-09-10T19:23:58.000Z",
-    "updatedAt": "2025-01-07T13:52:05.000Z"
+    "updatedAt": "2025-01-08T16:29:50.000Z"
   },
   {
     "id": "TheAlgorithms/JavaScript",
@@ -46430,7 +46430,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-06-04T16:29:42.000Z",
-    "updatedAt": "2025-01-07T14:01:48.000Z"
+    "updatedAt": "2025-01-08T16:39:39.000Z"
   },
   {
     "id": "apache/echarts",
