@@ -56,7 +56,7 @@
       "name": "JosephusPaye",
       "avatarUrl": "https://avatars.githubusercontent.com/u/5924865?v=4"
     },
-    "stars": 4099,
+    "stars": 4100,
     "starsDetail": {
       "total": 4104,
       "week": 2,
@@ -78,7 +78,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-03-22T01:23:20.000Z",
-    "updatedAt": "2025-01-06T23:33:22.000Z"
+    "updatedAt": "2025-01-08T02:31:24.000Z"
   },
   {
     "id": "vbenjs/vue-vben-admin",
@@ -239,7 +239,7 @@
       "name": "benweet",
       "avatarUrl": "https://avatars.githubusercontent.com/u/1005257?v=4"
     },
-    "stars": 21902,
+    "stars": 21905,
     "starsDetail": {
       "total": 21723,
       "week": 21,
@@ -248,7 +248,7 @@
       "updatedAt": 1729322146
     },
     "license": "Apache License 2.0",
-    "forks": 2744,
+    "forks": 2747,
     "primaryLanguage": "Dockerfile",
     "pushedAt": "2023-07-04T16:12:06.000Z",
     "archived": false,
@@ -257,7 +257,7 @@
     "goPackage": null,
     "goImportedBy": 0,
     "createdAt": "2013-03-24T13:46:06.000Z",
-    "updatedAt": "2025-01-06T23:29:21.000Z"
+    "updatedAt": "2025-01-08T02:27:25.000Z"
   },
   {
     "id": "x-extends/vxe-table",
@@ -2679,7 +2679,7 @@
       "name": "fengyuanchen",
       "avatarUrl": "https://avatars.githubusercontent.com/u/3456749?v=4"
     },
-    "stars": 7914,
+    "stars": 7915,
     "starsDetail": {
       "total": 7841,
       "week": 6,
@@ -2688,7 +2688,7 @@
       "updatedAt": 1729322544
     },
     "license": "MIT License",
-    "forks": 1245,
+    "forks": 1246,
     "primaryLanguage": "Shell",
     "pushedAt": "2025-01-05T14:37:22.000Z",
     "archived": false,
@@ -2697,7 +2697,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-12-24T07:27:47.000Z",
-    "updatedAt": "2025-01-06T23:31:13.000Z"
+    "updatedAt": "2025-01-08T02:29:16.000Z"
   },
   {
     "id": "formkit/formkit",
@@ -4672,7 +4672,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2014-05-02T17:32:14.000Z",
-    "updatedAt": "2025-01-06T23:31:23.000Z"
+    "updatedAt": "2025-01-08T02:29:26.000Z"
   },
   {
     "id": "nxshell/nxshell",
@@ -5048,7 +5048,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2013-09-11T11:52:41.000Z",
-    "updatedAt": "2025-01-06T23:30:58.000Z"
+    "updatedAt": "2025-01-08T02:29:01.000Z"
   },
   {
     "id": "cmdparkour/vue-admin-box",
@@ -5166,7 +5166,7 @@
     "goPackage": null,
     "goImportedBy": 0,
     "createdAt": "2013-12-11T19:37:46.000Z",
-    "updatedAt": "2025-01-06T23:29:30.000Z"
+    "updatedAt": "2025-01-08T02:27:34.000Z"
   },
   {
     "id": "epicmaxco/epic-spinners",
@@ -5351,14 +5351,14 @@
     "license": "MIT License",
     "forks": 669,
     "primaryLanguage": "Vue",
-    "pushedAt": "2025-01-05T13:05:58.000Z",
+    "pushedAt": "2025-01-07T15:48:24.000Z",
     "archived": false,
     "npmPackage": "eslint-plugin-vue",
     "npmLastMonthDownloads": 12894374,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-08-29T15:26:53.000Z",
-    "updatedAt": "2025-01-06T23:32:49.000Z"
+    "updatedAt": "2025-01-08T02:30:52.000Z"
   },
   {
     "id": "bootstrap-vue/bootstrap-vue",
@@ -5576,7 +5576,7 @@
       "name": "apexcharts",
       "avatarUrl": "https://avatars.githubusercontent.com/u/37190687?v=4"
     },
-    "stars": 14537,
+    "stars": 14538,
     "starsDetail": {
       "total": 14316,
       "week": 37,
@@ -5594,7 +5594,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-07-24T15:22:23.000Z",
-    "updatedAt": "2025-01-06T23:29:48.000Z"
+    "updatedAt": "2025-01-08T02:27:52.000Z"
   },
   {
     "id": "tsparticles/tsparticles",
@@ -5626,7 +5626,7 @@
       "name": "tsparticles",
       "avatarUrl": "https://avatars.githubusercontent.com/u/65155946?v=4"
     },
-    "stars": 7881,
+    "stars": 7885,
     "starsDetail": {
       "total": 7873,
       "week": 26,
@@ -5644,7 +5644,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2020-02-05T18:00:01.000Z",
-    "updatedAt": "2025-01-06T23:09:07.000Z"
+    "updatedAt": "2025-01-07T23:11:14.000Z"
   },
   {
     "id": "coreui/coreui-free-vue-admin-template",
@@ -9707,21 +9707,21 @@
       "name": "dcloudio",
       "avatarUrl": "https://avatars.githubusercontent.com/u/5485517?v=4"
     },
-    "stars": 40294,
+    "stars": 40298,
     "starsDetail": {
-      "total": 40294
+      "total": 40298
     },
     "license": "Apache License 2.0",
     "forks": 3650,
     "primaryLanguage": "SCSS",
-    "pushedAt": "2025-01-06T14:59:34.000Z",
+    "pushedAt": "2025-01-07T12:37:37.000Z",
     "archived": false,
     "npmPackage": "",
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": 0,
     "createdAt": "2018-07-12T08:52:39.000Z",
-    "updatedAt": "2025-01-06T23:30:24.000Z"
+    "updatedAt": "2025-01-08T02:28:29.000Z"
   },
   {
     "id": "dd3v/snippets.ninja",
@@ -12661,12 +12661,12 @@
       "name": "nolimits4web",
       "avatarUrl": "https://avatars.githubusercontent.com/u/999588?v=4"
     },
-    "stars": 40279,
+    "stars": 40285,
     "starsDetail": {
-      "total": 40279
+      "total": 40285
     },
     "license": "MIT License",
-    "forks": 9752,
+    "forks": 9751,
     "primaryLanguage": "Vue",
     "pushedAt": "2025-01-02T19:16:51.000Z",
     "archived": false,
@@ -12675,7 +12675,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2012-03-14T19:11:45.000Z",
-    "updatedAt": "2025-01-06T23:08:36.000Z"
+    "updatedAt": "2025-01-07T23:11:01.000Z"
   },
   {
     "id": "noru/vue-easy-toast",
@@ -12730,21 +12730,21 @@
       "name": "nuxt",
       "avatarUrl": "https://avatars.githubusercontent.com/u/23360933?v=4"
     },
-    "stars": 55610,
+    "stars": 55631,
     "starsDetail": {
-      "total": 55610
+      "total": 55631
     },
     "license": "MIT License",
     "forks": 5085,
     "primaryLanguage": "Dockerfile",
-    "pushedAt": "2025-01-06T21:10:40.000Z",
+    "pushedAt": "2025-01-07T13:35:44.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-10-26T11:18:47.000Z",
-    "updatedAt": "2025-01-06T23:07:27.000Z"
+    "updatedAt": "2025-01-07T23:10:36.000Z"
   },
   {
     "id": "os-scar/overlay",
