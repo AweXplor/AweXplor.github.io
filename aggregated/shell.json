@@ -167,7 +167,7 @@
       "name": "dnote",
       "avatarUrl": "https://avatars.githubusercontent.com/u/26827777?v=4"
     },
-    "stars": 2812,
+    "stars": 2814,
     "starsDetail": {
       "total": 2811,
       "week": 2,
@@ -185,7 +185,7 @@
     "goPackage": "github.com/dnote/dnote",
     "goImportedBy": 0,
     "createdAt": "2017-03-30T23:07:25.000Z",
-    "updatedAt": "2025-01-08T16:43:20.000Z"
+    "updatedAt": "2025-01-09T19:15:39.000Z"
   },
   {
     "id": "donnemartin/haxor-news",
@@ -586,7 +586,7 @@
       "name": "owenthereal",
       "avatarUrl": "https://avatars.githubusercontent.com/u/169064?v=4"
     },
-    "stars": 3172,
+    "stars": 3171,
     "starsDetail": {
       "total": 3172,
       "week": 3,
@@ -604,7 +604,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-05-06T05:00:17.000Z",
-    "updatedAt": "2025-01-08T16:38:24.000Z"
+    "updatedAt": "2025-01-09T19:11:13.000Z"
   },
   {
     "id": "simeg/eureka",
@@ -1436,7 +1436,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2011-03-24T09:56:15.000Z",
-    "updatedAt": "2025-01-08T16:33:20.000Z"
+    "updatedAt": "2025-01-09T19:06:17.000Z"
   },
   {
     "id": "aristocratos/btop",
@@ -2586,7 +2586,7 @@
       "name": "jorgebucaran",
       "avatarUrl": "https://avatars.githubusercontent.com/u/56996?v=4"
     },
-    "stars": 4284,
+    "stars": 4286,
     "starsDetail": {
       "total": 4278,
       "week": 18,
@@ -2604,7 +2604,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-10-13T08:37:26.000Z",
-    "updatedAt": "2025-01-08T16:38:25.000Z"
+    "updatedAt": "2025-01-09T19:11:14.000Z"
   },
   {
     "id": "saulpw/visidata",

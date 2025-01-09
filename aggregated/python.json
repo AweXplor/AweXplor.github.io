@@ -175,7 +175,7 @@
       "name": "magenta",
       "avatarUrl": "https://avatars.githubusercontent.com/u/17187941?v=4"
     },
-    "stars": 19270,
+    "stars": 19271,
     "starsDetail": {
       "total": 19258,
       "week": 8,
@@ -188,7 +188,7 @@
       "updatedAt": 1736035115
     },
     "license": "Apache License 2.0",
-    "forks": 3750,
+    "forks": 3749,
     "primaryLanguage": "Shell",
     "pushedAt": "2024-11-19T19:28:48.000Z",
     "archived": false,
@@ -197,7 +197,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-05-05T20:10:40.000Z",
-    "updatedAt": "2025-01-08T16:34:19.000Z"
+    "updatedAt": "2025-01-09T19:07:12.000Z"
   },
   {
     "id": "nficano/python-lambda",
@@ -7652,7 +7652,7 @@
       "name": "Lightning-AI",
       "avatarUrl": "https://avatars.githubusercontent.com/u/58386951?v=4"
     },
-    "stars": 28753,
+    "stars": 28762,
     "starsDetail": {
       "total": 28739,
       "week": 56,
@@ -7663,14 +7663,14 @@
     "license": "Apache License 2.0",
     "forks": 3412,
     "primaryLanguage": "Makefile",
-    "pushedAt": "2025-01-08T16:16:47.000Z",
+    "pushedAt": "2025-01-09T12:21:35.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-03-31T00:45:57.000Z",
-    "updatedAt": "2025-01-08T16:40:06.000Z"
+    "updatedAt": "2025-01-09T19:12:37.000Z"
   },
   {
     "id": "PyMySQL/PyMySQL",
@@ -10387,7 +10387,7 @@
       "name": "Tencent",
       "avatarUrl": "https://avatars.githubusercontent.com/u/18461506?v=4"
     },
-    "stars": 14475,
+    "stars": 14474,
     "starsDetail": {
       "total": 14467,
       "week": 22,
@@ -10405,7 +10405,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2014-03-04T05:53:37.000Z",
-    "updatedAt": "2025-01-08T16:30:51.000Z"
+    "updatedAt": "2025-01-09T19:03:58.000Z"
   },
   {
     "id": "micropython/micropython",
@@ -14182,12 +14182,12 @@
       "name": "httpie",
       "avatarUrl": "https://avatars.githubusercontent.com/u/24454777?v=4"
     },
-    "stars": 34341,
+    "stars": 34355,
     "starsDetail": {
-      "total": 34341
+      "total": 34355
     },
     "license": "BSD 3-Clause \"New\" or \"Revised\" License",
-    "forks": 3691,
+    "forks": 3693,
     "primaryLanguage": "Dockerfile",
     "pushedAt": "2024-12-17T17:30:35.000Z",
     "archived": false,
@@ -14196,7 +14196,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2012-02-25T12:39:13.000Z",
-    "updatedAt": "2025-01-08T16:39:00.000Z"
+    "updatedAt": "2025-01-09T19:11:15.000Z"
   },
   {
     "id": "ionelmc/python-manhole",
@@ -15296,12 +15296,12 @@
       "name": "ytdl-org",
       "avatarUrl": "https://avatars.githubusercontent.com/u/48381040?v=4"
     },
-    "stars": 133499,
+    "stars": 133523,
     "starsDetail": {
-      "total": 133499
+      "total": 133523
     },
     "license": "The Unlicense",
-    "forks": 10155,
+    "forks": 10157,
     "primaryLanguage": "Batchfile",
     "pushedAt": "2025-01-06T01:42:37.000Z",
     "archived": false,
@@ -15310,7 +15310,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2010-10-31T14:35:07.000Z",
-    "updatedAt": "2025-01-08T16:38:40.000Z"
+    "updatedAt": "2025-01-09T19:11:28.000Z"
   },
   {
     "id": "ziadoz/awesome-php",

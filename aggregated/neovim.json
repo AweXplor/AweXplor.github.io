@@ -57,7 +57,7 @@
       "name": "folke",
       "avatarUrl": "https://avatars.githubusercontent.com/u/292349?v=4"
     },
-    "stars": 719,
+    "stars": 720,
     "starsDetail": {
       "total": 718,
       "week": 2,
@@ -79,7 +79,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2021-07-02T06:54:30.000Z",
-    "updatedAt": "2025-01-08T16:41:55.000Z"
+    "updatedAt": "2025-01-09T19:14:19.000Z"
   },
   {
     "id": "echasnovski/mini.nvim",
@@ -10475,7 +10475,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2021-07-22T05:32:15.000Z",
-    "updatedAt": "2025-01-08T16:34:32.000Z"
+    "updatedAt": "2025-01-09T19:07:24.000Z"
   },
   {
     "id": "Abstract-IDE/Abstract-cs",
@@ -12360,7 +12360,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-11-27T21:24:03.000Z",
-    "updatedAt": "2025-01-08T16:41:52.000Z"
+    "updatedAt": "2025-01-09T19:14:16.000Z"
   },
   {
     "id": "LucasTavaresA/simpleIndentGuides.nvim",
@@ -15840,7 +15840,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-12-31T17:59:45.000Z",
-    "updatedAt": "2025-01-08T16:42:01.000Z"
+    "updatedAt": "2025-01-09T19:14:24.000Z"
   },
   {
     "id": "atusy/treemonkey.nvim",
@@ -20796,7 +20796,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-12-30T17:50:07.000Z",
-    "updatedAt": "2025-01-08T16:42:02.000Z"
+    "updatedAt": "2025-01-09T19:14:25.000Z"
   },
   {
     "id": "isak102/telescope-git-file-history.nvim",
@@ -22207,7 +22207,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-12-28T23:34:01.000Z",
-    "updatedAt": "2025-01-08T16:42:02.000Z"
+    "updatedAt": "2025-01-09T19:14:25.000Z"
   },
   {
     "id": "koenverburg/peepsight.nvim",
@@ -31721,7 +31721,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-12-30T13:10:27.000Z",
-    "updatedAt": "2025-01-08T16:42:01.000Z"
+    "updatedAt": "2025-01-09T19:14:24.000Z"
   },
   {
     "id": "zootedb0t/citruszest.nvim",

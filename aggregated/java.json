@@ -2216,14 +2216,14 @@
     "license": "MIT License",
     "forks": 172,
     "primaryLanguage": "HTML",
-    "pushedAt": "2025-01-08T15:54:13.000Z",
+    "pushedAt": "2025-01-09T15:44:18.000Z",
     "archived": false,
     "npmPackage": "",
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2021-02-25T13:49:38.000Z",
-    "updatedAt": "2025-01-08T16:42:06.000Z"
+    "updatedAt": "2025-01-09T19:14:29.000Z"
   },
   {
     "id": "mapstruct/mapstruct",
@@ -7265,7 +7265,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2014-07-25T20:08:44.000Z",
-    "updatedAt": "2025-01-08T16:39:34.000Z"
+    "updatedAt": "2025-01-09T19:12:08.000Z"
   },
   {
     "id": "RuedigerMoeller/fast-serialization",

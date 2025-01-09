@@ -7409,7 +7409,7 @@
       "name": "HeyPuter",
       "avatarUrl": "https://avatars.githubusercontent.com/u/103972607?v=4"
     },
-    "stars": 27430,
+    "stars": 27447,
     "starsDetail": {
       "total": 25432,
       "week": 240,
@@ -7418,16 +7418,16 @@
       "updatedAt": 1729322130
     },
     "license": "GNU Affero General Public License v3.0",
-    "forks": 1944,
+    "forks": 1943,
     "primaryLanguage": "C",
-    "pushedAt": "2025-01-07T20:56:04.000Z",
+    "pushedAt": "2025-01-09T16:51:59.000Z",
     "archived": false,
     "npmPackage": "",
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": 0,
     "createdAt": "2024-03-03T01:44:32.000Z",
-    "updatedAt": "2025-01-08T16:41:22.000Z"
+    "updatedAt": "2025-01-09T19:13:48.000Z"
   },
   {
     "id": "CodeByZach/pace",
@@ -10207,7 +10207,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-02-19T06:30:29.000Z",
-    "updatedAt": "2025-01-08T16:30:00.000Z"
+    "updatedAt": "2025-01-09T19:03:10.000Z"
   },
   {
     "id": "blueimp/JavaScript-MD5",
@@ -13520,7 +13520,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-08-02T21:07:04.000Z",
-    "updatedAt": "2025-01-08T16:37:28.000Z"
+    "updatedAt": "2025-01-09T19:10:09.000Z"
   },
   {
     "id": "FrDH/mmenu-js",
@@ -18303,14 +18303,14 @@
     "license": "MIT License",
     "forks": 996,
     "primaryLanguage": "HTML",
-    "pushedAt": "2025-01-07T12:00:28.000Z",
+    "pushedAt": "2025-01-08T18:00:12.000Z",
     "archived": false,
     "npmPackage": "vue-multiselect",
     "npmLastMonthDownloads": 958056,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-04-23T13:02:33.000Z",
-    "updatedAt": "2025-01-08T16:29:39.000Z"
+    "updatedAt": "2025-01-09T19:02:52.000Z"
   },
   {
     "id": "xojs/xo",
@@ -22325,7 +22325,7 @@
       "updatedAt": 1729322520
     },
     "license": "MIT License",
-    "forks": 1198,
+    "forks": 1197,
     "primaryLanguage": "CSS",
     "pushedAt": "2024-08-12T08:15:35.000Z",
     "archived": false,
@@ -22334,7 +22334,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-01-05T19:05:31.000Z",
-    "updatedAt": "2025-01-08T16:31:03.000Z"
+    "updatedAt": "2025-01-09T19:04:10.000Z"
   },
   {
     "id": "clappr/clappr",
@@ -34633,7 +34633,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-11-05T14:30:37.000Z",
-    "updatedAt": "2025-01-08T16:29:47.000Z"
+    "updatedAt": "2025-01-09T19:02:58.000Z"
   },
   {
     "id": "waylaidwanderer/node-chatgpt-api",
@@ -45306,12 +45306,12 @@
       "name": "DopplerHQ",
       "avatarUrl": "https://avatars.githubusercontent.com/u/34022344?v=4"
     },
-    "stars": 72410,
+    "stars": 72461,
     "starsDetail": {
-      "total": 72410
+      "total": 72461
     },
     "license": null,
-    "forks": 8939,
+    "forks": 8948,
     "primaryLanguage": "",
     "pushedAt": "2024-07-29T14:21:23.000Z",
     "archived": true,
@@ -45320,7 +45320,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-11-28T09:48:17.000Z",
-    "updatedAt": "2025-01-08T16:31:14.000Z"
+    "updatedAt": "2025-01-09T19:04:19.000Z"
   },
   {
     "id": "EvandroLG/selecting",
@@ -45917,21 +45917,21 @@
       "name": "TanStack",
       "avatarUrl": "https://avatars.githubusercontent.com/u/72518640?v=4"
     },
-    "stars": 43258,
+    "stars": 43279,
     "starsDetail": {
-      "total": 43258
+      "total": 43279
     },
     "license": "MIT License",
-    "forks": 2976,
+    "forks": 2978,
     "primaryLanguage": "CSS",
-    "pushedAt": "2025-01-08T14:32:31.000Z",
+    "pushedAt": "2025-01-09T14:57:55.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-09-10T19:23:58.000Z",
-    "updatedAt": "2025-01-08T16:29:50.000Z"
+    "updatedAt": "2025-01-09T19:03:02.000Z"
   },
   {
     "id": "TheAlgorithms/JavaScript",
@@ -46430,7 +46430,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-06-04T16:29:42.000Z",
-    "updatedAt": "2025-01-08T16:39:39.000Z"
+    "updatedAt": "2025-01-09T19:12:12.000Z"
   },
   {
     "id": "apache/echarts",
