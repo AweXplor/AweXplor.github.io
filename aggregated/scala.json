@@ -1725,7 +1725,7 @@
       "name": "bencherdev",
       "avatarUrl": "https://avatars.githubusercontent.com/u/68773954?v=4"
     },
-    "stars": 601,
+    "stars": 602,
     "starsDetail": {
       "total": 601,
       "week": 6,
@@ -1743,7 +1743,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2020-07-25T09:54:21.000Z",
-    "updatedAt": "2025-01-08T10:14:28.000Z"
+    "updatedAt": "2025-01-09T12:46:03.000Z"
   },
   {
     "id": "gitbucket/gitbucket",
@@ -3768,14 +3768,14 @@
     "license": "Apache License 2.0",
     "forks": 311,
     "primaryLanguage": "Shell",
-    "pushedAt": "2025-01-08T00:40:54.000Z",
+    "pushedAt": "2025-01-09T00:42:51.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-06-30T15:15:07.000Z",
-    "updatedAt": "2025-01-08T10:03:10.000Z"
+    "updatedAt": "2025-01-09T12:34:33.000Z"
   },
   {
     "id": "squeryl/squeryl",
@@ -5477,9 +5477,9 @@
       "name": "bayandin",
       "avatarUrl": "https://avatars.githubusercontent.com/u/864213?v=4"
     },
-    "stars": 32249,
+    "stars": 32253,
     "starsDetail": {
-      "total": 32249
+      "total": 32253
     },
     "license": null,
     "forks": 3567,
@@ -5491,7 +5491,7 @@
     "goPackage": "",
     "goImportedBy": 0,
     "createdAt": "2014-07-08T05:44:19.000Z",
-    "updatedAt": "2025-01-08T10:15:40.000Z"
+    "updatedAt": "2025-01-09T12:47:18.000Z"
   },
   {
     "id": "blackdoor/jose",
@@ -5926,7 +5926,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-04-25T12:48:00.000Z",
-    "updatedAt": "2025-01-08T10:03:11.000Z"
+    "updatedAt": "2025-01-09T12:34:33.000Z"
   },
   {
     "id": "epfldata/squid",
@@ -5982,7 +5982,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2012-09-10T17:53:21.000Z",
-    "updatedAt": "2025-01-08T06:45:41.000Z"
+    "updatedAt": "2025-01-09T12:34:32.000Z"
   },
   {
     "id": "fingo/spata",

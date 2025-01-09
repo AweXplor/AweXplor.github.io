@@ -1126,7 +1126,7 @@
       "name": "LaurentMazare",
       "avatarUrl": "https://avatars.githubusercontent.com/u/1041292?v=4"
     },
-    "stars": 4473,
+    "stars": 4477,
     "starsDetail": {
       "total": 4463,
       "week": 16,
@@ -1135,7 +1135,7 @@
       "updatedAt": 1736032021
     },
     "license": "Apache License 2.0",
-    "forks": 353,
+    "forks": 352,
     "primaryLanguage": "Dune",
     "pushedAt": "2024-12-10T10:38:36.000Z",
     "archived": false,
@@ -1144,7 +1144,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-02-16T21:08:44.000Z",
-    "updatedAt": "2025-01-08T10:19:10.000Z"
+    "updatedAt": "2025-01-09T12:50:57.000Z"
   },
   {
     "id": "trekhleb/homemade-machine-learning",
@@ -1507,7 +1507,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2014-06-03T22:13:11.000Z",
-    "updatedAt": "2025-01-08T10:12:39.000Z"
+    "updatedAt": "2025-01-09T12:44:10.000Z"
   },
   {
     "id": "stellargraph/stellargraph",
@@ -1911,7 +1911,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2014-09-30T18:07:03.000Z",
-    "updatedAt": "2025-01-08T10:14:26.000Z"
+    "updatedAt": "2025-01-09T12:46:01.000Z"
   },
   {
     "id": "chainer/chainer",
@@ -2152,7 +2152,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-12-03T21:48:17.000Z",
-    "updatedAt": "2025-01-08T10:19:11.000Z"
+    "updatedAt": "2025-01-09T12:50:58.000Z"
   },
   {
     "id": "mit-nlp/MITIE",
@@ -2752,7 +2752,7 @@
       "name": "rust-ml",
       "avatarUrl": "https://avatars.githubusercontent.com/u/50020044?v=4"
     },
-    "stars": 3852,
+    "stars": 3854,
     "starsDetail": {
       "total": 3838,
       "week": 14,
@@ -2770,7 +2770,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-04-05T07:03:30.000Z",
-    "updatedAt": "2025-01-08T10:19:11.000Z"
+    "updatedAt": "2025-01-09T12:50:59.000Z"
   },
   {
     "id": "madmaze/pytesseract",
@@ -3374,7 +3374,7 @@
       "name": "BrainJS",
       "avatarUrl": "https://avatars.githubusercontent.com/u/23732838?v=4"
     },
-    "stars": 14503,
+    "stars": 14504,
     "starsDetail": {
       "total": 14377,
       "week": 11,
@@ -3392,7 +3392,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-02-13T18:09:44.000Z",
-    "updatedAt": "2025-01-08T10:10:31.000Z"
+    "updatedAt": "2025-01-09T12:41:59.000Z"
   },
   {
     "id": "serengil/retinaface",
@@ -4004,14 +4004,14 @@
     "license": "Apache License 2.0",
     "forks": 208,
     "primaryLanguage": "Makefile",
-    "pushedAt": "2025-01-08T00:21:29.000Z",
+    "pushedAt": "2025-01-09T00:21:35.000Z",
     "archived": false,
     "npmPackage": "",
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-12-05T02:40:40.000Z",
-    "updatedAt": "2025-01-08T10:10:32.000Z"
+    "updatedAt": "2025-01-09T12:41:59.000Z"
   },
   {
     "id": "autumnai/leaf",
@@ -4031,7 +4031,7 @@
       "updatedAt": 1736032003
     },
     "license": "Apache License 2.0",
-    "forks": 270,
+    "forks": 269,
     "primaryLanguage": "Shell",
     "pushedAt": "2024-03-20T09:51:14.000Z",
     "archived": false,
@@ -4040,7 +4040,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-10-26T08:20:56.000Z",
-    "updatedAt": "2025-01-08T10:19:08.000Z"
+    "updatedAt": "2025-01-09T12:50:55.000Z"
   },
   {
     "id": "chaos-genius/chaos_genius",
@@ -4568,7 +4568,7 @@
       "name": "qdrant",
       "avatarUrl": "https://avatars.githubusercontent.com/u/73504361?v=4"
     },
-    "stars": 21253,
+    "stars": 21262,
     "starsDetail": {
       "total": 21207,
       "week": 101,
@@ -4577,16 +4577,16 @@
       "updatedAt": 1736031637
     },
     "license": "Apache License 2.0",
-    "forks": 1454,
+    "forks": 1455,
     "primaryLanguage": "Mermaid",
-    "pushedAt": "2025-01-08T10:11:33.000Z",
+    "pushedAt": "2025-01-09T12:40:10.000Z",
     "archived": false,
     "npmPackage": "",
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2020-05-30T21:37:01.000Z",
-    "updatedAt": "2025-01-08T10:16:36.000Z"
+    "updatedAt": "2025-01-09T12:48:15.000Z"
   },
   {
     "id": "EpistasisLab/tpot",
@@ -5039,7 +5039,7 @@
       "name": "guillaume-be",
       "avatarUrl": "https://avatars.githubusercontent.com/u/27071604?v=4"
     },
-    "stars": 2708,
+    "stars": 2707,
     "starsDetail": {
       "total": 2705,
       "week": 2,
@@ -5057,7 +5057,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2020-01-25T09:40:07.000Z",
-    "updatedAt": "2025-01-08T10:19:08.000Z"
+    "updatedAt": "2025-01-09T12:50:56.000Z"
   },
   {
     "id": "scikit-image/scikit-image",
@@ -5690,7 +5690,7 @@
       "name": "NaturalNode",
       "avatarUrl": "https://avatars.githubusercontent.com/u/1005344?v=4"
     },
-    "stars": 10680,
+    "stars": 10681,
     "starsDetail": {
       "total": 10597,
       "week": 8,
@@ -5708,7 +5708,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2011-05-07T02:35:16.000Z",
-    "updatedAt": "2025-01-08T10:12:42.000Z"
+    "updatedAt": "2025-01-09T12:44:12.000Z"
   },
   {
     "id": "oneapi-src/oneDNN",
@@ -6027,7 +6027,7 @@
       "name": "tracel-ai",
       "avatarUrl": "https://avatars.githubusercontent.com/u/111992358?v=4"
     },
-    "stars": 9357,
+    "stars": 9368,
     "starsDetail": {
       "total": 9324,
       "week": 50,
@@ -6038,14 +6038,14 @@
     "license": "Apache License 2.0",
     "forks": 469,
     "primaryLanguage": "RenderScript",
-    "pushedAt": "2025-01-07T22:35:42.000Z",
+    "pushedAt": "2025-01-08T20:36:03.000Z",
     "archived": false,
     "npmPackage": "",
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2022-07-18T23:11:45.000Z",
-    "updatedAt": "2025-01-08T10:19:08.000Z"
+    "updatedAt": "2025-01-09T12:50:55.000Z"
   },
   {
     "id": "leoxiaobin/deep-high-resolution-net.pytorch",
@@ -6156,7 +6156,7 @@
       "name": "huggingface",
       "avatarUrl": "https://avatars.githubusercontent.com/u/25720743?v=4"
     },
-    "stars": 16227,
+    "stars": 16234,
     "starsDetail": {
       "total": 16195,
       "week": 55,
@@ -6165,16 +6165,16 @@
       "updatedAt": 1736032019
     },
     "license": "Apache License 2.0",
-    "forks": 999,
+    "forks": 1000,
     "primaryLanguage": "RenderScript",
-    "pushedAt": "2025-01-07T14:52:04.000Z",
+    "pushedAt": "2025-01-08T14:10:38.000Z",
     "archived": false,
     "npmPackage": "",
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2023-06-19T16:06:31.000Z",
-    "updatedAt": "2025-01-08T10:19:10.000Z"
+    "updatedAt": "2025-01-09T12:50:57.000Z"
   },
   {
     "id": "benedekrozemberczki/pytorch_geometric_temporal",
@@ -7994,7 +7994,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-05-08T05:14:51.000Z",
-    "updatedAt": "2025-01-08T10:19:11.000Z"
+    "updatedAt": "2025-01-09T12:50:58.000Z"
   },
   {
     "id": "SerpentAI/SerpentAI",
@@ -8139,7 +8139,7 @@
       "name": "coreylowman",
       "avatarUrl": "https://avatars.githubusercontent.com/u/7787278?v=4"
     },
-    "stars": 1764,
+    "stars": 1765,
     "starsDetail": {
       "total": 1762,
       "week": 4,
@@ -8148,7 +8148,7 @@
       "updatedAt": 1736032011
     },
     "license": "Other",
-    "forks": 101,
+    "forks": 102,
     "primaryLanguage": "WGSL",
     "pushedAt": "2024-07-23T02:05:58.000Z",
     "archived": false,
@@ -8157,7 +8157,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2021-10-12T02:58:54.000Z",
-    "updatedAt": "2025-01-08T10:19:09.000Z"
+    "updatedAt": "2025-01-09T12:50:56.000Z"
   },
   {
     "id": "mljar/mljar-supervised",
@@ -9109,7 +9109,7 @@
       "name": "huggingface",
       "avatarUrl": "https://avatars.githubusercontent.com/u/25720743?v=4"
     },
-    "stars": 9234,
+    "stars": 9238,
     "starsDetail": {
       "total": 9220,
       "week": 26,
@@ -9120,14 +9120,14 @@
     "license": "Apache License 2.0",
     "forks": 822,
     "primaryLanguage": "HTML",
-    "pushedAt": "2025-01-06T10:25:37.000Z",
+    "pushedAt": "2025-01-09T12:28:54.000Z",
     "archived": false,
     "npmPackage": "tokenizers",
     "npmLastMonthDownloads": 1836,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-11-01T17:52:20.000Z",
-    "updatedAt": "2025-01-08T10:19:09.000Z"
+    "updatedAt": "2025-01-09T12:50:56.000Z"
   },
   {
     "id": "sympy/sympy",
@@ -9236,7 +9236,7 @@
       "name": "BayesWitnesses",
       "avatarUrl": "https://avatars.githubusercontent.com/u/46638712?v=4"
     },
-    "stars": 2835,
+    "stars": 2837,
     "starsDetail": {
       "total": 2833,
       "week": 1,
@@ -9254,7 +9254,7 @@
     "goPackage": "",
     "goImportedBy": 0,
     "createdAt": "2019-01-13T02:32:55.000Z",
-    "updatedAt": "2025-01-08T10:14:27.000Z"
+    "updatedAt": "2025-01-09T12:46:02.000Z"
   },
   {
     "id": "benedekrozemberczki/karateclub",
@@ -14943,21 +14943,21 @@
       "name": "blackportal-ai",
       "avatarUrl": "https://avatars.githubusercontent.com/u/189621827?v=4"
     },
-    "stars": 307,
+    "stars": 313,
     "starsDetail": {
-      "total": 307
+      "total": 313
     },
     "license": "BSD 3-Clause \"New\" or \"Revised\" License",
-    "forks": 19,
+    "forks": 21,
     "primaryLanguage": "Shell",
-    "pushedAt": "2025-01-07T22:08:12.000Z",
+    "pushedAt": "2025-01-08T23:04:41.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-11-25T12:39:43.000Z",
-    "updatedAt": "2025-01-08T10:16:13.000Z"
+    "updatedAt": "2025-01-09T12:47:52.000Z"
   },
   {
     "id": "breze-no-salt/breze",
@@ -18402,7 +18402,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-07-26T20:02:09.000Z",
-    "updatedAt": "2025-01-08T10:16:12.000Z"
+    "updatedAt": "2025-01-09T12:47:50.000Z"
   },
   {
     "id": "lmcinnes/hdbscan",
@@ -19253,7 +19253,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-11-24T17:51:43.000Z",
-    "updatedAt": "2025-01-08T10:14:26.000Z"
+    "updatedAt": "2025-01-09T12:46:01.000Z"
   },
   {
     "id": "mrdimosthenis/emel",
