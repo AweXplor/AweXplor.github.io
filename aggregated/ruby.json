@@ -252,7 +252,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2013-12-27T18:01:52.000Z",
-    "updatedAt": "2025-01-09T05:04:47.000Z"
+    "updatedAt": "2025-01-10T07:35:11.000Z"
   },
   {
     "id": "carrierwaveuploader/carrierwave",
@@ -17798,12 +17798,12 @@
       "name": "fastlane",
       "avatarUrl": "https://avatars.githubusercontent.com/u/11098337?v=4"
     },
-    "stars": 39792,
+    "stars": 39794,
     "starsDetail": {
-      "total": 39792
+      "total": 39794
     },
     "license": "MIT License",
-    "forks": 5737,
+    "forks": 5739,
     "primaryLanguage": "JavaScript",
     "pushedAt": "2025-01-06T10:29:17.000Z",
     "archived": false,
@@ -17812,7 +17812,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2014-12-02T17:00:38.000Z",
-    "updatedAt": "2025-01-09T05:15:11.000Z"
+    "updatedAt": "2025-01-10T07:46:01.000Z"
   },
   {
     "id": "fatkodima/fast_count",

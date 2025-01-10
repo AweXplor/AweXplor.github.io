@@ -5970,7 +5970,7 @@
       "name": "cweill",
       "avatarUrl": "https://avatars.githubusercontent.com/u/2343711?v=4"
     },
-    "stars": 4988,
+    "stars": 4989,
     "starsDetail": {
       "total": 4987,
       "week": 4,
@@ -5988,7 +5988,7 @@
     "goPackage": "github.com/cweill/gotests",
     "goImportedBy": 35,
     "createdAt": "2016-01-19T05:06:02.000Z",
-    "updatedAt": "2025-01-09T05:04:35.000Z"
+    "updatedAt": "2025-01-10T07:34:58.000Z"
   },
   {
     "id": "gelguy/wilder.nvim",
