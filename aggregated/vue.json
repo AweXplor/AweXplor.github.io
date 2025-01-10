@@ -29,7 +29,7 @@
       "updatedAt": 1736035820
     },
     "license": "MIT License",
-    "forks": 27,
+    "forks": 28,
     "primaryLanguage": "JavaScript",
     "pushedAt": "2024-12-28T17:35:49.000Z",
     "archived": false,
@@ -38,7 +38,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2020-12-11T17:10:05.000Z",
-    "updatedAt": "2025-01-09T12:41:25.000Z"
+    "updatedAt": "2025-01-10T15:16:49.000Z"
   },
   {
     "id": "JosephusPaye/Keen-UI",
@@ -195,7 +195,7 @@
       "name": "vuejs",
       "avatarUrl": "https://avatars.githubusercontent.com/u/6128107?v=4"
     },
-    "stars": 1859,
+    "stars": 1863,
     "starsDetail": {
       "total": 1848,
       "week": 15,
@@ -213,7 +213,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2023-09-01T14:05:16.000Z",
-    "updatedAt": "2025-01-09T12:40:43.000Z"
+    "updatedAt": "2025-01-10T15:16:05.000Z"
   },
   {
     "id": "benweet/stackedit",
@@ -535,7 +535,7 @@
       "name": "schedule-x",
       "avatarUrl": "https://avatars.githubusercontent.com/u/139065285?v=4"
     },
-    "stars": 1481,
+    "stars": 1486,
     "starsDetail": {
       "total": 1465,
       "week": 17,
@@ -553,7 +553,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2023-07-15T21:12:12.000Z",
-    "updatedAt": "2025-01-09T12:46:29.000Z"
+    "updatedAt": "2025-01-10T15:22:13.000Z"
   },
   {
     "id": "ElMassimo/iles",
@@ -1414,7 +1414,7 @@
       "name": "vuejs",
       "avatarUrl": "https://avatars.githubusercontent.com/u/6128107?v=4"
     },
-    "stars": 3899,
+    "stars": 3900,
     "starsDetail": {
       "total": 3888,
       "week": 8,
@@ -1423,7 +1423,7 @@
       "updatedAt": 1736087006
     },
     "license": "Other",
-    "forks": 446,
+    "forks": 447,
     "primaryLanguage": "EJS",
     "pushedAt": "2025-01-08T06:10:25.000Z",
     "archived": false,
@@ -1432,7 +1432,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2021-07-14T07:58:55.000Z",
-    "updatedAt": "2025-01-09T12:41:45.000Z"
+    "updatedAt": "2025-01-10T15:17:10.000Z"
   },
   {
     "id": "posva/unplugin-vue-router",
@@ -1751,7 +1751,7 @@
       "name": "teambit",
       "avatarUrl": "https://avatars.githubusercontent.com/u/24789812?v=4"
     },
-    "stars": 17962,
+    "stars": 17965,
     "starsDetail": {
       "total": 17855,
       "week": 13,
@@ -1762,14 +1762,14 @@
     "license": "Other",
     "forks": 936,
     "primaryLanguage": "Sass",
-    "pushedAt": "2025-01-09T11:17:23.000Z",
+    "pushedAt": "2025-01-10T14:51:43.000Z",
     "archived": false,
     "npmPackage": "",
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-01-22T14:51:43.000Z",
-    "updatedAt": "2025-01-09T12:44:33.000Z"
+    "updatedAt": "2025-01-10T15:20:09.000Z"
   },
   {
     "id": "DanSnow/vue-recaptcha",
@@ -3560,7 +3560,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2020-04-25T18:00:18.000Z",
-    "updatedAt": "2025-01-09T12:54:47.000Z"
+    "updatedAt": "2025-01-10T15:31:08.000Z"
   },
   {
     "id": "vuejs/vitepress",
@@ -4611,7 +4611,7 @@
       "name": "quasarframework",
       "avatarUrl": "https://avatars.githubusercontent.com/u/23064371?v=4"
     },
-    "stars": 26132,
+    "stars": 26138,
     "starsDetail": {
       "total": 25874,
       "week": 36,
@@ -4629,7 +4629,7 @@
     "goPackage": null,
     "goImportedBy": 0,
     "createdAt": "2015-10-05T15:45:36.000Z",
-    "updatedAt": "2025-01-09T12:41:38.000Z"
+    "updatedAt": "2025-01-10T15:17:02.000Z"
   },
   {
     "id": "grandnode/grandnode2",
@@ -4871,13 +4871,13 @@
   {
     "id": "unjs/unhead",
     "name": "unjs/unhead",
-    "description": "Unhead is the any-framework document head manager built for performance and delightful developer experience.",
+    "description": "Unhead is the any-framework document head manager built for SEO, performance and delightful developer experience.",
     "topics": [],
     "owner": {
       "name": "unjs",
       "avatarUrl": "https://avatars.githubusercontent.com/u/80154025?v=4"
     },
-    "stars": 658,
+    "stars": 659,
     "starsDetail": {
       "total": 657,
       "week": 4,
@@ -4895,7 +4895,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2022-11-02T03:55:24.000Z",
-    "updatedAt": "2025-01-09T12:41:44.000Z"
+    "updatedAt": "2025-01-10T15:17:09.000Z"
   },
   {
     "id": "webfansplz/vite-plugin-vue-inspector",
@@ -5001,7 +5001,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2020-01-25T20:58:37.000Z",
-    "updatedAt": "2025-01-09T12:45:59.000Z"
+    "updatedAt": "2025-01-10T15:21:42.000Z"
   },
   {
     "id": "OXOYO/X-Flowchart-Vue",
@@ -5360,7 +5360,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2022-06-02T08:04:40.000Z",
-    "updatedAt": "2025-01-09T12:41:47.000Z"
+    "updatedAt": "2025-01-10T15:17:12.000Z"
   },
   {
     "id": "vuejs/eslint-plugin-vue",
@@ -5768,14 +5768,14 @@
     "license": "MIT License",
     "forks": 86,
     "primaryLanguage": "Shell",
-    "pushedAt": "2025-01-09T01:18:26.000Z",
+    "pushedAt": "2025-01-10T01:20:46.000Z",
     "archived": false,
     "npmPackage": "",
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-11-26T22:10:41.000Z",
-    "updatedAt": "2025-01-09T12:46:14.000Z"
+    "updatedAt": "2025-01-10T15:21:58.000Z"
   },
   {
     "id": "naver/egjs-infinitegrid",
@@ -7213,7 +7213,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-12-01T07:16:46.000Z",
-    "updatedAt": "2025-01-09T12:47:52.000Z"
+    "updatedAt": "2025-01-10T15:23:42.000Z"
   },
   {
     "id": "ElemeFE/element",
@@ -7838,7 +7838,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2023-03-21T06:50:18.000Z",
-    "updatedAt": "2025-01-09T12:45:23.000Z"
+    "updatedAt": "2025-01-10T15:21:03.000Z"
   },
   {
     "id": "M-Media-Group/Vue3-SPA-starter-template",
@@ -8849,7 +8849,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-01-07T01:04:10.000Z",
-    "updatedAt": "2025-01-09T12:41:11.000Z"
+    "updatedAt": "2025-01-10T15:16:35.000Z"
   },
   {
     "id": "akoidan/pychat",
@@ -9700,7 +9700,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-11-14T23:51:35.000Z",
-    "updatedAt": "2025-01-09T12:46:49.000Z"
+    "updatedAt": "2025-01-10T15:22:36.000Z"
   },
   {
     "id": "dattn/dnd-grid",
@@ -10809,7 +10809,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-07-01T14:33:34.000Z",
-    "updatedAt": "2025-01-09T12:41:02.000Z"
+    "updatedAt": "2025-01-10T15:16:26.000Z"
   },
   {
     "id": "ivanlori/Vuemmerce",
@@ -13452,7 +13452,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2022-12-31T14:10:38.000Z",
-    "updatedAt": "2025-01-09T12:48:43.000Z"
+    "updatedAt": "2025-01-10T15:24:38.000Z"
   },
   {
     "id": "samjonesigd/vue-image-zoomer",
@@ -14185,7 +14185,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-09-06T12:21:07.000Z",
-    "updatedAt": "2025-01-09T12:41:44.000Z"
+    "updatedAt": "2025-01-10T15:17:09.000Z"
   },
   {
     "id": "tolgee/tolgee-js",
@@ -14661,21 +14661,21 @@
       "name": "vitejs",
       "avatarUrl": "https://avatars.githubusercontent.com/u/65625612?v=4"
     },
-    "stars": 69874,
+    "stars": 69899,
     "starsDetail": {
-      "total": 69874
+      "total": 69899
     },
     "license": "MIT License",
-    "forks": 6333,
+    "forks": 6338,
     "primaryLanguage": "Astro",
-    "pushedAt": "2025-01-09T12:22:28.000Z",
+    "pushedAt": "2025-01-10T10:32:30.000Z",
     "archived": false,
     "npmPackage": "vite",
     "npmLastMonthDownloads": 70457491,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2020-04-21T05:03:57.000Z",
-    "updatedAt": "2025-01-09T12:42:46.000Z"
+    "updatedAt": "2025-01-10T15:18:16.000Z"
   },
   {
     "id": "vkaelin/LeagueStats",
@@ -14955,12 +14955,12 @@
       "name": "vuejs",
       "avatarUrl": "https://avatars.githubusercontent.com/u/6128107?v=4"
     },
-    "stars": 208252,
+    "stars": 208255,
     "starsDetail": {
-      "total": 208252
+      "total": 208255
     },
     "license": "MIT License",
-    "forks": 33698,
+    "forks": 33705,
     "primaryLanguage": "Shell",
     "pushedAt": "2024-10-10T07:24:15.000Z",
     "archived": false,
@@ -14969,7 +14969,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2013-07-29T03:24:51.000Z",
-    "updatedAt": "2025-01-09T12:44:53.000Z"
+    "updatedAt": "2025-01-10T15:20:31.000Z"
   },
   {
     "id": "vuetifyjs/vuetify",
