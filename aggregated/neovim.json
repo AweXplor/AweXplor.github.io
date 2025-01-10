@@ -767,7 +767,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-05-29T06:24:46.000Z",
-    "updatedAt": "2025-01-09T01:51:32.000Z"
+    "updatedAt": "2025-01-10T04:21:24.000Z"
   },
   {
     "id": "3rd/image.nvim",
@@ -7221,7 +7221,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2021-08-24T17:13:20.000Z",
-    "updatedAt": "2025-01-09T01:51:37.000Z"
+    "updatedAt": "2025-01-10T04:21:30.000Z"
   },
   {
     "id": "hrsh7th/nvim-cmp",

@@ -645,7 +645,7 @@
       "name": "vercel",
       "avatarUrl": "https://avatars.githubusercontent.com/u/14985020?v=4"
     },
-    "stars": 5191,
+    "stars": 5192,
     "starsDetail": {
       "total": 5137,
       "week": 7,
@@ -663,7 +663,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2012-03-08T02:10:13.000Z",
-    "updatedAt": "2025-01-09T01:51:03.000Z"
+    "updatedAt": "2025-01-10T04:20:55.000Z"
   },
   {
     "id": "fabian-hiller/valibot",
@@ -1386,7 +1386,7 @@
     "goPackage": null,
     "goImportedBy": 0,
     "createdAt": "2017-01-20T05:20:21.000Z",
-    "updatedAt": "2025-01-09T01:50:54.000Z"
+    "updatedAt": "2025-01-10T04:20:45.000Z"
   },
   {
     "id": "hustcc/timeago.js",
@@ -2460,21 +2460,21 @@
       "name": "preactjs",
       "avatarUrl": "https://avatars.githubusercontent.com/u/26872990?v=4"
     },
-    "stars": 37020,
+    "stars": 37024,
     "starsDetail": {
-      "total": 37020
+      "total": 37024
     },
     "license": "MIT License",
     "forks": 1962,
     "primaryLanguage": "TypeScript",
-    "pushedAt": "2025-01-08T11:20:16.000Z",
+    "pushedAt": "2025-01-09T06:34:12.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-09-11T02:40:18.000Z",
-    "updatedAt": "2025-01-09T01:50:54.000Z"
+    "updatedAt": "2025-01-10T04:20:45.000Z"
   },
   {
     "id": "rafgraph/detect-it",
