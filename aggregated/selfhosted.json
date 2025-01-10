@@ -1125,7 +1125,7 @@
     "goPackage": "github.com/dnote/dnote",
     "goImportedBy": 0,
     "createdAt": "2017-03-30T23:07:25.000Z",
-    "updatedAt": "2025-01-09T19:15:39.000Z"
+    "updatedAt": "2025-01-10T21:50:33.000Z"
   },
   {
     "id": "inspircd/inspircd",
@@ -1537,7 +1537,7 @@
       "name": "postalserver",
       "avatarUrl": "https://avatars.githubusercontent.com/u/58169103?v=4"
     },
-    "stars": 15073,
+    "stars": 15074,
     "starsDetail": {
       "total": 15060,
       "week": 18,
@@ -1546,7 +1546,7 @@
       "updatedAt": 1736059849
     },
     "license": "MIT License",
-    "forks": 1076,
+    "forks": 1077,
     "primaryLanguage": "JavaScript",
     "pushedAt": "2024-12-24T02:01:27.000Z",
     "archived": false,
@@ -1555,7 +1555,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-04-19T12:04:57.000Z",
-    "updatedAt": "2025-01-09T19:06:06.000Z"
+    "updatedAt": "2025-01-10T21:41:45.000Z"
   },
   {
     "id": "sct/overseerr",
@@ -2582,7 +2582,7 @@
       "name": "zincsearch",
       "avatarUrl": "https://avatars.githubusercontent.com/u/129023705?v=4"
     },
-    "stars": 17132,
+    "stars": 17135,
     "starsDetail": {
       "total": 17123,
       "week": 16,
@@ -2600,7 +2600,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2021-12-02T12:49:41.000Z",
-    "updatedAt": "2025-01-09T19:14:02.000Z"
+    "updatedAt": "2025-01-10T21:49:04.000Z"
   },
   {
     "id": "DOMjudge/domjudge",
@@ -3640,7 +3640,7 @@
       "name": "koel",
       "avatarUrl": "https://avatars.githubusercontent.com/u/20983373?v=4"
     },
-    "stars": 16160,
+    "stars": 16163,
     "starsDetail": {
       "total": 16147,
       "week": 20,
@@ -3658,7 +3658,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-12-06T12:13:19.000Z",
-    "updatedAt": "2025-01-09T19:10:24.000Z"
+    "updatedAt": "2025-01-10T21:45:41.000Z"
   },
   {
     "id": "IgnisDa/ryot",
@@ -9079,7 +9079,7 @@
       "name": "svix",
       "avatarUrl": "https://avatars.githubusercontent.com/u/80175132?v=4"
     },
-    "stars": 2488,
+    "stars": 2491,
     "starsDetail": {
       "total": 2475,
       "week": 14,
@@ -9090,14 +9090,14 @@
     "license": "MIT License",
     "forks": 172,
     "primaryLanguage": "HTML",
-    "pushedAt": "2025-01-09T15:44:18.000Z",
+    "pushedAt": "2025-01-10T19:10:04.000Z",
     "archived": false,
     "npmPackage": "",
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2021-02-25T13:49:38.000Z",
-    "updatedAt": "2025-01-09T19:14:29.000Z"
+    "updatedAt": "2025-01-10T21:49:29.000Z"
   },
   {
     "id": "zammad/zammad",
@@ -13216,7 +13216,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-09-03T09:50:11.000Z",
-    "updatedAt": "2025-01-09T19:14:26.000Z"
+    "updatedAt": "2025-01-10T21:49:27.000Z"
   },
   {
     "id": "concretecms/concretecms",
@@ -13528,6 +13528,44 @@
     "goImportedBy": null,
     "createdAt": "2013-05-28T10:03:23.000Z",
     "updatedAt": "2025-01-10T11:57:08.000Z"
+  },
+  {
+    "id": "gitroomhq/postiz-app",
+    "name": "gitroomhq/postiz-app",
+    "description": "📨 The ultimate social media scheduling tool, with a bunch of AI  🤖",
+    "topics": [
+      "nextjs",
+      "open-source",
+      "open-source-social-media-scheduling-tool",
+      "oss",
+      "redis",
+      "scheduling-tool",
+      "social-media-scheduling-tool",
+      "typescript"
+    ],
+    "owner": {
+      "name": "gitroomhq",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/128401275?v=4"
+    },
+    "stars": 16937,
+    "starsDetail": {
+      "total": 16937,
+      "week": 758,
+      "month": 2945,
+      "year": 14276,
+      "updatedAt": 1736545935
+    },
+    "license": "GNU Affero General Public License v3.0",
+    "forks": 2705,
+    "primaryLanguage": "Shell",
+    "pushedAt": "2025-01-09T22:42:05.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2023-07-08T17:24:22.000Z",
+    "updatedAt": "2025-01-10T21:48:38.000Z"
   },
   {
     "id": "gchq/CyberChef",
@@ -15490,7 +15528,7 @@
       "name": "wabarc",
       "avatarUrl": "https://avatars.githubusercontent.com/u/66000339?v=4"
     },
-    "stars": 1853,
+    "stars": 1855,
     "starsDetail": {
       "total": 1849,
       "week": 4,
@@ -15508,7 +15546,7 @@
     "goPackage": "github.com/wabarc/wayback",
     "goImportedBy": 0,
     "createdAt": "2020-06-13T10:08:05.000Z",
-    "updatedAt": "2025-01-09T19:15:15.000Z"
+    "updatedAt": "2025-01-10T21:50:12.000Z"
   },
   {
     "id": "mealie-recipes/mealie",
@@ -17663,7 +17701,7 @@
       "name": "bytebase",
       "avatarUrl": "https://avatars.githubusercontent.com/u/74386897?v=4"
     },
-    "stars": 11775,
+    "stars": 11784,
     "starsDetail": {
       "total": 11718,
       "week": 50,
@@ -17672,16 +17710,16 @@
       "updatedAt": 1736032711
     },
     "license": "Other",
-    "forks": 757,
+    "forks": 758,
     "primaryLanguage": "Smarty",
-    "pushedAt": "2025-01-09T11:13:42.000Z",
+    "pushedAt": "2025-01-10T10:03:55.000Z",
     "archived": false,
     "npmPackage": "",
     "npmLastMonthDownloads": null,
     "goPackage": "github.com/bytebase/bytebase",
     "goImportedBy": 0,
     "createdAt": "2021-01-27T04:33:50.000Z",
-    "updatedAt": "2025-01-09T19:17:12.000Z"
+    "updatedAt": "2025-01-10T21:51:59.000Z"
   },
   {
     "id": "stashapp/stash",
@@ -18555,7 +18593,7 @@
       "name": "stringer-rss",
       "avatarUrl": "https://avatars.githubusercontent.com/u/96632003?v=4"
     },
-    "stars": 3965,
+    "stars": 3966,
     "starsDetail": {
       "total": 3961,
       "week": 2,
@@ -18566,14 +18604,14 @@
     "license": "MIT License",
     "forks": 397,
     "primaryLanguage": "Procfile",
-    "pushedAt": "2025-01-06T18:58:06.000Z",
+    "pushedAt": "2025-01-10T16:59:12.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2013-04-06T04:51:27.000Z",
-    "updatedAt": "2025-01-09T19:06:42.000Z"
+    "updatedAt": "2025-01-10T21:42:18.000Z"
   },
   {
     "id": "webtorrent/instant.io",
@@ -19921,6 +19959,46 @@
     "goImportedBy": null,
     "createdAt": "2015-03-02T19:36:00.000Z",
     "updatedAt": "2025-01-10T15:13:12.000Z"
+  },
+  {
+    "id": "comet-ml/opik",
+    "name": "comet-ml/opik",
+    "description": "From RAG chatbots to code assistants to complex agentic pipelines and beyond, build LLM systems that run better, faster, and cheaper with tracing, evaluations, and dashboards.",
+    "topics": [
+      "langchain",
+      "llama-index",
+      "llm",
+      "llm-evaluation",
+      "llm-observability",
+      "llmops",
+      "open-source",
+      "openai",
+      "playground",
+      "prompt-engineering"
+    ],
+    "owner": {
+      "name": "comet-ml",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/31487821?v=4"
+    },
+    "stars": 4133,
+    "starsDetail": {
+      "total": 4013,
+      "week": 203,
+      "month": 1553,
+      "year": 3697,
+      "updatedAt": 1736085221
+    },
+    "license": "Apache License 2.0",
+    "forks": 241,
+    "primaryLanguage": "Makefile",
+    "pushedAt": "2025-01-10T19:48:54.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2023-05-10T12:57:13.000Z",
+    "updatedAt": "2025-01-10T21:47:36.000Z"
   },
   {
     "id": "xbmc/xbmc",
@@ -25052,7 +25130,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-07-18T10:03:05.000Z",
-    "updatedAt": "2025-01-09T19:14:27.000Z"
+    "updatedAt": "2025-01-10T21:49:27.000Z"
   },
   {
     "id": "Admidio/admidio",
@@ -26158,6 +26236,40 @@
     "goImportedBy": null,
     "createdAt": "2013-03-15T09:57:01.000Z",
     "updatedAt": "2025-01-10T15:11:31.000Z"
+  },
+  {
+    "id": "Lessify/localess",
+    "name": "Lessify/localess",
+    "description": "Localess is a powerful translation management tool and content management system built using Angular and Firebase. With Localess, you can easily manage and translate your website or app content into multiple languages, and it uses Artificial Intelligence to translate faster.",
+    "topics": [
+      "angular",
+      "cms",
+      "content-management-system",
+      "firebase",
+      "i18n",
+      "internationalization",
+      "internationalization-tool",
+      "localization"
+    ],
+    "owner": {
+      "name": "Lessify",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/58525502?v=4"
+    },
+    "stars": 45,
+    "starsDetail": {
+      "total": 45
+    },
+    "license": "MIT License",
+    "forks": 15,
+    "primaryLanguage": "CSS",
+    "pushedAt": "2025-01-09T20:04:39.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2022-05-06T20:56:47.000Z",
+    "updatedAt": "2025-01-10T21:48:46.000Z"
   },
   {
     "id": "Linbreux/wikmd",
@@ -27338,6 +27450,70 @@
     "updatedAt": "2025-01-10T15:14:04.000Z"
   },
   {
+    "id": "afaneca/myfin",
+    "name": "afaneca/myfin",
+    "description": "Web frontend for the personal finances platform that'll help you budget, keep track of your income/spending and forecast your financial future.",
+    "topics": [
+      "budget-app",
+      "budget-manager",
+      "budgeting",
+      "finance-management",
+      "personal-finance-manager",
+      "personal-finances",
+      "pfm"
+    ],
+    "owner": {
+      "name": "afaneca",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/14138443?v=4"
+    },
+    "stars": 41,
+    "starsDetail": {
+      "total": 41
+    },
+    "license": "GNU General Public License v3.0",
+    "forks": 5,
+    "primaryLanguage": "CSS",
+    "pushedAt": "2025-01-10T14:24:38.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2019-12-21T22:07:18.000Z",
+    "updatedAt": "2025-01-10T21:48:59.000Z"
+  },
+  {
+    "id": "afaneca/myfin-android",
+    "name": "afaneca/myfin-android",
+    "description": "Android app for MyFin - Personal Finances Manager platform",
+    "topics": [
+      "android",
+      "budget-app",
+      "personal-finance-manager",
+      "personal-finances",
+      "pfm"
+    ],
+    "owner": {
+      "name": "afaneca",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/14138443?v=4"
+    },
+    "stars": 28,
+    "starsDetail": {
+      "total": 28
+    },
+    "license": "GNU General Public License v3.0",
+    "forks": 2,
+    "primaryLanguage": "Kotlin",
+    "pushedAt": "2024-11-28T13:57:17.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2020-11-29T11:55:22.000Z",
+    "updatedAt": "2025-01-10T21:48:59.000Z"
+  },
+  {
     "id": "alexbates/Tamari",
     "name": "alexbates/Tamari",
     "description": "A fully-featured recipe manager web application built using Python and the Flask Framework.",
@@ -27509,21 +27685,21 @@
       "name": "apache",
       "avatarUrl": "https://avatars.githubusercontent.com/u/47359?v=4"
     },
-    "stars": 63718,
+    "stars": 63746,
     "starsDetail": {
-      "total": 63718
+      "total": 63746
     },
     "license": "Apache License 2.0",
-    "forks": 14192,
+    "forks": 14201,
     "primaryLanguage": "Mako",
-    "pushedAt": "2025-01-09T18:54:37.000Z",
+    "pushedAt": "2025-01-10T21:42:27.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-07-21T18:55:34.000Z",
-    "updatedAt": "2025-01-09T19:12:48.000Z"
+    "updatedAt": "2025-01-10T21:47:54.000Z"
   },
   {
     "id": "appsmithorg/appsmith",
@@ -29870,12 +30046,12 @@
       "name": "huginn",
       "avatarUrl": "https://avatars.githubusercontent.com/u/23225142?v=4"
     },
-    "stars": 44242,
+    "stars": 44252,
     "starsDetail": {
-      "total": 44242
+      "total": 44252
     },
     "license": "MIT License",
-    "forks": 3819,
+    "forks": 3820,
     "primaryLanguage": "Makefile",
     "pushedAt": "2025-01-09T18:48:43.000Z",
     "archived": false,
@@ -29884,7 +30060,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2013-03-10T06:00:31.000Z",
-    "updatedAt": "2025-01-09T19:05:37.000Z"
+    "updatedAt": "2025-01-10T21:41:19.000Z"
   },
   {
     "id": "hyperupcall/awesome-mastodon",
@@ -30337,7 +30513,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-03-21T21:30:19.000Z",
-    "updatedAt": "2025-01-09T19:14:27.000Z"
+    "updatedAt": "2025-01-10T21:49:28.000Z"
   },
   {
     "id": "jaywink/socialhome",
@@ -31615,21 +31791,21 @@
       "name": "mayswind",
       "avatarUrl": "https://avatars.githubusercontent.com/u/2211648?v=4"
     },
-    "stars": 127,
+    "stars": 128,
     "starsDetail": {
-      "total": 127
+      "total": 128
     },
     "license": "MIT License",
     "forks": 25,
     "primaryLanguage": "Dockerfile",
-    "pushedAt": "2025-01-08T16:23:19.000Z",
+    "pushedAt": "2025-01-10T18:14:52.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2020-10-17T08:54:02.000Z",
-    "updatedAt": "2025-01-09T19:14:28.000Z"
+    "updatedAt": "2025-01-10T21:49:29.000Z"
   },
   {
     "id": "mcarbonne/minimal-git-server",
@@ -32083,6 +32259,48 @@
     "goImportedBy": null,
     "createdAt": "2016-11-16T16:21:21.000Z",
     "updatedAt": "2025-01-10T15:12:54.000Z"
+  },
+  {
+    "id": "mybucks-online/app",
+    "name": "mybucks-online/app",
+    "description": "Password-only, self-custodial cryptocurrency wallet. No register, no seed phrases!",
+    "topics": [
+      "alchemy",
+      "alchemysdk",
+      "blockchain",
+      "cryptowallet",
+      "dapp",
+      "erc20",
+      "ethereum",
+      "keccak256",
+      "opensource-projects",
+      "password-hashing",
+      "privatekey-generator",
+      "react",
+      "scrypt",
+      "styled-components",
+      "tron",
+      "web3"
+    ],
+    "owner": {
+      "name": "mybucks-online",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/179625268?v=4"
+    },
+    "stars": 5,
+    "starsDetail": {
+      "total": 5
+    },
+    "license": "MIT License",
+    "forks": 3,
+    "primaryLanguage": "CSS",
+    "pushedAt": "2025-01-10T02:32:32.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2024-08-27T16:50:43.000Z",
+    "updatedAt": "2025-01-10T21:48:59.000Z"
   },
   {
     "id": "mynaparrot/plugNmeet-server",
@@ -33219,7 +33437,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2022-11-27T11:00:41.000Z",
-    "updatedAt": "2025-01-09T19:14:29.000Z"
+    "updatedAt": "2025-01-10T21:49:29.000Z"
   },
   {
     "id": "r3-team/r3",
