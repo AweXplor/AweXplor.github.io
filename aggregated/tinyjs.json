@@ -88,7 +88,7 @@
       "updatedAt": 1736031292
     },
     "license": "Creative Commons Zero v1.0 Universal",
-    "forks": 404,
+    "forks": 405,
     "primaryLanguage": "JavaScript",
     "pushedAt": "2024-02-08T08:25:12.000Z",
     "archived": false,
@@ -97,7 +97,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2014-04-08T20:25:02.000Z",
-    "updatedAt": "2025-01-10T15:21:28.000Z"
+    "updatedAt": "2025-01-11T20:59:09.000Z"
   },
   {
     "id": "molefrog/wouter",
@@ -205,7 +205,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2021-09-30T06:00:50.000Z",
-    "updatedAt": "2025-01-10T15:21:09.000Z"
+    "updatedAt": "2025-01-11T20:58:54.000Z"
   },
   {
     "id": "Glench/fuzzyset.js",
@@ -298,7 +298,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-01-15T13:50:45.000Z",
-    "updatedAt": "2025-01-10T15:21:09.000Z"
+    "updatedAt": "2025-01-11T20:58:53.000Z"
   },
   {
     "id": "bvaughn/js-search",
@@ -446,7 +446,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-06-21T08:16:56.000Z",
-    "updatedAt": "2025-01-10T15:21:35.000Z"
+    "updatedAt": "2025-01-11T20:59:15.000Z"
   },
   {
     "id": "olivernn/lunr.js",
@@ -517,7 +517,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-11-23T03:03:25.000Z",
-    "updatedAt": "2025-01-10T15:19:01.000Z"
+    "updatedAt": "2025-01-11T20:57:04.000Z"
   },
   {
     "id": "jashkenas/underscore",
@@ -725,7 +725,7 @@
       "name": "elbywan",
       "avatarUrl": "https://avatars.githubusercontent.com/u/3428394?v=4"
     },
-    "stars": 4876,
+    "stars": 4877,
     "starsDetail": {
       "total": 4874,
       "week": 5,
@@ -743,7 +743,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-09-13T18:27:25.000Z",
-    "updatedAt": "2025-01-10T15:21:41.000Z"
+    "updatedAt": "2025-01-11T20:59:20.000Z"
   },
   {
     "id": "angus-c/just",
@@ -1044,7 +1044,7 @@
       "name": "NaturalNode",
       "avatarUrl": "https://avatars.githubusercontent.com/u/1005344?v=4"
     },
-    "stars": 10682,
+    "stars": 10685,
     "starsDetail": {
       "total": 10597,
       "week": 8,
@@ -1062,7 +1062,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2011-05-07T02:35:16.000Z",
-    "updatedAt": "2025-01-10T15:19:47.000Z"
+    "updatedAt": "2025-01-11T20:57:43.000Z"
   },
   {
     "id": "AlloyTeam/AlloyFinger",
@@ -1405,7 +1405,7 @@
       "name": "hustcc",
       "avatarUrl": "https://avatars.githubusercontent.com/u/7856674?v=4"
     },
-    "stars": 5344,
+    "stars": 5345,
     "starsDetail": {
       "total": 5342,
       "week": 4,
@@ -1423,7 +1423,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-06-23T02:06:23.000Z",
-    "updatedAt": "2025-01-10T15:21:16.000Z"
+    "updatedAt": "2025-01-11T20:59:00.000Z"
   },
   {
     "id": "lingui/js-lingui",
@@ -1870,12 +1870,12 @@
       "name": "date-fns",
       "avatarUrl": "https://avatars.githubusercontent.com/u/14921202?v=4"
     },
-    "stars": 35139,
+    "stars": 35142,
     "starsDetail": {
-      "total": 35139
+      "total": 35142
     },
     "license": "MIT License",
-    "forks": 1801,
+    "forks": 1802,
     "primaryLanguage": "JavaScript",
     "pushedAt": "2024-09-23T08:07:29.000Z",
     "archived": false,
@@ -1884,7 +1884,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2014-10-06T10:24:22.000Z",
-    "updatedAt": "2025-01-10T15:21:13.000Z"
+    "updatedAt": "2025-01-11T20:58:56.000Z"
   },
   {
     "id": "elbywan/hyperactiv",
@@ -2050,9 +2050,9 @@
       "name": "iamkun",
       "avatarUrl": "https://avatars.githubusercontent.com/u/17680888?v=4"
     },
-    "stars": 47265,
+    "stars": 47270,
     "starsDetail": {
-      "total": 47265
+      "total": 47270
     },
     "license": "MIT License",
     "forks": 2317,
@@ -2064,7 +2064,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-04-10T09:26:44.000Z",
-    "updatedAt": "2025-01-10T15:21:12.000Z"
+    "updatedAt": "2025-01-11T20:58:56.000Z"
   },
   {
     "id": "ibitcy/eo-locale",

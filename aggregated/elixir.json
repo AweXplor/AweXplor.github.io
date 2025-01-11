@@ -1076,7 +1076,7 @@
       "name": "jnv",
       "avatarUrl": "https://avatars.githubusercontent.com/u/616767?v=4"
     },
-    "stars": 10098,
+    "stars": 10102,
     "starsDetail": {
       "total": 10087,
       "week": 13,
@@ -1094,7 +1094,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2013-11-14T22:25:24.000Z",
-    "updatedAt": "2025-01-10T15:23:05.000Z"
+    "updatedAt": "2025-01-11T21:00:33.000Z"
   },
   {
     "id": "Accenture/reactive-interaction-gateway",
@@ -2253,7 +2253,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2022-07-18T11:14:03.000Z",
-    "updatedAt": "2025-01-10T15:23:39.000Z"
+    "updatedAt": "2025-01-11T21:01:04.000Z"
   },
   {
     "id": "rrrene/credo",
@@ -3403,7 +3403,7 @@
       "updatedAt": 1736031324
     },
     "license": "MIT License",
-    "forks": 241,
+    "forks": 242,
     "primaryLanguage": "Euphoria",
     "pushedAt": "2024-08-03T17:30:36.000Z",
     "archived": false,
@@ -3412,7 +3412,7 @@
     "goPackage": "",
     "goImportedBy": 0,
     "createdAt": "2019-01-13T02:32:55.000Z",
-    "updatedAt": "2025-01-10T15:21:46.000Z"
+    "updatedAt": "2025-01-11T20:59:25.000Z"
   },
   {
     "id": "aws-beam/aws-elixir",
@@ -6786,7 +6786,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-12-08T20:42:42.000Z",
-    "updatedAt": "2025-01-10T15:17:32.000Z"
+    "updatedAt": "2025-01-11T20:55:48.000Z"
   },
   {
     "id": "JohnJocoo/weighted_random",
@@ -8522,7 +8522,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-05-07T14:47:56.000Z",
-    "updatedAt": "2025-01-10T15:15:22.000Z"
+    "updatedAt": "2025-01-11T20:53:58.000Z"
   },
   {
     "id": "WTTJ/algoliax",
@@ -11014,9 +11014,9 @@
       "name": "bayandin",
       "avatarUrl": "https://avatars.githubusercontent.com/u/864213?v=4"
     },
-    "stars": 32256,
+    "stars": 32259,
     "starsDetail": {
-      "total": 32256
+      "total": 32259
     },
     "license": null,
     "forks": 3567,
@@ -11028,7 +11028,7 @@
     "goPackage": "",
     "goImportedBy": 0,
     "createdAt": "2014-07-08T05:44:19.000Z",
-    "updatedAt": "2025-01-10T15:23:05.000Z"
+    "updatedAt": "2025-01-11T21:00:34.000Z"
   },
   {
     "id": "bbense/elixgrep",
@@ -21897,7 +21897,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2021-05-20T09:20:06.000Z",
-    "updatedAt": "2025-01-10T15:31:26.000Z"
+    "updatedAt": "2025-01-11T21:07:43.000Z"
   },
   {
     "id": "liveforeverx/apix",
@@ -26719,7 +26719,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2022-12-27T10:39:42.000Z",
-    "updatedAt": "2025-01-10T15:31:26.000Z"
+    "updatedAt": "2025-01-11T21:07:43.000Z"
   },
   {
     "id": "polleverywhere/chaperon",

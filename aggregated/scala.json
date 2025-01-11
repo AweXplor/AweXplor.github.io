@@ -213,14 +213,14 @@
     "license": "Apache License 2.0",
     "forks": 423,
     "primaryLanguage": "HTML",
-    "pushedAt": "2025-01-10T11:18:05.000Z",
+    "pushedAt": "2025-01-11T00:42:46.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-12-09T16:43:49.000Z",
-    "updatedAt": "2025-01-10T11:52:32.000Z"
+    "updatedAt": "2025-01-11T17:46:47.000Z"
   },
   {
     "id": "optics-dev/Monocle",
@@ -619,7 +619,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2014-11-29T08:35:28.000Z",
-    "updatedAt": "2025-01-10T15:09:07.000Z"
+    "updatedAt": "2025-01-11T17:46:48.000Z"
   },
   {
     "id": "foundweekends/giter8",
@@ -1736,14 +1736,14 @@
     "license": "Other",
     "forks": 27,
     "primaryLanguage": "SCSS",
-    "pushedAt": "2024-12-27T21:04:42.000Z",
+    "pushedAt": "2025-01-11T20:38:16.000Z",
     "archived": false,
     "npmPackage": "",
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2020-07-25T09:54:21.000Z",
-    "updatedAt": "2025-01-10T15:21:47.000Z"
+    "updatedAt": "2025-01-11T20:59:26.000Z"
   },
   {
     "id": "gitbucket/gitbucket",
@@ -3768,14 +3768,14 @@
     "license": "Apache License 2.0",
     "forks": 311,
     "primaryLanguage": "Shell",
-    "pushedAt": "2025-01-10T00:44:00.000Z",
+    "pushedAt": "2025-01-11T00:43:19.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-06-30T15:15:07.000Z",
-    "updatedAt": "2025-01-10T15:09:09.000Z"
+    "updatedAt": "2025-01-11T17:46:50.000Z"
   },
   {
     "id": "squeryl/squeryl",
@@ -5477,9 +5477,9 @@
       "name": "bayandin",
       "avatarUrl": "https://avatars.githubusercontent.com/u/864213?v=4"
     },
-    "stars": 32256,
+    "stars": 32259,
     "starsDetail": {
-      "total": 32256
+      "total": 32259
     },
     "license": null,
     "forks": 3567,
@@ -5491,7 +5491,7 @@
     "goPackage": "",
     "goImportedBy": 0,
     "createdAt": "2014-07-08T05:44:19.000Z",
-    "updatedAt": "2025-01-10T15:23:05.000Z"
+    "updatedAt": "2025-01-11T21:00:34.000Z"
   },
   {
     "id": "blackdoor/jose",
@@ -5926,7 +5926,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-04-25T12:48:00.000Z",
-    "updatedAt": "2025-01-10T15:09:09.000Z"
+    "updatedAt": "2025-01-11T17:46:51.000Z"
   },
   {
     "id": "epfldata/squid",
@@ -5975,14 +5975,14 @@
     "license": "Apache License 2.0",
     "forks": 60,
     "primaryLanguage": "Shell",
-    "pushedAt": "2025-01-04T15:46:13.000Z",
+    "pushedAt": "2025-01-11T07:44:19.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2012-09-10T17:53:21.000Z",
-    "updatedAt": "2025-01-10T15:09:08.000Z"
+    "updatedAt": "2025-01-11T17:46:49.000Z"
   },
   {
     "id": "fingo/spata",
