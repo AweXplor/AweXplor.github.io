@@ -8740,7 +8740,7 @@
       "name": "go-gota",
       "avatarUrl": "https://avatars.githubusercontent.com/u/47326457?v=4"
     },
-    "stars": 3095,
+    "stars": 3098,
     "starsDetail": {
       "total": 3095,
       "week": 3,
@@ -8758,7 +8758,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-02-06T17:23:25.000Z",
-    "updatedAt": "2025-01-10T04:21:46.000Z"
+    "updatedAt": "2025-01-11T06:57:53.000Z"
   },
   {
     "id": "jmschrei/pomegranate",

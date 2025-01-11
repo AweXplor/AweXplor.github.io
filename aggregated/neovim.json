@@ -749,7 +749,7 @@
       "name": "skim-rs",
       "avatarUrl": "https://avatars.githubusercontent.com/u/187454154?v=4"
     },
-    "stars": 5314,
+    "stars": 5316,
     "starsDetail": {
       "total": 5309,
       "week": 18,
@@ -767,7 +767,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-05-29T06:24:46.000Z",
-    "updatedAt": "2025-01-10T04:21:24.000Z"
+    "updatedAt": "2025-01-11T06:57:31.000Z"
   },
   {
     "id": "3rd/image.nvim",
@@ -7221,7 +7221,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2021-08-24T17:13:20.000Z",
-    "updatedAt": "2025-01-10T04:21:30.000Z"
+    "updatedAt": "2025-01-11T06:57:37.000Z"
   },
   {
     "id": "hrsh7th/nvim-cmp",

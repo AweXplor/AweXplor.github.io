@@ -3675,7 +3675,7 @@
       "name": "IgnisDa",
       "avatarUrl": "https://avatars.githubusercontent.com/u/60938164?v=4"
     },
-    "stars": 2132,
+    "stars": 2135,
     "starsDetail": {
       "total": 2109,
       "week": 16,
@@ -3693,7 +3693,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2023-04-03T17:02:43.000Z",
-    "updatedAt": "2025-01-10T04:21:22.000Z"
+    "updatedAt": "2025-01-11T06:57:29.000Z"
   },
   {
     "id": "judge0/judge0",
@@ -19617,7 +19617,7 @@
       "name": "apostrophecms",
       "avatarUrl": "https://avatars.githubusercontent.com/u/12648958?v=4"
     },
-    "stars": 4376,
+    "stars": 4377,
     "starsDetail": {
       "total": 4349,
       "week": 5,
@@ -19628,14 +19628,14 @@
     "license": "Other",
     "forks": 595,
     "primaryLanguage": "CSS",
-    "pushedAt": "2025-01-09T13:35:35.000Z",
+    "pushedAt": "2025-01-10T14:45:02.000Z",
     "archived": false,
     "npmPackage": "apostrophe",
     "npmLastMonthDownloads": 9619,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2013-02-08T20:04:02.000Z",
-    "updatedAt": "2025-01-10T04:20:48.000Z"
+    "updatedAt": "2025-01-11T06:56:55.000Z"
   },
   {
     "id": "chiefonboarding/ChiefOnboarding",
@@ -27163,21 +27163,21 @@
       "name": "TryGhost",
       "avatarUrl": "https://avatars.githubusercontent.com/u/2178663?v=4"
     },
-    "stars": 47990,
+    "stars": 47999,
     "starsDetail": {
-      "total": 47990
+      "total": 47999
     },
     "license": "MIT License",
-    "forks": 10470,
+    "forks": 10468,
     "primaryLanguage": "Dockerfile",
-    "pushedAt": "2025-01-09T19:31:45.000Z",
+    "pushedAt": "2025-01-10T15:07:56.000Z",
     "archived": false,
     "npmPackage": "",
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": 0,
     "createdAt": "2013-05-04T11:09:13.000Z",
-    "updatedAt": "2025-01-10T04:20:44.000Z"
+    "updatedAt": "2025-01-11T06:56:51.000Z"
   },
   {
     "id": "TxtDot/txtdot",
@@ -31862,21 +31862,21 @@
       "name": "meilisearch",
       "avatarUrl": "https://avatars.githubusercontent.com/u/43250847?v=4"
     },
-    "stars": 48614,
+    "stars": 48626,
     "starsDetail": {
-      "total": 48614
+      "total": 48626
     },
     "license": "MIT License",
     "forks": 1905,
     "primaryLanguage": "Dockerfile",
-    "pushedAt": "2025-01-09T17:14:04.000Z",
+    "pushedAt": "2025-01-10T14:04:21.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-04-23T11:45:28.000Z",
-    "updatedAt": "2025-01-10T04:21:35.000Z"
+    "updatedAt": "2025-01-11T06:57:42.000Z"
   },
   {
     "id": "melmothx/amusewiki",
@@ -32726,16 +32726,16 @@
       "total": 35956
     },
     "license": "Other",
-    "forks": 3938,
+    "forks": 3939,
     "primaryLanguage": "EJS",
-    "pushedAt": "2025-01-09T16:28:43.000Z",
+    "pushedAt": "2025-01-10T22:43:24.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2021-08-26T15:22:44.000Z",
-    "updatedAt": "2025-01-10T04:21:04.000Z"
+    "updatedAt": "2025-01-11T06:57:11.000Z"
   },
   {
     "id": "nskondratev/socks5-proxy-server",
