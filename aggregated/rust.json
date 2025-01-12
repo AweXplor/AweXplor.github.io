@@ -5817,7 +5817,7 @@
       "name": "trynova",
       "avatarUrl": "https://avatars.githubusercontent.com/u/108045716?v=4"
     },
-    "stars": 1020,
+    "stars": 1021,
     "starsDetail": {
       "total": 1008,
       "week": 19,
@@ -5828,14 +5828,14 @@
     "license": "Mozilla Public License 2.0",
     "forks": 38,
     "primaryLanguage": "JavaScript",
-    "pushedAt": "2025-01-11T12:58:25.000Z",
+    "pushedAt": "2025-01-12T12:42:04.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2022-08-24T20:23:44.000Z",
-    "updatedAt": "2025-01-11T13:38:57.000Z"
+    "updatedAt": "2025-01-12T16:14:37.000Z"
   },
   {
     "id": "Canop/bacon",
@@ -27683,9 +27683,9 @@
       "name": "binarly-io",
       "avatarUrl": "https://avatars.githubusercontent.com/u/51152336?v=4"
     },
-    "stars": 95,
+    "stars": 96,
     "starsDetail": {
-      "total": 95
+      "total": 96
     },
     "license": null,
     "forks": 8,
@@ -27697,7 +27697,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-09-26T17:21:44.000Z",
-    "updatedAt": "2025-01-11T13:38:57.000Z"
+    "updatedAt": "2025-01-12T16:14:37.000Z"
   },
   {
     "id": "bitfield/cargo-testdox",
@@ -32139,9 +32139,9 @@
       "name": "iot-ecology",
       "avatarUrl": "https://avatars.githubusercontent.com/u/167940655?v=4"
     },
-    "stars": 111,
+    "stars": 113,
     "starsDetail": {
-      "total": 111
+      "total": 113
     },
     "license": "Apache License 2.0",
     "forks": 4,
@@ -32153,7 +32153,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-11-07T13:52:54.000Z",
-    "updatedAt": "2025-01-11T14:41:58.000Z"
+    "updatedAt": "2025-01-12T17:13:33.000Z"
   },
   {
     "id": "ivanceras/rustorm",
