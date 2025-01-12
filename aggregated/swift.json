@@ -133,7 +133,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-11-09T09:43:47.000Z",
-    "updatedAt": "2025-01-10T21:36:29.000Z"
+    "updatedAt": "2025-01-12T00:10:47.000Z"
   },
   {
     "id": "timdonnelly/Advance",
@@ -992,7 +992,7 @@
       "name": "OpenCombine",
       "avatarUrl": "https://avatars.githubusercontent.com/u/56680246?v=4"
     },
-    "stars": 2741,
+    "stars": 2742,
     "starsDetail": {
       "total": 2736,
       "week": 0,
@@ -1001,7 +1001,7 @@
       "updatedAt": 1736034189
     },
     "license": "MIT License",
-    "forks": 212,
+    "forks": 213,
     "primaryLanguage": "Shell",
     "pushedAt": "2024-01-24T12:53:23.000Z",
     "archived": false,
@@ -1010,7 +1010,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-06-11T06:33:37.000Z",
-    "updatedAt": "2025-01-10T21:36:01.000Z"
+    "updatedAt": "2025-01-12T00:10:16.000Z"
   },
   {
     "id": "Quick/Quick",
@@ -1486,7 +1486,7 @@
       "name": "kodecocodes",
       "avatarUrl": "https://avatars.githubusercontent.com/u/4722515?v=4"
     },
-    "stars": 28899,
+    "stars": 28902,
     "starsDetail": {
       "total": 28892,
       "week": 10,
@@ -1504,7 +1504,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-01-26T17:56:12.000Z",
-    "updatedAt": "2025-01-10T21:35:17.000Z"
+    "updatedAt": "2025-01-12T00:09:28.000Z"
   },
   {
     "id": "CosmicMind/Material",
@@ -2266,7 +2266,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-10-27T20:55:43.000Z",
-    "updatedAt": "2025-01-10T21:35:56.000Z"
+    "updatedAt": "2025-01-12T00:10:11.000Z"
   },
   {
     "id": "FlineDev/BartyCrouch",
@@ -2306,7 +2306,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-02-14T16:08:40.000Z",
-    "updatedAt": "2025-01-10T21:35:33.000Z"
+    "updatedAt": "2025-01-12T00:09:45.000Z"
   },
   {
     "id": "GottaGetSwifty/CodableWrappers",
@@ -2587,7 +2587,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-05-10T14:22:37.000Z",
-    "updatedAt": "2025-01-10T21:35:05.000Z"
+    "updatedAt": "2025-01-12T00:09:16.000Z"
   },
   {
     "id": "jathu/UIImageColors",
@@ -2884,7 +2884,7 @@
       "name": "ChartsOrg",
       "avatarUrl": "https://avatars.githubusercontent.com/u/79675592?v=4"
     },
-    "stars": 27674,
+    "stars": 27676,
     "starsDetail": {
       "total": 27668,
       "week": 13,
@@ -2893,7 +2893,7 @@
       "updatedAt": 1736033782
     },
     "license": "Apache License 2.0",
-    "forks": 6007,
+    "forks": 6008,
     "primaryLanguage": "C",
     "pushedAt": "2024-08-19T06:17:16.000Z",
     "archived": false,
@@ -2902,7 +2902,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-03-20T10:49:12.000Z",
-    "updatedAt": "2025-01-10T21:35:05.000Z"
+    "updatedAt": "2025-01-12T00:09:16.000Z"
   },
   {
     "id": "sindresorhus/Defaults",
@@ -2961,16 +2961,16 @@
       "updatedAt": 1736033894
     },
     "license": "Apache License 2.0",
-    "forks": 1359,
+    "forks": 1360,
     "primaryLanguage": "Emacs Lisp",
-    "pushedAt": "2025-01-10T17:38:06.000Z",
+    "pushedAt": "2025-01-11T12:08:03.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-10-23T21:41:12.000Z",
-    "updatedAt": "2025-01-10T21:35:22.000Z"
+    "updatedAt": "2025-01-12T00:09:33.000Z"
   },
   {
     "id": "exyte/PopupView",
@@ -4587,7 +4587,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-07-15T18:29:21.000Z",
-    "updatedAt": "2025-01-10T21:35:04.000Z"
+    "updatedAt": "2025-01-12T00:09:15.000Z"
   },
   {
     "id": "ArtSabintsev/Zephyr",
@@ -4776,7 +4776,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-02-08T16:12:21.000Z",
-    "updatedAt": "2025-01-10T21:36:09.000Z"
+    "updatedAt": "2025-01-12T00:10:26.000Z"
   },
   {
     "id": "Krisiacik/ImageViewer",
@@ -5078,7 +5078,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-10-31T03:51:23.000Z",
-    "updatedAt": "2025-01-10T21:35:18.000Z"
+    "updatedAt": "2025-01-12T00:09:30.000Z"
   },
   {
     "id": "hyperoslo/Presentation",
@@ -6463,7 +6463,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2012-04-16T20:06:56.000Z",
-    "updatedAt": "2025-01-10T21:35:12.000Z"
+    "updatedAt": "2025-01-12T00:09:23.000Z"
   },
   {
     "id": "aheze/Popovers",
@@ -6723,7 +6723,7 @@
       "updatedAt": 1736034064
     },
     "license": "Apache License 2.0",
-    "forks": 481,
+    "forks": 482,
     "primaryLanguage": "Shell",
     "pushedAt": "2020-12-13T08:49:55.000Z",
     "archived": false,
@@ -6732,7 +6732,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-04-22T08:39:02.000Z",
-    "updatedAt": "2025-01-10T21:35:43.000Z"
+    "updatedAt": "2025-01-12T00:09:57.000Z"
   },
   {
     "id": "Ramotion/circle-menu",
@@ -6994,7 +6994,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-11-05T01:26:03.000Z",
-    "updatedAt": "2025-01-10T21:36:52.000Z"
+    "updatedAt": "2025-01-12T00:11:12.000Z"
   },
   {
     "id": "cezheng/Fuzi",
@@ -7713,7 +7713,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-01-26T15:24:14.000Z",
-    "updatedAt": "2025-01-10T21:35:14.000Z"
+    "updatedAt": "2025-01-12T00:09:25.000Z"
   },
   {
     "id": "piemonte/Player",
@@ -7971,7 +7971,7 @@
       "name": "tbaranes",
       "avatarUrl": "https://avatars.githubusercontent.com/u/1402212?v=4"
     },
-    "stars": 559,
+    "stars": 560,
     "starsDetail": {
       "total": 559,
       "week": 1,
@@ -7989,7 +7989,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-04-24T15:39:02.000Z",
-    "updatedAt": "2025-01-10T21:36:50.000Z"
+    "updatedAt": "2025-01-12T00:11:10.000Z"
   },
   {
     "id": "yapstudios/YapAnimator",
@@ -8151,7 +8151,7 @@
       "name": "alexiscreuzot",
       "avatarUrl": "https://avatars.githubusercontent.com/u/431974?v=4"
     },
-    "stars": 2082,
+    "stars": 2084,
     "starsDetail": {
       "total": 2072,
       "week": 7,
@@ -8169,7 +8169,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-03-28T09:41:26.000Z",
-    "updatedAt": "2025-01-10T21:35:38.000Z"
+    "updatedAt": "2025-01-12T00:09:51.000Z"
   },
   {
     "id": "bizz84/SwiftyStoreKit",
@@ -8675,7 +8675,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-09-15T19:58:18.000Z",
-    "updatedAt": "2025-01-10T21:36:02.000Z"
+    "updatedAt": "2025-01-12T00:10:17.000Z"
   },
   {
     "id": "devxoul/Then",
@@ -8718,7 +8718,7 @@
       "name": "kodecocodes",
       "avatarUrl": "https://avatars.githubusercontent.com/u/4722515?v=4"
     },
-    "stars": 13137,
+    "stars": 13138,
     "starsDetail": {
       "total": 13133,
       "week": 7,
@@ -8740,7 +8740,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2014-06-10T00:52:42.000Z",
-    "updatedAt": "2025-01-10T21:36:12.000Z"
+    "updatedAt": "2025-01-12T00:10:28.000Z"
   },
   {
     "id": "SwiftKickMobile/SwiftMessages",
@@ -9004,7 +9004,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-01-02T02:13:26.000Z",
-    "updatedAt": "2025-01-10T21:35:36.000Z"
+    "updatedAt": "2025-01-12T00:09:49.000Z"
   },
   {
     "id": "AFathi/ARVideoKit",
@@ -9249,7 +9249,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-12-18T03:49:56.000Z",
-    "updatedAt": "2025-01-10T21:36:47.000Z"
+    "updatedAt": "2025-01-12T00:11:08.000Z"
   },
   {
     "id": "HarshilShah/DeckTransition",
@@ -9806,7 +9806,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-09-26T07:43:43.000Z",
-    "updatedAt": "2025-01-10T21:49:19.000Z"
+    "updatedAt": "2025-01-12T00:24:40.000Z"
   },
   {
     "id": "andreamazz/AMScrollingNavbar",
@@ -10421,7 +10421,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-11-27T11:51:50.000Z",
-    "updatedAt": "2025-01-10T21:36:25.000Z"
+    "updatedAt": "2025-01-12T00:10:42.000Z"
   },
   {
     "id": "jogendra/LoadingShimmer",
@@ -14135,7 +14135,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-09-09T10:57:33.000Z",
-    "updatedAt": "2025-01-10T21:35:33.000Z"
+    "updatedAt": "2025-01-12T00:09:46.000Z"
   },
   {
     "id": "GEOSwift/GEOSwift",
@@ -16408,7 +16408,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-04-22T19:15:10.000Z",
-    "updatedAt": "2025-01-10T21:35:44.000Z"
+    "updatedAt": "2025-01-12T00:09:58.000Z"
   },
   {
     "id": "schmidyy/Loaf",
@@ -16505,7 +16505,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-02-23T11:05:20.000Z",
-    "updatedAt": "2025-01-10T21:36:16.000Z"
+    "updatedAt": "2025-01-12T00:10:33.000Z"
   },
   {
     "id": "spring-media/Carlos",
@@ -17475,7 +17475,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-06-04T11:25:59.000Z",
-    "updatedAt": "2025-01-10T21:36:20.000Z"
+    "updatedAt": "2025-01-12T00:10:37.000Z"
   },
   {
     "id": "Esqarrouth/EZSwiftExtensions",
@@ -17512,7 +17512,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-11-14T16:10:25.000Z",
-    "updatedAt": "2025-01-10T21:36:50.000Z"
+    "updatedAt": "2025-01-12T00:11:10.000Z"
   },
   {
     "id": "FutureKit/FutureKit",
@@ -17969,7 +17969,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-10-25T17:20:10.000Z",
-    "updatedAt": "2025-01-10T21:36:21.000Z"
+    "updatedAt": "2025-01-12T00:10:38.000Z"
   },
   {
     "id": "Ramotion/paper-switch",
@@ -19121,7 +19121,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-02-24T09:28:05.000Z",
-    "updatedAt": "2025-01-10T21:36:36.000Z"
+    "updatedAt": "2025-01-12T00:10:56.000Z"
   },
   {
     "id": "jessesquires/JSQCoreDataKit",
@@ -20255,7 +20255,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-10-20T15:18:19.000Z",
-    "updatedAt": "2025-01-10T21:35:31.000Z"
+    "updatedAt": "2025-01-12T00:09:43.000Z"
   },
   {
     "id": "wojteklu/Watchdog",
@@ -21625,7 +21625,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-02-14T17:27:39.000Z",
-    "updatedAt": "2025-01-10T21:36:15.000Z"
+    "updatedAt": "2025-01-12T00:10:32.000Z"
   },
   {
     "id": "Jaesung-Jung/CapturePreventionKit",
@@ -23232,7 +23232,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-10-04T23:23:11.000Z",
-    "updatedAt": "2025-01-10T21:35:10.000Z"
+    "updatedAt": "2025-01-12T00:09:21.000Z"
   },
   {
     "id": "SpectralDragon/LiteRoute",
@@ -25990,7 +25990,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-05-25T20:08:36.000Z",
-    "updatedAt": "2025-01-10T21:35:23.000Z"
+    "updatedAt": "2025-01-12T00:09:36.000Z"
   },
   {
     "id": "davidask/StateViewController",
@@ -27297,7 +27297,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-09-13T03:17:48.000Z",
-    "updatedAt": "2025-01-10T21:35:59.000Z"
+    "updatedAt": "2025-01-12T00:10:14.000Z"
   },
   {
     "id": "fxm90/LightweightObservable",
@@ -31945,7 +31945,7 @@
       "total": 32564
     },
     "license": "GNU General Public License v3.0",
-    "forks": 7936,
+    "forks": 7935,
     "primaryLanguage": "C",
     "pushedAt": "2024-10-29T12:19:30.000Z",
     "archived": false,
@@ -31954,7 +31954,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-06-10T11:49:00.000Z",
-    "updatedAt": "2025-01-10T21:46:45.000Z"
+    "updatedAt": "2025-01-12T00:21:44.000Z"
   },
   {
     "id": "shindyu/ApplyStyleKit",
@@ -33665,7 +33665,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2020-09-16T10:46:49.000Z",
-    "updatedAt": "2025-01-10T21:36:54.000Z"
+    "updatedAt": "2025-01-12T00:11:15.000Z"
   },
   {
     "id": "xai3/Shoyu",

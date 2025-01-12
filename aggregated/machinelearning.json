@@ -1273,7 +1273,7 @@
       "name": "pymc-devs",
       "avatarUrl": "https://avatars.githubusercontent.com/u/81121?v=4"
     },
-    "stars": 8820,
+    "stars": 8821,
     "starsDetail": {
       "total": 8811,
       "week": [
@@ -1286,7 +1286,7 @@
       "updatedAt": 1736035204
     },
     "license": "Other",
-    "forks": 2040,
+    "forks": 2041,
     "primaryLanguage": "Dockerfile",
     "pushedAt": "2025-01-10T13:27:18.000Z",
     "archived": false,
@@ -1295,7 +1295,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2009-05-05T09:43:50.000Z",
-    "updatedAt": "2025-01-10T21:37:25.000Z"
+    "updatedAt": "2025-01-12T00:11:48.000Z"
   },
   {
     "id": "JuliaStats/GLM.jl",
@@ -7791,7 +7791,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2009-07-31T19:36:58.000Z",
-    "updatedAt": "2025-01-10T21:37:18.000Z"
+    "updatedAt": "2025-01-12T00:11:40.000Z"
   },
   {
     "id": "clips/pattern",
@@ -8298,7 +8298,7 @@
       "name": "comet-ml",
       "avatarUrl": "https://avatars.githubusercontent.com/u/31487821?v=4"
     },
-    "stars": 4133,
+    "stars": 4237,
     "starsDetail": {
       "total": 4013,
       "week": 203,
@@ -8307,7 +8307,7 @@
       "updatedAt": 1736085221
     },
     "license": "Apache License 2.0",
-    "forks": 241,
+    "forks": 258,
     "primaryLanguage": "Makefile",
     "pushedAt": "2025-01-10T19:48:54.000Z",
     "archived": false,
@@ -8316,7 +8316,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2023-05-10T12:57:13.000Z",
-    "updatedAt": "2025-01-10T21:47:36.000Z"
+    "updatedAt": "2025-01-12T00:22:40.000Z"
   },
   {
     "id": "CamDavidsonPilon/lifelines",
@@ -18999,21 +18999,21 @@
       "name": "milvus-io",
       "avatarUrl": "https://avatars.githubusercontent.com/u/51735404?v=4"
     },
-    "stars": 31762,
+    "stars": 31769,
     "starsDetail": {
-      "total": 31762
+      "total": 31769
     },
     "license": "Apache License 2.0",
     "forks": 2992,
     "primaryLanguage": "Assembly",
-    "pushedAt": "2025-01-10T15:06:24.000Z",
+    "pushedAt": "2025-01-11T15:54:57.000Z",
     "archived": false,
     "npmPackage": "",
     "npmLastMonthDownloads": null,
     "goPackage": "github.com/milvus-io/milvus",
     "goImportedBy": 0,
     "createdAt": "2019-09-16T06:43:43.000Z",
-    "updatedAt": "2025-01-10T21:51:52.000Z"
+    "updatedAt": "2025-01-12T00:27:22.000Z"
   },
   {
     "id": "mindsdb/lightwood",
@@ -19853,21 +19853,21 @@
       "name": "opencv",
       "avatarUrl": "https://avatars.githubusercontent.com/u/5009934?v=4"
     },
-    "stars": 79997,
+    "stars": 80016,
     "starsDetail": {
-      "total": 79997
+      "total": 80016
     },
     "license": "Apache License 2.0",
-    "forks": 55926,
+    "forks": 55925,
     "primaryLanguage": "Dockerfile",
-    "pushedAt": "2025-01-10T12:05:03.000Z",
+    "pushedAt": "2025-01-11T16:15:03.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2012-07-19T09:40:17.000Z",
-    "updatedAt": "2025-01-10T21:39:52.000Z"
+    "updatedAt": "2025-01-12T00:14:27.000Z"
   },
   {
     "id": "oxinabox/DataDeps.jl",

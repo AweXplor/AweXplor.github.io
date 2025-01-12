@@ -2205,7 +2205,7 @@
       "name": "svix",
       "avatarUrl": "https://avatars.githubusercontent.com/u/80175132?v=4"
     },
-    "stars": 2491,
+    "stars": 2493,
     "starsDetail": {
       "total": 2475,
       "week": 14,
@@ -2223,7 +2223,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2021-02-25T13:49:38.000Z",
-    "updatedAt": "2025-01-10T21:49:29.000Z"
+    "updatedAt": "2025-01-12T00:24:50.000Z"
   },
   {
     "id": "mapstruct/mapstruct",
@@ -7265,7 +7265,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2014-07-25T20:08:44.000Z",
-    "updatedAt": "2025-01-10T21:47:16.000Z"
+    "updatedAt": "2025-01-12T00:22:18.000Z"
   },
   {
     "id": "RuedigerMoeller/fast-serialization",

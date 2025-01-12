@@ -516,7 +516,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2014-11-23T04:36:38.000Z",
-    "updatedAt": "2025-01-10T21:39:27.000Z"
+    "updatedAt": "2025-01-12T00:14:00.000Z"
   },
   {
     "id": "cosmos/awesome-cosmos",
@@ -1591,7 +1591,7 @@
       "name": "analysis-tools-dev",
       "avatarUrl": "https://avatars.githubusercontent.com/u/62759712?v=4"
     },
-    "stars": 13494,
+    "stars": 13496,
     "starsDetail": {
       "total": 13470,
       "week": 16,
@@ -1600,7 +1600,7 @@
       "updatedAt": 1736034772
     },
     "license": "MIT License",
-    "forks": 1368,
+    "forks": 1367,
     "primaryLanguage": "Makefile",
     "pushedAt": "2025-01-10T13:34:22.000Z",
     "archived": false,
@@ -1609,7 +1609,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-12-18T16:58:30.000Z",
-    "updatedAt": "2025-01-10T21:37:05.000Z"
+    "updatedAt": "2025-01-12T00:11:27.000Z"
   },
   {
     "id": "kdeldycke/awesome-engineering-team-management",
@@ -5271,7 +5271,7 @@
       "name": "jorgebucaran",
       "avatarUrl": "https://avatars.githubusercontent.com/u/56996?v=4"
     },
-    "stars": 4290,
+    "stars": 4293,
     "starsDetail": {
       "total": 4278,
       "week": 18,
@@ -5289,7 +5289,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-10-13T08:37:26.000Z",
-    "updatedAt": "2025-01-10T21:46:28.000Z"
+    "updatedAt": "2025-01-12T00:21:26.000Z"
   },
   {
     "id": "PatrickJS/awesome-angular",
@@ -7797,7 +7797,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-05-31T01:56:17.000Z",
-    "updatedAt": "2025-01-10T21:40:07.000Z"
+    "updatedAt": "2025-01-12T00:14:43.000Z"
   },
   {
     "id": "inputsh/awesome-linux",
@@ -14442,12 +14442,12 @@
       "name": "DopplerHQ",
       "avatarUrl": "https://avatars.githubusercontent.com/u/34022344?v=4"
     },
-    "stars": 72500,
+    "stars": 72543,
     "starsDetail": {
-      "total": 72500
+      "total": 72543
     },
     "license": null,
-    "forks": 8956,
+    "forks": 8959,
     "primaryLanguage": "",
     "pushedAt": "2024-07-29T14:21:23.000Z",
     "archived": true,
@@ -14456,7 +14456,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-11-28T09:48:17.000Z",
-    "updatedAt": "2025-01-10T21:40:08.000Z"
+    "updatedAt": "2025-01-12T00:14:45.000Z"
   },
   {
     "id": "Dvergar/awesome-haxe-gamedev",
@@ -14511,21 +14511,21 @@
       "name": "EbookFoundation",
       "avatarUrl": "https://avatars.githubusercontent.com/u/14127308?v=4"
     },
-    "stars": 347075,
+    "stars": 347197,
     "starsDetail": {
-      "total": 347075
+      "total": 347197
     },
     "license": "Creative Commons Attribution 4.0 International",
-    "forks": 62478,
+    "forks": 62485,
     "primaryLanguage": "HTML",
-    "pushedAt": "2025-01-03T18:27:26.000Z",
+    "pushedAt": "2025-01-11T11:41:33.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2013-10-11T06:50:37.000Z",
-    "updatedAt": "2025-01-10T21:40:08.000Z"
+    "updatedAt": "2025-01-12T00:14:44.000Z"
   },
   {
     "id": "FonduAI/awesome-prompt-injection",
