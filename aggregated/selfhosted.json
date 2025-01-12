@@ -3752,7 +3752,7 @@
       "name": "cryptpad",
       "avatarUrl": "https://avatars.githubusercontent.com/u/76949612?v=4"
     },
-    "stars": 5792,
+    "stars": 5793,
     "starsDetail": {
       "total": 5605,
       "week": 28,
@@ -3770,7 +3770,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2014-10-31T15:46:17.000Z",
-    "updatedAt": "2025-01-11T03:55:38.000Z"
+    "updatedAt": "2025-01-12T06:29:44.000Z"
   },
   {
     "id": "espocrm/espocrm",

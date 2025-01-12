@@ -7247,7 +7247,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-02-12T05:37:22.000Z",
-    "updatedAt": "2025-01-11T03:55:41.000Z"
+    "updatedAt": "2025-01-12T06:29:48.000Z"
   },
   {
     "id": "marionebl/svg-term-cli",
@@ -7398,7 +7398,7 @@
       "updatedAt": 1736087020
     },
     "license": null,
-    "forks": 46,
+    "forks": 41,
     "primaryLanguage": "HTML",
     "pushedAt": "2021-05-31T08:46:08.000Z",
     "archived": false,
@@ -7407,7 +7407,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-05-22T08:13:16.000Z",
-    "updatedAt": "2025-01-11T03:55:41.000Z"
+    "updatedAt": "2025-01-12T06:29:47.000Z"
   },
   {
     "id": "apache/couchdb-nano",
@@ -10874,7 +10874,7 @@
       "name": "jimp-dev",
       "avatarUrl": "https://avatars.githubusercontent.com/u/124403982?v=4"
     },
-    "stars": 14125,
+    "stars": 14126,
     "starsDetail": {
       "total": 13988,
       "week": 22,
@@ -10892,7 +10892,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2014-09-13T22:53:45.000Z",
-    "updatedAt": "2025-01-11T03:55:38.000Z"
+    "updatedAt": "2025-01-12T06:29:44.000Z"
   },
   {
     "id": "knex/knex",
@@ -12304,7 +12304,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-12-22T13:48:47.000Z",
-    "updatedAt": "2025-01-11T03:55:40.000Z"
+    "updatedAt": "2025-01-12T06:29:46.000Z"
   },
   {
     "id": "SamVerschueren/mobisplash-cli",
@@ -12329,7 +12329,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-01-06T18:38:31.000Z",
-    "updatedAt": "2025-01-11T03:55:41.000Z"
+    "updatedAt": "2025-01-12T06:29:47.000Z"
   },
   {
     "id": "SamVerschueren/tz-format",
@@ -12629,7 +12629,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2014-03-09T22:28:16.000Z",
-    "updatedAt": "2025-01-11T03:55:42.000Z"
+    "updatedAt": "2025-01-12T06:29:48.000Z"
   },
   {
     "id": "aerospike/aerospike-client-nodejs",
@@ -14060,7 +14060,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-11-14T05:49:34.000Z",
-    "updatedAt": "2025-01-11T03:55:43.000Z"
+    "updatedAt": "2025-01-12T06:29:49.000Z"
   },
   {
     "id": "kalm/kalm.js",
