@@ -150,7 +150,7 @@
       "name": "MonoGame",
       "avatarUrl": "https://avatars.githubusercontent.com/u/4772066?v=4"
     },
-    "stars": 11709,
+    "stars": 11711,
     "starsDetail": {
       "total": 11679,
       "week": 26,
@@ -168,7 +168,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2011-04-07T00:23:40.000Z",
-    "updatedAt": "2025-01-11T10:18:53.000Z"
+    "updatedAt": "2025-01-12T12:53:44.000Z"
   },
   {
     "id": "thangchung/awesome-dotnet-core",
@@ -306,7 +306,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2013-12-27T18:01:52.000Z",
-    "updatedAt": "2025-01-11T10:11:12.000Z"
+    "updatedAt": "2025-01-12T12:45:41.000Z"
   },
   {
     "id": "alirezanet/Husky.Net",
@@ -808,7 +808,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2011-11-28T22:45:55.000Z",
-    "updatedAt": "2025-01-11T10:19:06.000Z"
+    "updatedAt": "2025-01-12T12:53:58.000Z"
   },
   {
     "id": "VsVim/VsVim",
@@ -1482,7 +1482,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-06-02T15:50:05.000Z",
-    "updatedAt": "2025-01-11T10:18:56.000Z"
+    "updatedAt": "2025-01-12T12:53:47.000Z"
   },
   {
     "id": "fluentscheduler/FluentScheduler",
@@ -1756,7 +1756,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2013-02-28T19:03:12.000Z",
-    "updatedAt": "2025-01-11T10:18:49.000Z"
+    "updatedAt": "2025-01-12T12:53:39.000Z"
   },
   {
     "id": "tomaszzmuda/Xabe.FFmpeg",
@@ -2869,7 +2869,7 @@
       "name": "pythonnet",
       "avatarUrl": "https://avatars.githubusercontent.com/u/6050430?v=4"
     },
-    "stars": 4860,
+    "stars": 4861,
     "starsDetail": {
       "total": 4855,
       "week": 12,
@@ -2887,7 +2887,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2013-11-27T13:42:20.000Z",
-    "updatedAt": "2025-01-11T10:35:30.000Z"
+    "updatedAt": "2025-01-12T13:11:02.000Z"
   },
   {
     "id": "Tyrrrz/YoutubeExplode",
@@ -2994,7 +2994,7 @@
       "name": "reactiveui",
       "avatarUrl": "https://avatars.githubusercontent.com/u/2327577?v=4"
     },
-    "stars": 8751,
+    "stars": 8752,
     "starsDetail": {
       "total": 8725,
       "week": 13,
@@ -3012,7 +3012,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2013-07-22T20:11:57.000Z",
-    "updatedAt": "2025-01-11T10:19:13.000Z"
+    "updatedAt": "2025-01-12T12:54:05.000Z"
   },
   {
     "id": "HangfireIO/Hangfire",
@@ -3888,7 +3888,7 @@
       "name": "litedb-org",
       "avatarUrl": "https://avatars.githubusercontent.com/u/172976723?v=4"
     },
-    "stars": 8720,
+    "stars": 8721,
     "starsDetail": {
       "total": 8709,
       "week": 10,
@@ -3906,7 +3906,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2014-08-25T13:49:30.000Z",
-    "updatedAt": "2025-01-11T10:18:53.000Z"
+    "updatedAt": "2025-01-12T12:53:44.000Z"
   },
   {
     "id": "App-vNext/Polly",
@@ -3926,7 +3926,7 @@
       "name": "App-vNext",
       "avatarUrl": "https://avatars.githubusercontent.com/u/9165070?v=4"
     },
-    "stars": 13532,
+    "stars": 13534,
     "starsDetail": {
       "total": 13519,
       "week": 9,
@@ -3937,14 +3937,14 @@
     "license": "BSD 3-Clause \"New\" or \"Revised\" License",
     "forks": 1234,
     "primaryLanguage": "Batchfile",
-    "pushedAt": "2025-01-10T20:23:17.000Z",
+    "pushedAt": "2025-01-11T16:23:41.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2013-05-05T04:40:04.000Z",
-    "updatedAt": "2025-01-11T10:18:44.000Z"
+    "updatedAt": "2025-01-12T12:53:34.000Z"
   },
   {
     "id": "dotnet/docfx",
@@ -4058,7 +4058,7 @@
       "name": "JamesNK",
       "avatarUrl": "https://avatars.githubusercontent.com/u/303201?v=4"
     },
-    "stars": 10894,
+    "stars": 10897,
     "starsDetail": {
       "total": 10882,
       "week": 8,
@@ -4076,7 +4076,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2012-02-18T07:30:28.000Z",
-    "updatedAt": "2025-01-11T10:19:19.000Z"
+    "updatedAt": "2025-01-12T12:54:11.000Z"
   },
   {
     "id": "dotnet-state-machine/stateless",
@@ -4087,7 +4087,7 @@
       "name": "dotnet-state-machine",
       "avatarUrl": "https://avatars.githubusercontent.com/u/16869374?v=4"
     },
-    "stars": 5683,
+    "stars": 5687,
     "starsDetail": {
       "total": 5675,
       "week": 15,
@@ -4105,7 +4105,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2014-08-15T19:57:39.000Z",
-    "updatedAt": "2025-01-11T10:18:45.000Z"
+    "updatedAt": "2025-01-12T12:53:35.000Z"
   },
   {
     "id": "FluentValidation/FluentValidation",
@@ -4116,7 +4116,7 @@
       "name": "FluentValidation",
       "avatarUrl": "https://avatars.githubusercontent.com/u/61082709?v=4"
     },
-    "stars": 9186,
+    "stars": 9187,
     "starsDetail": {
       "total": 9175,
       "week": 10,
@@ -4134,7 +4134,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2009-12-20T19:17:03.000Z",
-    "updatedAt": "2025-01-11T10:18:42.000Z"
+    "updatedAt": "2025-01-12T12:53:32.000Z"
   },
   {
     "id": "Tyrrrz/CliWrap",
@@ -5237,7 +5237,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2012-05-03T12:01:45.000Z",
-    "updatedAt": "2025-01-11T10:18:43.000Z"
+    "updatedAt": "2025-01-12T12:53:33.000Z"
   },
   {
     "id": "MahApps/MahApps.Metro",
@@ -6125,7 +6125,7 @@
       "name": "videolan",
       "avatarUrl": "https://avatars.githubusercontent.com/u/1389585?v=4"
     },
-    "stars": 1547,
+    "stars": 1548,
     "starsDetail": {
       "total": 1546,
       "week": 4,
@@ -6143,7 +6143,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-06-05T12:39:54.000Z",
-    "updatedAt": "2025-01-11T10:19:01.000Z"
+    "updatedAt": "2025-01-12T12:53:52.000Z"
   },
   {
     "id": "aalhour/C-Sharp-Algorithms",
@@ -6365,7 +6365,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2011-02-15T05:16:37.000Z",
-    "updatedAt": "2025-01-11T10:18:48.000Z"
+    "updatedAt": "2025-01-12T12:53:39.000Z"
   },
   {
     "id": "SolutionsDesign/Algorithmia",
@@ -6461,7 +6461,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-05-06T13:38:13.000Z",
-    "updatedAt": "2025-01-11T10:19:13.000Z"
+    "updatedAt": "2025-01-12T12:54:04.000Z"
   },
   {
     "id": "dotnet/corefx",
@@ -6780,7 +6780,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-09-16T15:43:47.000Z",
-    "updatedAt": "2025-01-11T10:19:08.000Z"
+    "updatedAt": "2025-01-12T12:53:59.000Z"
   },
   {
     "id": "neuecc/Utf8Json",
@@ -7005,7 +7005,7 @@
       "name": "AutoMapper",
       "avatarUrl": "https://avatars.githubusercontent.com/u/890883?v=4"
     },
-    "stars": 9984,
+    "stars": 9985,
     "starsDetail": {
       "total": 9979,
       "week": 6,
@@ -7023,7 +7023,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2010-02-06T15:17:58.000Z",
-    "updatedAt": "2025-01-11T10:18:42.000Z"
+    "updatedAt": "2025-01-12T12:53:32.000Z"
   },
   {
     "id": "FlaUI/FlaUI",
@@ -8770,7 +8770,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2009-11-16T02:01:45.000Z",
-    "updatedAt": "2025-01-11T10:19:14.000Z"
+    "updatedAt": "2025-01-12T12:54:06.000Z"
   },
   {
     "id": "Dotnet-Boxed/Framework",
@@ -8898,7 +8898,7 @@
       "updatedAt": 1736033739
     },
     "license": "Other",
-    "forks": 1520,
+    "forks": 1519,
     "primaryLanguage": "C#",
     "pushedAt": "2023-06-19T01:46:42.000Z",
     "archived": false,
@@ -8907,7 +8907,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2012-06-08T17:52:47.000Z",
-    "updatedAt": "2025-01-11T10:19:22.000Z"
+    "updatedAt": "2025-01-12T12:54:15.000Z"
   },
   {
     "id": "SolrNet/SolrNet",
@@ -9445,7 +9445,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-01-14T08:20:55.000Z",
-    "updatedAt": "2025-01-11T10:19:00.000Z"
+    "updatedAt": "2025-01-12T12:53:51.000Z"
   },
   {
     "id": "riganti/dotvvm",
@@ -9686,7 +9686,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2012-07-07T01:15:56.000Z",
-    "updatedAt": "2025-01-11T10:18:50.000Z"
+    "updatedAt": "2025-01-12T12:53:41.000Z"
   },
   {
     "id": "cake-build/cake",
@@ -11103,7 +11103,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-03-15T09:14:36.000Z",
-    "updatedAt": "2025-01-11T10:18:43.000Z"
+    "updatedAt": "2025-01-12T12:53:33.000Z"
   },
   {
     "id": "prime31/Nez",
@@ -11682,7 +11682,7 @@
       "name": "autofac",
       "avatarUrl": "https://avatars.githubusercontent.com/u/3740038?v=4"
     },
-    "stars": 4519,
+    "stars": 4520,
     "starsDetail": {
       "total": 4522,
       "week": 2,
@@ -11691,7 +11691,7 @@
       "updatedAt": 1736033717
     },
     "license": "MIT License",
-    "forks": 839,
+    "forks": 838,
     "primaryLanguage": "PowerShell",
     "pushedAt": "2024-12-17T19:14:59.000Z",
     "archived": false,
@@ -11700,7 +11700,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2014-01-22T12:53:28.000Z",
-    "updatedAt": "2025-01-11T10:18:56.000Z"
+    "updatedAt": "2025-01-12T12:53:46.000Z"
   },
   {
     "id": "dotnetcore/AgileConfig",
@@ -13486,7 +13486,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2011-01-26T20:13:30.000Z",
-    "updatedAt": "2025-01-11T10:18:57.000Z"
+    "updatedAt": "2025-01-12T12:53:49.000Z"
   },
   {
     "id": "haf/DotNetZip.Semverd",
@@ -13767,7 +13767,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-02-01T18:31:02.000Z",
-    "updatedAt": "2025-01-11T10:19:01.000Z"
+    "updatedAt": "2025-01-12T12:53:52.000Z"
   },
   {
     "id": "praeclarum/Netjs",
@@ -13929,7 +13929,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2011-09-09T16:32:59.000Z",
-    "updatedAt": "2025-01-11T10:18:56.000Z"
+    "updatedAt": "2025-01-12T12:53:48.000Z"
   },
   {
     "id": "tallesl/net-libraries-that-make-your-life-easier",
@@ -16164,7 +16164,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2020-06-05T08:39:25.000Z",
-    "updatedAt": "2025-01-11T10:19:09.000Z"
+    "updatedAt": "2025-01-12T12:54:00.000Z"
   },
   {
     "id": "RiSearcher/GeometRi.CSharp",
@@ -16270,7 +16270,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2021-03-27T18:50:50.000Z",
-    "updatedAt": "2025-01-11T10:19:05.000Z"
+    "updatedAt": "2025-01-12T12:53:56.000Z"
   },
   {
     "id": "Sandra/Sandra.Snow",
@@ -19198,7 +19198,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-08-25T07:30:52.000Z",
-    "updatedAt": "2025-01-11T10:18:50.000Z"
+    "updatedAt": "2025-01-12T12:53:40.000Z"
   },
   {
     "id": "ihtfw/Logazmic",
@@ -19629,7 +19629,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-11-06T21:13:18.000Z",
-    "updatedAt": "2025-01-11T10:19:15.000Z"
+    "updatedAt": "2025-01-12T12:54:08.000Z"
   },
   {
     "id": "jhipster/jhipster-dotnetcore",
@@ -20148,7 +20148,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-08-17T09:42:02.000Z",
-    "updatedAt": "2025-01-11T10:19:14.000Z"
+    "updatedAt": "2025-01-12T12:54:05.000Z"
   },
   {
     "id": "liuhll/silky",
@@ -20520,7 +20520,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2013-08-27T18:45:57.000Z",
-    "updatedAt": "2025-01-11T10:18:52.000Z"
+    "updatedAt": "2025-01-12T12:53:43.000Z"
   },
   {
     "id": "mono/cxxi",
@@ -21128,21 +21128,21 @@
       "name": "prettier",
       "avatarUrl": "https://avatars.githubusercontent.com/u/25822731?v=4"
     },
-    "stars": 49759,
+    "stars": 49762,
     "starsDetail": {
-      "total": 49759
+      "total": 49762
     },
     "license": "MIT License",
-    "forks": 4435,
+    "forks": 4438,
     "primaryLanguage": "Shell",
-    "pushedAt": "2025-01-11T03:10:56.000Z",
+    "pushedAt": "2025-01-11T16:41:01.000Z",
     "archived": false,
     "npmPackage": "prettier",
     "npmLastMonthDownloads": 171606875,
     "goPackage": null,
     "goImportedBy": 0,
     "createdAt": "2016-11-29T17:13:37.000Z",
-    "updatedAt": "2025-01-11T10:13:39.000Z"
+    "updatedAt": "2025-01-12T12:48:14.000Z"
   },
   {
     "id": "qishibo/AnotherRedisDesktopManager",
@@ -22588,7 +22588,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-06-04T17:30:23.000Z",
-    "updatedAt": "2025-01-11T10:18:54.000Z"
+    "updatedAt": "2025-01-12T12:53:45.000Z"
   },
   {
     "id": "yagopv/AzureCrawler",
@@ -22818,12 +22818,12 @@
       "name": "ziadoz",
       "avatarUrl": "https://avatars.githubusercontent.com/u/645637?v=4"
     },
-    "stars": 31167,
+    "stars": 31172,
     "starsDetail": {
-      "total": 31167
+      "total": 31172
     },
     "license": "Do What The F*ck You Want To Public License",
-    "forks": 5089,
+    "forks": 5088,
     "primaryLanguage": "",
     "pushedAt": "2024-12-03T15:47:45.000Z",
     "archived": false,
@@ -22832,6 +22832,6 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2013-11-26T03:14:19.000Z",
-    "updatedAt": "2025-01-11T10:33:52.000Z"
+    "updatedAt": "2025-01-12T13:09:23.000Z"
   }
 ]

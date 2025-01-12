@@ -3142,7 +3142,7 @@
       "name": "dusk-network",
       "avatarUrl": "https://avatars.githubusercontent.com/u/40235653?v=4"
     },
-    "stars": 558,
+    "stars": 559,
     "starsDetail": {
       "total": 557,
       "week": 1,
@@ -3160,7 +3160,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-11-19T14:58:11.000Z",
-    "updatedAt": "2025-01-11T10:18:32.000Z"
+    "updatedAt": "2025-01-12T12:53:22.000Z"
   },
   {
     "id": "fff-rs/juice",
@@ -10343,7 +10343,7 @@
       "name": "ljharb",
       "avatarUrl": "https://avatars.githubusercontent.com/u/45469?v=4"
     },
-    "stars": 8619,
+    "stars": 8620,
     "starsDetail": {
       "total": 8541,
       "week": 11,
@@ -10361,7 +10361,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2014-07-25T18:35:41.000Z",
-    "updatedAt": "2025-01-11T10:14:18.000Z"
+    "updatedAt": "2025-01-12T12:48:54.000Z"
   },
   {
     "id": "rust-lang/log",
@@ -13187,14 +13187,14 @@
     "license": "Apache License 2.0",
     "forks": 69,
     "primaryLanguage": "Ruby",
-    "pushedAt": "2025-01-11T09:26:36.000Z",
+    "pushedAt": "2025-01-11T19:53:30.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-05-16T15:29:28.000Z",
-    "updatedAt": "2025-01-11T10:18:31.000Z"
+    "updatedAt": "2025-01-12T12:53:20.000Z"
   },
   {
     "id": "rmqtt/rmqtt",
@@ -19992,7 +19992,7 @@
     "goPackage": "",
     "goImportedBy": 0,
     "createdAt": "2018-12-26T22:02:57.000Z",
-    "updatedAt": "2025-01-11T10:00:18.000Z"
+    "updatedAt": "2025-01-12T12:34:30.000Z"
   },
   {
     "id": "mimblewimble/grin",
@@ -28525,7 +28525,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2023-12-12T12:29:50.000Z",
-    "updatedAt": "2025-01-11T10:18:34.000Z"
+    "updatedAt": "2025-01-12T12:53:23.000Z"
   },
   {
     "id": "cfal/shoes",
@@ -29791,7 +29791,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2020-02-03T12:43:35.000Z",
-    "updatedAt": "2025-01-11T10:18:33.000Z"
+    "updatedAt": "2025-01-12T12:53:22.000Z"
   },
   {
     "id": "dusk-network/bls12_381",
@@ -29816,7 +29816,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2020-03-02T08:05:52.000Z",
-    "updatedAt": "2025-01-11T10:18:32.000Z"
+    "updatedAt": "2025-01-12T12:53:21.000Z"
   },
   {
     "id": "dusk-network/rusk",
@@ -29827,9 +29827,9 @@
       "name": "dusk-network",
       "avatarUrl": "https://avatars.githubusercontent.com/u/40235653?v=4"
     },
-    "stars": 171,
+    "stars": 172,
     "starsDetail": {
-      "total": 171
+      "total": 172
     },
     "license": "Mozilla Public License 2.0",
     "forks": 58,
@@ -29841,7 +29841,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2020-02-10T13:24:17.000Z",
-    "updatedAt": "2025-01-11T10:18:30.000Z"
+    "updatedAt": "2025-01-12T12:53:20.000Z"
   },
   {
     "id": "dylanmckay/protocol",
@@ -33801,7 +33801,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2023-10-03T17:20:59.000Z",
-    "updatedAt": "2025-01-11T10:18:31.000Z"
+    "updatedAt": "2025-01-12T12:53:21.000Z"
   },
   {
     "id": "marekm4/dominant_color",
@@ -34700,7 +34700,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-06-23T00:50:33.000Z",
-    "updatedAt": "2025-01-11T10:18:33.000Z"
+    "updatedAt": "2025-01-12T12:53:23.000Z"
   },
   {
     "id": "neo4j-labs/graph",
@@ -35061,12 +35061,12 @@
       "name": "ocornut",
       "avatarUrl": "https://avatars.githubusercontent.com/u/8225057?v=4"
     },
-    "stars": 62433,
+    "stars": 62457,
     "starsDetail": {
-      "total": 62433
+      "total": 62457
     },
     "license": "MIT License",
-    "forks": 10480,
+    "forks": 10482,
     "primaryLanguage": "Shell",
     "pushedAt": "2025-01-09T22:29:50.000Z",
     "archived": false,
@@ -35075,7 +35075,7 @@
     "goPackage": "",
     "goImportedBy": 0,
     "createdAt": "2014-07-21T14:29:47.000Z",
-    "updatedAt": "2025-01-11T10:01:36.000Z"
+    "updatedAt": "2025-01-12T12:35:50.000Z"
   },
   {
     "id": "ogham/rust-ansi-term",
