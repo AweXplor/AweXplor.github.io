@@ -1076,7 +1076,7 @@
       "name": "jnv",
       "avatarUrl": "https://avatars.githubusercontent.com/u/616767?v=4"
     },
-    "stars": 10102,
+    "stars": 10109,
     "starsDetail": {
       "total": 10087,
       "week": 13,
@@ -1085,7 +1085,7 @@
       "updatedAt": 1736031501
     },
     "license": "Creative Commons Zero v1.0 Universal",
-    "forks": 705,
+    "forks": 708,
     "primaryLanguage": "",
     "pushedAt": "2024-09-30T06:08:51.000Z",
     "archived": false,
@@ -1094,7 +1094,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2013-11-14T22:25:24.000Z",
-    "updatedAt": "2025-01-11T21:00:33.000Z"
+    "updatedAt": "2025-01-12T23:31:04.000Z"
   },
   {
     "id": "Accenture/reactive-interaction-gateway",
@@ -2253,7 +2253,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2022-07-18T11:14:03.000Z",
-    "updatedAt": "2025-01-11T21:01:04.000Z"
+    "updatedAt": "2025-01-12T23:31:35.000Z"
   },
   {
     "id": "rrrene/credo",
@@ -3412,7 +3412,7 @@
     "goPackage": "",
     "goImportedBy": 0,
     "createdAt": "2019-01-13T02:32:55.000Z",
-    "updatedAt": "2025-01-11T20:59:25.000Z"
+    "updatedAt": "2025-01-12T23:29:53.000Z"
   },
   {
     "id": "aws-beam/aws-elixir",
@@ -6786,7 +6786,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-12-08T20:42:42.000Z",
-    "updatedAt": "2025-01-11T20:55:48.000Z"
+    "updatedAt": "2025-01-12T23:26:12.000Z"
   },
   {
     "id": "JohnJocoo/weighted_random",
@@ -8522,7 +8522,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-05-07T14:47:56.000Z",
-    "updatedAt": "2025-01-11T20:53:58.000Z"
+    "updatedAt": "2025-01-12T23:24:18.000Z"
   },
   {
     "id": "WTTJ/algoliax",
@@ -11014,9 +11014,9 @@
       "name": "bayandin",
       "avatarUrl": "https://avatars.githubusercontent.com/u/864213?v=4"
     },
-    "stars": 32259,
+    "stars": 32262,
     "starsDetail": {
-      "total": 32259
+      "total": 32262
     },
     "license": null,
     "forks": 3567,
@@ -11028,7 +11028,7 @@
     "goPackage": "",
     "goImportedBy": 0,
     "createdAt": "2014-07-08T05:44:19.000Z",
-    "updatedAt": "2025-01-11T21:00:34.000Z"
+    "updatedAt": "2025-01-12T23:31:05.000Z"
   },
   {
     "id": "bbense/elixgrep",
@@ -21888,7 +21888,7 @@
       "total": 189
     },
     "license": "Apache License 2.0",
-    "forks": 22,
+    "forks": 21,
     "primaryLanguage": "Elixir",
     "pushedAt": "2024-11-14T11:23:00.000Z",
     "archived": false,
@@ -21897,7 +21897,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2021-05-20T09:20:06.000Z",
-    "updatedAt": "2025-01-11T21:07:43.000Z"
+    "updatedAt": "2025-01-12T23:38:22.000Z"
   },
   {
     "id": "liveforeverx/apix",
@@ -26719,7 +26719,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2022-12-27T10:39:42.000Z",
-    "updatedAt": "2025-01-11T21:07:43.000Z"
+    "updatedAt": "2025-01-12T23:38:22.000Z"
   },
   {
     "id": "polleverywhere/chaperon",
