@@ -6913,7 +6913,7 @@
       "name": "haystackeditor",
       "avatarUrl": "https://avatars.githubusercontent.com/u/175750354?v=4"
     },
-    "stars": 957,
+    "stars": 961,
     "starsDetail": {
       "total": 945,
       "week": 7,
@@ -6931,7 +6931,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-09-24T02:34:44.000Z",
-    "updatedAt": "2025-01-11T17:46:55.000Z"
+    "updatedAt": "2025-01-12T20:18:07.000Z"
   },
   {
     "id": "qvacua/vimr",
@@ -27188,7 +27188,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-12-26T10:11:02.000Z",
-    "updatedAt": "2025-01-11T17:46:54.000Z"
+    "updatedAt": "2025-01-12T20:18:07.000Z"
   },
   {
     "id": "varol/Calculeta",
