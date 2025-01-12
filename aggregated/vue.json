@@ -5679,14 +5679,14 @@
     "license": "MIT License",
     "forks": 866,
     "primaryLanguage": "JavaScript",
-    "pushedAt": "2025-01-09T10:49:07.000Z",
+    "pushedAt": "2025-01-12T01:46:54.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2020-02-05T18:00:01.000Z",
-    "updatedAt": "2025-01-11T06:57:24.000Z"
+    "updatedAt": "2025-01-12T09:31:44.000Z"
   },
   {
     "id": "coreui/coreui-free-vue-admin-template",
@@ -12703,12 +12703,12 @@
       "name": "nolimits4web",
       "avatarUrl": "https://avatars.githubusercontent.com/u/999588?v=4"
     },
-    "stars": 40312,
+    "stars": 40317,
     "starsDetail": {
-      "total": 40312
+      "total": 40317
     },
     "license": "MIT License",
-    "forks": 9753,
+    "forks": 9752,
     "primaryLanguage": "Vue",
     "pushedAt": "2025-01-10T17:08:22.000Z",
     "archived": false,
@@ -12717,7 +12717,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2012-03-14T19:11:45.000Z",
-    "updatedAt": "2025-01-11T06:57:09.000Z"
+    "updatedAt": "2025-01-12T09:31:27.000Z"
   },
   {
     "id": "noru/vue-easy-toast",
@@ -12772,21 +12772,21 @@
       "name": "nuxt",
       "avatarUrl": "https://avatars.githubusercontent.com/u/23360933?v=4"
     },
-    "stars": 55675,
+    "stars": 55682,
     "starsDetail": {
-      "total": 55675
+      "total": 55682
     },
     "license": "MIT License",
-    "forks": 5091,
+    "forks": 5089,
     "primaryLanguage": "Dockerfile",
-    "pushedAt": "2025-01-11T00:27:22.000Z",
+    "pushedAt": "2025-01-12T04:44:05.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-10-26T11:18:47.000Z",
-    "updatedAt": "2025-01-11T06:56:43.000Z"
+    "updatedAt": "2025-01-12T09:30:50.000Z"
   },
   {
     "id": "os-scar/overlay",
