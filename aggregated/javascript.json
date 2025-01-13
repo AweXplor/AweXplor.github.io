@@ -7409,7 +7409,7 @@
       "name": "HeyPuter",
       "avatarUrl": "https://avatars.githubusercontent.com/u/103972607?v=4"
     },
-    "stars": 27492,
+    "stars": 27518,
     "starsDetail": {
       "total": 25432,
       "week": 240,
@@ -7418,7 +7418,7 @@
       "updatedAt": 1729322130
     },
     "license": "GNU Affero General Public License v3.0",
-    "forks": 1951,
+    "forks": 1952,
     "primaryLanguage": "C",
     "pushedAt": "2025-01-11T22:59:06.000Z",
     "archived": false,
@@ -7427,7 +7427,7 @@
     "goPackage": null,
     "goImportedBy": 0,
     "createdAt": "2024-03-03T01:44:32.000Z",
-    "updatedAt": "2025-01-12T00:23:58.000Z"
+    "updatedAt": "2025-01-13T02:54:06.000Z"
   },
   {
     "id": "CodeByZach/pace",
@@ -10207,7 +10207,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-02-19T06:30:29.000Z",
-    "updatedAt": "2025-01-12T00:13:37.000Z"
+    "updatedAt": "2025-01-13T02:43:59.000Z"
   },
   {
     "id": "blueimp/JavaScript-MD5",
@@ -13502,7 +13502,7 @@
       "name": "tighten",
       "avatarUrl": "https://avatars.githubusercontent.com/u/5122936?v=4"
     },
-    "stars": 3995,
+    "stars": 3997,
     "starsDetail": {
       "total": 3902,
       "week": 11,
@@ -13520,7 +13520,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-08-02T21:07:04.000Z",
-    "updatedAt": "2025-01-12T00:20:21.000Z"
+    "updatedAt": "2025-01-13T02:50:39.000Z"
   },
   {
     "id": "FrDH/mmenu-js",
@@ -18310,7 +18310,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-04-23T13:02:33.000Z",
-    "updatedAt": "2025-01-12T00:13:18.000Z"
+    "updatedAt": "2025-01-13T02:43:40.000Z"
   },
   {
     "id": "xojs/xo",
@@ -22316,7 +22316,7 @@
       "name": "chakra-core",
       "avatarUrl": "https://avatars.githubusercontent.com/u/63031548?v=4"
     },
-    "stars": 9142,
+    "stars": 9144,
     "starsDetail": {
       "total": 9119,
       "week": 7,
@@ -22334,7 +22334,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-01-05T19:05:31.000Z",
-    "updatedAt": "2025-01-12T00:14:35.000Z"
+    "updatedAt": "2025-01-13T02:44:55.000Z"
   },
   {
     "id": "clappr/clappr",
@@ -34615,7 +34615,7 @@
       "name": "vuelidate",
       "avatarUrl": "https://avatars.githubusercontent.com/u/48122861?v=4"
     },
-    "stars": 6902,
+    "stars": 6901,
     "starsDetail": {
       "total": 6868,
       "week": 5,
@@ -34633,7 +34633,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-11-05T14:30:37.000Z",
-    "updatedAt": "2025-01-12T00:13:25.000Z"
+    "updatedAt": "2025-01-13T02:43:47.000Z"
   },
   {
     "id": "waylaidwanderer/node-chatgpt-api",
@@ -45306,12 +45306,12 @@
       "name": "DopplerHQ",
       "avatarUrl": "https://avatars.githubusercontent.com/u/34022344?v=4"
     },
-    "stars": 72543,
+    "stars": 72570,
     "starsDetail": {
-      "total": 72543
+      "total": 72570
     },
     "license": null,
-    "forks": 8959,
+    "forks": 8963,
     "primaryLanguage": "",
     "pushedAt": "2024-07-29T14:21:23.000Z",
     "archived": true,
@@ -45320,7 +45320,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-11-28T09:48:17.000Z",
-    "updatedAt": "2025-01-12T00:14:45.000Z"
+    "updatedAt": "2025-01-13T02:45:05.000Z"
   },
   {
     "id": "EvandroLG/selecting",
@@ -45917,21 +45917,21 @@
       "name": "TanStack",
       "avatarUrl": "https://avatars.githubusercontent.com/u/72518640?v=4"
     },
-    "stars": 43307,
+    "stars": 43321,
     "starsDetail": {
-      "total": 43307
+      "total": 43321
     },
     "license": "MIT License",
-    "forks": 2980,
+    "forks": 2981,
     "primaryLanguage": "CSS",
-    "pushedAt": "2025-01-11T19:06:09.000Z",
+    "pushedAt": "2025-01-12T10:04:02.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-09-10T19:23:58.000Z",
-    "updatedAt": "2025-01-12T00:13:28.000Z"
+    "updatedAt": "2025-01-13T02:43:50.000Z"
   },
   {
     "id": "TheAlgorithms/JavaScript",
@@ -46430,7 +46430,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-06-04T16:29:42.000Z",
-    "updatedAt": "2025-01-12T00:22:23.000Z"
+    "updatedAt": "2025-01-13T02:52:34.000Z"
   },
   {
     "id": "apache/echarts",

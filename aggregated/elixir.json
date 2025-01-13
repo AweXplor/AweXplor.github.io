@@ -24236,6 +24236,36 @@
     "updatedAt": "2025-01-12T16:58:13.000Z"
   },
   {
+    "id": "mruoss/kubereq",
+    "name": "mruoss/kubereq",
+    "description": "A Kubernetes Client for Elixir based on Req",
+    "topics": [
+      "api-client",
+      "elixir",
+      "kubernetes",
+      "kubernetes-client"
+    ],
+    "owner": {
+      "name": "mruoss",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/695307?v=4"
+    },
+    "stars": 11,
+    "starsDetail": {
+      "total": 11
+    },
+    "license": "MIT License",
+    "forks": 2,
+    "primaryLanguage": "Elixir",
+    "pushedAt": "2024-12-30T12:38:19.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2024-03-22T17:19:10.000Z",
+    "updatedAt": "2025-01-13T02:48:41.000Z"
+  },
+  {
     "id": "mruoss/pluggable",
     "name": "mruoss/pluggable",
     "description": "Elixir library to build Plug-like pipelines",
@@ -31328,7 +31358,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2014-02-15T07:17:40.000Z",
-    "updatedAt": "2025-01-12T00:18:40.000Z"
+    "updatedAt": "2025-01-13T02:49:00.000Z"
   },
   {
     "id": "synrc/kvs",
