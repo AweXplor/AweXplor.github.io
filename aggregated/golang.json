@@ -17370,7 +17370,7 @@
       "name": "cloudwego",
       "avatarUrl": "https://avatars.githubusercontent.com/u/79236453?v=4"
     },
-    "stars": 5742,
+    "stars": 5750,
     "starsDetail": {
       "total": 5693,
       "week": 117,
@@ -17388,7 +17388,7 @@
     "goPackage": "github.com/cloudwego/hertz",
     "goImportedBy": 0,
     "createdAt": "2022-05-12T14:05:09.000Z",
-    "updatedAt": "2025-01-12T20:18:04.000Z"
+    "updatedAt": "2025-01-13T22:49:20.000Z"
   },
   {
     "id": "seaweedfs/seaweedfs",
