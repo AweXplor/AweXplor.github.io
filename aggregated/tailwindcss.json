@@ -532,7 +532,7 @@
       "name": "mdbootstrap",
       "avatarUrl": "https://avatars.githubusercontent.com/u/20553039?v=4"
     },
-    "stars": 12953,
+    "stars": 12954,
     "starsDetail": {
       "total": 12878,
       "week": 12,
@@ -541,7 +541,7 @@
       "updatedAt": 1729322208
     },
     "license": "MIT License",
-    "forks": 1619,
+    "forks": 1618,
     "primaryLanguage": "SCSS",
     "pushedAt": "2024-05-08T11:56:28.000Z",
     "archived": false,
@@ -550,7 +550,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2012-11-06T12:17:46.000Z",
-    "updatedAt": "2025-01-12T12:47:55.000Z"
+    "updatedAt": "2025-01-13T15:18:44.000Z"
   },
   {
     "id": "tailwindlabs/tailwindcss-container-queries",

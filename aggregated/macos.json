@@ -3719,7 +3719,7 @@
       "name": "dbcli",
       "avatarUrl": "https://avatars.githubusercontent.com/u/11810727?v=4"
     },
-    "stars": 12220,
+    "stars": 12222,
     "starsDetail": {
       "total": 12214,
       "week": 13,
@@ -3737,7 +3737,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2014-10-12T17:32:33.000Z",
-    "updatedAt": "2025-01-12T13:09:59.000Z"
+    "updatedAt": "2025-01-13T15:40:59.000Z"
   },
   {
     "id": "emacs-tw/awesome-emacs",
@@ -3821,7 +3821,7 @@
       "name": "keeweb",
       "avatarUrl": "https://avatars.githubusercontent.com/u/18244763?v=4"
     },
-    "stars": 12405,
+    "stars": 12407,
     "starsDetail": {
       "total": 12294,
       "week": 21,
@@ -3830,7 +3830,7 @@
       "updatedAt": 1729322213
     },
     "license": "Other",
-    "forks": 1101,
+    "forks": 1102,
     "primaryLanguage": "Shell",
     "pushedAt": "2024-12-28T10:47:07.000Z",
     "archived": false,
@@ -3839,7 +3839,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-10-17T21:41:47.000Z",
-    "updatedAt": "2025-01-12T12:47:59.000Z"
+    "updatedAt": "2025-01-13T15:18:49.000Z"
   },
   {
     "id": "sbarex/SourceCodeSyntaxHighlight",
@@ -6167,14 +6167,14 @@
     "license": "MIT License",
     "forks": 53,
     "primaryLanguage": "Shell",
-    "pushedAt": "2025-01-10T07:52:30.000Z",
+    "pushedAt": "2025-01-13T02:01:03.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2021-02-13T10:23:57.000Z",
-    "updatedAt": "2025-01-12T13:09:11.000Z"
+    "updatedAt": "2025-01-13T15:40:09.000Z"
   },
   {
     "id": "tonsky/AnyBar",
@@ -6843,7 +6843,7 @@
       "name": "dbcli",
       "avatarUrl": "https://avatars.githubusercontent.com/u/11810727?v=4"
     },
-    "stars": 11533,
+    "stars": 11537,
     "starsDetail": {
       "total": 11533,
       "week": 6,
@@ -6861,7 +6861,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-04-05T22:39:49.000Z",
-    "updatedAt": "2025-01-12T13:09:58.000Z"
+    "updatedAt": "2025-01-13T15:40:58.000Z"
   },
   {
     "id": "ddddxxx/LyricsX",
@@ -7122,14 +7122,14 @@
     "license": "Other",
     "forks": 647,
     "primaryLanguage": "PowerShell",
-    "pushedAt": "2025-01-06T18:04:55.000Z",
+    "pushedAt": "2025-01-13T06:27:29.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-01-21T22:05:27.000Z",
-    "updatedAt": "2025-01-12T13:11:30.000Z"
+    "updatedAt": "2025-01-13T15:42:30.000Z"
   },
   {
     "id": "MonitorControl/MonitorControl",
@@ -7335,7 +7335,7 @@
       "name": "webtorrent",
       "avatarUrl": "https://avatars.githubusercontent.com/u/5800008?v=4"
     },
-    "stars": 9756,
+    "stars": 9759,
     "starsDetail": {
       "total": 9703,
       "week": 7,
@@ -7353,7 +7353,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-05-04T05:21:35.000Z",
-    "updatedAt": "2025-01-12T12:48:39.000Z"
+    "updatedAt": "2025-01-13T15:19:29.000Z"
   },
   {
     "id": "cerebroapp/cerebro",
@@ -7493,7 +7493,7 @@
       "name": "responsively-org",
       "avatarUrl": "https://avatars.githubusercontent.com/u/69102126?v=4"
     },
-    "stars": 22919,
+    "stars": 22921,
     "starsDetail": {
       "total": 22657,
       "week": 67,
@@ -7511,7 +7511,7 @@
     "goPackage": null,
     "goImportedBy": 0,
     "createdAt": "2019-08-10T02:48:18.000Z",
-    "updatedAt": "2025-01-12T12:47:13.000Z"
+    "updatedAt": "2025-01-13T15:18:02.000Z"
   },
   {
     "id": "MrKai77/Loop",
@@ -8807,7 +8807,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-12-14T06:16:29.000Z",
-    "updatedAt": "2025-01-12T13:09:08.000Z"
+    "updatedAt": "2025-01-13T15:40:06.000Z"
   },
   {
     "id": "wireapp/wire-desktop",
@@ -9059,7 +9059,7 @@
       "name": "mislav",
       "avatarUrl": "https://avatars.githubusercontent.com/u/887?v=4"
     },
-    "stars": 22857,
+    "stars": 22861,
     "starsDetail": {
       "total": 22843,
       "week": 6,
@@ -9068,7 +9068,7 @@
       "updatedAt": 1736087296
     },
     "license": "MIT License",
-    "forks": 2193,
+    "forks": 2194,
     "primaryLanguage": "Dockerfile",
     "pushedAt": "2024-02-02T21:00:44.000Z",
     "archived": false,
@@ -9077,7 +9077,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2009-12-05T22:15:25.000Z",
-    "updatedAt": "2025-01-12T12:43:28.000Z"
+    "updatedAt": "2025-01-13T15:14:09.000Z"
   },
   {
     "id": "sindresorhus/Actions",
@@ -9468,7 +9468,7 @@
       "name": "brave",
       "avatarUrl": "https://avatars.githubusercontent.com/u/12301619?v=4"
     },
-    "stars": 18234,
+    "stars": 18243,
     "starsDetail": {
       "total": 17728,
       "week": 81,
@@ -9479,14 +9479,14 @@
     "license": "Mozilla Public License 2.0",
     "forks": 2401,
     "primaryLanguage": "JavaScript",
-    "pushedAt": "2025-01-10T16:06:40.000Z",
+    "pushedAt": "2025-01-13T12:03:22.000Z",
     "archived": false,
     "npmPackage": "",
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-11-09T23:44:38.000Z",
-    "updatedAt": "2025-01-12T12:49:06.000Z"
+    "updatedAt": "2025-01-13T15:19:54.000Z"
   },
   {
     "id": "lihaoyun6/QuickRecorder",
@@ -9555,7 +9555,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2014-06-19T06:23:06.000Z",
-    "updatedAt": "2025-01-12T12:48:48.000Z"
+    "updatedAt": "2025-01-13T15:19:38.000Z"
   },
   {
     "id": "netdcy/FlowVision",
@@ -10334,7 +10334,7 @@
       "name": "SwiftyBeaver",
       "avatarUrl": "https://avatars.githubusercontent.com/u/16286228?v=4"
     },
-    "stars": 5963,
+    "stars": 5964,
     "starsDetail": {
       "total": 5961,
       "week": 3,
@@ -10352,7 +10352,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-11-28T14:08:37.000Z",
-    "updatedAt": "2025-01-12T12:58:17.000Z"
+    "updatedAt": "2025-01-13T15:29:06.000Z"
   },
   {
     "id": "gee1k/uPic",
@@ -12464,7 +12464,7 @@
       "name": "nylas",
       "avatarUrl": "https://avatars.githubusercontent.com/u/4219865?v=4"
     },
-    "stars": 24795,
+    "stars": 24796,
     "starsDetail": {
       "total": 24803,
       "week": 4,
@@ -12482,7 +12482,7 @@
     "goPackage": null,
     "goImportedBy": 0,
     "createdAt": "2014-10-16T18:29:12.000Z",
-    "updatedAt": "2025-01-12T12:47:09.000Z"
+    "updatedAt": "2025-01-13T15:17:57.000Z"
   },
   {
     "id": "padloc/padloc",
@@ -13465,7 +13465,7 @@
       "name": "sindresorhus",
       "avatarUrl": "https://avatars.githubusercontent.com/u/170270?v=4"
     },
-    "stars": 4743,
+    "stars": 4744,
     "starsDetail": {
       "total": 4702,
       "week": 4,
@@ -13483,7 +13483,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-03-27T17:24:44.000Z",
-    "updatedAt": "2025-01-12T12:50:37.000Z"
+    "updatedAt": "2025-01-13T15:21:26.000Z"
   },
   {
     "id": "cryptomator/cryptomator",
@@ -16500,7 +16500,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2014-11-09T21:17:23.000Z",
-    "updatedAt": "2025-01-12T13:00:31.000Z"
+    "updatedAt": "2025-01-13T15:31:22.000Z"
   },
   {
     "id": "Dimillian/RedditOS",
@@ -17037,7 +17037,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2011-10-13T07:23:36.000Z",
-    "updatedAt": "2025-01-12T13:00:16.000Z"
+    "updatedAt": "2025-01-13T15:31:08.000Z"
   },
   {
     "id": "abynim/UserFlows",
@@ -17130,7 +17130,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-02-25T19:59:14.000Z",
-    "updatedAt": "2025-01-12T13:09:04.000Z"
+    "updatedAt": "2025-01-13T15:40:03.000Z"
   },
   {
     "id": "egoist/eme",
@@ -17964,7 +17964,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-02-10T22:04:34.000Z",
-    "updatedAt": "2025-01-12T13:09:12.000Z"
+    "updatedAt": "2025-01-13T15:40:11.000Z"
   },
   {
     "id": "zqqf16/SYM",
@@ -21203,7 +21203,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-04-28T10:07:01.000Z",
-    "updatedAt": "2025-01-12T13:08:55.000Z"
+    "updatedAt": "2025-01-13T15:39:52.000Z"
   },
   {
     "id": "ant4g0nist/vegvisir",
@@ -21320,12 +21320,12 @@
       "name": "atom",
       "avatarUrl": "https://avatars.githubusercontent.com/u/1089146?v=4"
     },
-    "stars": 60289,
+    "stars": 60290,
     "starsDetail": {
-      "total": 60289
+      "total": 60290
     },
     "license": "MIT License",
-    "forks": 17401,
+    "forks": 17396,
     "primaryLanguage": "EJS",
     "pushedAt": "2023-01-03T10:49:48.000Z",
     "archived": true,
@@ -21334,7 +21334,7 @@
     "goPackage": null,
     "goImportedBy": 0,
     "createdAt": "2012-01-20T18:18:21.000Z",
-    "updatedAt": "2025-01-12T12:48:12.000Z"
+    "updatedAt": "2025-01-13T15:19:01.000Z"
   },
   {
     "id": "b3z/reventlou",
@@ -21665,7 +21665,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-07-01T09:43:48.000Z",
-    "updatedAt": "2025-01-12T13:09:16.000Z"
+    "updatedAt": "2025-01-13T15:40:16.000Z"
   },
   {
     "id": "bsdelf/mous",
@@ -25418,7 +25418,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-02-12T12:15:14.000Z",
-    "updatedAt": "2025-01-12T13:09:08.000Z"
+    "updatedAt": "2025-01-13T15:40:07.000Z"
   },
   {
     "id": "nsriram/KubeSwitch",
@@ -25490,9 +25490,9 @@
       "name": "nvbn",
       "avatarUrl": "https://avatars.githubusercontent.com/u/1114542?v=4"
     },
-    "stars": 88995,
+    "stars": 89053,
     "starsDetail": {
-      "total": 88995
+      "total": 89053
     },
     "license": "MIT License",
     "forks": 3570,
@@ -25504,7 +25504,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-04-08T15:08:04.000Z",
-    "updatedAt": "2025-01-12T13:09:56.000Z"
+    "updatedAt": "2025-01-13T15:40:56.000Z"
   },
   {
     "id": "nvm-sh/nvm",
@@ -25600,7 +25600,7 @@
     "goPackage": null,
     "goImportedBy": 0,
     "createdAt": "2012-01-04T06:21:10.000Z",
-    "updatedAt": "2025-01-12T12:48:19.000Z"
+    "updatedAt": "2025-01-13T15:19:09.000Z"
   },
   {
     "id": "obihann/archey-osx",
@@ -26616,7 +26616,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-03-28T20:41:51.000Z",
-    "updatedAt": "2025-01-12T12:53:50.000Z"
+    "updatedAt": "2025-01-13T15:24:41.000Z"
   },
   {
     "id": "smmr-software/privacy-redirect-safari",
@@ -26975,21 +26975,21 @@
       "name": "tmux",
       "avatarUrl": "https://avatars.githubusercontent.com/u/12054114?v=4"
     },
-    "stars": 36063,
+    "stars": 36076,
     "starsDetail": {
-      "total": 36063
+      "total": 36076
     },
     "license": "Other",
     "forks": 2151,
     "primaryLanguage": "Perl",
-    "pushedAt": "2025-01-02T12:02:34.000Z",
+    "pushedAt": "2025-01-13T12:02:54.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-06-03T23:32:55.000Z",
-    "updatedAt": "2025-01-12T13:09:57.000Z"
+    "updatedAt": "2025-01-13T15:40:56.000Z"
   },
   {
     "id": "toeverything/AFFiNE",

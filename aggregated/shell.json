@@ -761,7 +761,7 @@
       "name": "mvdan",
       "avatarUrl": "https://avatars.githubusercontent.com/u/3576549?v=4"
     },
-    "stars": 7430,
+    "stars": 7433,
     "starsDetail": {
       "total": 7419,
       "week": 17,
@@ -779,7 +779,7 @@
     "goPackage": "mvdan.cc/sh/v3",
     "goImportedBy": 0,
     "createdAt": "2016-01-16T08:39:09.000Z",
-    "updatedAt": "2025-01-12T12:41:58.000Z"
+    "updatedAt": "2025-01-13T15:12:35.000Z"
   },
   {
     "id": "TomWright/dasel",
@@ -810,7 +810,7 @@
       "name": "TomWright",
       "avatarUrl": "https://avatars.githubusercontent.com/u/935867?v=4"
     },
-    "stars": 7301,
+    "stars": 7303,
     "starsDetail": {
       "total": 7273,
       "week": 13,
@@ -819,16 +819,16 @@
       "updatedAt": 1736087263
     },
     "license": "MIT License",
-    "forks": 141,
+    "forks": 142,
     "primaryLanguage": "Dockerfile",
-    "pushedAt": "2025-01-06T07:39:04.000Z",
+    "pushedAt": "2025-01-13T07:50:32.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2020-09-22T10:33:56.000Z",
-    "updatedAt": "2025-01-12T12:39:58.000Z"
+    "updatedAt": "2025-01-13T15:10:28.000Z"
   },
   {
     "id": "andreafabrizi/Dropbox-Uploader",
@@ -1305,7 +1305,7 @@
     "goPackage": "github.com/gsamokovarov/jump",
     "goImportedBy": 0,
     "createdAt": "2015-08-16T22:07:17.000Z",
-    "updatedAt": "2025-01-12T12:43:27.000Z"
+    "updatedAt": "2025-01-13T15:14:08.000Z"
   },
   {
     "id": "jarun/imgp",
@@ -1610,7 +1610,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-03-02T13:03:21.000Z",
-    "updatedAt": "2025-01-12T12:44:00.000Z"
+    "updatedAt": "2025-01-13T15:14:43.000Z"
   },
   {
     "id": "kellyjonbrazil/jc",
@@ -2470,7 +2470,7 @@
     "goPackage": "",
     "goImportedBy": 0,
     "createdAt": "2015-12-19T16:57:26.000Z",
-    "updatedAt": "2025-01-12T12:42:53.000Z"
+    "updatedAt": "2025-01-13T15:13:32.000Z"
   },
   {
     "id": "torakiki/sejda",
@@ -2826,7 +2826,7 @@
       "name": "achannarasappa",
       "avatarUrl": "https://avatars.githubusercontent.com/u/1489983?v=4"
     },
-    "stars": 5052,
+    "stars": 5055,
     "starsDetail": {
       "total": 5048,
       "week": 8,
@@ -2844,7 +2844,7 @@
     "goPackage": "github.com/achannarasappa/ticker/v4",
     "goImportedBy": 0,
     "createdAt": "2021-01-24T03:50:46.000Z",
-    "updatedAt": "2025-01-12T12:35:03.000Z"
+    "updatedAt": "2025-01-13T15:05:02.000Z"
   },
   {
     "id": "LuRsT/hr",
@@ -3075,7 +3075,7 @@
       "name": "mislav",
       "avatarUrl": "https://avatars.githubusercontent.com/u/887?v=4"
     },
-    "stars": 22857,
+    "stars": 22861,
     "starsDetail": {
       "total": 22843,
       "week": 6,
@@ -3084,7 +3084,7 @@
       "updatedAt": 1736087296
     },
     "license": "MIT License",
-    "forks": 2193,
+    "forks": 2194,
     "primaryLanguage": "Dockerfile",
     "pushedAt": "2024-02-02T21:00:44.000Z",
     "archived": false,
@@ -3093,7 +3093,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2009-12-05T22:15:25.000Z",
-    "updatedAt": "2025-01-12T12:43:28.000Z"
+    "updatedAt": "2025-01-13T15:14:09.000Z"
   },
   {
     "id": "chubin/wttr.in",
@@ -4211,13 +4211,13 @@
     "forks": 58,
     "primaryLanguage": "Makefile",
     "pushedAt": "2018-02-07T19:40:06.000Z",
-    "archived": false,
+    "archived": true,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-09-10T20:20:42.000Z",
-    "updatedAt": "2025-01-12T12:46:19.000Z"
+    "updatedAt": "2025-01-13T15:17:08.000Z"
   },
   {
     "id": "rauchg/spot",
@@ -4675,7 +4675,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-05-01T03:05:54.000Z",
-    "updatedAt": "2025-01-12T13:09:56.000Z"
+    "updatedAt": "2025-01-13T15:40:56.000Z"
   },
   {
     "id": "direnv/direnv",
@@ -5175,7 +5175,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-02-08T17:13:19.000Z",
-    "updatedAt": "2025-01-12T12:39:18.000Z"
+    "updatedAt": "2025-01-13T15:09:43.000Z"
   },
   {
     "id": "shellspec/shellspec",
@@ -5589,7 +5589,7 @@
       "name": "beetbox",
       "avatarUrl": "https://avatars.githubusercontent.com/u/15920313?v=4"
     },
-    "stars": 13094,
+    "stars": 13106,
     "starsDetail": {
       "total": 13065,
       "week": 23,
@@ -5600,14 +5600,14 @@
     "license": "MIT License",
     "forks": 1833,
     "primaryLanguage": "CSS",
-    "pushedAt": "2025-01-12T05:12:31.000Z",
+    "pushedAt": "2025-01-13T06:59:07.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2010-08-09T23:17:20.000Z",
-    "updatedAt": "2025-01-12T13:09:35.000Z"
+    "updatedAt": "2025-01-13T15:40:34.000Z"
   },
   {
     "id": "ducaale/xh",
@@ -5784,7 +5784,7 @@
     "goPackage": "github.com/msoap/shell2http",
     "goImportedBy": 0,
     "createdAt": "2015-03-11T19:39:09.000Z",
-    "updatedAt": "2025-01-12T12:46:31.000Z"
+    "updatedAt": "2025-01-13T15:17:20.000Z"
   },
   {
     "id": "raylee/tldr-sh-client",
@@ -7877,21 +7877,21 @@
       "name": "junegunn",
       "avatarUrl": "https://avatars.githubusercontent.com/u/700826?v=4"
     },
-    "stars": 67064,
+    "stars": 67091,
     "starsDetail": {
-      "total": 67064
+      "total": 67091
     },
     "license": "MIT License",
     "forks": 2429,
     "primaryLanguage": "Dockerfile",
-    "pushedAt": "2025-01-12T05:59:04.000Z",
+    "pushedAt": "2025-01-13T13:50:44.000Z",
     "archived": false,
     "npmPackage": "",
     "npmLastMonthDownloads": null,
     "goPackage": "github.com/junegunn/fzf",
     "goImportedBy": 0,
     "createdAt": "2013-10-23T16:04:23.000Z",
-    "updatedAt": "2025-01-12T12:43:05.000Z"
+    "updatedAt": "2025-01-13T15:13:44.000Z"
   },
   {
     "id": "keithrbennett/wifiwand",
@@ -8597,9 +8597,9 @@
       "name": "nvbn",
       "avatarUrl": "https://avatars.githubusercontent.com/u/1114542?v=4"
     },
-    "stars": 88995,
+    "stars": 89053,
     "starsDetail": {
-      "total": 88995
+      "total": 89053
     },
     "license": "MIT License",
     "forks": 3570,
@@ -8611,7 +8611,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-04-08T15:08:04.000Z",
-    "updatedAt": "2025-01-12T13:09:56.000Z"
+    "updatedAt": "2025-01-13T15:40:56.000Z"
   },
   {
     "id": "odb/shml",

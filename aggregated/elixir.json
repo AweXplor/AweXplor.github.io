@@ -35071,12 +35071,12 @@
       "name": "ziadoz",
       "avatarUrl": "https://avatars.githubusercontent.com/u/645637?v=4"
     },
-    "stars": 31172,
+    "stars": 31176,
     "starsDetail": {
-      "total": 31172
+      "total": 31176
     },
     "license": "Do What The F*ck You Want To Public License",
-    "forks": 5088,
+    "forks": 5089,
     "primaryLanguage": "",
     "pushedAt": "2024-12-03T15:47:45.000Z",
     "archived": false,
@@ -35085,7 +35085,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2013-11-26T03:14:19.000Z",
-    "updatedAt": "2025-01-12T13:09:23.000Z"
+    "updatedAt": "2025-01-13T15:40:22.000Z"
   },
   {
     "id": "zmoshansky/aeacus",
