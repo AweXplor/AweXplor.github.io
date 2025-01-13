@@ -3752,7 +3752,7 @@
       "name": "cryptpad",
       "avatarUrl": "https://avatars.githubusercontent.com/u/76949612?v=4"
     },
-    "stars": 5793,
+    "stars": 5795,
     "starsDetail": {
       "total": 5605,
       "week": 28,
@@ -3761,7 +3761,7 @@
       "updatedAt": 1729322595
     },
     "license": "GNU Affero General Public License v3.0",
-    "forks": 659,
+    "forks": 660,
     "primaryLanguage": "Dockerfile",
     "pushedAt": "2025-01-10T16:28:09.000Z",
     "archived": false,
@@ -3770,7 +3770,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2014-10-31T15:46:17.000Z",
-    "updatedAt": "2025-01-12T06:29:44.000Z"
+    "updatedAt": "2025-01-13T08:59:38.000Z"
   },
   {
     "id": "espocrm/espocrm",
