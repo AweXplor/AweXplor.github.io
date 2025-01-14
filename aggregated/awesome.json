@@ -1517,7 +1517,7 @@
       "name": "willianjusten",
       "avatarUrl": "https://avatars.githubusercontent.com/u/3991845?v=4"
     },
-    "stars": 4553,
+    "stars": 4556,
     "starsDetail": {
       "total": 4552,
       "week": 3,
@@ -1535,7 +1535,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2014-09-19T05:11:57.000Z",
-    "updatedAt": "2025-01-12T23:31:07.000Z"
+    "updatedAt": "2025-01-14T02:01:55.000Z"
   },
   {
     "id": "zingchart/awesome-charting",
@@ -3728,7 +3728,7 @@
       "name": "addyosmani",
       "avatarUrl": "https://avatars.githubusercontent.com/u/110953?v=4"
     },
-    "stars": 3978,
+    "stars": 3979,
     "starsDetail": {
       "total": 3981,
       "week": 1,
@@ -3746,7 +3746,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2013-12-19T23:18:59.000Z",
-    "updatedAt": "2025-01-12T23:31:06.000Z"
+    "updatedAt": "2025-01-14T02:01:53.000Z"
   },
   {
     "id": "automata/awesome-jamstack",
@@ -6933,7 +6933,7 @@
       "name": "bolshchikov",
       "avatarUrl": "https://avatars.githubusercontent.com/u/1206121?v=4"
     },
-    "stars": 13352,
+    "stars": 13350,
     "starsDetail": {
       "total": 13339,
       "week": 8,
@@ -6951,7 +6951,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2014-06-21T09:56:48.000Z",
-    "updatedAt": "2025-01-12T23:31:08.000Z"
+    "updatedAt": "2025-01-14T02:01:55.000Z"
   },
   {
     "id": "phanan/htaccess",
@@ -7118,7 +7118,7 @@
       "name": "davidsonfellipe",
       "avatarUrl": "https://avatars.githubusercontent.com/u/381179?v=4"
     },
-    "stars": 8419,
+    "stars": 8420,
     "starsDetail": {
       "total": 8409,
       "week": 6,
@@ -7136,7 +7136,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2014-10-14T15:18:35.000Z",
-    "updatedAt": "2025-01-12T23:31:08.000Z"
+    "updatedAt": "2025-01-14T02:01:56.000Z"
   },
   {
     "id": "stackshareio/awesome-stacks",
@@ -8120,7 +8120,7 @@
       "updatedAt": 1736031509
     },
     "license": "Creative Commons Zero v1.0 Universal",
-    "forks": 234,
+    "forks": 233,
     "primaryLanguage": "",
     "pushedAt": "2024-10-29T10:39:18.000Z",
     "archived": false,
@@ -8129,7 +8129,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-01-02T06:30:58.000Z",
-    "updatedAt": "2025-01-12T23:31:09.000Z"
+    "updatedAt": "2025-01-14T02:01:56.000Z"
   },
   {
     "id": "diegocard/awesome-html5",
@@ -13623,7 +13623,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-01-13T19:20:20.000Z",
-    "updatedAt": "2025-01-12T23:28:31.000Z"
+    "updatedAt": "2025-01-14T01:59:25.000Z"
   },
   {
     "id": "svaksha/Julia.jl",
@@ -13860,7 +13860,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2014-06-20T15:42:59.000Z",
-    "updatedAt": "2025-01-12T23:26:53.000Z"
+    "updatedAt": "2025-01-14T01:57:53.000Z"
   },
   {
     "id": "bcoe/awesome-cross-platform-nodejs",
@@ -13892,7 +13892,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-12-20T18:25:05.000Z",
-    "updatedAt": "2025-01-12T23:28:32.000Z"
+    "updatedAt": "2025-01-14T01:59:26.000Z"
   },
   {
     "id": "diessica/awesome-sketch",
@@ -16698,12 +16698,12 @@
       "name": "enaqx",
       "avatarUrl": "https://avatars.githubusercontent.com/u/182219?v=4"
     },
-    "stars": 66346,
+    "stars": 66357,
     "starsDetail": {
-      "total": 66346
+      "total": 66357
     },
     "license": null,
-    "forks": 7245,
+    "forks": 7248,
     "primaryLanguage": "",
     "pushedAt": "2024-12-06T20:56:37.000Z",
     "archived": false,
@@ -16712,7 +16712,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2014-08-06T05:31:44.000Z",
-    "updatedAt": "2025-01-12T23:31:07.000Z"
+    "updatedAt": "2025-01-14T02:01:55.000Z"
   },
   {
     "id": "eozer/awesome-snmp",
@@ -18039,7 +18039,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-03-30T10:46:08.000Z",
-    "updatedAt": "2025-01-12T23:24:19.000Z"
+    "updatedAt": "2025-01-14T01:55:24.000Z"
   },
   {
     "id": "lyqht/awesome-supabase",
@@ -19267,7 +19267,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2014-12-05T10:17:38.000Z",
-    "updatedAt": "2025-01-12T23:31:06.000Z"
+    "updatedAt": "2025-01-14T02:01:54.000Z"
   },
   {
     "id": "sadcitizen/awesome-marionette",
@@ -19727,7 +19727,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-05-03T11:56:58.000Z",
-    "updatedAt": "2025-01-12T23:27:07.000Z"
+    "updatedAt": "2025-01-14T01:58:06.000Z"
   },
   {
     "id": "slevithan/awesome-regex",

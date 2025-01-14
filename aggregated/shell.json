@@ -366,7 +366,7 @@
       "name": "ajeetdsouza",
       "avatarUrl": "https://avatars.githubusercontent.com/u/1777663?v=4"
     },
-    "stars": 24233,
+    "stars": 24248,
     "starsDetail": {
       "total": 23998,
       "week": 335,
@@ -384,7 +384,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2020-03-05T13:11:40.000Z",
-    "updatedAt": "2025-01-12T23:32:46.000Z"
+    "updatedAt": "2025-01-14T02:03:29.000Z"
   },
   {
     "id": "ogham/exa",
@@ -962,7 +962,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2021-02-04T21:04:45.000Z",
-    "updatedAt": "2025-01-12T23:32:35.000Z"
+    "updatedAt": "2025-01-14T02:03:19.000Z"
   },
   {
     "id": "nosarthur/gita",
@@ -2066,7 +2066,7 @@
       "name": "cantino",
       "avatarUrl": "https://avatars.githubusercontent.com/u/83835?v=4"
     },
-    "stars": 7023,
+    "stars": 7025,
     "starsDetail": {
       "total": 7015,
       "week": 7,
@@ -2084,7 +2084,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-07-15T21:37:37.000Z",
-    "updatedAt": "2025-01-12T23:32:48.000Z"
+    "updatedAt": "2025-01-14T02:03:31.000Z"
   },
   {
     "id": "jrnl-org/jrnl",
@@ -2734,7 +2734,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2020-04-15T14:23:56.000Z",
-    "updatedAt": "2025-01-12T23:28:25.000Z"
+    "updatedAt": "2025-01-14T01:59:19.000Z"
   },
   {
     "id": "wfxr/forgit",
@@ -3257,7 +3257,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2021-02-24T20:42:17.000Z",
-    "updatedAt": "2025-01-12T23:32:14.000Z"
+    "updatedAt": "2025-01-14T02:02:58.000Z"
   },
   {
     "id": "yaa110/nomino",
@@ -3278,7 +3278,7 @@
       "name": "yaa110",
       "avatarUrl": "https://avatars.githubusercontent.com/u/3187511?v=4"
     },
-    "stars": 640,
+    "stars": 641,
     "starsDetail": {
       "total": 598,
       "week": 5,
@@ -3289,14 +3289,14 @@
     "license": "Apache License 2.0",
     "forks": 20,
     "primaryLanguage": "Rust",
-    "pushedAt": "2024-12-29T10:21:16.000Z",
+    "pushedAt": "2025-01-13T17:45:46.000Z",
     "archived": false,
     "npmPackage": "",
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2020-04-17T03:23:39.000Z",
-    "updatedAt": "2025-01-12T23:33:19.000Z"
+    "updatedAt": "2025-01-14T02:04:00.000Z"
   },
   {
     "id": "emijrp/awesome-awesome",
@@ -3310,7 +3310,7 @@
       "name": "emijrp",
       "avatarUrl": "https://avatars.githubusercontent.com/u/422046?v=4"
     },
-    "stars": 2869,
+    "stars": 2868,
     "starsDetail": {
       "total": 2858,
       "week": 3,
@@ -3328,7 +3328,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2014-07-01T13:27:50.000Z",
-    "updatedAt": "2025-01-12T23:31:05.000Z"
+    "updatedAt": "2025-01-14T02:01:53.000Z"
   },
   {
     "id": "hectorm/hblock",
@@ -3981,7 +3981,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-08-07T18:13:03.000Z",
-    "updatedAt": "2025-01-12T23:27:53.000Z"
+    "updatedAt": "2025-01-14T01:58:49.000Z"
   },
   {
     "id": "iridakos/goto",
@@ -4435,7 +4435,7 @@
       "name": "mixn",
       "avatarUrl": "https://avatars.githubusercontent.com/u/672237?v=4"
     },
-    "stars": 5822,
+    "stars": 5824,
     "starsDetail": {
       "total": 5776,
       "week": 4,
@@ -4446,14 +4446,14 @@
     "license": "MIT License",
     "forks": 121,
     "primaryLanguage": "Rust",
-    "pushedAt": "2025-01-10T13:48:41.000Z",
+    "pushedAt": "2025-01-13T19:40:19.000Z",
     "archived": false,
     "npmPackage": "carbon-now-cli",
     "npmLastMonthDownloads": 1035,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-07-02T13:33:05.000Z",
-    "updatedAt": "2025-01-12T23:26:23.000Z"
+    "updatedAt": "2025-01-14T01:57:23.000Z"
   },
   {
     "id": "naggie/dstask",
@@ -4940,7 +4940,7 @@
       "name": "Canop",
       "avatarUrl": "https://avatars.githubusercontent.com/u/617006?v=4"
     },
-    "stars": 10991,
+    "stars": 10993,
     "starsDetail": {
       "total": 10960,
       "week": 66,
@@ -4958,7 +4958,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-11-15T20:09:19.000Z",
-    "updatedAt": "2025-01-12T23:32:13.000Z"
+    "updatedAt": "2025-01-14T02:02:58.000Z"
   },
   {
     "id": "cfenollosa/bashblog",
@@ -5314,7 +5314,7 @@
       "name": "casey",
       "avatarUrl": "https://avatars.githubusercontent.com/u/1945?v=4"
     },
-    "stars": 23175,
+    "stars": 23212,
     "starsDetail": {
       "total": 23026,
       "week": 145,
@@ -5325,14 +5325,14 @@
     "license": "Creative Commons Zero v1.0 Universal",
     "forks": 506,
     "primaryLanguage": "Just",
-    "pushedAt": "2025-01-03T21:12:25.000Z",
+    "pushedAt": "2025-01-14T01:52:31.000Z",
     "archived": false,
     "npmPackage": "",
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-06-17T06:08:08.000Z",
-    "updatedAt": "2025-01-12T23:33:42.000Z"
+    "updatedAt": "2025-01-14T02:04:23.000Z"
   },
   {
     "id": "andsens/homeshick",
@@ -5394,7 +5394,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-10-07T12:45:04.000Z",
-    "updatedAt": "2025-01-12T23:33:01.000Z"
+    "updatedAt": "2025-01-14T02:03:44.000Z"
   },
   {
     "id": "shobrook/rebound",
@@ -5625,7 +5625,7 @@
       "name": "ducaale",
       "avatarUrl": "https://avatars.githubusercontent.com/u/16341131?v=4"
     },
-    "stars": 5758,
+    "stars": 5761,
     "starsDetail": {
       "total": 5735,
       "week": 30,
@@ -5643,7 +5643,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2020-09-10T20:58:13.000Z",
-    "updatedAt": "2025-01-12T23:37:52.000Z"
+    "updatedAt": "2025-01-14T02:08:21.000Z"
   },
   {
     "id": "andresgongora/synth-shell",
@@ -6912,12 +6912,12 @@
       "name": "bayandin",
       "avatarUrl": "https://avatars.githubusercontent.com/u/864213?v=4"
     },
-    "stars": 32262,
+    "stars": 32265,
     "starsDetail": {
-      "total": 32262
+      "total": 32265
     },
     "license": null,
-    "forks": 3567,
+    "forks": 3568,
     "primaryLanguage": "Ruby",
     "pushedAt": "2024-06-02T22:46:41.000Z",
     "archived": false,
@@ -6926,7 +6926,7 @@
     "goPackage": "",
     "goImportedBy": 0,
     "createdAt": "2014-07-08T05:44:19.000Z",
-    "updatedAt": "2025-01-12T23:31:05.000Z"
+    "updatedAt": "2025-01-14T02:01:52.000Z"
   },
   {
     "id": "benlinton/slugify",
@@ -8569,21 +8569,21 @@
       "name": "nushell",
       "avatarUrl": "https://avatars.githubusercontent.com/u/50749515?v=4"
     },
-    "stars": 33355,
+    "stars": 33373,
     "starsDetail": {
-      "total": 33355
+      "total": 33373
     },
     "license": "MIT License",
-    "forks": 1717,
+    "forks": 1716,
     "primaryLanguage": "Batchfile",
-    "pushedAt": "2025-01-12T04:15:19.000Z",
+    "pushedAt": "2025-01-13T14:04:18.000Z",
     "archived": false,
     "npmPackage": "nushell",
     "npmLastMonthDownloads": 10640,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-05-10T16:59:42.000Z",
-    "updatedAt": "2025-01-12T23:32:59.000Z"
+    "updatedAt": "2025-01-14T02:03:42.000Z"
   },
   {
     "id": "nvbn/thefuck",
@@ -9300,9 +9300,9 @@
       "name": "sharkdp",
       "avatarUrl": "https://avatars.githubusercontent.com/u/4209276?v=4"
     },
-    "stars": 50586,
+    "stars": 50598,
     "starsDetail": {
-      "total": 50586
+      "total": 50598
     },
     "license": "Apache License 2.0",
     "forks": 1275,
@@ -9314,7 +9314,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-04-21T10:52:23.000Z",
-    "updatedAt": "2025-01-12T23:33:02.000Z"
+    "updatedAt": "2025-01-14T02:03:45.000Z"
   },
   {
     "id": "sharkdp/fd",
@@ -9335,12 +9335,12 @@
       "name": "sharkdp",
       "avatarUrl": "https://avatars.githubusercontent.com/u/4209276?v=4"
     },
-    "stars": 35052,
+    "stars": 35087,
     "starsDetail": {
-      "total": 35052
+      "total": 35087
     },
     "license": "Apache License 2.0",
-    "forks": 835,
+    "forks": 836,
     "primaryLanguage": "Makefile",
     "pushedAt": "2025-01-01T20:49:27.000Z",
     "archived": false,
@@ -9349,7 +9349,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-05-09T21:27:10.000Z",
-    "updatedAt": "2025-01-12T23:33:02.000Z"
+    "updatedAt": "2025-01-14T02:03:45.000Z"
   },
   {
     "id": "shenv/shenv",
