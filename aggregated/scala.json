@@ -5362,21 +5362,21 @@
       "name": "apache",
       "avatarUrl": "https://avatars.githubusercontent.com/u/47359?v=4"
     },
-    "stars": 40325,
+    "stars": 40334,
     "starsDetail": {
-      "total": 40325
+      "total": 40334
     },
     "license": "Apache License 2.0",
     "forks": 28443,
     "primaryLanguage": "ReScript",
-    "pushedAt": "2025-01-13T13:08:37.000Z",
+    "pushedAt": "2025-01-14T17:14:03.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2014-02-25T08:00:08.000Z",
-    "updatedAt": "2025-01-13T15:41:28.000Z"
+    "updatedAt": "2025-01-14T18:12:14.000Z"
   },
   {
     "id": "aptusproject/aptus-core",
