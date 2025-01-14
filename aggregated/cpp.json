@@ -913,7 +913,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-05-24T23:29:39.000Z",
-    "updatedAt": "2025-01-13T02:54:43.000Z"
+    "updatedAt": "2025-01-14T08:22:34.000Z"
   },
   {
     "id": "mtcp-stack/mtcp",
@@ -4788,7 +4788,7 @@
       "name": "ycm-core",
       "avatarUrl": "https://avatars.githubusercontent.com/u/52140259?v=4"
     },
-    "stars": 25514,
+    "stars": 25519,
     "starsDetail": {
       "total": 25509,
       "week": 11,
@@ -4797,7 +4797,7 @@
       "updatedAt": 1736034992
     },
     "license": "GNU General Public License v3.0",
-    "forks": 2805,
+    "forks": 2806,
     "primaryLanguage": "Makefile",
     "pushedAt": "2025-01-12T10:11:10.000Z",
     "archived": false,
@@ -4806,7 +4806,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2012-04-16T03:12:14.000Z",
-    "updatedAt": "2025-01-13T02:39:53.000Z"
+    "updatedAt": "2025-01-14T08:15:57.000Z"
   },
   {
     "id": "danmar/cppcheck",
@@ -12164,7 +12164,7 @@
       "name": "flashlight",
       "avatarUrl": "https://avatars.githubusercontent.com/u/67613832?v=4"
     },
-    "stars": 5316,
+    "stars": 5315,
     "starsDetail": {
       "total": 5310,
       "week": 4,
@@ -12182,7 +12182,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-12-11T18:28:47.000Z",
-    "updatedAt": "2025-01-13T02:44:46.000Z"
+    "updatedAt": "2025-01-14T08:18:32.000Z"
   },
   {
     "id": "jarikomppa/soloud",
@@ -14308,7 +14308,7 @@
       "name": "zlib-ng",
       "avatarUrl": "https://avatars.githubusercontent.com/u/45075615?v=4"
     },
-    "stars": 1265,
+    "stars": 1267,
     "starsDetail": {
       "total": 1261,
       "week": 3,
@@ -14326,7 +14326,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2012-01-21T19:17:23.000Z",
-    "updatedAt": "2025-01-13T02:44:29.000Z"
+    "updatedAt": "2025-01-14T08:18:21.000Z"
   },
   {
     "id": "facebook/folly",
@@ -16881,7 +16881,7 @@
       "name": "ultrajson",
       "avatarUrl": "https://avatars.githubusercontent.com/u/61062879?v=4"
     },
-    "stars": 4357,
+    "stars": 4358,
     "starsDetail": {
       "total": 4353,
       "week": 3,
@@ -16899,7 +16899,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2011-02-27T20:00:51.000Z",
-    "updatedAt": "2025-01-13T02:40:10.000Z"
+    "updatedAt": "2025-01-14T08:16:05.000Z"
   },
   {
     "id": "vstakhov/libucl",
@@ -20180,12 +20180,12 @@
       "name": "EbookFoundation",
       "avatarUrl": "https://avatars.githubusercontent.com/u/14127308?v=4"
     },
-    "stars": 347351,
+    "stars": 347488,
     "starsDetail": {
-      "total": 347351
+      "total": 347488
     },
     "license": "Creative Commons Attribution 4.0 International",
-    "forks": 62506,
+    "forks": 62548,
     "primaryLanguage": "HTML",
     "pushedAt": "2025-01-12T22:28:31.000Z",
     "archived": false,
@@ -20194,7 +20194,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2013-10-11T06:50:37.000Z",
-    "updatedAt": "2025-01-13T02:45:04.000Z"
+    "updatedAt": "2025-01-14T08:18:43.000Z"
   },
   {
     "id": "FidoProject/Fido",
@@ -20633,7 +20633,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2023-08-18T18:41:01.000Z",
-    "updatedAt": "2025-01-13T02:54:38.000Z"
+    "updatedAt": "2025-01-14T08:22:29.000Z"
   },
   {
     "id": "PragmaTwice/protopuf",
@@ -21673,7 +21673,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2022-07-07T14:00:21.000Z",
-    "updatedAt": "2025-01-13T02:52:25.000Z"
+    "updatedAt": "2025-01-14T08:13:50.000Z"
   },
   {
     "id": "avati/libevil",
@@ -22984,9 +22984,9 @@
       "name": "cursey",
       "avatarUrl": "https://avatars.githubusercontent.com/u/5798459?v=4"
     },
-    "stars": 424,
+    "stars": 425,
     "starsDetail": {
-      "total": 424
+      "total": 425
     },
     "license": "Boost Software License 1.0",
     "forks": 53,
@@ -22998,7 +22998,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2021-12-29T02:43:18.000Z",
-    "updatedAt": "2025-01-13T02:44:59.000Z"
+    "updatedAt": "2025-01-14T08:18:41.000Z"
   },
   {
     "id": "d-SEAMS/seams-core",
@@ -23128,14 +23128,14 @@
     "license": "Other",
     "forks": 0,
     "primaryLanguage": "Python",
-    "pushedAt": "2025-01-13T01:02:51.000Z",
+    "pushedAt": "2025-01-13T17:16:54.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2025-01-02T22:07:26.000Z",
-    "updatedAt": "2025-01-13T02:54:42.000Z"
+    "updatedAt": "2025-01-14T08:22:33.000Z"
   },
   {
     "id": "deplinenoise/ig-debugheap",
@@ -23433,7 +23433,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2023-08-05T19:06:46.000Z",
-    "updatedAt": "2025-01-13T02:54:42.000Z"
+    "updatedAt": "2025-01-14T08:22:33.000Z"
   },
   {
     "id": "flanglet/kanzi-cpp",
@@ -23616,9 +23616,9 @@
       "name": "google",
       "avatarUrl": "https://avatars.githubusercontent.com/u/1342004?v=4"
     },
-    "stars": 36935,
+    "stars": 36937,
     "starsDetail": {
-      "total": 36935
+      "total": 36937
     },
     "license": "BSD 3-Clause \"New\" or \"Revised\" License",
     "forks": 7911,
@@ -23630,7 +23630,7 @@
     "goPackage": "",
     "goImportedBy": 0,
     "createdAt": "2014-08-27T21:17:52.000Z",
-    "updatedAt": "2025-01-13T02:57:15.000Z"
+    "updatedAt": "2025-01-14T08:25:04.000Z"
   },
   {
     "id": "google/styleguide",
@@ -25417,21 +25417,21 @@
       "name": "microsoft",
       "avatarUrl": "https://avatars.githubusercontent.com/u/6154722?v=4"
     },
-    "stars": 166064,
+    "stars": 166105,
     "starsDetail": {
-      "total": 166064
+      "total": 166105
     },
     "license": "MIT License",
-    "forks": 30010,
+    "forks": 30038,
     "primaryLanguage": "Hack",
-    "pushedAt": "2025-01-13T01:30:56.000Z",
+    "pushedAt": "2025-01-14T07:32:09.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-09-03T20:23:38.000Z",
-    "updatedAt": "2025-01-13T02:51:34.000Z"
+    "updatedAt": "2025-01-14T08:13:13.000Z"
   },
   {
     "id": "mongodb/libbson",
@@ -25823,14 +25823,14 @@
     "license": "MIT License",
     "forks": 72,
     "primaryLanguage": "Dockerfile",
-    "pushedAt": "2025-01-10T14:48:05.000Z",
+    "pushedAt": "2025-01-13T09:01:26.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-09-16T11:13:33.000Z",
-    "updatedAt": "2025-01-13T02:54:43.000Z"
+    "updatedAt": "2025-01-14T08:22:34.000Z"
   },
   {
     "id": "papers-we-love/papers-we-love",
@@ -26772,7 +26772,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-03-04T11:58:09.000Z",
-    "updatedAt": "2025-01-13T02:54:43.000Z"
+    "updatedAt": "2025-01-14T08:22:34.000Z"
   },
   {
     "id": "tomolt/libschrift",

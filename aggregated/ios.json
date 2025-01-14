@@ -1929,7 +1929,7 @@
       "name": "Ranchero-Software",
       "avatarUrl": "https://avatars.githubusercontent.com/u/59430456?v=4"
     },
-    "stars": 8533,
+    "stars": 8544,
     "starsDetail": {
       "total": 8516,
       "week": 23,
@@ -1940,14 +1940,14 @@
     "license": "MIT License",
     "forks": 542,
     "primaryLanguage": "C",
-    "pushedAt": "2025-01-12T22:09:12.000Z",
+    "pushedAt": "2025-01-14T04:52:04.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-05-21T17:59:23.000Z",
-    "updatedAt": "2025-01-13T02:51:34.000Z"
+    "updatedAt": "2025-01-14T08:13:13.000Z"
   },
   {
     "id": "SwifterSwift/SwifterSwift",
@@ -2838,7 +2838,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-08-13T15:12:05.000Z",
-    "updatedAt": "2025-01-13T02:54:34.000Z"
+    "updatedAt": "2025-01-14T08:22:26.000Z"
   },
   {
     "id": "xmartlabs/XLPagerTabStrip",
@@ -6374,7 +6374,7 @@
       "name": "exyte",
       "avatarUrl": "https://avatars.githubusercontent.com/u/10406525?v=4"
     },
-    "stars": 1033,
+    "stars": 1035,
     "starsDetail": {
       "total": 1015,
       "week": 10,
@@ -6392,7 +6392,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2022-05-23T07:29:19.000Z",
-    "updatedAt": "2025-01-13T02:45:06.000Z"
+    "updatedAt": "2025-01-14T08:18:45.000Z"
   },
   {
     "id": "0xced/XCDYouTubeKit",
@@ -8276,7 +8276,7 @@
       "updatedAt": 1736034515
     },
     "license": "Apache License 2.0",
-    "forks": 67,
+    "forks": 68,
     "primaryLanguage": "Ruby",
     "pushedAt": "2024-12-19T19:59:47.000Z",
     "archived": false,
@@ -8285,7 +8285,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2023-02-10T22:48:37.000Z",
-    "updatedAt": "2025-01-13T02:45:20.000Z"
+    "updatedAt": "2025-01-14T08:18:55.000Z"
   },
   {
     "id": "krzysztofzablocki/Sourcery",
@@ -9220,7 +9220,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-04-08T14:57:55.000Z",
-    "updatedAt": "2025-01-13T02:45:10.000Z"
+    "updatedAt": "2025-01-14T08:18:49.000Z"
   },
   {
     "id": "Ramotion/circle-menu",
@@ -13678,7 +13678,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-09-26T07:43:43.000Z",
-    "updatedAt": "2025-01-13T02:54:39.000Z"
+    "updatedAt": "2025-01-14T08:22:30.000Z"
   },
   {
     "id": "alexbw/novocaine",
@@ -19310,7 +19310,7 @@
       "name": "Orderella",
       "avatarUrl": "https://avatars.githubusercontent.com/u/20091236?v=4"
     },
-    "stars": 3972,
+    "stars": 3973,
     "starsDetail": {
       "total": 3969,
       "week": 4,
@@ -19328,7 +19328,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-06-22T18:56:17.000Z",
-    "updatedAt": "2025-01-13T02:45:19.000Z"
+    "updatedAt": "2025-01-14T08:18:55.000Z"
   },
   {
     "id": "SVGKit/SVGKit",
@@ -25861,7 +25861,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-04-11T20:52:23.000Z",
-    "updatedAt": "2025-01-13T02:45:05.000Z"
+    "updatedAt": "2025-01-14T08:18:44.000Z"
   },
   {
     "id": "shu223/PulsingHalo",
@@ -41355,12 +41355,12 @@
       "name": "DopplerHQ",
       "avatarUrl": "https://avatars.githubusercontent.com/u/34022344?v=4"
     },
-    "stars": 72570,
+    "stars": 72592,
     "starsDetail": {
-      "total": 72570
+      "total": 72592
     },
     "license": null,
-    "forks": 8963,
+    "forks": 8965,
     "primaryLanguage": "",
     "pushedAt": "2024-07-29T14:21:23.000Z",
     "archived": true,
@@ -41369,7 +41369,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-11-28T09:48:17.000Z",
-    "updatedAt": "2025-01-13T02:45:05.000Z"
+    "updatedAt": "2025-01-14T08:18:45.000Z"
   },
   {
     "id": "DrewKiino/Atlantis",
@@ -43545,12 +43545,12 @@
       "name": "Mijick",
       "avatarUrl": "https://avatars.githubusercontent.com/u/125037042?v=4"
     },
-    "stars": 294,
+    "stars": 297,
     "starsDetail": {
-      "total": 294
+      "total": 297
     },
     "license": "Apache License 2.0",
-    "forks": 36,
+    "forks": 37,
     "primaryLanguage": "Ruby",
     "pushedAt": "2024-12-16T10:44:43.000Z",
     "archived": false,
@@ -43559,7 +43559,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-04-01T22:48:29.000Z",
-    "updatedAt": "2025-01-13T02:54:35.000Z"
+    "updatedAt": "2025-01-14T08:22:27.000Z"
   },
   {
     "id": "Minitour/AZEmptyState",
@@ -61623,7 +61623,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-12-01T03:59:46.000Z",
-    "updatedAt": "2025-01-13T02:45:16.000Z"
+    "updatedAt": "2025-01-14T08:18:53.000Z"
   },
   {
     "id": "mukeshthawani/TriLabelView",
@@ -66558,7 +66558,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-03-31T19:10:54.000Z",
-    "updatedAt": "2025-01-13T02:45:14.000Z"
+    "updatedAt": "2025-01-14T08:18:52.000Z"
   },
   {
     "id": "sgr-ksmt/Alertift",
@@ -67811,7 +67811,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-07-14T13:20:19.000Z",
-    "updatedAt": "2025-01-13T02:45:24.000Z"
+    "updatedAt": "2025-01-14T08:18:58.000Z"
   },
   {
     "id": "suzuki-0000/AnimatablePlayButton",
