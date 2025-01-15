@@ -2389,7 +2389,7 @@
       "name": "soybeanjs",
       "avatarUrl": "https://avatars.githubusercontent.com/u/119996361?v=4"
     },
-    "stars": 10870,
+    "stars": 10881,
     "starsDetail": {
       "total": 10837,
       "week": 74,
@@ -2398,7 +2398,7 @@
       "updatedAt": 1736450247
     },
     "license": "MIT License",
-    "forks": 1940,
+    "forks": 1941,
     "primaryLanguage": "HTML",
     "pushedAt": "2024-12-26T03:07:57.000Z",
     "archived": false,
@@ -2407,7 +2407,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2021-09-08T16:13:36.000Z",
-    "updatedAt": "2025-01-14T08:22:25.000Z"
+    "updatedAt": "2025-01-15T10:53:50.000Z"
   },
   {
     "id": "FortAwesome/vue-fontawesome",
@@ -7975,7 +7975,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2021-04-01T09:24:55.000Z",
-    "updatedAt": "2025-01-14T08:13:09.000Z"
+    "updatedAt": "2025-01-15T10:51:34.000Z"
   },
   {
     "id": "MartinMalinda/vue-concurrency",
@@ -10730,21 +10730,21 @@
       "name": "ionic-team",
       "avatarUrl": "https://avatars.githubusercontent.com/u/3171503?v=4"
     },
-    "stars": 51292,
+    "stars": 51296,
     "starsDetail": {
-      "total": 51292
+      "total": 51296
     },
     "license": "MIT License",
     "forks": 13490,
     "primaryLanguage": "Dockerfile",
-    "pushedAt": "2025-01-14T00:53:53.000Z",
+    "pushedAt": "2025-01-14T18:19:40.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2013-08-20T23:06:02.000Z",
-    "updatedAt": "2025-01-14T08:13:23.000Z"
+    "updatedAt": "2025-01-15T10:51:14.000Z"
   },
   {
     "id": "itsalb3rt/afterman",

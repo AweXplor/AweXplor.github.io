@@ -517,7 +517,7 @@
     "goPackage": "github.com/dnote/dnote",
     "goImportedBy": 0,
     "createdAt": "2017-03-30T23:07:25.000Z",
-    "updatedAt": "2025-01-14T08:23:47.000Z"
+    "updatedAt": "2025-01-15T10:55:11.000Z"
   },
   {
     "id": "gitahead/gitahead",
@@ -1908,7 +1908,7 @@
       "name": "Ranchero-Software",
       "avatarUrl": "https://avatars.githubusercontent.com/u/59430456?v=4"
     },
-    "stars": 8544,
+    "stars": 8550,
     "starsDetail": {
       "total": 8516,
       "week": 23,
@@ -1919,14 +1919,14 @@
     "license": "MIT License",
     "forks": 542,
     "primaryLanguage": "C",
-    "pushedAt": "2025-01-14T04:52:04.000Z",
+    "pushedAt": "2025-01-15T03:44:37.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-05-21T17:59:23.000Z",
-    "updatedAt": "2025-01-14T08:13:13.000Z"
+    "updatedAt": "2025-01-15T10:51:05.000Z"
   },
   {
     "id": "Slackadays/Clipboard",
@@ -2330,7 +2330,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-05-31T16:51:06.000Z",
-    "updatedAt": "2025-01-14T08:13:37.000Z"
+    "updatedAt": "2025-01-15T10:51:27.000Z"
   },
   {
     "id": "klaudiosinani/tusk",
@@ -2366,40 +2366,6 @@
     "goImportedBy": null,
     "createdAt": "2017-08-07T14:52:35.000Z",
     "updatedAt": "2025-01-14T22:02:18.000Z"
-  },
-  {
-    "id": "mono/monodevelop",
-    "name": "mono/monodevelop",
-    "description": "MonoDevelop is a cross platform .NET IDE",
-    "topics": [
-      "c-sharp",
-      "dotnet",
-      "ide",
-      "monodevelop"
-    ],
-    "owner": {
-      "name": "mono",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/53395?v=4"
-    },
-    "stars": 2850,
-    "starsDetail": {
-      "total": 2850,
-      "week": 3,
-      "month": 7,
-      "year": 84,
-      "updatedAt": 1736059339
-    },
-    "license": null,
-    "forks": 1026,
-    "primaryLanguage": "SCSS",
-    "pushedAt": "2021-10-04T08:31:06.000Z",
-    "archived": true,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2010-07-22T16:09:08.000Z",
-    "updatedAt": "2025-01-14T21:38:38.000Z"
   },
   {
     "id": "muammar/mkchromecast",
@@ -4479,7 +4445,7 @@
       "name": "alin23",
       "avatarUrl": "https://avatars.githubusercontent.com/u/3819725?v=4"
     },
-    "stars": 4816,
+    "stars": 4819,
     "starsDetail": {
       "total": 4782,
       "week": 9,
@@ -4497,7 +4463,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-07-03T17:23:54.000Z",
-    "updatedAt": "2025-01-14T08:12:39.000Z"
+    "updatedAt": "2025-01-15T10:50:31.000Z"
   },
   {
     "id": "xxh/xxh",
@@ -4584,7 +4550,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-03-06T17:06:07.000Z",
-    "updatedAt": "2025-01-14T08:13:12.000Z"
+    "updatedAt": "2025-01-15T10:51:03.000Z"
   },
   {
     "id": "JadenGeller/Helium",
@@ -6380,7 +6346,7 @@
       "name": "sindresorhus",
       "avatarUrl": "https://avatars.githubusercontent.com/u/170270?v=4"
     },
-    "stars": 7870,
+    "stars": 7871,
     "starsDetail": {
       "total": 7860,
       "week": 7,
@@ -6398,7 +6364,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-02-01T10:45:23.000Z",
-    "updatedAt": "2025-01-14T08:13:31.000Z"
+    "updatedAt": "2025-01-15T10:51:22.000Z"
   },
   {
     "id": "HandBrake/HandBrake",
@@ -7293,7 +7259,7 @@
       "name": "sfsam",
       "avatarUrl": "https://avatars.githubusercontent.com/u/118104?v=4"
     },
-    "stars": 3410,
+    "stars": 3412,
     "starsDetail": {
       "total": 3404,
       "week": 5,
@@ -7311,7 +7277,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-01-27T17:33:22.000Z",
-    "updatedAt": "2025-01-14T08:13:37.000Z"
+    "updatedAt": "2025-01-15T10:51:27.000Z"
   },
   {
     "id": "webtorrent/webtorrent-desktop",
@@ -13391,7 +13357,7 @@
       "name": "hatashiro",
       "avatarUrl": "https://avatars.githubusercontent.com/u/1013641?v=4"
     },
-    "stars": 1443,
+    "stars": 1444,
     "starsDetail": {
       "total": 1438,
       "week": 2,
@@ -13409,7 +13375,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-07-26T16:20:12.000Z",
-    "updatedAt": "2025-01-14T08:13:33.000Z"
+    "updatedAt": "2025-01-15T10:51:24.000Z"
   },
   {
     "id": "insidegui/WWDC",
@@ -14734,7 +14700,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2012-07-21T00:48:01.000Z",
-    "updatedAt": "2025-01-14T08:13:43.000Z"
+    "updatedAt": "2025-01-15T10:51:33.000Z"
   },
   {
     "id": "Studio3T/robomongo",
@@ -15288,7 +15254,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2011-03-20T07:17:31.000Z",
-    "updatedAt": "2025-01-14T08:12:34.000Z"
+    "updatedAt": "2025-01-15T10:50:26.000Z"
   },
   {
     "id": "archagon/sensible-side-buttons",
@@ -16130,7 +16096,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-04-12T18:27:27.000Z",
-    "updatedAt": "2025-01-14T08:13:29.000Z"
+    "updatedAt": "2025-01-15T10:51:20.000Z"
   },
   {
     "id": "ramnes/awesome-mongodb",
@@ -19313,12 +19279,12 @@
       "name": "Eugeny",
       "avatarUrl": "https://avatars.githubusercontent.com/u/161476?v=4"
     },
-    "stars": 61257,
+    "stars": 61305,
     "starsDetail": {
-      "total": 61257
+      "total": 61305
     },
     "license": "MIT License",
-    "forks": 3480,
+    "forks": 3483,
     "primaryLanguage": "NSIS",
     "pushedAt": "2025-01-13T19:46:30.000Z",
     "archived": false,
@@ -19327,7 +19293,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-12-23T09:06:10.000Z",
-    "updatedAt": "2025-01-14T08:13:22.000Z"
+    "updatedAt": "2025-01-15T10:51:12.000Z"
   },
   {
     "id": "FreeterApp/Freeter",
@@ -19586,21 +19552,21 @@
       "name": "Kong",
       "avatarUrl": "https://avatars.githubusercontent.com/u/962416?v=4"
     },
-    "stars": 35397,
+    "stars": 35406,
     "starsDetail": {
-      "total": 35397
+      "total": 35406
     },
     "license": "Apache License 2.0",
-    "forks": 2010,
+    "forks": 2009,
     "primaryLanguage": "Dockerfile",
-    "pushedAt": "2025-01-14T06:31:25.000Z",
+    "pushedAt": "2025-01-15T10:14:54.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-04-23T03:54:26.000Z",
-    "updatedAt": "2025-01-14T08:13:16.000Z"
+    "updatedAt": "2025-01-15T10:51:08.000Z"
   },
   {
     "id": "KrisYu/FilterShop",
@@ -20030,9 +19996,9 @@
       "name": "PDF-Archiver",
       "avatarUrl": "https://avatars.githubusercontent.com/u/37207025?v=4"
     },
-    "stars": 310,
+    "stars": 311,
     "starsDetail": {
-      "total": 310
+      "total": 311
     },
     "license": "Other",
     "forks": 24,
@@ -20044,7 +20010,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-01-30T23:55:53.000Z",
-    "updatedAt": "2025-01-14T08:13:38.000Z"
+    "updatedAt": "2025-01-15T10:51:29.000Z"
   },
   {
     "id": "ParetoSecurity/pareto-mac",
@@ -20075,7 +20041,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2021-07-14T09:54:07.000Z",
-    "updatedAt": "2025-01-14T08:12:31.000Z"
+    "updatedAt": "2025-01-15T10:50:23.000Z"
   },
   {
     "id": "Pjirlip/Pillager",
@@ -20912,12 +20878,12 @@
       "name": "alacritty",
       "avatarUrl": "https://avatars.githubusercontent.com/u/29714349?v=4"
     },
-    "stars": 57330,
+    "stars": 57344,
     "starsDetail": {
-      "total": 57330
+      "total": 57344
     },
     "license": "Apache License 2.0",
-    "forks": 3055,
+    "forks": 3057,
     "primaryLanguage": "Makefile",
     "pushedAt": "2025-01-14T06:41:35.000Z",
     "archived": false,
@@ -20926,7 +20892,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-02-18T05:02:30.000Z",
-    "updatedAt": "2025-01-14T08:13:17.000Z"
+    "updatedAt": "2025-01-15T10:51:08.000Z"
   },
   {
     "id": "alberti42/iTunes-Volume-Control",
@@ -23314,7 +23280,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-03-17T16:32:10.000Z",
-    "updatedAt": "2025-01-14T08:13:34.000Z"
+    "updatedAt": "2025-01-15T10:51:24.000Z"
   },
   {
     "id": "imanel/deezplayer",
@@ -24134,7 +24100,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2012-12-12T22:56:25.000Z",
-    "updatedAt": "2025-01-14T08:13:28.000Z"
+    "updatedAt": "2025-01-15T10:51:19.000Z"
   },
   {
     "id": "kuyawa/AppIcons",
@@ -24400,7 +24366,7 @@
     "goPackage": "github.com/liujianping/job",
     "goImportedBy": 0,
     "createdAt": "2019-04-09T11:14:51.000Z",
-    "updatedAt": "2025-01-14T08:23:51.000Z"
+    "updatedAt": "2025-01-15T10:55:16.000Z"
   },
   {
     "id": "livecode/livecode",
@@ -26437,9 +26403,9 @@
       "name": "shadowsocks",
       "avatarUrl": "https://avatars.githubusercontent.com/u/3006190?v=4"
     },
-    "stars": 32558,
+    "stars": 32559,
     "starsDetail": {
-      "total": 32558
+      "total": 32559
     },
     "license": "GNU General Public License v3.0",
     "forks": 7935,
@@ -26451,7 +26417,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-06-10T11:49:00.000Z",
-    "updatedAt": "2025-01-14T08:13:36.000Z"
+    "updatedAt": "2025-01-15T10:51:27.000Z"
   },
   {
     "id": "shadowsocks/shadowsocks",
@@ -26535,7 +26501,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-09-17T20:24:11.000Z",
-    "updatedAt": "2025-01-14T08:13:28.000Z"
+    "updatedAt": "2025-01-15T10:51:18.000Z"
   },
   {
     "id": "shubhambatra3019/macOrganizer",
@@ -27338,12 +27304,12 @@
       "name": "vercel",
       "avatarUrl": "https://avatars.githubusercontent.com/u/14985020?v=4"
     },
-    "stars": 43600,
+    "stars": 43601,
     "starsDetail": {
-      "total": 43600
+      "total": 43601
     },
     "license": "MIT License",
-    "forks": 3535,
+    "forks": 3536,
     "primaryLanguage": "Batchfile",
     "pushedAt": "2024-08-14T03:32:57.000Z",
     "archived": false,
@@ -27352,7 +27318,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-07-01T06:01:21.000Z",
-    "updatedAt": "2025-01-14T08:13:20.000Z"
+    "updatedAt": "2025-01-15T10:51:11.000Z"
   },
   {
     "id": "vgorloff/AUHost",
@@ -28151,6 +28117,6 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-06-08T06:30:42.000Z",
-    "updatedAt": "2025-01-14T08:13:42.000Z"
+    "updatedAt": "2025-01-15T10:51:32.000Z"
   }
 ]

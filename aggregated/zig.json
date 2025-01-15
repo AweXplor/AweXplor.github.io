@@ -5053,6 +5053,37 @@
     "updatedAt": "2025-01-14T22:06:51.000Z"
   },
   {
+    "id": "pblischak/zprob",
+    "name": "pblischak/zprob",
+    "description": "A Zig Module for Random Number Distributions",
+    "topics": [
+      "module",
+      "probability",
+      "random-sampling",
+      "statistics",
+      "zig"
+    ],
+    "owner": {
+      "name": "pblischak",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/11963669?v=4"
+    },
+    "stars": 7,
+    "starsDetail": {
+      "total": 7
+    },
+    "license": "GNU Lesser General Public License v3.0",
+    "forks": 1,
+    "primaryLanguage": "Shell",
+    "pushedAt": "2024-07-02T15:46:22.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2023-05-02T00:31:38.000Z",
+    "updatedAt": "2025-01-15T10:50:55.000Z"
+  },
+  {
     "id": "pbui-project/pbui-main",
     "name": "pbui-project/pbui-main",
     "description": "The main repository for the PBUI project ",
