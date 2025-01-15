@@ -749,7 +749,7 @@
       "name": "skim-rs",
       "avatarUrl": "https://avatars.githubusercontent.com/u/187454154?v=4"
     },
-    "stars": 5334,
+    "stars": 5338,
     "starsDetail": {
       "total": 5309,
       "week": 18,
@@ -760,14 +760,14 @@
     "license": "MIT License",
     "forks": 197,
     "primaryLanguage": "Vim Script",
-    "pushedAt": "2025-01-14T00:13:23.000Z",
+    "pushedAt": "2025-01-14T18:34:04.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-05-29T06:24:46.000Z",
-    "updatedAt": "2025-01-14T14:30:12.000Z"
+    "updatedAt": "2025-01-15T16:59:54.000Z"
   },
   {
     "id": "3rd/image.nvim",
@@ -7203,7 +7203,7 @@
       "name": "saecki",
       "avatarUrl": "https://avatars.githubusercontent.com/u/43008152?v=4"
     },
-    "stars": 900,
+    "stars": 901,
     "starsDetail": {
       "total": 897,
       "week": 5,
@@ -7221,7 +7221,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2021-08-24T17:13:20.000Z",
-    "updatedAt": "2025-01-14T14:30:20.000Z"
+    "updatedAt": "2025-01-15T17:00:00.000Z"
   },
   {
     "id": "hrsh7th/nvim-cmp",

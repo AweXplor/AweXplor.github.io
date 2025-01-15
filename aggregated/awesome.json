@@ -2343,7 +2343,7 @@
       "name": "petk",
       "avatarUrl": "https://avatars.githubusercontent.com/u/1614009?v=4"
     },
-    "stars": 943,
+    "stars": 944,
     "starsDetail": {
       "total": 942,
       "week": 2,
@@ -2361,7 +2361,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2014-10-30T08:06:08.000Z",
-    "updatedAt": "2025-01-14T14:30:09.000Z"
+    "updatedAt": "2025-01-15T16:59:51.000Z"
   },
   {
     "id": "robinstickel/awesome-design-principles",
@@ -5753,7 +5753,7 @@
       "name": "awesome-css-group",
       "avatarUrl": "https://avatars.githubusercontent.com/u/38369791?v=4"
     },
-    "stars": 5124,
+    "stars": 5127,
     "starsDetail": {
       "total": 5116,
       "week": 8,
@@ -5771,7 +5771,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-01-31T10:04:29.000Z",
-    "updatedAt": "2025-01-14T14:30:07.000Z"
+    "updatedAt": "2025-01-15T16:59:50.000Z"
   },
   {
     "id": "kjw0612/awesome-deep-vision",
@@ -18817,7 +18817,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2014-10-22T11:11:18.000Z",
-    "updatedAt": "2025-01-14T14:30:08.000Z"
+    "updatedAt": "2025-01-15T16:59:51.000Z"
   },
   {
     "id": "playcanvas/awesome-playcanvas",

@@ -3675,7 +3675,7 @@
       "name": "IgnisDa",
       "avatarUrl": "https://avatars.githubusercontent.com/u/60938164?v=4"
     },
-    "stars": 2139,
+    "stars": 2142,
     "starsDetail": {
       "total": 2109,
       "week": 16,
@@ -3693,7 +3693,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2023-04-03T17:02:43.000Z",
-    "updatedAt": "2025-01-14T14:30:10.000Z"
+    "updatedAt": "2025-01-15T16:59:52.000Z"
   },
   {
     "id": "judge0/judge0",
@@ -3752,7 +3752,7 @@
       "name": "cryptpad",
       "avatarUrl": "https://avatars.githubusercontent.com/u/76949612?v=4"
     },
-    "stars": 5799,
+    "stars": 5810,
     "starsDetail": {
       "total": 5605,
       "week": 28,
@@ -3763,14 +3763,14 @@
     "license": "GNU Affero General Public License v3.0",
     "forks": 661,
     "primaryLanguage": "Dockerfile",
-    "pushedAt": "2025-01-13T15:16:45.000Z",
+    "pushedAt": "2025-01-15T11:47:53.000Z",
     "archived": false,
     "npmPackage": "",
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2014-10-31T15:46:17.000Z",
-    "updatedAt": "2025-01-14T14:29:12.000Z"
+    "updatedAt": "2025-01-15T16:59:01.000Z"
   },
   {
     "id": "espocrm/espocrm",
@@ -19652,7 +19652,7 @@
       "name": "apostrophecms",
       "avatarUrl": "https://avatars.githubusercontent.com/u/12648958?v=4"
     },
-    "stars": 4378,
+    "stars": 4379,
     "starsDetail": {
       "total": 4349,
       "week": 5,
@@ -19663,14 +19663,14 @@
     "license": "Other",
     "forks": 595,
     "primaryLanguage": "CSS",
-    "pushedAt": "2025-01-13T17:03:34.000Z",
+    "pushedAt": "2025-01-15T16:53:29.000Z",
     "archived": false,
     "npmPackage": "apostrophe",
     "npmLastMonthDownloads": 9619,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2013-02-08T20:04:02.000Z",
-    "updatedAt": "2025-01-14T14:29:35.000Z"
+    "updatedAt": "2025-01-15T16:59:21.000Z"
   },
   {
     "id": "chiefonboarding/ChiefOnboarding",
@@ -27198,21 +27198,21 @@
       "name": "TryGhost",
       "avatarUrl": "https://avatars.githubusercontent.com/u/2178663?v=4"
     },
-    "stars": 48030,
+    "stars": 48044,
     "starsDetail": {
-      "total": 48030
+      "total": 48044
     },
     "license": "MIT License",
-    "forks": 10479,
+    "forks": 10481,
     "primaryLanguage": "Dockerfile",
-    "pushedAt": "2025-01-14T13:10:47.000Z",
+    "pushedAt": "2025-01-15T16:43:54.000Z",
     "archived": false,
     "npmPackage": "",
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": 0,
     "createdAt": "2013-05-04T11:09:13.000Z",
-    "updatedAt": "2025-01-14T14:29:29.000Z"
+    "updatedAt": "2025-01-15T16:59:15.000Z"
   },
   {
     "id": "TxtDot/txtdot",
@@ -31897,21 +31897,21 @@
       "name": "meilisearch",
       "avatarUrl": "https://avatars.githubusercontent.com/u/43250847?v=4"
     },
-    "stars": 48656,
+    "stars": 48677,
     "starsDetail": {
-      "total": 48656
+      "total": 48677
     },
     "license": "MIT License",
-    "forks": 1905,
+    "forks": 1906,
     "primaryLanguage": "Dockerfile",
-    "pushedAt": "2025-01-14T14:04:50.000Z",
+    "pushedAt": "2025-01-15T15:40:44.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-04-23T11:45:28.000Z",
-    "updatedAt": "2025-01-14T14:30:25.000Z"
+    "updatedAt": "2025-01-15T17:00:05.000Z"
   },
   {
     "id": "melmothx/amusewiki",
@@ -32754,21 +32754,21 @@
       "name": "novuhq",
       "avatarUrl": "https://avatars.githubusercontent.com/u/77433905?v=4"
     },
-    "stars": 35974,
+    "stars": 35986,
     "starsDetail": {
-      "total": 35974
+      "total": 35986
     },
     "license": "Other",
     "forks": 3941,
     "primaryLanguage": "EJS",
-    "pushedAt": "2025-01-14T14:28:57.000Z",
+    "pushedAt": "2025-01-15T16:31:33.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2021-08-26T15:22:44.000Z",
-    "updatedAt": "2025-01-14T14:29:50.000Z"
+    "updatedAt": "2025-01-15T16:59:35.000Z"
   },
   {
     "id": "nskondratev/socks5-proxy-server",

@@ -663,7 +663,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2012-03-08T02:10:13.000Z",
-    "updatedAt": "2025-01-14T14:29:40.000Z"
+    "updatedAt": "2025-01-15T16:59:26.000Z"
   },
   {
     "id": "fabian-hiller/valibot",
@@ -1386,7 +1386,7 @@
     "goPackage": null,
     "goImportedBy": 0,
     "createdAt": "2017-01-20T05:20:21.000Z",
-    "updatedAt": "2025-01-14T14:29:30.000Z"
+    "updatedAt": "2025-01-15T16:59:17.000Z"
   },
   {
     "id": "hustcc/timeago.js",
@@ -2460,21 +2460,21 @@
       "name": "preactjs",
       "avatarUrl": "https://avatars.githubusercontent.com/u/26872990?v=4"
     },
-    "stars": 37049,
+    "stars": 37047,
     "starsDetail": {
-      "total": 37049
+      "total": 37047
     },
     "license": "MIT License",
     "forks": 1963,
     "primaryLanguage": "TypeScript",
-    "pushedAt": "2025-01-10T14:51:22.000Z",
+    "pushedAt": "2025-01-15T07:42:25.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-09-11T02:40:18.000Z",
-    "updatedAt": "2025-01-14T14:29:32.000Z"
+    "updatedAt": "2025-01-15T16:59:19.000Z"
   },
   {
     "id": "rafgraph/detect-it",
