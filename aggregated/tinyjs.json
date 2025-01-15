@@ -480,7 +480,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2011-06-23T20:53:57.000Z",
-    "updatedAt": "2025-01-14T17:47:39.000Z"
+    "updatedAt": "2025-01-15T20:21:53.000Z"
   },
   {
     "id": "ianstormtaylor/superstruct",
@@ -528,7 +528,7 @@
       "name": "jashkenas",
       "avatarUrl": "https://avatars.githubusercontent.com/u/4732?v=4"
     },
-    "stars": 27360,
+    "stars": 27364,
     "starsDetail": {
       "total": 27323,
       "week": 9,
@@ -546,7 +546,7 @@
     "goPackage": null,
     "goImportedBy": 0,
     "createdAt": "2009-10-25T18:31:06.000Z",
-    "updatedAt": "2025-01-14T17:45:52.000Z"
+    "updatedAt": "2025-01-15T20:20:10.000Z"
   },
   {
     "id": "preactjs/signals",
@@ -763,7 +763,7 @@
       "name": "angus-c",
       "avatarUrl": "https://avatars.githubusercontent.com/u/604030?v=4"
     },
-    "stars": 6084,
+    "stars": 6083,
     "starsDetail": {
       "total": 6026,
       "week": 8,
@@ -772,7 +772,7 @@
       "updatedAt": 1729322582
     },
     "license": "MIT License",
-    "forks": 206,
+    "forks": 207,
     "primaryLanguage": "TypeScript",
     "pushedAt": "2024-02-11T12:23:37.000Z",
     "archived": false,
@@ -781,7 +781,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-06-26T02:04:54.000Z",
-    "updatedAt": "2025-01-14T17:48:37.000Z"
+    "updatedAt": "2025-01-15T20:22:49.000Z"
   },
   {
     "id": "any86/any-touch",
@@ -1111,7 +1111,7 @@
       "name": "imbrn",
       "avatarUrl": "https://avatars.githubusercontent.com/u/1906977?v=4"
     },
-    "stars": 4169,
+    "stars": 4168,
     "starsDetail": {
       "total": 4172,
       "week": 0,
@@ -1129,7 +1129,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-06-25T20:06:33.000Z",
-    "updatedAt": "2025-01-14T17:49:51.000Z"
+    "updatedAt": "2025-01-15T20:24:02.000Z"
   },
   {
     "id": "jorgebucaran/superfine",
@@ -1210,7 +1210,7 @@
       "name": "redom",
       "avatarUrl": "https://avatars.githubusercontent.com/u/21295422?v=4"
     },
-    "stars": 3426,
+    "stars": 3425,
     "starsDetail": {
       "total": 3422,
       "week": 1,
@@ -1228,7 +1228,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-08-28T17:32:43.000Z",
-    "updatedAt": "2025-01-14T17:50:47.000Z"
+    "updatedAt": "2025-01-15T20:24:58.000Z"
   },
   {
     "id": "nanostores/nanostores",
@@ -1305,7 +1305,7 @@
       "name": "ai",
       "avatarUrl": "https://avatars.githubusercontent.com/u/19343?v=4"
     },
-    "stars": 24959,
+    "stars": 24967,
     "starsDetail": {
       "total": 24515,
       "week": 28,
@@ -1323,7 +1323,7 @@
     "goPackage": null,
     "goImportedBy": 0,
     "createdAt": "2017-08-05T05:24:35.000Z",
-    "updatedAt": "2025-01-14T17:45:57.000Z"
+    "updatedAt": "2025-01-15T20:20:15.000Z"
   },
   {
     "id": "developit/redaxios",

@@ -213,7 +213,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2013-12-27T18:01:52.000Z",
-    "updatedAt": "2025-01-14T17:44:28.000Z"
+    "updatedAt": "2025-01-15T20:18:51.000Z"
   },
   {
     "id": "OpenIdentityPlatform/OpenAM",
@@ -2124,7 +2124,7 @@
       "name": "facebook",
       "avatarUrl": "https://avatars.githubusercontent.com/u/69631?v=4"
     },
-    "stars": 15057,
+    "stars": 15058,
     "starsDetail": {
       "total": 15042,
       "week": 10,
@@ -2133,16 +2133,16 @@
       "updatedAt": 1736034662
     },
     "license": "MIT License",
-    "forks": 2026,
+    "forks": 2027,
     "primaryLanguage": "Dune",
-    "pushedAt": "2025-01-14T17:20:20.000Z",
+    "pushedAt": "2025-01-15T13:38:23.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-01-26T11:19:13.000Z",
-    "updatedAt": "2025-01-14T18:10:43.000Z"
+    "updatedAt": "2025-01-15T20:41:44.000Z"
   },
   {
     "id": "open-telemetry/opentelemetry-java",
