@@ -10475,7 +10475,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2021-07-22T05:32:15.000Z",
-    "updatedAt": "2025-01-14T08:20:37.000Z"
+    "updatedAt": "2025-01-15T07:46:07.000Z"
   },
   {
     "id": "Abstract-IDE/Abstract-cs",
@@ -23567,6 +23567,35 @@
     "updatedAt": "2025-01-14T21:49:54.000Z"
   },
   {
+    "id": "mawkler/hml.nvim",
+    "name": "mawkler/hml.nvim",
+    "description": "Neovim plugin that adds H/M/L indicators to your line numbers",
+    "topics": [
+      "neovim",
+      "neovim-plugin",
+      "plugin"
+    ],
+    "owner": {
+      "name": "mawkler",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/15816726?v=4"
+    },
+    "stars": 18,
+    "starsDetail": {
+      "total": 18
+    },
+    "license": "MIT License",
+    "forks": 0,
+    "primaryLanguage": "Lua",
+    "pushedAt": "2024-11-21T07:32:39.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2024-11-19T10:06:19.000Z",
+    "updatedAt": "2025-01-15T07:46:02.000Z"
+  },
+  {
     "id": "mawkler/modicator.nvim",
     "name": "mawkler/modicator.nvim",
     "description": "Cursor line number mode indicator plugin for Neovim",
@@ -26546,6 +26575,39 @@
     "goImportedBy": null,
     "createdAt": "2022-03-31T12:50:09.000Z",
     "updatedAt": "2025-01-14T21:47:39.000Z"
+  },
+  {
+    "id": "philosofonusus/ecolog.nvim",
+    "name": "philosofonusus/ecolog.nvim",
+    "description": "The most sophisticated all-in-one toolkit to work with .env files and environment variables in NeoVim",
+    "topics": [
+      "neovim",
+      "neovim-lua-plugin",
+      "neovim-plugin",
+      "neovim-plugins",
+      "nvim",
+      "nvim-cmp",
+      "nvim-plugin"
+    ],
+    "owner": {
+      "name": "philosofonusus",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/32138582?v=4"
+    },
+    "stars": 109,
+    "starsDetail": {
+      "total": 109
+    },
+    "license": "MIT License",
+    "forks": 3,
+    "primaryLanguage": "Lua",
+    "pushedAt": "2025-01-15T07:39:06.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2024-12-09T20:24:42.000Z",
+    "updatedAt": "2025-01-15T07:46:03.000Z"
   },
   {
     "id": "pianocomposer321/consolation.nvim",

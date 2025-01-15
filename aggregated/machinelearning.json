@@ -1273,7 +1273,7 @@
       "name": "pymc-devs",
       "avatarUrl": "https://avatars.githubusercontent.com/u/81121?v=4"
     },
-    "stars": 8824,
+    "stars": 8825,
     "starsDetail": {
       "total": 8811,
       "week": [
@@ -1286,16 +1286,16 @@
       "updatedAt": 1736035204
     },
     "license": "Other",
-    "forks": 2041,
+    "forks": 2043,
     "primaryLanguage": "Dockerfile",
-    "pushedAt": "2025-01-13T17:28:20.000Z",
+    "pushedAt": "2025-01-14T13:08:07.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2009-05-05T09:43:50.000Z",
-    "updatedAt": "2025-01-14T08:16:04.000Z"
+    "updatedAt": "2025-01-15T07:40:11.000Z"
   },
   {
     "id": "JuliaStats/GLM.jl",
@@ -7782,7 +7782,7 @@
       "updatedAt": 1736035098
     },
     "license": "Other",
-    "forks": 1925,
+    "forks": 1926,
     "primaryLanguage": "Tcl",
     "pushedAt": "2024-10-17T16:32:55.000Z",
     "archived": false,
@@ -7791,7 +7791,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2009-07-31T19:36:58.000Z",
-    "updatedAt": "2025-01-14T08:16:01.000Z"
+    "updatedAt": "2025-01-15T07:40:04.000Z"
   },
   {
     "id": "clips/pattern",
@@ -19854,21 +19854,21 @@
       "name": "opencv",
       "avatarUrl": "https://avatars.githubusercontent.com/u/5009934?v=4"
     },
-    "stars": 80064,
+    "stars": 80090,
     "starsDetail": {
-      "total": 80064
+      "total": 80090
     },
     "license": "Apache License 2.0",
-    "forks": 55929,
+    "forks": 55935,
     "primaryLanguage": "Dockerfile",
-    "pushedAt": "2025-01-13T17:25:03.000Z",
+    "pushedAt": "2025-01-14T16:10:03.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2012-07-19T09:40:17.000Z",
-    "updatedAt": "2025-01-14T08:18:32.000Z"
+    "updatedAt": "2025-01-15T07:42:48.000Z"
   },
   {
     "id": "oxinabox/DataDeps.jl",
