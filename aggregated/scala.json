@@ -1725,7 +1725,7 @@
       "name": "bencherdev",
       "avatarUrl": "https://avatars.githubusercontent.com/u/68773954?v=4"
     },
-    "stars": 602,
+    "stars": 605,
     "starsDetail": {
       "total": 601,
       "week": 6,
@@ -1743,7 +1743,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2020-07-25T09:54:21.000Z",
-    "updatedAt": "2025-01-14T02:00:46.000Z"
+    "updatedAt": "2025-01-15T04:28:08.000Z"
   },
   {
     "id": "gitbucket/gitbucket",
@@ -5477,9 +5477,9 @@
       "name": "bayandin",
       "avatarUrl": "https://avatars.githubusercontent.com/u/864213?v=4"
     },
-    "stars": 32265,
+    "stars": 32267,
     "starsDetail": {
-      "total": 32265
+      "total": 32267
     },
     "license": null,
     "forks": 3568,
@@ -5491,7 +5491,7 @@
     "goPackage": "",
     "goImportedBy": 0,
     "createdAt": "2014-07-08T05:44:19.000Z",
-    "updatedAt": "2025-01-14T02:01:52.000Z"
+    "updatedAt": "2025-01-15T04:29:19.000Z"
   },
   {
     "id": "blackdoor/jose",
