@@ -167,7 +167,7 @@
       "name": "dnote",
       "avatarUrl": "https://avatars.githubusercontent.com/u/26827777?v=4"
     },
-    "stars": 2815,
+    "stars": 2816,
     "starsDetail": {
       "total": 2811,
       "week": 2,
@@ -185,7 +185,7 @@
     "goPackage": "github.com/dnote/dnote",
     "goImportedBy": 0,
     "createdAt": "2017-03-30T23:07:25.000Z",
-    "updatedAt": "2025-01-15T10:55:11.000Z"
+    "updatedAt": "2025-01-16T13:47:44.000Z"
   },
   {
     "id": "donnemartin/haxor-news",
@@ -604,7 +604,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-05-06T05:00:17.000Z",
-    "updatedAt": "2025-01-15T10:51:09.000Z"
+    "updatedAt": "2025-01-16T13:42:40.000Z"
   },
   {
     "id": "simeg/eureka",
@@ -2586,7 +2586,7 @@
       "name": "jorgebucaran",
       "avatarUrl": "https://avatars.githubusercontent.com/u/56996?v=4"
     },
-    "stars": 4301,
+    "stars": 4303,
     "starsDetail": {
       "total": 4278,
       "week": 18,
@@ -2604,7 +2604,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-10-13T08:37:26.000Z",
-    "updatedAt": "2025-01-15T10:51:09.000Z"
+    "updatedAt": "2025-01-16T13:42:41.000Z"
   },
   {
     "id": "saulpw/visidata",

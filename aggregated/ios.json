@@ -1929,7 +1929,7 @@
       "name": "Ranchero-Software",
       "avatarUrl": "https://avatars.githubusercontent.com/u/59430456?v=4"
     },
-    "stars": 8550,
+    "stars": 8554,
     "starsDetail": {
       "total": 8516,
       "week": 23,
@@ -1938,16 +1938,16 @@
       "updatedAt": 1736034156
     },
     "license": "MIT License",
-    "forks": 542,
+    "forks": 543,
     "primaryLanguage": "C",
-    "pushedAt": "2025-01-15T03:44:37.000Z",
+    "pushedAt": "2025-01-16T07:01:26.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-05-21T17:59:23.000Z",
-    "updatedAt": "2025-01-15T10:51:05.000Z"
+    "updatedAt": "2025-01-16T13:42:36.000Z"
   },
   {
     "id": "SwifterSwift/SwifterSwift",
@@ -2838,7 +2838,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-08-13T15:12:05.000Z",
-    "updatedAt": "2025-01-15T10:53:51.000Z"
+    "updatedAt": "2025-01-16T13:46:10.000Z"
   },
   {
     "id": "xmartlabs/XLPagerTabStrip",
@@ -13660,7 +13660,7 @@
       "name": "alexaubry",
       "avatarUrl": "https://avatars.githubusercontent.com/u/16192914?v=4"
     },
-    "stars": 5379,
+    "stars": 5378,
     "starsDetail": {
       "total": 5378,
       "week": 1,
@@ -13678,7 +13678,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-09-26T07:43:43.000Z",
-    "updatedAt": "2025-01-15T10:53:55.000Z"
+    "updatedAt": "2025-01-16T13:46:15.000Z"
   },
   {
     "id": "alexbw/novocaine",
@@ -43501,7 +43501,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-04-01T22:48:29.000Z",
-    "updatedAt": "2025-01-15T10:53:52.000Z"
+    "updatedAt": "2025-01-16T13:46:11.000Z"
   },
   {
     "id": "Minitour/AZEmptyState",
