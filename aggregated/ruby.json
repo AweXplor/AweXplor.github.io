@@ -234,7 +234,7 @@
       "name": "OctoLinker",
       "avatarUrl": "https://avatars.githubusercontent.com/u/10505593?v=4"
     },
-    "stars": 5289,
+    "stars": 5290,
     "starsDetail": {
       "total": 5288,
       "week": 0,
@@ -252,7 +252,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2013-12-27T18:01:52.000Z",
-    "updatedAt": "2025-01-15T20:18:51.000Z"
+    "updatedAt": "2025-01-16T23:07:16.000Z"
   },
   {
     "id": "carrierwaveuploader/carrierwave",
@@ -17798,12 +17798,12 @@
       "name": "fastlane",
       "avatarUrl": "https://avatars.githubusercontent.com/u/11098337?v=4"
     },
-    "stars": 39800,
+    "stars": 39803,
     "starsDetail": {
-      "total": 39800
+      "total": 39803
     },
     "license": "MIT License",
-    "forks": 5740,
+    "forks": 5741,
     "primaryLanguage": "JavaScript",
     "pushedAt": "2025-01-06T10:29:17.000Z",
     "archived": false,
@@ -17812,7 +17812,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2014-12-02T17:00:38.000Z",
-    "updatedAt": "2025-01-15T20:29:37.000Z"
+    "updatedAt": "2025-01-16T23:17:43.000Z"
   },
   {
     "id": "fatkodima/fast_count",
