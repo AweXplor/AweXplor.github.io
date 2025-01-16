@@ -1743,7 +1743,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2020-07-25T09:54:21.000Z",
-    "updatedAt": "2025-01-15T04:28:08.000Z"
+    "updatedAt": "2025-01-16T07:16:18.000Z"
   },
   {
     "id": "gitbucket/gitbucket",
@@ -5477,9 +5477,9 @@
       "name": "bayandin",
       "avatarUrl": "https://avatars.githubusercontent.com/u/864213?v=4"
     },
-    "stars": 32267,
+    "stars": 32269,
     "starsDetail": {
-      "total": 32267
+      "total": 32269
     },
     "license": null,
     "forks": 3568,
@@ -5491,7 +5491,7 @@
     "goPackage": "",
     "goImportedBy": 0,
     "createdAt": "2014-07-08T05:44:19.000Z",
-    "updatedAt": "2025-01-15T04:29:19.000Z"
+    "updatedAt": "2025-01-16T07:17:31.000Z"
   },
   {
     "id": "blackdoor/jose",

@@ -97,7 +97,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2014-04-08T20:25:02.000Z",
-    "updatedAt": "2025-01-15T04:27:52.000Z"
+    "updatedAt": "2025-01-16T07:16:00.000Z"
   },
   {
     "id": "molefrog/wouter",
@@ -187,7 +187,7 @@
       "name": "marpple",
       "avatarUrl": "https://avatars.githubusercontent.com/u/27278709?v=4"
     },
-    "stars": 943,
+    "stars": 945,
     "starsDetail": {
       "total": 943,
       "week": 2,
@@ -205,7 +205,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2021-09-30T06:00:50.000Z",
-    "updatedAt": "2025-01-15T04:27:35.000Z"
+    "updatedAt": "2025-01-16T07:15:43.000Z"
   },
   {
     "id": "Glench/fuzzyset.js",
@@ -298,7 +298,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-01-15T13:50:45.000Z",
-    "updatedAt": "2025-01-15T04:27:35.000Z"
+    "updatedAt": "2025-01-16T07:15:43.000Z"
   },
   {
     "id": "bvaughn/js-search",
@@ -428,7 +428,7 @@
       "name": "lukeed",
       "avatarUrl": "https://avatars.githubusercontent.com/u/5855893?v=4"
     },
-    "stars": 786,
+    "stars": 787,
     "starsDetail": {
       "total": 786,
       "week": 1,
@@ -446,7 +446,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-06-21T08:16:56.000Z",
-    "updatedAt": "2025-01-15T04:27:57.000Z"
+    "updatedAt": "2025-01-16T07:16:06.000Z"
   },
   {
     "id": "olivernn/lunr.js",
@@ -499,7 +499,7 @@
       "name": "ianstormtaylor",
       "avatarUrl": "https://avatars.githubusercontent.com/u/311752?v=4"
     },
-    "stars": 7060,
+    "stars": 7061,
     "starsDetail": {
       "total": 7004,
       "week": 8,
@@ -517,7 +517,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-11-23T03:03:25.000Z",
-    "updatedAt": "2025-01-15T04:25:41.000Z"
+    "updatedAt": "2025-01-16T07:13:44.000Z"
   },
   {
     "id": "jashkenas/underscore",
@@ -743,7 +743,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-09-13T18:27:25.000Z",
-    "updatedAt": "2025-01-15T04:28:03.000Z"
+    "updatedAt": "2025-01-16T07:16:12.000Z"
   },
   {
     "id": "angus-c/just",
@@ -1062,7 +1062,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2011-05-07T02:35:16.000Z",
-    "updatedAt": "2025-01-15T04:26:22.000Z"
+    "updatedAt": "2025-01-16T07:14:27.000Z"
   },
   {
     "id": "AlloyTeam/AlloyFinger",
@@ -1405,7 +1405,7 @@
       "name": "hustcc",
       "avatarUrl": "https://avatars.githubusercontent.com/u/7856674?v=4"
     },
-    "stars": 5347,
+    "stars": 5348,
     "starsDetail": {
       "total": 5342,
       "week": 4,
@@ -1423,7 +1423,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-06-23T02:06:23.000Z",
-    "updatedAt": "2025-01-15T04:27:42.000Z"
+    "updatedAt": "2025-01-16T07:15:50.000Z"
   },
   {
     "id": "lingui/js-lingui",
@@ -1870,12 +1870,12 @@
       "name": "date-fns",
       "avatarUrl": "https://avatars.githubusercontent.com/u/14921202?v=4"
     },
-    "stars": 35156,
+    "stars": 35163,
     "starsDetail": {
-      "total": 35156
+      "total": 35163
     },
     "license": "MIT License",
-    "forks": 1802,
+    "forks": 1803,
     "primaryLanguage": "JavaScript",
     "pushedAt": "2024-09-23T08:07:29.000Z",
     "archived": false,
@@ -1884,7 +1884,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2014-10-06T10:24:22.000Z",
-    "updatedAt": "2025-01-15T04:27:38.000Z"
+    "updatedAt": "2025-01-16T07:15:46.000Z"
   },
   {
     "id": "elbywan/hyperactiv",
@@ -2050,21 +2050,21 @@
       "name": "iamkun",
       "avatarUrl": "https://avatars.githubusercontent.com/u/17680888?v=4"
     },
-    "stars": 47293,
+    "stars": 47299,
     "starsDetail": {
-      "total": 47293
+      "total": 47299
     },
     "license": "MIT License",
-    "forks": 2319,
+    "forks": 2321,
     "primaryLanguage": "JavaScript",
-    "pushedAt": "2025-01-05T13:57:07.000Z",
+    "pushedAt": "2025-01-15T11:46:39.000Z",
     "archived": false,
     "npmPackage": "dayjs",
     "npmLastMonthDownloads": 91999829,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-04-10T09:26:44.000Z",
-    "updatedAt": "2025-01-15T04:27:37.000Z"
+    "updatedAt": "2025-01-16T07:15:44.000Z"
   },
   {
     "id": "ibitcy/eo-locale",
