@@ -10475,7 +10475,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2021-07-22T05:32:15.000Z",
-    "updatedAt": "2025-01-15T07:46:07.000Z"
+    "updatedAt": "2025-01-16T10:37:15.000Z"
   },
   {
     "id": "Abstract-IDE/Abstract-cs",
@@ -23593,7 +23593,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-11-19T10:06:19.000Z",
-    "updatedAt": "2025-01-15T07:46:02.000Z"
+    "updatedAt": "2025-01-16T10:40:29.000Z"
   },
   {
     "id": "mawkler/modicator.nvim",
@@ -26600,14 +26600,14 @@
     "license": "MIT License",
     "forks": 3,
     "primaryLanguage": "Lua",
-    "pushedAt": "2025-01-15T07:39:06.000Z",
+    "pushedAt": "2025-01-16T09:40:07.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-12-09T20:24:42.000Z",
-    "updatedAt": "2025-01-15T07:46:03.000Z"
+    "updatedAt": "2025-01-16T10:40:29.000Z"
   },
   {
     "id": "pianocomposer321/consolation.nvim",
@@ -30976,6 +30976,67 @@
     "goImportedBy": null,
     "createdAt": "2022-09-11T00:30:47.000Z",
     "updatedAt": "2025-01-16T00:32:36.000Z"
+  },
+  {
+    "id": "wurli/split.nvim",
+    "name": "wurli/split.nvim",
+    "description": "⚡️ A simple, powerful Neovim plugin for adding linebreaks ⚡️",
+    "topics": [
+      "neovim",
+      "neovim-lua",
+      "neovim-plugin",
+      "nvim",
+      "nvim-plugin"
+    ],
+    "owner": {
+      "name": "wurli",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/17475731?v=4"
+    },
+    "stars": 16,
+    "starsDetail": {
+      "total": 16
+    },
+    "license": "MIT License",
+    "forks": 1,
+    "primaryLanguage": "Lua",
+    "pushedAt": "2025-01-15T16:48:03.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2024-10-04T16:09:04.000Z",
+    "updatedAt": "2025-01-16T10:37:12.000Z"
+  },
+  {
+    "id": "wurli/visimatch.nvim",
+    "name": "wurli/visimatch.nvim",
+    "description": "A tiny Neovim plugin to highlight text matching the current selection in visual mode 💫",
+    "topics": [
+      "neovim",
+      "neovim-plugin",
+      "nvim",
+      "nvim-plugin"
+    ],
+    "owner": {
+      "name": "wurli",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/17475731?v=4"
+    },
+    "stars": 38,
+    "starsDetail": {
+      "total": 38
+    },
+    "license": null,
+    "forks": 1,
+    "primaryLanguage": "Lua",
+    "pushedAt": "2025-01-14T19:34:37.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2025-01-11T22:50:40.000Z",
+    "updatedAt": "2025-01-16T10:37:08.000Z"
   },
   {
     "id": "xeluxee/competitest.nvim",

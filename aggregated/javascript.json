@@ -10207,7 +10207,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-02-19T06:30:29.000Z",
-    "updatedAt": "2025-01-15T07:41:58.000Z"
+    "updatedAt": "2025-01-16T10:32:53.000Z"
   },
   {
     "id": "blueimp/JavaScript-MD5",
@@ -13520,7 +13520,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-08-02T21:07:04.000Z",
-    "updatedAt": "2025-01-15T07:48:44.000Z"
+    "updatedAt": "2025-01-16T10:40:05.000Z"
   },
   {
     "id": "FrDH/mmenu-js",
@@ -18310,7 +18310,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-04-23T13:02:33.000Z",
-    "updatedAt": "2025-01-15T07:41:38.000Z"
+    "updatedAt": "2025-01-16T10:32:34.000Z"
   },
   {
     "id": "xojs/xo",
@@ -22316,7 +22316,7 @@
       "name": "chakra-core",
       "avatarUrl": "https://avatars.githubusercontent.com/u/63031548?v=4"
     },
-    "stars": 9145,
+    "stars": 9146,
     "starsDetail": {
       "total": 9119,
       "week": 7,
@@ -22325,7 +22325,7 @@
       "updatedAt": 1729322520
     },
     "license": "MIT License",
-    "forks": 1197,
+    "forks": 1199,
     "primaryLanguage": "CSS",
     "pushedAt": "2024-08-12T08:15:35.000Z",
     "archived": false,
@@ -22334,7 +22334,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-01-05T19:05:31.000Z",
-    "updatedAt": "2025-01-15T07:42:56.000Z"
+    "updatedAt": "2025-01-16T10:33:52.000Z"
   },
   {
     "id": "clappr/clappr",
@@ -34633,7 +34633,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-11-05T14:30:37.000Z",
-    "updatedAt": "2025-01-15T07:41:45.000Z"
+    "updatedAt": "2025-01-16T10:32:41.000Z"
   },
   {
     "id": "waylaidwanderer/node-chatgpt-api",
@@ -45308,12 +45308,12 @@
       "name": "DopplerHQ",
       "avatarUrl": "https://avatars.githubusercontent.com/u/34022344?v=4"
     },
-    "stars": 72611,
+    "stars": 72629,
     "starsDetail": {
-      "total": 72611
+      "total": 72629
     },
     "license": null,
-    "forks": 8966,
+    "forks": 8967,
     "primaryLanguage": "",
     "pushedAt": "2024-07-29T14:21:23.000Z",
     "archived": true,
@@ -45322,7 +45322,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-11-28T09:48:17.000Z",
-    "updatedAt": "2025-01-15T07:43:06.000Z"
+    "updatedAt": "2025-01-16T10:34:02.000Z"
   },
   {
     "id": "EvandroLG/selecting",
@@ -45919,21 +45919,21 @@
       "name": "TanStack",
       "avatarUrl": "https://avatars.githubusercontent.com/u/72518640?v=4"
     },
-    "stars": 43359,
+    "stars": 43375,
     "starsDetail": {
-      "total": 43359
+      "total": 43375
     },
     "license": "MIT License",
-    "forks": 2980,
+    "forks": 2982,
     "primaryLanguage": "CSS",
-    "pushedAt": "2025-01-14T22:06:53.000Z",
+    "pushedAt": "2025-01-16T00:51:35.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-09-10T19:23:58.000Z",
-    "updatedAt": "2025-01-15T07:41:49.000Z"
+    "updatedAt": "2025-01-16T10:32:45.000Z"
   },
   {
     "id": "TheAlgorithms/JavaScript",

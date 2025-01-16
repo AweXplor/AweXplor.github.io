@@ -1537,7 +1537,7 @@
       "name": "postalserver",
       "avatarUrl": "https://avatars.githubusercontent.com/u/58169103?v=4"
     },
-    "stars": 15080,
+    "stars": 15083,
     "starsDetail": {
       "total": 15060,
       "week": 18,
@@ -1555,7 +1555,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-04-19T12:04:57.000Z",
-    "updatedAt": "2025-01-15T07:44:51.000Z"
+    "updatedAt": "2025-01-16T10:35:51.000Z"
   },
   {
     "id": "sct/overseerr",
@@ -3640,7 +3640,7 @@
       "name": "koel",
       "avatarUrl": "https://avatars.githubusercontent.com/u/20983373?v=4"
     },
-    "stars": 16168,
+    "stars": 16170,
     "starsDetail": {
       "total": 16147,
       "week": 20,
@@ -3658,7 +3658,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-12-06T12:13:19.000Z",
-    "updatedAt": "2025-01-15T07:48:58.000Z"
+    "updatedAt": "2025-01-16T10:40:20.000Z"
   },
   {
     "id": "IgnisDa/ryot",
@@ -18653,7 +18653,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2013-04-06T04:51:27.000Z",
-    "updatedAt": "2025-01-15T07:45:26.000Z"
+    "updatedAt": "2025-01-16T10:36:30.000Z"
   },
   {
     "id": "webtorrent/instant.io",
@@ -30088,12 +30088,12 @@
       "name": "huginn",
       "avatarUrl": "https://avatars.githubusercontent.com/u/23225142?v=4"
     },
-    "stars": 44324,
+    "stars": 44321,
     "starsDetail": {
-      "total": 44324
+      "total": 44321
     },
     "license": "MIT License",
-    "forks": 3825,
+    "forks": 3827,
     "primaryLanguage": "Makefile",
     "pushedAt": "2025-01-14T04:49:51.000Z",
     "archived": false,
@@ -30102,7 +30102,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2013-03-10T06:00:31.000Z",
-    "updatedAt": "2025-01-15T07:44:22.000Z"
+    "updatedAt": "2025-01-16T10:35:20.000Z"
   },
   {
     "id": "hyperupcall/awesome-mastodon",

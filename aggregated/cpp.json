@@ -4797,7 +4797,7 @@
       "updatedAt": 1736034992
     },
     "license": "GNU General Public License v3.0",
-    "forks": 2805,
+    "forks": 2804,
     "primaryLanguage": "Makefile",
     "pushedAt": "2025-01-12T10:11:10.000Z",
     "archived": false,
@@ -4806,7 +4806,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2012-04-16T03:12:14.000Z",
-    "updatedAt": "2025-01-15T07:39:56.000Z"
+    "updatedAt": "2025-01-16T10:30:22.000Z"
   },
   {
     "id": "danmar/cppcheck",
@@ -12164,7 +12164,7 @@
       "name": "flashlight",
       "avatarUrl": "https://avatars.githubusercontent.com/u/67613832?v=4"
     },
-    "stars": 5315,
+    "stars": 5313,
     "starsDetail": {
       "total": 5310,
       "week": 4,
@@ -12173,7 +12173,7 @@
       "updatedAt": 1736058248
     },
     "license": "MIT License",
-    "forks": 499,
+    "forks": 500,
     "primaryLanguage": "Shell",
     "pushedAt": "2024-12-20T23:11:29.000Z",
     "archived": false,
@@ -12182,7 +12182,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-12-11T18:28:47.000Z",
-    "updatedAt": "2025-01-15T07:42:47.000Z"
+    "updatedAt": "2025-01-16T10:33:43.000Z"
   },
   {
     "id": "jarikomppa/soloud",
@@ -14326,7 +14326,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2012-01-21T19:17:23.000Z",
-    "updatedAt": "2025-01-15T07:42:30.000Z"
+    "updatedAt": "2025-01-16T10:33:25.000Z"
   },
   {
     "id": "facebook/folly",
@@ -16881,7 +16881,7 @@
       "name": "ultrajson",
       "avatarUrl": "https://avatars.githubusercontent.com/u/61062879?v=4"
     },
-    "stars": 4360,
+    "stars": 4361,
     "starsDetail": {
       "total": 4353,
       "week": 3,
@@ -16899,7 +16899,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2011-02-27T20:00:51.000Z",
-    "updatedAt": "2025-01-15T07:40:12.000Z"
+    "updatedAt": "2025-01-16T10:30:45.000Z"
   },
   {
     "id": "vstakhov/libucl",
@@ -20180,12 +20180,12 @@
       "name": "EbookFoundation",
       "avatarUrl": "https://avatars.githubusercontent.com/u/14127308?v=4"
     },
-    "stars": 347636,
+    "stars": 347765,
     "starsDetail": {
-      "total": 347636
+      "total": 347765
     },
     "license": "Creative Commons Attribution 4.0 International",
-    "forks": 62568,
+    "forks": 62564,
     "primaryLanguage": "HTML",
     "pushedAt": "2025-01-12T22:28:31.000Z",
     "archived": false,
@@ -20194,7 +20194,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2013-10-11T06:50:37.000Z",
-    "updatedAt": "2025-01-15T07:43:05.000Z"
+    "updatedAt": "2025-01-16T10:34:02.000Z"
   },
   {
     "id": "FidoProject/Fido",
