@@ -19066,9 +19066,9 @@
       "name": "reflex-dev",
       "avatarUrl": "https://avatars.githubusercontent.com/u/104714959?v=4"
     },
-    "stars": 51,
+    "stars": 52,
     "starsDetail": {
-      "total": 51
+      "total": 52
     },
     "license": "Creative Commons Zero v1.0 Universal",
     "forks": 1,
@@ -19080,7 +19080,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-09-19T00:00:44.000Z",
-    "updatedAt": "2025-01-15T01:16:08.000Z"
+    "updatedAt": "2025-01-16T04:02:22.000Z"
   },
   {
     "id": "rickstaa/awesome-adsb",
