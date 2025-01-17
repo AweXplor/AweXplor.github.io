@@ -7652,7 +7652,7 @@
       "name": "Lightning-AI",
       "avatarUrl": "https://avatars.githubusercontent.com/u/58386951?v=4"
     },
-    "stars": 28799,
+    "stars": 28809,
     "starsDetail": {
       "total": 28739,
       "week": 56,
@@ -7661,7 +7661,7 @@
       "updatedAt": 1736034941
     },
     "license": "Apache License 2.0",
-    "forks": 3415,
+    "forks": 3416,
     "primaryLanguage": "Makefile",
     "pushedAt": "2025-01-09T12:21:35.000Z",
     "archived": false,
@@ -7670,7 +7670,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-03-31T00:45:57.000Z",
-    "updatedAt": "2025-01-16T13:44:14.000Z"
+    "updatedAt": "2025-01-17T16:15:59.000Z"
   },
   {
     "id": "PyMySQL/PyMySQL",
@@ -14169,12 +14169,12 @@
       "name": "httpie",
       "avatarUrl": "https://avatars.githubusercontent.com/u/24454777?v=4"
     },
-    "stars": 34426,
+    "stars": 34431,
     "starsDetail": {
-      "total": 34426
+      "total": 34431
     },
     "license": "BSD 3-Clause \"New\" or \"Revised\" License",
-    "forks": 3693,
+    "forks": 3694,
     "primaryLanguage": "Dockerfile",
     "pushedAt": "2024-12-17T17:30:35.000Z",
     "archived": false,
@@ -14183,7 +14183,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2012-02-25T12:39:13.000Z",
-    "updatedAt": "2025-01-16T13:42:42.000Z"
+    "updatedAt": "2025-01-17T16:14:45.000Z"
   },
   {
     "id": "ionelmc/python-manhole",
@@ -15283,12 +15283,12 @@
       "name": "ytdl-org",
       "avatarUrl": "https://avatars.githubusercontent.com/u/48381040?v=4"
     },
-    "stars": 133643,
+    "stars": 133663,
     "starsDetail": {
-      "total": 133643
+      "total": 133663
     },
     "license": "The Unlicense",
-    "forks": 10168,
+    "forks": 10171,
     "primaryLanguage": "Batchfile",
     "pushedAt": "2025-01-15T03:25:16.000Z",
     "archived": false,
@@ -15297,7 +15297,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2010-10-31T14:35:07.000Z",
-    "updatedAt": "2025-01-16T13:42:57.000Z"
+    "updatedAt": "2025-01-17T16:15:00.000Z"
   },
   {
     "id": "ziadoz/awesome-php",

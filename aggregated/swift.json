@@ -2569,7 +2569,7 @@
       "name": "ivnsch",
       "avatarUrl": "https://avatars.githubusercontent.com/u/1381744?v=4"
     },
-    "stars": 2539,
+    "stars": 2538,
     "starsDetail": {
       "total": 2536,
       "week": 2,
@@ -2587,7 +2587,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-05-10T14:22:37.000Z",
-    "updatedAt": "2025-01-16T13:46:00.000Z"
+    "updatedAt": "2025-01-17T16:18:01.000Z"
   },
   {
     "id": "jathu/UIImageColors",
@@ -9806,7 +9806,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-09-26T07:43:43.000Z",
-    "updatedAt": "2025-01-16T13:46:15.000Z"
+    "updatedAt": "2025-01-17T16:18:18.000Z"
   },
   {
     "id": "andreamazz/AMScrollingNavbar",
@@ -31940,12 +31940,12 @@
       "name": "shadowsocks",
       "avatarUrl": "https://avatars.githubusercontent.com/u/3006190?v=4"
     },
-    "stars": 32559,
+    "stars": 32564,
     "starsDetail": {
-      "total": 32559
+      "total": 32564
     },
     "license": "GNU General Public License v3.0",
-    "forks": 7936,
+    "forks": 7935,
     "primaryLanguage": "C",
     "pushedAt": "2024-10-29T12:19:30.000Z",
     "archived": false,
@@ -31954,7 +31954,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-06-10T11:49:00.000Z",
-    "updatedAt": "2025-01-16T13:43:01.000Z"
+    "updatedAt": "2025-01-17T16:15:05.000Z"
   },
   {
     "id": "shindyu/ApplyStyleKit",
