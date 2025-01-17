@@ -97,7 +97,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2014-04-08T20:25:02.000Z",
-    "updatedAt": "2025-01-16T07:16:00.000Z"
+    "updatedAt": "2025-01-17T09:49:29.000Z"
   },
   {
     "id": "molefrog/wouter",
@@ -205,7 +205,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2021-09-30T06:00:50.000Z",
-    "updatedAt": "2025-01-16T07:15:43.000Z"
+    "updatedAt": "2025-01-17T09:49:13.000Z"
   },
   {
     "id": "Glench/fuzzyset.js",
@@ -280,7 +280,7 @@
       "name": "selfrefactor",
       "avatarUrl": "https://avatars.githubusercontent.com/u/2149294?v=4"
     },
-    "stars": 1670,
+    "stars": 1671,
     "starsDetail": {
       "total": 1670,
       "week": 2,
@@ -290,15 +290,15 @@
     },
     "license": "MIT License",
     "forks": 89,
-    "primaryLanguage": "Shell",
-    "pushedAt": "2025-01-14T12:00:24.000Z",
+    "primaryLanguage": "HTML",
+    "pushedAt": "2025-01-16T16:27:41.000Z",
     "archived": false,
     "npmPackage": "rambda",
     "npmLastMonthDownloads": 5933557,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-01-15T13:50:45.000Z",
-    "updatedAt": "2025-01-16T07:15:43.000Z"
+    "updatedAt": "2025-01-17T09:49:13.000Z"
   },
   {
     "id": "bvaughn/js-search",
@@ -446,7 +446,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-06-21T08:16:56.000Z",
-    "updatedAt": "2025-01-16T07:16:06.000Z"
+    "updatedAt": "2025-01-17T09:49:35.000Z"
   },
   {
     "id": "olivernn/lunr.js",
@@ -508,7 +508,7 @@
       "updatedAt": 1729329215
     },
     "license": "MIT License",
-    "forks": 223,
+    "forks": 224,
     "primaryLanguage": "JavaScript",
     "pushedAt": "2024-10-01T02:42:53.000Z",
     "archived": false,
@@ -517,7 +517,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-11-23T03:03:25.000Z",
-    "updatedAt": "2025-01-16T07:13:44.000Z"
+    "updatedAt": "2025-01-17T09:47:24.000Z"
   },
   {
     "id": "jashkenas/underscore",
@@ -743,7 +743,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-09-13T18:27:25.000Z",
-    "updatedAt": "2025-01-16T07:16:12.000Z"
+    "updatedAt": "2025-01-17T09:49:40.000Z"
   },
   {
     "id": "angus-c/just",
@@ -1062,7 +1062,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2011-05-07T02:35:16.000Z",
-    "updatedAt": "2025-01-16T07:14:27.000Z"
+    "updatedAt": "2025-01-17T09:48:03.000Z"
   },
   {
     "id": "AlloyTeam/AlloyFinger",
@@ -1423,7 +1423,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-06-23T02:06:23.000Z",
-    "updatedAt": "2025-01-16T07:15:50.000Z"
+    "updatedAt": "2025-01-17T09:49:19.000Z"
   },
   {
     "id": "lingui/js-lingui",
@@ -1870,9 +1870,9 @@
       "name": "date-fns",
       "avatarUrl": "https://avatars.githubusercontent.com/u/14921202?v=4"
     },
-    "stars": 35163,
+    "stars": 35169,
     "starsDetail": {
-      "total": 35163
+      "total": 35169
     },
     "license": "MIT License",
     "forks": 1803,
@@ -1884,7 +1884,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2014-10-06T10:24:22.000Z",
-    "updatedAt": "2025-01-16T07:15:46.000Z"
+    "updatedAt": "2025-01-17T09:49:16.000Z"
   },
   {
     "id": "elbywan/hyperactiv",
@@ -2050,12 +2050,12 @@
       "name": "iamkun",
       "avatarUrl": "https://avatars.githubusercontent.com/u/17680888?v=4"
     },
-    "stars": 47299,
+    "stars": 47305,
     "starsDetail": {
-      "total": 47299
+      "total": 47305
     },
     "license": "MIT License",
-    "forks": 2321,
+    "forks": 2322,
     "primaryLanguage": "JavaScript",
     "pushedAt": "2025-01-15T11:46:39.000Z",
     "archived": false,
@@ -2064,7 +2064,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-04-10T09:26:44.000Z",
-    "updatedAt": "2025-01-16T07:15:44.000Z"
+    "updatedAt": "2025-01-17T09:49:14.000Z"
   },
   {
     "id": "ibitcy/eo-locale",
@@ -2429,7 +2429,7 @@
     },
     "stars": 49427,
     "starsDetail": {
-      "total": 49399
+      "total": 49427
     },
     "license": "MIT License",
     "forks": 1553,
@@ -2591,7 +2591,7 @@
     },
     "stars": 213,
     "starsDetail": {
-      "total": 212
+      "total": 213
     },
     "license": "Apache License 2.0",
     "forks": 18,

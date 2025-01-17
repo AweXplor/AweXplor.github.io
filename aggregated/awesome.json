@@ -516,7 +516,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2014-11-23T04:36:38.000Z",
-    "updatedAt": "2025-01-16T10:33:17.000Z"
+    "updatedAt": "2025-01-17T12:59:15.000Z"
   },
   {
     "id": "cosmos/awesome-cosmos",
@@ -1535,7 +1535,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2014-09-19T05:11:57.000Z",
-    "updatedAt": "2025-01-16T07:17:34.000Z"
+    "updatedAt": "2025-01-17T09:50:55.000Z"
   },
   {
     "id": "zingchart/awesome-charting",
@@ -1591,7 +1591,7 @@
       "name": "analysis-tools-dev",
       "avatarUrl": "https://avatars.githubusercontent.com/u/62759712?v=4"
     },
-    "stars": 13509,
+    "stars": 13513,
     "starsDetail": {
       "total": 13470,
       "week": 16,
@@ -1600,7 +1600,7 @@
       "updatedAt": 1736034772
     },
     "license": "MIT License",
-    "forks": 1367,
+    "forks": 1368,
     "primaryLanguage": "Makefile",
     "pushedAt": "2025-01-10T13:34:22.000Z",
     "archived": false,
@@ -1609,7 +1609,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-12-18T16:58:30.000Z",
-    "updatedAt": "2025-01-16T10:30:15.000Z"
+    "updatedAt": "2025-01-17T12:56:37.000Z"
   },
   {
     "id": "kdeldycke/awesome-engineering-team-management",
@@ -3746,7 +3746,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2013-12-19T23:18:59.000Z",
-    "updatedAt": "2025-01-16T07:17:32.000Z"
+    "updatedAt": "2025-01-17T09:50:53.000Z"
   },
   {
     "id": "automata/awesome-jamstack",
@@ -6951,7 +6951,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2014-06-21T09:56:48.000Z",
-    "updatedAt": "2025-01-16T07:17:34.000Z"
+    "updatedAt": "2025-01-17T09:50:55.000Z"
   },
   {
     "id": "phanan/htaccess",
@@ -7118,7 +7118,7 @@
       "name": "davidsonfellipe",
       "avatarUrl": "https://avatars.githubusercontent.com/u/381179?v=4"
     },
-    "stars": 8420,
+    "stars": 8421,
     "starsDetail": {
       "total": 8409,
       "week": 6,
@@ -7136,7 +7136,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2014-10-14T15:18:35.000Z",
-    "updatedAt": "2025-01-16T07:17:34.000Z"
+    "updatedAt": "2025-01-17T09:50:55.000Z"
   },
   {
     "id": "stackshareio/awesome-stacks",
@@ -7779,7 +7779,7 @@
       "name": "inputsh",
       "avatarUrl": "https://avatars.githubusercontent.com/u/4890548?v=4"
     },
-    "stars": 3523,
+    "stars": 3524,
     "starsDetail": {
       "total": 3516,
       "week": 9,
@@ -7797,7 +7797,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-05-31T01:56:17.000Z",
-    "updatedAt": "2025-01-16T10:34:01.000Z"
+    "updatedAt": "2025-01-17T12:59:59.000Z"
   },
   {
     "id": "inputsh/awesome-linux",
@@ -8120,7 +8120,7 @@
       "updatedAt": 1736031509
     },
     "license": "Creative Commons Zero v1.0 Universal",
-    "forks": 233,
+    "forks": 232,
     "primaryLanguage": "",
     "pushedAt": "2024-10-29T10:39:18.000Z",
     "archived": false,
@@ -8129,7 +8129,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-01-02T06:30:58.000Z",
-    "updatedAt": "2025-01-16T07:17:35.000Z"
+    "updatedAt": "2025-01-17T09:50:56.000Z"
   },
   {
     "id": "diegocard/awesome-html5",
@@ -13605,7 +13605,7 @@
       "name": "sindresorhus",
       "avatarUrl": "https://avatars.githubusercontent.com/u/170270?v=4"
     },
-    "stars": 4520,
+    "stars": 4522,
     "starsDetail": {
       "total": 4479,
       "week": 4,
@@ -13623,7 +13623,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-01-13T19:20:20.000Z",
-    "updatedAt": "2025-01-16T07:14:49.000Z"
+    "updatedAt": "2025-01-17T09:48:24.000Z"
   },
   {
     "id": "svaksha/Julia.jl",
@@ -13860,7 +13860,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2014-06-20T15:42:59.000Z",
-    "updatedAt": "2025-01-16T07:13:07.000Z"
+    "updatedAt": "2025-01-17T09:46:50.000Z"
   },
   {
     "id": "bcoe/awesome-cross-platform-nodejs",
@@ -13892,7 +13892,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-12-20T18:25:05.000Z",
-    "updatedAt": "2025-01-16T07:14:50.000Z"
+    "updatedAt": "2025-01-17T09:48:25.000Z"
   },
   {
     "id": "diessica/awesome-sketch",
@@ -14202,7 +14202,7 @@
     },
     "stars": 278,
     "starsDetail": {
-      "total": 277
+      "total": 278
     },
     "license": "Creative Commons Zero v1.0 Universal",
     "forks": 50,
@@ -14442,12 +14442,12 @@
       "name": "DopplerHQ",
       "avatarUrl": "https://avatars.githubusercontent.com/u/34022344?v=4"
     },
-    "stars": 72629,
+    "stars": 72658,
     "starsDetail": {
-      "total": 72629
+      "total": 72658
     },
     "license": null,
-    "forks": 8967,
+    "forks": 8968,
     "primaryLanguage": "",
     "pushedAt": "2024-07-29T14:21:23.000Z",
     "archived": true,
@@ -14456,7 +14456,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-11-28T09:48:17.000Z",
-    "updatedAt": "2025-01-16T10:34:02.000Z"
+    "updatedAt": "2025-01-17T13:00:00.000Z"
   },
   {
     "id": "Dvergar/awesome-haxe-gamedev",
@@ -14511,12 +14511,12 @@
       "name": "EbookFoundation",
       "avatarUrl": "https://avatars.githubusercontent.com/u/14127308?v=4"
     },
-    "stars": 347765,
+    "stars": 347850,
     "starsDetail": {
-      "total": 347765
+      "total": 347850
     },
     "license": "Creative Commons Attribution 4.0 International",
-    "forks": 62564,
+    "forks": 62572,
     "primaryLanguage": "HTML",
     "pushedAt": "2025-01-12T22:28:31.000Z",
     "archived": false,
@@ -14525,7 +14525,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2013-10-11T06:50:37.000Z",
-    "updatedAt": "2025-01-16T10:34:02.000Z"
+    "updatedAt": "2025-01-17T13:00:00.000Z"
   },
   {
     "id": "FonduAI/awesome-prompt-injection",
@@ -14541,7 +14541,7 @@
     },
     "stars": 209,
     "starsDetail": {
-      "total": 207
+      "total": 209
     },
     "license": "Creative Commons Zero v1.0 Universal",
     "forks": 33,
@@ -14842,7 +14842,7 @@
     },
     "stars": 347,
     "starsDetail": {
-      "total": 346
+      "total": 347
     },
     "license": "Creative Commons Zero v1.0 Universal",
     "forks": 36,
@@ -14873,7 +14873,7 @@
     },
     "stars": 70781,
     "starsDetail": {
-      "total": 70744
+      "total": 70781
     },
     "license": null,
     "forks": 7075,
@@ -15237,7 +15237,7 @@
     },
     "stars": 366,
     "starsDetail": {
-      "total": 365
+      "total": 366
     },
     "license": "Creative Commons Zero v1.0 Universal",
     "forks": 25,
@@ -15669,7 +15669,7 @@
     },
     "stars": 61692,
     "starsDetail": {
-      "total": 61674
+      "total": 61692
     },
     "license": "MIT License",
     "forks": 10000,
@@ -15734,7 +15734,7 @@
     },
     "stars": 386,
     "starsDetail": {
-      "total": 385
+      "total": 386
     },
     "license": "MIT License",
     "forks": 20,
@@ -15822,7 +15822,7 @@
     },
     "stars": 471,
     "starsDetail": {
-      "total": 470
+      "total": 471
     },
     "license": "Creative Commons Zero v1.0 Universal",
     "forks": 26,
@@ -16204,7 +16204,7 @@
     },
     "stars": 477,
     "starsDetail": {
-      "total": 476
+      "total": 477
     },
     "license": "Creative Commons Zero v1.0 Universal",
     "forks": 21,
@@ -16506,7 +16506,7 @@
     },
     "stars": 43014,
     "starsDetail": {
-      "total": 43009
+      "total": 43014
     },
     "license": null,
     "forks": 5095,
@@ -16698,12 +16698,12 @@
       "name": "enaqx",
       "avatarUrl": "https://avatars.githubusercontent.com/u/182219?v=4"
     },
-    "stars": 66387,
+    "stars": 66403,
     "starsDetail": {
-      "total": 66387
+      "total": 66403
     },
     "license": null,
-    "forks": 7249,
+    "forks": 7248,
     "primaryLanguage": "",
     "pushedAt": "2024-12-06T20:56:37.000Z",
     "archived": false,
@@ -16712,7 +16712,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2014-08-06T05:31:44.000Z",
-    "updatedAt": "2025-01-16T07:17:33.000Z"
+    "updatedAt": "2025-01-17T09:50:55.000Z"
   },
   {
     "id": "eozer/awesome-snmp",
@@ -17084,7 +17084,7 @@
     },
     "stars": 130,
     "starsDetail": {
-      "total": 129
+      "total": 130
     },
     "license": "Creative Commons Zero v1.0 Universal",
     "forks": 24,
@@ -17175,7 +17175,7 @@
     },
     "stars": 312,
     "starsDetail": {
-      "total": 311
+      "total": 312
     },
     "license": "Creative Commons Zero v1.0 Universal",
     "forks": 16,
@@ -17415,7 +17415,7 @@
     },
     "stars": 464,
     "starsDetail": {
-      "total": 459
+      "total": 464
     },
     "license": "Creative Commons Zero v1.0 Universal",
     "forks": 34,
@@ -17448,7 +17448,7 @@
     },
     "stars": 413,
     "starsDetail": {
-      "total": 410
+      "total": 413
     },
     "license": "Creative Commons Zero v1.0 Universal",
     "forks": 63,
@@ -17623,7 +17623,7 @@
     },
     "stars": 34820,
     "starsDetail": {
-      "total": 34821
+      "total": 34820
     },
     "license": null,
     "forks": 3996,
@@ -17816,7 +17816,7 @@
     },
     "stars": 32282,
     "starsDetail": {
-      "total": 32281
+      "total": 32282
     },
     "license": null,
     "forks": 1674,
@@ -17908,7 +17908,7 @@
     },
     "stars": 385,
     "starsDetail": {
-      "total": 383
+      "total": 385
     },
     "license": "Creative Commons Zero v1.0 Universal",
     "forks": 28,
@@ -17937,7 +17937,7 @@
     },
     "stars": 426,
     "starsDetail": {
-      "total": 425
+      "total": 426
     },
     "license": "Creative Commons Zero v1.0 Universal",
     "forks": 25,
@@ -18039,7 +18039,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-03-30T10:46:08.000Z",
-    "updatedAt": "2025-01-16T07:10:25.000Z"
+    "updatedAt": "2025-01-17T09:44:19.000Z"
   },
   {
     "id": "lyqht/awesome-supabase",
@@ -18601,7 +18601,7 @@
     },
     "stars": 174298,
     "starsDetail": {
-      "total": 174179
+      "total": 174298
     },
     "license": "MIT License",
     "forks": 22065,
@@ -18679,7 +18679,7 @@
     },
     "stars": 90107,
     "starsDetail": {
-      "total": 90079
+      "total": 90107
     },
     "license": null,
     "forks": 5815,
@@ -18775,7 +18775,7 @@
     },
     "stars": 83,
     "starsDetail": {
-      "total": 82
+      "total": 83
     },
     "license": "Creative Commons Zero v1.0 Universal",
     "forks": 4,
@@ -18865,7 +18865,7 @@
     },
     "stars": 58529,
     "starsDetail": {
-      "total": 58501
+      "total": 58529
     },
     "license": null,
     "forks": 8173,
@@ -19080,7 +19080,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-09-19T00:00:44.000Z",
-    "updatedAt": "2025-01-16T04:02:22.000Z"
+    "updatedAt": "2025-01-17T09:39:15.000Z"
   },
   {
     "id": "rickstaa/awesome-adsb",
@@ -19131,7 +19131,7 @@
     },
     "stars": 497,
     "starsDetail": {
-      "total": 496
+      "total": 497
     },
     "license": "Creative Commons Zero v1.0 Universal",
     "forks": 35,
@@ -19159,7 +19159,7 @@
     },
     "stars": 91771,
     "starsDetail": {
-      "total": 91757
+      "total": 91771
     },
     "license": null,
     "forks": 9864,
@@ -19267,7 +19267,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2014-12-05T10:17:38.000Z",
-    "updatedAt": "2025-01-16T07:17:33.000Z"
+    "updatedAt": "2025-01-17T09:50:54.000Z"
   },
   {
     "id": "sadcitizen/awesome-marionette",
@@ -19727,7 +19727,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-05-03T11:56:58.000Z",
-    "updatedAt": "2025-01-16T07:13:22.000Z"
+    "updatedAt": "2025-01-17T09:47:03.000Z"
   },
   {
     "id": "slevithan/awesome-regex",
@@ -19746,7 +19746,7 @@
     },
     "stars": 265,
     "starsDetail": {
-      "total": 264
+      "total": 265
     },
     "license": "Other",
     "forks": 8,
@@ -19954,7 +19954,7 @@
     },
     "stars": 129,
     "starsDetail": {
-      "total": 128
+      "total": 129
     },
     "license": null,
     "forks": 2,
@@ -20093,7 +20093,7 @@
     },
     "stars": 382,
     "starsDetail": {
-      "total": 381
+      "total": 382
     },
     "license": "Creative Commons Zero v1.0 Universal",
     "forks": 29,
@@ -20162,7 +20162,7 @@
     },
     "stars": 49145,
     "starsDetail": {
-      "total": 49127
+      "total": 49145
     },
     "license": "MIT License",
     "forks": 5278,
@@ -20259,7 +20259,7 @@
     },
     "stars": 178,
     "starsDetail": {
-      "total": 177
+      "total": 178
     },
     "license": "Creative Commons Attribution Share Alike 4.0 International",
     "forks": 12,
@@ -20409,7 +20409,7 @@
     },
     "stars": 494,
     "starsDetail": {
-      "total": 493
+      "total": 494
     },
     "license": "Other",
     "forks": 45,
@@ -20453,7 +20453,7 @@
     },
     "stars": 31004,
     "starsDetail": {
-      "total": 30997
+      "total": 31004
     },
     "license": "Apache License 2.0",
     "forks": 3016,
@@ -20579,7 +20579,7 @@
     },
     "stars": 106,
     "starsDetail": {
-      "total": 105
+      "total": 106
     },
     "license": "Creative Commons Zero v1.0 Universal",
     "forks": 11,
@@ -20633,7 +20633,7 @@
     },
     "stars": 51253,
     "starsDetail": {
-      "total": 51242
+      "total": 51253
     },
     "license": "MIT License",
     "forks": 10224,
@@ -20788,7 +20788,7 @@
     },
     "stars": 364,
     "starsDetail": {
-      "total": 363
+      "total": 364
     },
     "license": "Creative Commons Attribution Share Alike 4.0 International",
     "forks": 32,

@@ -1346,7 +1346,7 @@
     "goPackage": "",
     "goImportedBy": 0,
     "createdAt": "2015-05-06T13:25:25.000Z",
-    "updatedAt": "2025-01-16T07:14:11.000Z"
+    "updatedAt": "2025-01-17T09:47:49.000Z"
   },
   {
     "id": "ff4j/ff4j",
@@ -2906,7 +2906,7 @@
       "name": "facebook",
       "avatarUrl": "https://avatars.githubusercontent.com/u/69631?v=4"
     },
-    "stars": 3663,
+    "stars": 3664,
     "starsDetail": {
       "total": 3649,
       "week": 8,
@@ -2917,14 +2917,14 @@
     "license": "Apache License 2.0",
     "forks": 236,
     "primaryLanguage": "Roff",
-    "pushedAt": "2025-01-16T03:13:36.000Z",
+    "pushedAt": "2025-01-17T12:38:43.000Z",
     "archived": false,
     "npmPackage": "",
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2022-01-21T20:04:00.000Z",
-    "updatedAt": "2025-01-16T07:20:23.000Z"
+    "updatedAt": "2025-01-17T13:07:52.000Z"
   },
   {
     "id": "shyiko/jabba",
@@ -6457,7 +6457,7 @@
       "name": "BayesWitnesses",
       "avatarUrl": "https://avatars.githubusercontent.com/u/46638712?v=4"
     },
-    "stars": 2839,
+    "stars": 2840,
     "starsDetail": {
       "total": 2833,
       "week": 1,
@@ -6475,7 +6475,7 @@
     "goPackage": "",
     "goImportedBy": 0,
     "createdAt": "2019-01-13T02:32:55.000Z",
-    "updatedAt": "2025-01-16T07:16:17.000Z"
+    "updatedAt": "2025-01-17T09:49:44.000Z"
   },
   {
     "id": "HotswapProjects/HotswapAgent",
@@ -8715,7 +8715,7 @@
     },
     "stars": 134,
     "starsDetail": {
-      "total": 133
+      "total": 134
     },
     "license": "Apache License 2.0",
     "forks": 23,
@@ -9021,7 +9021,7 @@
     },
     "stars": 381,
     "starsDetail": {
-      "total": 380
+      "total": 381
     },
     "license": "Apache License 2.0",
     "forks": 26,
@@ -9437,7 +9437,7 @@
     },
     "stars": 47962,
     "starsDetail": {
-      "total": 47964
+      "total": 47962
     },
     "license": "Apache License 2.0",
     "forks": 7603,
@@ -9773,7 +9773,7 @@
     },
     "stars": 35889,
     "starsDetail": {
-      "total": 35885
+      "total": 35889
     },
     "license": "Apache License 2.0",
     "forks": 7532,
@@ -9835,7 +9835,7 @@
     },
     "stars": 40658,
     "starsDetail": {
-      "total": 40656
+      "total": 40658
     },
     "license": "Apache License 2.0",
     "forks": 26458,
@@ -10185,7 +10185,7 @@
     },
     "stars": 415,
     "starsDetail": {
-      "total": 414
+      "total": 415
     },
     "license": "Apache License 2.0",
     "forks": 88,
@@ -10219,7 +10219,7 @@
     },
     "stars": 59,
     "starsDetail": {
-      "total": 58
+      "total": 59
     },
     "license": "Apache License 2.0",
     "forks": 8,
@@ -10542,7 +10542,7 @@
     },
     "stars": 39634,
     "starsDetail": {
-      "total": 39630
+      "total": 39634
     },
     "license": "Other",
     "forks": 4242,
@@ -10570,7 +10570,7 @@
     },
     "stars": 50413,
     "starsDetail": {
-      "total": 50411
+      "total": 50413
     },
     "license": "Apache License 2.0",
     "forks": 10941,
@@ -10721,7 +10721,7 @@
     },
     "stars": 90515,
     "starsDetail": {
-      "total": 90503
+      "total": 90515
     },
     "license": "Other",
     "forks": 26755,
@@ -11867,7 +11867,7 @@
     },
     "stars": 408,
     "starsDetail": {
-      "total": 407
+      "total": 408
     },
     "license": "Apache License 2.0",
     "forks": 35,
@@ -12154,7 +12154,7 @@
     },
     "stars": 189,
     "starsDetail": {
-      "total": 188
+      "total": 189
     },
     "license": "Other",
     "forks": 41,
@@ -12217,7 +12217,7 @@
     },
     "stars": 77,
     "starsDetail": {
-      "total": 76
+      "total": 77
     },
     "license": "MIT License",
     "forks": 20,
@@ -12948,7 +12948,7 @@
     },
     "stars": 307,
     "starsDetail": {
-      "total": 306
+      "total": 307
     },
     "license": "MIT License",
     "forks": 69,
@@ -13070,7 +13070,7 @@
     },
     "stars": 32992,
     "starsDetail": {
-      "total": 32988
+      "total": 32992
     },
     "license": "Apache License 2.0",
     "forks": 9370,

@@ -1076,7 +1076,7 @@
       "name": "jnv",
       "avatarUrl": "https://avatars.githubusercontent.com/u/616767?v=4"
     },
-    "stars": 10116,
+    "stars": 10119,
     "starsDetail": {
       "total": 10087,
       "week": 13,
@@ -1085,7 +1085,7 @@
       "updatedAt": 1736031501
     },
     "license": "Creative Commons Zero v1.0 Universal",
-    "forks": 708,
+    "forks": 709,
     "primaryLanguage": "",
     "pushedAt": "2024-09-30T06:08:51.000Z",
     "archived": false,
@@ -1094,7 +1094,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2013-11-14T22:25:24.000Z",
-    "updatedAt": "2025-01-16T07:17:31.000Z"
+    "updatedAt": "2025-01-17T09:50:52.000Z"
   },
   {
     "id": "Accenture/reactive-interaction-gateway",
@@ -2253,7 +2253,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2022-07-18T11:14:03.000Z",
-    "updatedAt": "2025-01-16T07:18:03.000Z"
+    "updatedAt": "2025-01-17T09:51:22.000Z"
   },
   {
     "id": "rrrene/credo",
@@ -3394,7 +3394,7 @@
       "name": "BayesWitnesses",
       "avatarUrl": "https://avatars.githubusercontent.com/u/46638712?v=4"
     },
-    "stars": 2839,
+    "stars": 2840,
     "starsDetail": {
       "total": 2833,
       "week": 1,
@@ -3412,7 +3412,7 @@
     "goPackage": "",
     "goImportedBy": 0,
     "createdAt": "2019-01-13T02:32:55.000Z",
-    "updatedAt": "2025-01-16T07:16:17.000Z"
+    "updatedAt": "2025-01-17T09:49:44.000Z"
   },
   {
     "id": "aws-beam/aws-elixir",
@@ -5232,7 +5232,7 @@
     },
     "stars": 245,
     "starsDetail": {
-      "total": 244
+      "total": 245
     },
     "license": "MIT License",
     "forks": 29,
@@ -6786,7 +6786,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-12-08T20:42:42.000Z",
-    "updatedAt": "2025-01-16T07:12:24.000Z"
+    "updatedAt": "2025-01-17T09:46:10.000Z"
   },
   {
     "id": "JohnJocoo/weighted_random",
@@ -8478,9 +8478,9 @@
       "name": "Valian",
       "avatarUrl": "https://avatars.githubusercontent.com/u/3935986?v=4"
     },
-    "stars": 276,
+    "stars": 277,
     "starsDetail": {
-      "total": 276
+      "total": 277
     },
     "license": "MIT License",
     "forks": 17,
@@ -8492,7 +8492,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-05-07T14:47:56.000Z",
-    "updatedAt": "2025-01-16T07:10:24.000Z"
+    "updatedAt": "2025-01-17T09:44:18.000Z"
   },
   {
     "id": "WTTJ/algoliax",
@@ -10811,7 +10811,7 @@
     },
     "stars": 78,
     "starsDetail": {
-      "total": 77
+      "total": 78
     },
     "license": "BSD 3-Clause \"New\" or \"Revised\" License",
     "forks": 24,
@@ -11005,14 +11005,14 @@
     "license": "Other",
     "forks": 0,
     "primaryLanguage": "Makefile",
-    "pushedAt": "2025-01-15T22:18:56.000Z",
+    "pushedAt": "2025-01-16T18:01:17.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-05-25T01:44:18.000Z",
-    "updatedAt": "2025-01-16T10:37:59.000Z"
+    "updatedAt": "2025-01-17T13:12:44.000Z"
   },
   {
     "id": "bayandin/awesome-awesomeness",
@@ -11023,12 +11023,12 @@
       "name": "bayandin",
       "avatarUrl": "https://avatars.githubusercontent.com/u/864213?v=4"
     },
-    "stars": 32269,
+    "stars": 32272,
     "starsDetail": {
-      "total": 32269
+      "total": 32272
     },
     "license": null,
-    "forks": 3568,
+    "forks": 3569,
     "primaryLanguage": "Ruby",
     "pushedAt": "2024-06-02T22:46:41.000Z",
     "archived": false,
@@ -11037,7 +11037,7 @@
     "goPackage": "",
     "goImportedBy": 0,
     "createdAt": "2014-07-08T05:44:19.000Z",
-    "updatedAt": "2025-01-16T07:17:31.000Z"
+    "updatedAt": "2025-01-17T09:50:53.000Z"
   },
   {
     "id": "bbense/elixgrep",
@@ -13846,7 +13846,7 @@
     },
     "stars": 226,
     "starsDetail": {
-      "total": 225
+      "total": 226
     },
     "license": "MIT License",
     "forks": 37,
@@ -14029,7 +14029,7 @@
     },
     "stars": 417,
     "starsDetail": {
-      "total": 416
+      "total": 417
     },
     "license": null,
     "forks": 16,
@@ -14958,7 +14958,7 @@
     },
     "stars": 389,
     "starsDetail": {
-      "total": 388
+      "total": 389
     },
     "license": "GNU General Public License v2.0",
     "forks": 39,
@@ -15759,7 +15759,7 @@
     },
     "stars": 467,
     "starsDetail": {
-      "total": 466
+      "total": 467
     },
     "license": "Apache License 2.0",
     "forks": 103,
@@ -16906,7 +16906,7 @@
     },
     "stars": 267,
     "starsDetail": {
-      "total": 266
+      "total": 267
     },
     "license": null,
     "forks": 8,
@@ -17949,7 +17949,7 @@
     },
     "stars": 455,
     "starsDetail": {
-      "total": 454
+      "total": 455
     },
     "license": "Other",
     "forks": 51,
@@ -18712,7 +18712,7 @@
     },
     "stars": 347,
     "starsDetail": {
-      "total": 346
+      "total": 347
     },
     "license": "BSD 2-Clause \"Simplified\" License",
     "forks": 17,
@@ -21906,7 +21906,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2021-05-20T09:20:06.000Z",
-    "updatedAt": "2025-01-16T07:25:06.000Z"
+    "updatedAt": "2025-01-17T13:12:43.000Z"
   },
   {
     "id": "liveforeverx/apix",
@@ -24339,7 +24339,7 @@
     },
     "stars": 406,
     "starsDetail": {
-      "total": 405
+      "total": 406
     },
     "license": "Other",
     "forks": 75,
@@ -26758,7 +26758,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2022-12-27T10:39:42.000Z",
-    "updatedAt": "2025-01-16T07:25:06.000Z"
+    "updatedAt": "2025-01-17T13:12:43.000Z"
   },
   {
     "id": "polleverywhere/chaperon",
@@ -27614,7 +27614,7 @@
     },
     "stars": 286,
     "starsDetail": {
-      "total": 285
+      "total": 286
     },
     "license": "MIT License",
     "forks": 39,
@@ -28151,7 +28151,9 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/10563183?v=4"
     },
     "stars": 58,
-    "starsDetail": null,
+    "starsDetail": {
+      "total": 58
+    },
     "license": "MIT License",
     "forks": 13,
     "primaryLanguage": "Elixir",
@@ -31395,7 +31397,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2014-02-15T07:17:40.000Z",
-    "updatedAt": "2025-01-16T10:38:21.000Z"
+    "updatedAt": "2025-01-17T13:04:16.000Z"
   },
   {
     "id": "synrc/kvs",
@@ -33246,7 +33248,7 @@
     },
     "stars": 481,
     "starsDetail": {
-      "total": 480
+      "total": 481
     },
     "license": "BSD 3-Clause \"New\" or \"Revised\" License",
     "forks": 31,
