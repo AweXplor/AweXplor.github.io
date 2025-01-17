@@ -14652,7 +14652,7 @@
       "name": "cloudwego",
       "avatarUrl": "https://avatars.githubusercontent.com/u/79236453?v=4"
     },
-    "stars": 523,
+    "stars": 526,
     "starsDetail": {
       "total": 513,
       "week": 1,
@@ -14661,16 +14661,16 @@
       "updatedAt": 1736046919
     },
     "license": "Apache License 2.0",
-    "forks": 36,
+    "forks": 37,
     "primaryLanguage": "RenderScript",
-    "pushedAt": "2025-01-16T18:38:10.000Z",
+    "pushedAt": "2025-01-17T11:04:04.000Z",
     "archived": false,
     "npmPackage": "",
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2023-07-27T06:17:26.000Z",
-    "updatedAt": "2025-01-16T19:52:04.000Z"
+    "updatedAt": "2025-01-17T22:23:44.000Z"
   },
   {
     "id": "ilai-deutel/kibi",
