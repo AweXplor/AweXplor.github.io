@@ -480,7 +480,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2011-06-23T20:53:57.000Z",
-    "updatedAt": "2025-01-16T23:10:15.000Z"
+    "updatedAt": "2025-01-18T01:39:47.000Z"
   },
   {
     "id": "ianstormtaylor/superstruct",
@@ -528,7 +528,7 @@
       "name": "jashkenas",
       "avatarUrl": "https://avatars.githubusercontent.com/u/4732?v=4"
     },
-    "stars": 27365,
+    "stars": 27364,
     "starsDetail": {
       "total": 27323,
       "week": 9,
@@ -546,7 +546,7 @@
     "goPackage": null,
     "goImportedBy": 0,
     "createdAt": "2009-10-25T18:31:06.000Z",
-    "updatedAt": "2025-01-16T23:08:34.000Z"
+    "updatedAt": "2025-01-18T01:38:16.000Z"
   },
   {
     "id": "preactjs/signals",
@@ -645,7 +645,7 @@
       "name": "vercel",
       "avatarUrl": "https://avatars.githubusercontent.com/u/14985020?v=4"
     },
-    "stars": 5194,
+    "stars": 5195,
     "starsDetail": {
       "total": 5137,
       "week": 7,
@@ -663,7 +663,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2012-03-08T02:10:13.000Z",
-    "updatedAt": "2025-01-16T22:54:04.000Z"
+    "updatedAt": "2025-01-18T01:25:11.000Z"
   },
   {
     "id": "fabian-hiller/valibot",
@@ -772,7 +772,7 @@
       "updatedAt": 1729322582
     },
     "license": "MIT License",
-    "forks": 207,
+    "forks": 208,
     "primaryLanguage": "TypeScript",
     "pushedAt": "2024-02-11T12:23:37.000Z",
     "archived": false,
@@ -781,7 +781,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-06-26T02:04:54.000Z",
-    "updatedAt": "2025-01-16T23:11:09.000Z"
+    "updatedAt": "2025-01-18T01:40:38.000Z"
   },
   {
     "id": "any86/any-touch",
@@ -1129,7 +1129,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-06-25T20:06:33.000Z",
-    "updatedAt": "2025-01-16T23:12:20.000Z"
+    "updatedAt": "2025-01-18T01:41:44.000Z"
   },
   {
     "id": "jorgebucaran/superfine",
@@ -1221,14 +1221,14 @@
     "license": "MIT License",
     "forks": 129,
     "primaryLanguage": "JavaScript",
-    "pushedAt": "2025-01-10T13:51:24.000Z",
+    "pushedAt": "2025-01-17T11:02:46.000Z",
     "archived": false,
     "npmPackage": "redom",
     "npmLastMonthDownloads": 9049,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-08-28T17:32:43.000Z",
-    "updatedAt": "2025-01-16T23:13:14.000Z"
+    "updatedAt": "2025-01-18T01:42:33.000Z"
   },
   {
     "id": "nanostores/nanostores",
@@ -1305,7 +1305,7 @@
       "name": "ai",
       "avatarUrl": "https://avatars.githubusercontent.com/u/19343?v=4"
     },
-    "stars": 24970,
+    "stars": 24976,
     "starsDetail": {
       "total": 24515,
       "week": 28,
@@ -1323,7 +1323,7 @@
     "goPackage": null,
     "goImportedBy": 0,
     "createdAt": "2017-08-05T05:24:35.000Z",
-    "updatedAt": "2025-01-16T23:08:39.000Z"
+    "updatedAt": "2025-01-18T01:38:20.000Z"
   },
   {
     "id": "developit/redaxios",
@@ -1386,7 +1386,7 @@
     "goPackage": null,
     "goImportedBy": 0,
     "createdAt": "2017-01-20T05:20:21.000Z",
-    "updatedAt": "2025-01-16T22:53:56.000Z"
+    "updatedAt": "2025-01-18T01:25:04.000Z"
   },
   {
     "id": "hustcc/timeago.js",
@@ -2460,21 +2460,21 @@
       "name": "preactjs",
       "avatarUrl": "https://avatars.githubusercontent.com/u/26872990?v=4"
     },
-    "stars": 37051,
+    "stars": 37053,
     "starsDetail": {
-      "total": 37051
+      "total": 37053
     },
     "license": "MIT License",
-    "forks": 1964,
+    "forks": 1965,
     "primaryLanguage": "TypeScript",
-    "pushedAt": "2025-01-16T13:33:59.000Z",
+    "pushedAt": "2025-01-17T23:56:50.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-09-11T02:40:18.000Z",
-    "updatedAt": "2025-01-16T22:53:58.000Z"
+    "updatedAt": "2025-01-18T01:25:06.000Z"
   },
   {
     "id": "rafgraph/detect-it",
