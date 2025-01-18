@@ -1076,7 +1076,7 @@
       "name": "jnv",
       "avatarUrl": "https://avatars.githubusercontent.com/u/616767?v=4"
     },
-    "stars": 10119,
+    "stars": 10121,
     "starsDetail": {
       "total": 10087,
       "week": 13,
@@ -1094,7 +1094,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2013-11-14T22:25:24.000Z",
-    "updatedAt": "2025-01-17T09:50:52.000Z"
+    "updatedAt": "2025-01-18T12:13:41.000Z"
   },
   {
     "id": "Accenture/reactive-interaction-gateway",
@@ -2235,7 +2235,7 @@
       "name": "phenixdigital",
       "avatarUrl": "https://avatars.githubusercontent.com/u/28055015?v=4"
     },
-    "stars": 738,
+    "stars": 740,
     "starsDetail": {
       "total": 731,
       "week": 0,
@@ -2244,16 +2244,16 @@
       "updatedAt": 1736087096
     },
     "license": "MIT License",
-    "forks": 60,
+    "forks": 62,
     "primaryLanguage": "JavaScript",
-    "pushedAt": "2025-01-14T09:18:41.000Z",
+    "pushedAt": "2025-01-17T22:43:35.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2022-07-18T11:14:03.000Z",
-    "updatedAt": "2025-01-17T09:51:22.000Z"
+    "updatedAt": "2025-01-18T12:14:12.000Z"
   },
   {
     "id": "rrrene/credo",
@@ -3412,7 +3412,7 @@
     "goPackage": "",
     "goImportedBy": 0,
     "createdAt": "2019-01-13T02:32:55.000Z",
-    "updatedAt": "2025-01-17T09:49:44.000Z"
+    "updatedAt": "2025-01-18T12:12:31.000Z"
   },
   {
     "id": "aws-beam/aws-elixir",
@@ -6786,7 +6786,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-12-08T20:42:42.000Z",
-    "updatedAt": "2025-01-17T09:46:10.000Z"
+    "updatedAt": "2025-01-18T12:08:52.000Z"
   },
   {
     "id": "JohnJocoo/weighted_random",
@@ -8492,7 +8492,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-05-07T14:47:56.000Z",
-    "updatedAt": "2025-01-17T09:44:18.000Z"
+    "updatedAt": "2025-01-18T12:06:58.000Z"
   },
   {
     "id": "WTTJ/algoliax",
@@ -11023,9 +11023,9 @@
       "name": "bayandin",
       "avatarUrl": "https://avatars.githubusercontent.com/u/864213?v=4"
     },
-    "stars": 32272,
+    "stars": 32276,
     "starsDetail": {
-      "total": 32272
+      "total": 32276
     },
     "license": null,
     "forks": 3569,
@@ -11037,7 +11037,7 @@
     "goPackage": "",
     "goImportedBy": 0,
     "createdAt": "2014-07-08T05:44:19.000Z",
-    "updatedAt": "2025-01-17T09:50:53.000Z"
+    "updatedAt": "2025-01-18T12:13:41.000Z"
   },
   {
     "id": "bbense/elixgrep",

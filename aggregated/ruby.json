@@ -1997,7 +1997,7 @@
     "goPackage": "",
     "goImportedBy": 0,
     "createdAt": "2015-05-06T13:25:25.000Z",
-    "updatedAt": "2025-01-17T09:47:49.000Z"
+    "updatedAt": "2025-01-18T12:10:33.000Z"
   },
   {
     "id": "github/scientist",
@@ -9027,7 +9027,7 @@
     "goPackage": "",
     "goImportedBy": 0,
     "createdAt": "2019-01-13T02:32:55.000Z",
-    "updatedAt": "2025-01-17T09:49:44.000Z"
+    "updatedAt": "2025-01-18T12:12:31.000Z"
   },
   {
     "id": "MiniProfiler/rack-mini-profiler",
@@ -15956,7 +15956,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2022-05-18T05:54:19.000Z",
-    "updatedAt": "2025-01-17T09:51:21.000Z"
+    "updatedAt": "2025-01-18T12:14:10.000Z"
   },
   {
     "id": "a2design-inc/json-compare",
@@ -17505,7 +17505,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2022-06-15T03:50:52.000Z",
-    "updatedAt": "2025-01-17T09:44:16.000Z"
+    "updatedAt": "2025-01-18T12:06:55.000Z"
   },
   {
     "id": "dry-rb/dry-cli",
@@ -20081,7 +20081,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2011-05-28T04:41:28.000Z",
-    "updatedAt": "2025-01-17T09:51:21.000Z"
+    "updatedAt": "2025-01-18T12:14:10.000Z"
   },
   {
     "id": "panthomakos/timezone",
@@ -20603,21 +20603,21 @@
       "name": "rspec",
       "avatarUrl": "https://avatars.githubusercontent.com/u/22388?v=4"
     },
-    "stars": 26,
+    "stars": 27,
     "starsDetail": {
-      "total": 26
+      "total": 27
     },
     "license": "MIT License",
     "forks": 7,
     "primaryLanguage": "Shell",
-    "pushedAt": "2025-01-15T14:33:24.000Z",
+    "pushedAt": "2025-01-18T11:28:19.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-11-27T01:05:29.000Z",
-    "updatedAt": "2025-01-17T09:44:16.000Z"
+    "updatedAt": "2025-01-18T12:06:55.000Z"
   },
   {
     "id": "ruby-amqp/march_hare",
