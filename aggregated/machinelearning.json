@@ -8298,7 +8298,7 @@
       "name": "comet-ml",
       "avatarUrl": "https://avatars.githubusercontent.com/u/31487821?v=4"
     },
-    "stars": 4453,
+    "stars": 4478,
     "starsDetail": {
       "total": 4013,
       "week": 203,
@@ -8307,16 +8307,16 @@
       "updatedAt": 1736085221
     },
     "license": "Apache License 2.0",
-    "forks": 284,
+    "forks": 286,
     "primaryLanguage": "Makefile",
-    "pushedAt": "2025-01-17T16:15:23.000Z",
+    "pushedAt": "2025-01-17T16:23:27.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2023-05-10T12:57:13.000Z",
-    "updatedAt": "2025-01-17T16:15:50.000Z"
+    "updatedAt": "2025-01-18T18:37:12.000Z"
   },
   {
     "id": "CamDavidsonPilon/lifelines",
@@ -19000,21 +19000,21 @@
       "name": "milvus-io",
       "avatarUrl": "https://avatars.githubusercontent.com/u/51735404?v=4"
     },
-    "stars": 31866,
+    "stars": 31880,
     "starsDetail": {
-      "total": 31866
+      "total": 31880
     },
     "license": "Apache License 2.0",
     "forks": 3001,
     "primaryLanguage": "Assembly",
-    "pushedAt": "2025-01-17T15:06:39.000Z",
+    "pushedAt": "2025-01-18T15:06:16.000Z",
     "archived": false,
     "npmPackage": "",
     "npmLastMonthDownloads": null,
     "goPackage": "github.com/milvus-io/milvus",
     "goImportedBy": 0,
     "createdAt": "2019-09-16T06:43:43.000Z",
-    "updatedAt": "2025-01-17T16:21:26.000Z"
+    "updatedAt": "2025-01-18T18:41:25.000Z"
   },
   {
     "id": "mindsdb/lightwood",

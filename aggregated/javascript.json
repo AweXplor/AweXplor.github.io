@@ -7409,7 +7409,7 @@
       "name": "HeyPuter",
       "avatarUrl": "https://avatars.githubusercontent.com/u/103972607?v=4"
     },
-    "stars": 27592,
+    "stars": 27620,
     "starsDetail": {
       "total": 25432,
       "week": 240,
@@ -7418,16 +7418,16 @@
       "updatedAt": 1729322130
     },
     "license": "GNU Affero General Public License v3.0",
-    "forks": 1957,
+    "forks": 1960,
     "primaryLanguage": "C",
-    "pushedAt": "2025-01-15T17:00:47.000Z",
+    "pushedAt": "2025-01-17T23:29:47.000Z",
     "archived": false,
     "npmPackage": "",
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": 0,
     "createdAt": "2024-03-03T01:44:32.000Z",
-    "updatedAt": "2025-01-17T16:17:35.000Z"
+    "updatedAt": "2025-01-18T18:38:23.000Z"
   },
   {
     "id": "CodeByZach/pace",
@@ -46432,7 +46432,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-06-04T16:29:42.000Z",
-    "updatedAt": "2025-01-17T16:15:31.000Z"
+    "updatedAt": "2025-01-18T18:36:57.000Z"
   },
   {
     "id": "apache/echarts",

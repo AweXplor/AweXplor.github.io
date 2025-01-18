@@ -1919,6 +1919,7 @@
     "description": "RSS reader for macOS and iOS.",
     "topics": [
       "feed-reader",
+      "ios",
       "json-feed",
       "macos",
       "rss",
@@ -1929,7 +1930,7 @@
       "name": "Ranchero-Software",
       "avatarUrl": "https://avatars.githubusercontent.com/u/59430456?v=4"
     },
-    "stars": 8557,
+    "stars": 8560,
     "starsDetail": {
       "total": 8516,
       "week": 23,
@@ -1940,14 +1941,14 @@
     "license": "MIT License",
     "forks": 541,
     "primaryLanguage": "C",
-    "pushedAt": "2025-01-16T07:01:26.000Z",
+    "pushedAt": "2025-01-18T06:14:33.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-05-21T17:59:23.000Z",
-    "updatedAt": "2025-01-17T16:14:39.000Z"
+    "updatedAt": "2025-01-18T18:36:15.000Z"
   },
   {
     "id": "SwifterSwift/SwifterSwift",
@@ -2820,7 +2821,7 @@
       "name": "web3swift-team",
       "avatarUrl": "https://avatars.githubusercontent.com/u/113441205?v=4"
     },
-    "stars": 829,
+    "stars": 830,
     "starsDetail": {
       "total": 826,
       "week": 1,
@@ -2838,7 +2839,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-08-13T15:12:05.000Z",
-    "updatedAt": "2025-01-17T16:18:13.000Z"
+    "updatedAt": "2025-01-18T18:38:54.000Z"
   },
   {
     "id": "xmartlabs/XLPagerTabStrip",
@@ -13678,7 +13679,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-09-26T07:43:43.000Z",
-    "updatedAt": "2025-01-17T16:18:18.000Z"
+    "updatedAt": "2025-01-18T18:38:58.000Z"
   },
   {
     "id": "alexbw/novocaine",
@@ -43501,7 +43502,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-04-01T22:48:29.000Z",
-    "updatedAt": "2025-01-17T16:18:15.000Z"
+    "updatedAt": "2025-01-18T18:38:56.000Z"
   },
   {
     "id": "Minitour/AZEmptyState",
