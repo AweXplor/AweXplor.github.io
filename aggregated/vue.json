@@ -1231,7 +1231,7 @@
       "name": "ecomfe",
       "avatarUrl": "https://avatars.githubusercontent.com/u/2268460?v=4"
     },
-    "stars": 9887,
+    "stars": 9886,
     "starsDetail": {
       "total": 9852,
       "week": 14,
@@ -1249,7 +1249,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-06-17T09:55:24.000Z",
-    "updatedAt": "2025-01-17T12:58:20.000Z"
+    "updatedAt": "2025-01-18T15:20:35.000Z"
   },
   {
     "id": "JetBrains/intellij-plugins",
@@ -3542,7 +3542,7 @@
       "name": "ismail9k",
       "avatarUrl": "https://avatars.githubusercontent.com/u/11035467?v=4"
     },
-    "stars": 773,
+    "stars": 772,
     "starsDetail": {
       "total": 765,
       "week": 4,
@@ -3560,7 +3560,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2020-04-25T18:00:18.000Z",
-    "updatedAt": "2025-01-17T13:12:26.000Z"
+    "updatedAt": "2025-01-18T15:34:01.000Z"
   },
   {
     "id": "vuejs/vitepress",
@@ -4396,7 +4396,7 @@
       "name": "nativescript-vue",
       "avatarUrl": "https://avatars.githubusercontent.com/u/32681046?v=4"
     },
-    "stars": 5408,
+    "stars": 5407,
     "starsDetail": {
       "total": 5413,
       "week": 3,
@@ -4414,7 +4414,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-04-17T23:49:17.000Z",
-    "updatedAt": "2025-01-17T12:57:56.000Z"
+    "updatedAt": "2025-01-18T15:20:09.000Z"
   },
   {
     "id": "graphieros/vue-data-ui",
@@ -14050,21 +14050,21 @@
       "name": "tailwindlabs",
       "avatarUrl": "https://avatars.githubusercontent.com/u/67109815?v=4"
     },
-    "stars": 84563,
+    "stars": 84576,
     "starsDetail": {
-      "total": 84563
+      "total": 84576
     },
     "license": "MIT License",
-    "forks": 4284,
+    "forks": 4287,
     "primaryLanguage": "HTML",
-    "pushedAt": "2025-01-17T10:39:55.000Z",
+    "pushedAt": "2025-01-17T23:48:19.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-10-06T14:59:14.000Z",
-    "updatedAt": "2025-01-17T13:03:14.000Z"
+    "updatedAt": "2025-01-18T15:27:20.000Z"
   },
   {
     "id": "technowledgy/vue-postgrest",

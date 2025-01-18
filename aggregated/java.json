@@ -2906,7 +2906,7 @@
       "name": "facebook",
       "avatarUrl": "https://avatars.githubusercontent.com/u/69631?v=4"
     },
-    "stars": 3664,
+    "stars": 3665,
     "starsDetail": {
       "total": 3649,
       "week": 8,
@@ -2915,16 +2915,16 @@
       "updatedAt": 1736031926
     },
     "license": "Apache License 2.0",
-    "forks": 236,
+    "forks": 235,
     "primaryLanguage": "Roff",
-    "pushedAt": "2025-01-17T12:38:43.000Z",
+    "pushedAt": "2025-01-18T06:21:19.000Z",
     "archived": false,
     "npmPackage": "",
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2022-01-21T20:04:00.000Z",
-    "updatedAt": "2025-01-17T13:07:52.000Z"
+    "updatedAt": "2025-01-18T15:29:32.000Z"
   },
   {
     "id": "shyiko/jabba",
