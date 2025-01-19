@@ -1930,7 +1930,7 @@
       "name": "Ranchero-Software",
       "avatarUrl": "https://avatars.githubusercontent.com/u/59430456?v=4"
     },
-    "stars": 8560,
+    "stars": 8564,
     "starsDetail": {
       "total": 8516,
       "week": 23,
@@ -1941,14 +1941,14 @@
     "license": "MIT License",
     "forks": 541,
     "primaryLanguage": "C",
-    "pushedAt": "2025-01-18T06:14:33.000Z",
+    "pushedAt": "2025-01-19T05:57:49.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-05-21T17:59:23.000Z",
-    "updatedAt": "2025-01-18T18:36:15.000Z"
+    "updatedAt": "2025-01-19T21:02:31.000Z"
   },
   {
     "id": "SwifterSwift/SwifterSwift",
@@ -2839,7 +2839,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-08-13T15:12:05.000Z",
-    "updatedAt": "2025-01-18T18:38:54.000Z"
+    "updatedAt": "2025-01-19T21:05:25.000Z"
   },
   {
     "id": "xmartlabs/XLPagerTabStrip",
@@ -13679,7 +13679,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-09-26T07:43:43.000Z",
-    "updatedAt": "2025-01-18T18:38:58.000Z"
+    "updatedAt": "2025-01-19T21:05:30.000Z"
   },
   {
     "id": "alexbw/novocaine",
@@ -43488,9 +43488,9 @@
       "name": "Mijick",
       "avatarUrl": "https://avatars.githubusercontent.com/u/125037042?v=4"
     },
-    "stars": 297,
+    "stars": 298,
     "starsDetail": {
-      "total": 297
+      "total": 298
     },
     "license": "Apache License 2.0",
     "forks": 37,
@@ -43502,7 +43502,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-04-01T22:48:29.000Z",
-    "updatedAt": "2025-01-18T18:38:56.000Z"
+    "updatedAt": "2025-01-19T21:05:28.000Z"
   },
   {
     "id": "Minitour/AZEmptyState",

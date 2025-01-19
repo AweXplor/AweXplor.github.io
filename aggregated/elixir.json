@@ -24265,14 +24265,14 @@
     "license": "MIT License",
     "forks": 2,
     "primaryLanguage": "Elixir",
-    "pushedAt": "2025-01-15T21:16:47.000Z",
+    "pushedAt": "2025-01-19T11:52:50.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-03-22T17:19:10.000Z",
-    "updatedAt": "2025-01-18T18:38:48.000Z"
+    "updatedAt": "2025-01-19T21:05:19.000Z"
   },
   {
     "id": "mruoss/pluggable",

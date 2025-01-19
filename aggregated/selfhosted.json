@@ -1107,7 +1107,7 @@
       "name": "dnote",
       "avatarUrl": "https://avatars.githubusercontent.com/u/26827777?v=4"
     },
-    "stars": 2816,
+    "stars": 2817,
     "starsDetail": {
       "total": 2811,
       "week": 2,
@@ -1125,7 +1125,7 @@
     "goPackage": "github.com/dnote/dnote",
     "goImportedBy": 0,
     "createdAt": "2017-03-30T23:07:25.000Z",
-    "updatedAt": "2025-01-18T18:40:08.000Z"
+    "updatedAt": "2025-01-19T21:06:45.000Z"
   },
   {
     "id": "inspircd/inspircd",
@@ -2582,7 +2582,7 @@
       "name": "zincsearch",
       "avatarUrl": "https://avatars.githubusercontent.com/u/129023705?v=4"
     },
-    "stars": 17144,
+    "stars": 17145,
     "starsDetail": {
       "total": 17123,
       "week": 16,
@@ -2600,7 +2600,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2021-12-02T12:49:41.000Z",
-    "updatedAt": "2025-01-18T18:38:35.000Z"
+    "updatedAt": "2025-01-19T21:05:04.000Z"
   },
   {
     "id": "DOMjudge/domjudge",
@@ -9066,7 +9066,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2021-02-25T13:49:38.000Z",
-    "updatedAt": "2025-01-18T18:39:03.000Z"
+    "updatedAt": "2025-01-19T21:05:35.000Z"
   },
   {
     "id": "zammad/zammad",
@@ -13185,7 +13185,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-09-03T09:50:11.000Z",
-    "updatedAt": "2025-01-18T18:39:05.000Z"
+    "updatedAt": "2025-01-19T21:05:38.000Z"
   },
   {
     "id": "concretecms/concretecms",
@@ -13516,7 +13516,7 @@
       "name": "gitroomhq",
       "avatarUrl": "https://avatars.githubusercontent.com/u/128401275?v=4"
     },
-    "stars": 17194,
+    "stars": 17242,
     "starsDetail": {
       "total": 16937,
       "week": 758,
@@ -13525,16 +13525,16 @@
       "updatedAt": 1736545935
     },
     "license": "GNU Affero General Public License v3.0",
-    "forks": 2758,
+    "forks": 2769,
     "primaryLanguage": "Shell",
-    "pushedAt": "2025-01-18T18:36:35.000Z",
+    "pushedAt": "2025-01-19T09:44:59.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2023-07-08T17:24:22.000Z",
-    "updatedAt": "2025-01-18T18:38:47.000Z"
+    "updatedAt": "2025-01-19T21:05:18.000Z"
   },
   {
     "id": "gchq/CyberChef",
@@ -15497,7 +15497,7 @@
       "name": "wabarc",
       "avatarUrl": "https://avatars.githubusercontent.com/u/66000339?v=4"
     },
-    "stars": 1863,
+    "stars": 1864,
     "starsDetail": {
       "total": 1849,
       "week": 4,
@@ -15515,7 +15515,7 @@
     "goPackage": "github.com/wabarc/wayback",
     "goImportedBy": 0,
     "createdAt": "2020-06-13T10:08:05.000Z",
-    "updatedAt": "2025-01-18T18:39:48.000Z"
+    "updatedAt": "2025-01-19T21:06:23.000Z"
   },
   {
     "id": "mealie-recipes/mealie",
@@ -17631,7 +17631,7 @@
       "name": "bytebase",
       "avatarUrl": "https://avatars.githubusercontent.com/u/74386897?v=4"
     },
-    "stars": 11826,
+    "stars": 11835,
     "starsDetail": {
       "total": 11718,
       "week": 50,
@@ -17649,7 +17649,7 @@
     "goPackage": "github.com/bytebase/bytebase",
     "goImportedBy": 0,
     "createdAt": "2021-01-27T04:33:50.000Z",
-    "updatedAt": "2025-01-18T18:41:32.000Z"
+    "updatedAt": "2025-01-19T21:08:16.000Z"
   },
   {
     "id": "stashapp/stash",
@@ -18202,7 +18202,7 @@
       "name": "rommapp",
       "avatarUrl": "https://avatars.githubusercontent.com/u/164058018?v=4"
     },
-    "stars": 2915,
+    "stars": 2918,
     "starsDetail": {
       "total": 2762,
       "week": 48,
@@ -18213,14 +18213,14 @@
     "license": "GNU Affero General Public License v3.0",
     "forks": 123,
     "primaryLanguage": "Mako",
-    "pushedAt": "2025-01-18T15:51:43.000Z",
+    "pushedAt": "2025-01-19T16:56:46.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2023-03-08T16:11:01.000Z",
-    "updatedAt": "2025-01-18T18:38:46.000Z"
+    "updatedAt": "2025-01-19T21:05:16.000Z"
   },
   {
     "id": "Open-Web-Analytics/Open-Web-Analytics",
@@ -19945,7 +19945,7 @@
       "name": "comet-ml",
       "avatarUrl": "https://avatars.githubusercontent.com/u/31487821?v=4"
     },
-    "stars": 4478,
+    "stars": 4503,
     "starsDetail": {
       "total": 4013,
       "week": 203,
@@ -19954,16 +19954,66 @@
       "updatedAt": 1736085221
     },
     "license": "Apache License 2.0",
-    "forks": 286,
+    "forks": 288,
     "primaryLanguage": "Makefile",
-    "pushedAt": "2025-01-17T16:23:27.000Z",
+    "pushedAt": "2025-01-19T19:50:20.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2023-05-10T12:57:13.000Z",
-    "updatedAt": "2025-01-18T18:37:12.000Z"
+    "updatedAt": "2025-01-19T21:04:02.000Z"
+  },
+  {
+    "id": "gotenberg/gotenberg",
+    "name": "gotenberg/gotenberg",
+    "description": "A developer-friendly API for converting numerous document formats into PDF files, and more!",
+    "topics": [
+      "api",
+      "chrome",
+      "chromium",
+      "convert-to-pdf",
+      "docker",
+      "docx-to-pdf",
+      "excel",
+      "exiftool",
+      "html-to-pdf",
+      "libreoffice",
+      "openoffice",
+      "pdf",
+      "pdf-converter",
+      "pdftk",
+      "puppeteer",
+      "qpdf",
+      "screenshots",
+      "unoconv",
+      "wkhtmltopdf",
+      "word"
+    ],
+    "owner": {
+      "name": "gotenberg",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/66820499?v=4"
+    },
+    "stars": 8394,
+    "starsDetail": {
+      "total": 8394,
+      "week": 36,
+      "month": 155,
+      "year": 2286,
+      "updatedAt": 1737320910
+    },
+    "license": "MIT License",
+    "forks": 563,
+    "primaryLanguage": "Shell",
+    "pushedAt": "2025-01-17T17:01:48.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2018-03-23T14:05:59.000Z",
+    "updatedAt": "2025-01-19T21:04:47.000Z"
   },
   {
     "id": "xbmc/xbmc",
@@ -25095,7 +25145,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-07-18T10:03:05.000Z",
-    "updatedAt": "2025-01-18T18:39:06.000Z"
+    "updatedAt": "2025-01-19T21:05:38.000Z"
   },
   {
     "id": "Admidio/admidio",
@@ -26227,14 +26277,14 @@
     "license": "MIT License",
     "forks": 15,
     "primaryLanguage": "CSS",
-    "pushedAt": "2025-01-17T23:04:45.000Z",
+    "pushedAt": "2025-01-18T21:55:36.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2022-05-06T20:56:47.000Z",
-    "updatedAt": "2025-01-18T18:38:49.000Z"
+    "updatedAt": "2025-01-19T21:05:20.000Z"
   },
   {
     "id": "Linbreux/wikmd",
@@ -26337,6 +26387,31 @@
     "goImportedBy": null,
     "createdAt": "2022-12-09T21:50:46.000Z",
     "updatedAt": "2025-01-19T14:32:04.000Z"
+  },
+  {
+    "id": "MacWarrior/clipbucket-v5",
+    "name": "MacWarrior/clipbucket-v5",
+    "description": "Open source video hosting with PHP",
+    "topics": [],
+    "owner": {
+      "name": "MacWarrior",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/200590?v=4"
+    },
+    "stars": 84,
+    "starsDetail": {
+      "total": 84
+    },
+    "license": "Other",
+    "forks": 46,
+    "primaryLanguage": "Roff",
+    "pushedAt": "2025-01-17T14:45:11.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2018-04-08T14:51:47.000Z",
+    "updatedAt": "2025-01-19T21:04:56.000Z"
   },
   {
     "id": "Mozzo1000/booklogr",
@@ -27438,14 +27513,14 @@
     "license": "GNU General Public License v3.0",
     "forks": 5,
     "primaryLanguage": "CSS",
-    "pushedAt": "2025-01-12T14:07:51.000Z",
+    "pushedAt": "2025-01-19T01:02:36.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-12-21T22:07:18.000Z",
-    "updatedAt": "2025-01-18T18:38:50.000Z"
+    "updatedAt": "2025-01-19T21:05:21.000Z"
   },
   {
     "id": "afaneca/myfin-android",
@@ -27476,7 +27551,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2020-11-29T11:55:22.000Z",
-    "updatedAt": "2025-01-18T18:38:52.000Z"
+    "updatedAt": "2025-01-19T21:05:23.000Z"
   },
   {
     "id": "alexbates/Tamari",
@@ -27650,21 +27725,21 @@
       "name": "apache",
       "avatarUrl": "https://avatars.githubusercontent.com/u/47359?v=4"
     },
-    "stars": 63848,
+    "stars": 63858,
     "starsDetail": {
-      "total": 63848
+      "total": 63858
     },
     "license": "Apache License 2.0",
-    "forks": 14260,
+    "forks": 14267,
     "primaryLanguage": "Mako",
-    "pushedAt": "2025-01-18T16:58:17.000Z",
+    "pushedAt": "2025-01-19T19:43:18.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-07-21T18:55:34.000Z",
-    "updatedAt": "2025-01-18T18:37:30.000Z"
+    "updatedAt": "2025-01-19T21:04:20.000Z"
   },
   {
     "id": "appsmithorg/appsmith",
@@ -29751,6 +29826,37 @@
     "updatedAt": "2025-01-19T14:31:48.000Z"
   },
   {
+    "id": "gotenberg/awesome-gotenberg",
+    "name": "gotenberg/awesome-gotenberg",
+    "description": ":rainbow: A curated list of awesome things related to Gotenberg.",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "gotenberg",
+      "lists",
+      "resources"
+    ],
+    "owner": {
+      "name": "gotenberg",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/66820499?v=4"
+    },
+    "stars": 128,
+    "starsDetail": {
+      "total": 128
+    },
+    "license": "Creative Commons Zero v1.0 Universal",
+    "forks": 13,
+    "primaryLanguage": "",
+    "pushedAt": "2025-01-07T15:26:01.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2021-08-22T16:33:58.000Z",
+    "updatedAt": "2025-01-19T21:04:47.000Z"
+  },
+  {
     "id": "gramps-project/gramps-web-api",
     "name": "gramps-project/gramps-web-api",
     "description": "A RESTful web API for Gramps - backend of Gramps Web",
@@ -29945,6 +30051,31 @@
     "goImportedBy": null,
     "createdAt": "2013-09-17T07:29:48.000Z",
     "updatedAt": "2025-01-19T14:29:39.000Z"
+  },
+  {
+    "id": "homeserverhq/hshq",
+    "name": "homeserverhq/hshq",
+    "description": "HomeServer Infrastructure and Integrated Installer",
+    "topics": [],
+    "owner": {
+      "name": "homeserverhq",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/118991087?v=4"
+    },
+    "stars": 7,
+    "starsDetail": {
+      "total": 7
+    },
+    "license": "GNU General Public License v3.0",
+    "forks": 3,
+    "primaryLanguage": "Shell",
+    "pushedAt": "2025-01-19T15:52:52.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2022-11-24T14:40:18.000Z",
+    "updatedAt": "2025-01-19T21:05:05.000Z"
   },
   {
     "id": "hoppscotch/hoppscotch",
@@ -30480,7 +30611,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-03-21T21:30:19.000Z",
-    "updatedAt": "2025-01-18T18:39:07.000Z"
+    "updatedAt": "2025-01-19T21:05:39.000Z"
   },
   {
     "id": "jaywink/socialhome",
@@ -31763,16 +31894,16 @@
       "total": 137
     },
     "license": "MIT License",
-    "forks": 27,
+    "forks": 28,
     "primaryLanguage": "Dockerfile",
-    "pushedAt": "2025-01-18T16:48:33.000Z",
+    "pushedAt": "2025-01-19T16:42:34.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2020-10-17T08:54:02.000Z",
-    "updatedAt": "2025-01-18T18:39:07.000Z"
+    "updatedAt": "2025-01-19T21:05:40.000Z"
   },
   {
     "id": "mcarbonne/minimal-git-server",
@@ -32267,7 +32398,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-08-27T16:50:43.000Z",
-    "updatedAt": "2025-01-18T18:38:50.000Z"
+    "updatedAt": "2025-01-19T21:05:21.000Z"
   },
   {
     "id": "mynaparrot/plugNmeet-server",
@@ -32934,14 +33065,14 @@
     "license": "Apache License 2.0",
     "forks": 63,
     "primaryLanguage": "HTML",
-    "pushedAt": "2025-01-18T05:20:49.000Z",
+    "pushedAt": "2025-01-19T09:33:37.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2020-12-23T08:30:59.000Z",
-    "updatedAt": "2025-01-18T18:38:44.000Z"
+    "updatedAt": "2025-01-19T21:05:15.000Z"
   },
   {
     "id": "payloadcms/payload",
@@ -33429,14 +33560,14 @@
     "license": "Apache License 2.0",
     "forks": 1,
     "primaryLanguage": "JavaScript",
-    "pushedAt": "2025-01-08T07:16:10.000Z",
+    "pushedAt": "2025-01-19T09:58:05.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2022-11-27T11:00:41.000Z",
-    "updatedAt": "2025-01-18T18:39:08.000Z"
+    "updatedAt": "2025-01-19T21:05:40.000Z"
   },
   {
     "id": "r3-team/r3",
