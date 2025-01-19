@@ -38,7 +38,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2020-12-11T17:10:05.000Z",
-    "updatedAt": "2025-01-18T12:08:13.000Z"
+    "updatedAt": "2025-01-19T14:33:39.000Z"
   },
   {
     "id": "JosephusPaye/Keen-UI",
@@ -195,7 +195,7 @@
       "name": "vuejs",
       "avatarUrl": "https://avatars.githubusercontent.com/u/6128107?v=4"
     },
-    "stars": 1892,
+    "stars": 1893,
     "starsDetail": {
       "total": 1848,
       "week": 15,
@@ -213,7 +213,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2023-09-01T14:05:16.000Z",
-    "updatedAt": "2025-01-18T12:07:35.000Z"
+    "updatedAt": "2025-01-19T14:33:00.000Z"
   },
   {
     "id": "benweet/stackedit",
@@ -535,7 +535,7 @@
       "name": "schedule-x",
       "avatarUrl": "https://avatars.githubusercontent.com/u/139065285?v=4"
     },
-    "stars": 1501,
+    "stars": 1502,
     "starsDetail": {
       "total": 1465,
       "week": 17,
@@ -546,14 +546,14 @@
     "license": "MIT License",
     "forks": 107,
     "primaryLanguage": "Dockerfile",
-    "pushedAt": "2025-01-18T06:04:49.000Z",
+    "pushedAt": "2025-01-19T09:16:59.000Z",
     "archived": false,
     "npmPackage": "",
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2023-07-15T21:12:12.000Z",
-    "updatedAt": "2025-01-18T12:12:56.000Z"
+    "updatedAt": "2025-01-19T14:38:29.000Z"
   },
   {
     "id": "ElMassimo/iles",
@@ -1414,7 +1414,7 @@
       "name": "vuejs",
       "avatarUrl": "https://avatars.githubusercontent.com/u/6128107?v=4"
     },
-    "stars": 3903,
+    "stars": 3906,
     "starsDetail": {
       "total": 3888,
       "week": 8,
@@ -1432,7 +1432,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2021-07-14T07:58:55.000Z",
-    "updatedAt": "2025-01-18T12:08:32.000Z"
+    "updatedAt": "2025-01-19T14:34:00.000Z"
   },
   {
     "id": "posva/unplugin-vue-router",
@@ -1762,14 +1762,14 @@
     "license": "Other",
     "forks": 936,
     "primaryLanguage": "Sass",
-    "pushedAt": "2025-01-18T04:17:01.000Z",
+    "pushedAt": "2025-01-19T14:35:42.000Z",
     "archived": false,
     "npmPackage": "",
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-01-22T14:51:43.000Z",
-    "updatedAt": "2025-01-18T12:11:06.000Z"
+    "updatedAt": "2025-01-19T14:36:37.000Z"
   },
   {
     "id": "DanSnow/vue-recaptcha",
@@ -4611,7 +4611,7 @@
       "name": "quasarframework",
       "avatarUrl": "https://avatars.githubusercontent.com/u/23064371?v=4"
     },
-    "stars": 26152,
+    "stars": 26149,
     "starsDetail": {
       "total": 25874,
       "week": 36,
@@ -4620,16 +4620,16 @@
       "updatedAt": 1729322126
     },
     "license": "MIT License",
-    "forks": 3559,
+    "forks": 3560,
     "primaryLanguage": "Java",
-    "pushedAt": "2025-01-17T11:31:16.000Z",
+    "pushedAt": "2025-01-18T13:07:30.000Z",
     "archived": false,
     "npmPackage": "quasar",
     "npmLastMonthDownloads": 660310,
     "goPackage": null,
     "goImportedBy": 0,
     "createdAt": "2015-10-05T15:45:36.000Z",
-    "updatedAt": "2025-01-18T12:08:22.000Z"
+    "updatedAt": "2025-01-19T14:33:48.000Z"
   },
   {
     "id": "grandnode/grandnode2",
@@ -4895,7 +4895,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2022-11-02T03:55:24.000Z",
-    "updatedAt": "2025-01-18T12:08:31.000Z"
+    "updatedAt": "2025-01-19T14:33:59.000Z"
   },
   {
     "id": "webfansplz/vite-plugin-vue-inspector",
@@ -5001,7 +5001,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2020-01-25T20:58:37.000Z",
-    "updatedAt": "2025-01-18T12:12:29.000Z"
+    "updatedAt": "2025-01-19T14:38:01.000Z"
   },
   {
     "id": "OXOYO/X-Flowchart-Vue",
@@ -5360,7 +5360,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2022-06-02T08:04:40.000Z",
-    "updatedAt": "2025-01-18T12:08:35.000Z"
+    "updatedAt": "2025-01-19T14:34:03.000Z"
   },
   {
     "id": "vuejs/eslint-plugin-vue",
@@ -5757,7 +5757,7 @@
       "name": "ealush",
       "avatarUrl": "https://avatars.githubusercontent.com/u/11255103?v=4"
     },
-    "stars": 2576,
+    "stars": 2575,
     "starsDetail": {
       "total": 2576,
       "week": 3,
@@ -5768,14 +5768,14 @@
     "license": "MIT License",
     "forks": 86,
     "primaryLanguage": "Shell",
-    "pushedAt": "2025-01-18T01:14:21.000Z",
+    "pushedAt": "2025-01-19T04:16:38.000Z",
     "archived": false,
     "npmPackage": "",
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-11-26T22:10:41.000Z",
-    "updatedAt": "2025-01-18T12:12:42.000Z"
+    "updatedAt": "2025-01-19T14:38:14.000Z"
   },
   {
     "id": "naver/egjs-infinitegrid",
@@ -7213,7 +7213,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-12-01T07:16:46.000Z",
-    "updatedAt": "2025-01-18T12:14:15.000Z"
+    "updatedAt": "2025-01-19T14:39:52.000Z"
   },
   {
     "id": "ElemeFE/element",
@@ -7838,7 +7838,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2023-03-21T06:50:18.000Z",
-    "updatedAt": "2025-01-18T12:11:55.000Z"
+    "updatedAt": "2025-01-19T14:37:27.000Z"
   },
   {
     "id": "M-Media-Group/Vue3-SPA-starter-template",
@@ -8849,7 +8849,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-01-07T01:04:10.000Z",
-    "updatedAt": "2025-01-18T12:08:00.000Z"
+    "updatedAt": "2025-01-19T14:33:26.000Z"
   },
   {
     "id": "akoidan/pychat",
@@ -9700,7 +9700,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-11-14T23:51:35.000Z",
-    "updatedAt": "2025-01-18T12:13:14.000Z"
+    "updatedAt": "2025-01-19T14:38:50.000Z"
   },
   {
     "id": "dattn/dnd-grid",
@@ -10809,7 +10809,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-07-01T14:33:34.000Z",
-    "updatedAt": "2025-01-18T12:07:52.000Z"
+    "updatedAt": "2025-01-19T14:33:18.000Z"
   },
   {
     "id": "ivanlori/Vuemmerce",
@@ -13452,7 +13452,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2022-12-31T14:10:38.000Z",
-    "updatedAt": "2025-01-18T12:15:01.000Z"
+    "updatedAt": "2025-01-19T14:40:37.000Z"
   },
   {
     "id": "samjonesigd/vue-image-zoomer",
@@ -14185,7 +14185,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-09-06T12:21:07.000Z",
-    "updatedAt": "2025-01-18T12:08:32.000Z"
+    "updatedAt": "2025-01-19T14:34:00.000Z"
   },
   {
     "id": "tolgee/tolgee-js",
@@ -14661,12 +14661,12 @@
       "name": "vitejs",
       "avatarUrl": "https://avatars.githubusercontent.com/u/65625612?v=4"
     },
-    "stars": 70055,
+    "stars": 70072,
     "starsDetail": {
-      "total": 70055
+      "total": 70072
     },
     "license": "MIT License",
-    "forks": 6357,
+    "forks": 6360,
     "primaryLanguage": "Astro",
     "pushedAt": "2025-01-16T08:41:59.000Z",
     "archived": false,
@@ -14675,7 +14675,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2020-04-21T05:03:57.000Z",
-    "updatedAt": "2025-01-18T12:09:28.000Z"
+    "updatedAt": "2025-01-19T14:34:55.000Z"
   },
   {
     "id": "vkaelin/LeagueStats",
@@ -14955,12 +14955,12 @@
       "name": "vuejs",
       "avatarUrl": "https://avatars.githubusercontent.com/u/6128107?v=4"
     },
-    "stars": 208260,
+    "stars": 208261,
     "starsDetail": {
-      "total": 208260
+      "total": 208261
     },
     "license": "MIT License",
-    "forks": 33704,
+    "forks": 33705,
     "primaryLanguage": "Shell",
     "pushedAt": "2024-10-10T07:24:15.000Z",
     "archived": false,
@@ -14969,7 +14969,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2013-07-29T03:24:51.000Z",
-    "updatedAt": "2025-01-18T12:11:26.000Z"
+    "updatedAt": "2025-01-19T14:36:58.000Z"
   },
   {
     "id": "vuetifyjs/vuetify",

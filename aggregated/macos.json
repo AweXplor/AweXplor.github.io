@@ -2515,7 +2515,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2014-05-14T17:25:32.000Z",
-    "updatedAt": "2025-01-18T12:08:46.000Z"
+    "updatedAt": "2025-01-19T14:34:14.000Z"
   },
   {
     "id": "stargatedaw/stargate",
@@ -3168,7 +3168,7 @@
       "name": "PasteBar",
       "avatarUrl": "https://avatars.githubusercontent.com/u/148391726?v=4"
     },
-    "stars": 1228,
+    "stars": 1229,
     "starsDetail": {
       "total": 1203,
       "week": 9,
@@ -3179,14 +3179,14 @@
     "license": "Other",
     "forks": 40,
     "primaryLanguage": "C",
-    "pushedAt": "2025-01-16T21:47:31.000Z",
+    "pushedAt": "2025-01-18T23:35:57.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-04-10T13:19:35.000Z",
-    "updatedAt": "2025-01-18T12:08:32.000Z"
+    "updatedAt": "2025-01-19T14:34:00.000Z"
   },
   {
     "id": "johnkerl/miller",
@@ -3856,7 +3856,7 @@
       "name": "wez",
       "avatarUrl": "https://avatars.githubusercontent.com/u/117777?v=4"
     },
-    "stars": 18916,
+    "stars": 18927,
     "starsDetail": {
       "total": 18709,
       "week": 162,
@@ -3865,16 +3865,16 @@
       "updatedAt": 1736031552
     },
     "license": "Other",
-    "forks": 831,
+    "forks": 832,
     "primaryLanguage": "Makefile",
-    "pushedAt": "2025-01-16T22:16:31.000Z",
+    "pushedAt": "2025-01-19T00:24:33.000Z",
     "archived": false,
     "npmPackage": "",
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-02-07T05:35:46.000Z",
-    "updatedAt": "2025-01-18T12:13:59.000Z"
+    "updatedAt": "2025-01-19T14:39:33.000Z"
   },
   {
     "id": "notable/notable",
@@ -4054,7 +4054,7 @@
       "name": "openrecall",
       "avatarUrl": "https://avatars.githubusercontent.com/u/170944222?v=4"
     },
-    "stars": 2013,
+    "stars": 2016,
     "starsDetail": {
       "total": 1986,
       "week": 5,
@@ -4063,7 +4063,7 @@
       "updatedAt": 1736087000
     },
     "license": "GNU Affero General Public License v3.0",
-    "forks": 105,
+    "forks": 104,
     "primaryLanguage": "Python",
     "pushedAt": "2024-10-01T09:46:29.000Z",
     "archived": false,
@@ -4072,7 +4072,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-05-29T06:14:07.000Z",
-    "updatedAt": "2025-01-18T12:07:04.000Z"
+    "updatedAt": "2025-01-19T14:32:30.000Z"
   },
   {
     "id": "viarotel-org/escrcpy",
@@ -5201,7 +5201,7 @@
       "name": "zellij-org",
       "avatarUrl": "https://avatars.githubusercontent.com/u/73778475?v=4"
     },
-    "stars": 22699,
+    "stars": 22713,
     "starsDetail": {
       "total": 22527,
       "week": 126,
@@ -5210,7 +5210,7 @@
       "updatedAt": 1736031561
     },
     "license": "MIT License",
-    "forks": 680,
+    "forks": 679,
     "primaryLanguage": "RenderScript",
     "pushedAt": "2025-01-17T16:52:44.000Z",
     "archived": false,
@@ -5219,7 +5219,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2020-09-01T14:04:28.000Z",
-    "updatedAt": "2025-01-18T12:14:00.000Z"
+    "updatedAt": "2025-01-19T14:39:35.000Z"
   },
   {
     "id": "Bash-it/bash-it",
@@ -5278,7 +5278,7 @@
       "name": "popcorn-official",
       "avatarUrl": "https://avatars.githubusercontent.com/u/7267937?v=4"
     },
-    "stars": 9572,
+    "stars": 9575,
     "starsDetail": {
       "total": 9546,
       "week": 9,
@@ -5296,7 +5296,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-02-16T11:07:20.000Z",
-    "updatedAt": "2025-01-18T12:08:35.000Z"
+    "updatedAt": "2025-01-19T14:34:04.000Z"
   },
   {
     "id": "tmuxinator/tmuxinator",
@@ -6616,7 +6616,7 @@
       "name": "surrealdb",
       "avatarUrl": "https://avatars.githubusercontent.com/u/10982346?v=4"
     },
-    "stars": 28522,
+    "stars": 28532,
     "starsDetail": {
       "total": 28452,
       "week": 64,
@@ -6625,7 +6625,7 @@
       "updatedAt": 1736031651
     },
     "license": "Other",
-    "forks": 939,
+    "forks": 940,
     "primaryLanguage": "DTrace",
     "pushedAt": "2025-01-18T08:49:18.000Z",
     "archived": false,
@@ -6634,7 +6634,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2021-12-09T15:03:29.000Z",
-    "updatedAt": "2025-01-18T12:14:37.000Z"
+    "updatedAt": "2025-01-19T14:40:13.000Z"
   },
   {
     "id": "syncthing/syncthing-macos",
@@ -6884,7 +6884,7 @@
       "name": "haystackeditor",
       "avatarUrl": "https://avatars.githubusercontent.com/u/175750354?v=4"
     },
-    "stars": 967,
+    "stars": 968,
     "starsDetail": {
       "total": 945,
       "week": 7,
@@ -6902,7 +6902,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-09-24T02:34:44.000Z",
-    "updatedAt": "2025-01-18T12:01:47.000Z"
+    "updatedAt": "2025-01-19T14:27:05.000Z"
   },
   {
     "id": "qvacua/vimr",
@@ -8526,7 +8526,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2014-10-17T23:42:44.000Z",
-    "updatedAt": "2025-01-18T12:08:57.000Z"
+    "updatedAt": "2025-01-19T14:34:24.000Z"
   },
   {
     "id": "sozercan/OpenInCode",
@@ -9260,7 +9260,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2023-12-27T21:50:31.000Z",
-    "updatedAt": "2025-01-18T12:07:05.000Z"
+    "updatedAt": "2025-01-19T14:32:31.000Z"
   },
   {
     "id": "nicolargo/glances",
@@ -9654,7 +9654,7 @@
       "name": "GyulyVGC",
       "avatarUrl": "https://avatars.githubusercontent.com/u/100347457?v=4"
     },
-    "stars": 19020,
+    "stars": 19026,
     "starsDetail": {
       "total": 18893,
       "week": 48,
@@ -9663,16 +9663,16 @@
       "updatedAt": 1736031538
     },
     "license": "Apache License 2.0",
-    "forks": 576,
+    "forks": 577,
     "primaryLanguage": "Shell",
-    "pushedAt": "2025-01-16T10:46:32.000Z",
+    "pushedAt": "2025-01-18T22:20:48.000Z",
     "archived": false,
     "npmPackage": "",
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2022-07-31T21:55:56.000Z",
-    "updatedAt": "2025-01-18T12:13:55.000Z"
+    "updatedAt": "2025-01-19T14:39:30.000Z"
   },
   {
     "id": "lwouis/alt-tab-macos",
@@ -11818,7 +11818,7 @@
       "name": "lihaoyun6",
       "avatarUrl": "https://avatars.githubusercontent.com/u/16348097?v=4"
     },
-    "stars": 637,
+    "stars": 638,
     "starsDetail": {
       "total": 614,
       "week": 19,
@@ -11836,7 +11836,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-11-20T01:39:15.000Z",
-    "updatedAt": "2025-01-18T12:08:34.000Z"
+    "updatedAt": "2025-01-19T14:34:01.000Z"
   },
   {
     "id": "videolan/vlc",
@@ -12494,7 +12494,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2013-11-10T21:06:35.000Z",
-    "updatedAt": "2025-01-18T12:08:36.000Z"
+    "updatedAt": "2025-01-19T14:34:03.000Z"
   },
   {
     "id": "pkulchenko/ZeroBraneStudio",
@@ -13626,7 +13626,7 @@
       "name": "FelixKratz",
       "avatarUrl": "https://avatars.githubusercontent.com/u/22680421?v=4"
     },
-    "stars": 1674,
+    "stars": 1678,
     "starsDetail": {
       "total": 1620,
       "week": 30,
@@ -13644,7 +13644,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2023-11-02T16:14:50.000Z",
-    "updatedAt": "2025-01-18T12:08:50.000Z"
+    "updatedAt": "2025-01-19T14:34:18.000Z"
   },
   {
     "id": "nmap/nmap",
@@ -13928,7 +13928,7 @@
       "name": "readest",
       "avatarUrl": "https://avatars.githubusercontent.com/u/190965649?v=4"
     },
-    "stars": 2015,
+    "stars": 2089,
     "starsDetail": {
       "total": 1514,
       "week": 267,
@@ -13937,16 +13937,16 @@
       "updatedAt": 1736087339
     },
     "license": "GNU Affero General Public License v3.0",
-    "forks": 81,
+    "forks": 84,
     "primaryLanguage": "Shell",
-    "pushedAt": "2025-01-17T18:10:27.000Z",
+    "pushedAt": "2025-01-19T08:36:49.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-10-12T23:16:55.000Z",
-    "updatedAt": "2025-01-18T12:14:13.000Z"
+    "updatedAt": "2025-01-19T14:39:50.000Z"
   },
   {
     "id": "viatsko/awesome-vscode",
@@ -16361,7 +16361,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-01-28T14:04:05.000Z",
-    "updatedAt": "2025-01-18T12:10:39.000Z"
+    "updatedAt": "2025-01-19T14:36:09.000Z"
   },
   {
     "id": "FreeCAD/FreeCAD",
@@ -18918,7 +18918,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2023-07-15T22:59:46.000Z",
-    "updatedAt": "2025-01-18T12:08:34.000Z"
+    "updatedAt": "2025-01-19T14:34:02.000Z"
   },
   {
     "id": "Bunn/PiStats",
@@ -19049,21 +19049,21 @@
       "name": "Celve",
       "avatarUrl": "https://avatars.githubusercontent.com/u/95223577?v=4"
     },
-    "stars": 293,
+    "stars": 295,
     "starsDetail": {
-      "total": 293
+      "total": 295
     },
     "license": "GNU General Public License v3.0",
     "forks": 2,
     "primaryLanguage": "Swift",
-    "pushedAt": "2025-01-17T12:31:04.000Z",
+    "pushedAt": "2025-01-19T07:37:44.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-12-03T06:01:12.000Z",
-    "updatedAt": "2025-01-18T12:14:08.000Z"
+    "updatedAt": "2025-01-19T14:39:44.000Z"
   },
   {
     "id": "ChimeHQ/Chime",
@@ -27125,21 +27125,21 @@
       "name": "upscayl",
       "avatarUrl": "https://avatars.githubusercontent.com/u/112148288?v=4"
     },
-    "stars": 33855,
+    "stars": 33903,
     "starsDetail": {
-      "total": 33855
+      "total": 33903
     },
     "license": "GNU Affero General Public License v3.0",
     "forks": 1554,
     "primaryLanguage": "Shell",
-    "pushedAt": "2025-01-14T18:04:12.000Z",
+    "pushedAt": "2025-01-18T16:43:52.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2022-07-30T17:19:20.000Z",
-    "updatedAt": "2025-01-18T12:08:36.000Z"
+    "updatedAt": "2025-01-19T14:34:04.000Z"
   },
   {
     "id": "user-attachments/assets",
@@ -27164,7 +27164,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-12-26T10:11:02.000Z",
-    "updatedAt": "2025-01-18T12:01:46.000Z"
+    "updatedAt": "2025-01-19T14:27:05.000Z"
   },
   {
     "id": "varol/Calculeta",

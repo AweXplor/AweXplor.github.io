@@ -213,14 +213,14 @@
     "license": "Apache License 2.0",
     "forks": 423,
     "primaryLanguage": "HTML",
-    "pushedAt": "2025-01-18T08:42:38.000Z",
+    "pushedAt": "2025-01-19T00:38:46.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-12-09T16:43:49.000Z",
-    "updatedAt": "2025-01-18T12:01:41.000Z"
+    "updatedAt": "2025-01-19T14:26:59.000Z"
   },
   {
     "id": "optics-dev/Monocle",
@@ -619,7 +619,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2014-11-29T08:35:28.000Z",
-    "updatedAt": "2025-01-18T12:01:44.000Z"
+    "updatedAt": "2025-01-19T14:27:03.000Z"
   },
   {
     "id": "foundweekends/giter8",
@@ -1736,14 +1736,14 @@
     "license": "Other",
     "forks": 27,
     "primaryLanguage": "SCSS",
-    "pushedAt": "2025-01-13T03:15:42.000Z",
+    "pushedAt": "2025-01-19T04:36:09.000Z",
     "archived": false,
     "npmPackage": "",
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2020-07-25T09:54:21.000Z",
-    "updatedAt": "2025-01-18T12:12:32.000Z"
+    "updatedAt": "2025-01-19T14:38:04.000Z"
   },
   {
     "id": "gitbucket/gitbucket",
@@ -2324,7 +2324,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2013-08-15T18:35:18.000Z",
-    "updatedAt": "2025-01-18T12:01:43.000Z"
+    "updatedAt": "2025-01-19T14:27:02.000Z"
   },
   {
     "id": "scalacenter/scalafix",
@@ -3757,7 +3757,7 @@
       "name": "softwaremill",
       "avatarUrl": "https://avatars.githubusercontent.com/u/322765?v=4"
     },
-    "stars": 1459,
+    "stars": 1460,
     "starsDetail": {
       "total": 1455,
       "week": 0,
@@ -3768,14 +3768,14 @@
     "license": "Apache License 2.0",
     "forks": 312,
     "primaryLanguage": "Shell",
-    "pushedAt": "2025-01-17T00:30:33.000Z",
+    "pushedAt": "2025-01-19T14:22:49.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-06-30T15:15:07.000Z",
-    "updatedAt": "2025-01-18T12:01:43.000Z"
+    "updatedAt": "2025-01-19T14:27:01.000Z"
   },
   {
     "id": "squeryl/squeryl",
@@ -4345,7 +4345,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-03-29T19:47:54.000Z",
-    "updatedAt": "2025-01-18T12:01:41.000Z"
+    "updatedAt": "2025-01-19T14:27:00.000Z"
   },
   {
     "id": "pocorall/scaloid",
@@ -4470,7 +4470,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2013-04-18T10:48:21.000Z",
-    "updatedAt": "2025-01-18T12:01:45.000Z"
+    "updatedAt": "2025-01-19T14:27:03.000Z"
   },
   {
     "id": "spray/spray-json",
@@ -5477,9 +5477,9 @@
       "name": "bayandin",
       "avatarUrl": "https://avatars.githubusercontent.com/u/864213?v=4"
     },
-    "stars": 32276,
+    "stars": 32280,
     "starsDetail": {
-      "total": 32276
+      "total": 32280
     },
     "license": null,
     "forks": 3569,
@@ -5491,7 +5491,7 @@
     "goPackage": "",
     "goImportedBy": 0,
     "createdAt": "2014-07-08T05:44:19.000Z",
-    "updatedAt": "2025-01-18T12:13:41.000Z"
+    "updatedAt": "2025-01-19T14:39:16.000Z"
   },
   {
     "id": "blackdoor/jose",
@@ -5926,7 +5926,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-04-25T12:48:00.000Z",
-    "updatedAt": "2025-01-18T12:01:46.000Z"
+    "updatedAt": "2025-01-19T14:27:04.000Z"
   },
   {
     "id": "epfldata/squid",
@@ -5982,7 +5982,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2012-09-10T17:53:21.000Z",
-    "updatedAt": "2025-01-18T12:01:44.000Z"
+    "updatedAt": "2025-01-19T14:27:02.000Z"
   },
   {
     "id": "fingo/spata",
@@ -6307,14 +6307,14 @@
     "license": "Apache License 2.0",
     "forks": 2,
     "primaryLanguage": "Shell",
-    "pushedAt": "2024-12-23T17:57:23.000Z",
+    "pushedAt": "2025-01-18T23:12:04.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2022-09-02T11:48:45.000Z",
-    "updatedAt": "2025-01-18T12:01:40.000Z"
+    "updatedAt": "2025-01-19T14:26:58.000Z"
   },
   {
     "id": "lambdaworks/scurl-detector",
@@ -8125,7 +8125,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2013-09-04T20:34:40.000Z",
-    "updatedAt": "2025-01-18T12:01:43.000Z"
+    "updatedAt": "2025-01-19T14:27:02.000Z"
   },
   {
     "id": "travisbrown/iteratee",
