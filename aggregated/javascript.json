@@ -1062,7 +1062,7 @@
       "name": "decaporg",
       "avatarUrl": "https://avatars.githubusercontent.com/u/37912219?v=4"
     },
-    "stars": 18086,
+    "stars": 18089,
     "starsDetail": {
       "total": 17883,
       "week": 27,
@@ -1080,7 +1080,7 @@
     "goPackage": null,
     "goImportedBy": 0,
     "createdAt": "2015-01-20T05:47:47.000Z",
-    "updatedAt": "2025-01-17T22:23:50.000Z"
+    "updatedAt": "2025-01-19T00:43:40.000Z"
   },
   {
     "id": "infinitered/nsfwjs",
@@ -4614,7 +4614,7 @@
       "updatedAt": 1729322595
     },
     "license": "GNU Affero General Public License v3.0",
-    "forks": 663,
+    "forks": 662,
     "primaryLanguage": "Dockerfile",
     "pushedAt": "2025-01-17T15:54:25.000Z",
     "archived": false,
@@ -4623,7 +4623,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2014-10-31T15:46:17.000Z",
-    "updatedAt": "2025-01-17T22:23:52.000Z"
+    "updatedAt": "2025-01-19T00:43:42.000Z"
   },
   {
     "id": "stalniy/casl",
@@ -10303,7 +10303,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2011-11-05T15:02:47.000Z",
-    "updatedAt": "2025-01-17T22:23:54.000Z"
+    "updatedAt": "2025-01-19T00:43:44.000Z"
   },
   {
     "id": "brunch/brunch",
@@ -16634,7 +16634,7 @@
       "name": "sst",
       "avatarUrl": "https://avatars.githubusercontent.com/u/66570915?v=4"
     },
-    "stars": 22637,
+    "stars": 22639,
     "starsDetail": {
       "total": 22544,
       "week": 79,
@@ -16645,14 +16645,14 @@
     "license": "MIT License",
     "forks": 1734,
     "primaryLanguage": "HTML",
-    "pushedAt": "2025-01-16T19:20:28.000Z",
+    "pushedAt": "2025-01-18T15:38:53.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2020-08-04T20:28:14.000Z",
-    "updatedAt": "2025-01-17T22:23:55.000Z"
+    "updatedAt": "2025-01-19T00:43:44.000Z"
   },
   {
     "id": "Rezmason/matrix",
@@ -17084,7 +17084,7 @@
       "name": "jaywcjlove",
       "avatarUrl": "https://avatars.githubusercontent.com/u/1680273?v=4"
     },
-    "stars": 6737,
+    "stars": 6738,
     "starsDetail": {
       "total": 6662,
       "week": 9,
@@ -17102,7 +17102,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-05-18T17:49:52.000Z",
-    "updatedAt": "2025-01-17T22:23:52.000Z"
+    "updatedAt": "2025-01-19T00:43:41.000Z"
   },
   {
     "id": "lgwebdream/FE-Interview",
@@ -21699,7 +21699,7 @@
       "name": "flybywiresim",
       "avatarUrl": "https://avatars.githubusercontent.com/u/70456638?v=4"
     },
-    "stars": 5172,
+    "stars": 5173,
     "starsDetail": {
       "total": 4997,
       "week": 6,
@@ -21710,14 +21710,14 @@
     "license": "GNU General Public License v3.0",
     "forks": 1125,
     "primaryLanguage": "Batchfile",
-    "pushedAt": "2025-01-17T08:07:10.000Z",
+    "pushedAt": "2025-01-18T17:47:34.000Z",
     "archived": false,
     "npmPackage": "",
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2020-08-04T03:53:59.000Z",
-    "updatedAt": "2025-01-17T22:23:53.000Z"
+    "updatedAt": "2025-01-19T00:43:43.000Z"
   },
   {
     "id": "francoischalifour/medium-zoom",
@@ -24745,7 +24745,7 @@
       "updatedAt": 1729322689
     },
     "license": "Other",
-    "forks": 207,
+    "forks": 208,
     "primaryLanguage": "JavaScript",
     "pushedAt": "2024-10-01T20:19:13.000Z",
     "archived": false,
@@ -24754,7 +24754,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2020-04-28T16:27:32.000Z",
-    "updatedAt": "2025-01-17T22:23:56.000Z"
+    "updatedAt": "2025-01-19T00:43:45.000Z"
   },
   {
     "id": "adobe-webplatform/Snap.svg",
@@ -31872,7 +31872,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2012-08-24T15:19:20.000Z",
-    "updatedAt": "2025-01-17T22:23:53.000Z"
+    "updatedAt": "2025-01-19T00:43:43.000Z"
   },
   {
     "id": "mediaelement/mediaelement",
@@ -37844,7 +37844,7 @@
       "name": "jimp-dev",
       "avatarUrl": "https://avatars.githubusercontent.com/u/124403982?v=4"
     },
-    "stars": 14134,
+    "stars": 14136,
     "starsDetail": {
       "total": 13988,
       "week": 22,
@@ -37862,7 +37862,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2014-09-13T22:53:45.000Z",
-    "updatedAt": "2025-01-17T22:23:53.000Z"
+    "updatedAt": "2025-01-19T00:43:43.000Z"
   },
   {
     "id": "knex/knex",
@@ -45806,9 +45806,9 @@
       "name": "ReactiveX",
       "avatarUrl": "https://avatars.githubusercontent.com/u/6407041?v=4"
     },
-    "stars": 30938,
+    "stars": 30943,
     "starsDetail": {
-      "total": 30938
+      "total": 30943
     },
     "license": "Apache License 2.0",
     "forks": 3005,
@@ -45820,7 +45820,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-03-15T06:17:10.000Z",
-    "updatedAt": "2025-01-17T22:23:57.000Z"
+    "updatedAt": "2025-01-19T00:43:46.000Z"
   },
   {
     "id": "SheetJS/sheetjs",
