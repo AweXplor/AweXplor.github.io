@@ -5994,7 +5994,7 @@
       "name": "bogdanfinn",
       "avatarUrl": "https://avatars.githubusercontent.com/u/17678241?v=4"
     },
-    "stars": 927,
+    "stars": 928,
     "starsDetail": {
       "total": 923,
       "week": 28,
@@ -6003,7 +6003,7 @@
       "updatedAt": 1736087140
     },
     "license": "BSD 4-Clause \"Original\" or \"Old\" License",
-    "forks": 171,
+    "forks": 172,
     "primaryLanguage": "Shell",
     "pushedAt": "2024-12-08T20:07:18.000Z",
     "archived": false,
@@ -6012,7 +6012,7 @@
     "goPackage": "github.com/bogdanfinn/tls-client",
     "goImportedBy": 132,
     "createdAt": "2022-07-09T20:21:20.000Z",
-    "updatedAt": "2025-01-18T15:34:10.000Z"
+    "updatedAt": "2025-01-19T17:59:05.000Z"
   },
   {
     "id": "Masterminds/squirrel",
@@ -9830,6 +9830,37 @@
     "goImportedBy": 0,
     "createdAt": "2020-02-18T18:03:33.000Z",
     "updatedAt": "2025-01-19T03:55:07.000Z"
+  },
+  {
+    "id": "formancehq/ledger",
+    "name": "formancehq/ledger",
+    "description": "A Programmable Core Ledger",
+    "topics": [
+      "ledger"
+    ],
+    "owner": {
+      "name": "formancehq",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/84325077?v=4"
+    },
+    "stars": 896,
+    "starsDetail": {
+      "total": 896,
+      "week": 1,
+      "month": 5,
+      "year": 148,
+      "updatedAt": 1737309563
+    },
+    "license": "MIT License",
+    "forks": 102,
+    "primaryLanguage": "Dockerfile",
+    "pushedAt": "2025-01-17T18:47:21.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2021-05-28T09:13:03.000Z",
+    "updatedAt": "2025-01-19T17:41:44.000Z"
   },
   {
     "id": "go-playground/webhooks",
@@ -13790,7 +13821,7 @@
       "name": "neilotoole",
       "avatarUrl": "https://avatars.githubusercontent.com/u/6013203?v=4"
     },
-    "stars": 2198,
+    "stars": 2199,
     "starsDetail": {
       "total": 2189,
       "week": 4,
@@ -13801,14 +13832,14 @@
     "license": "MIT License",
     "forks": 32,
     "primaryLanguage": "Dockerfile",
-    "pushedAt": "2025-01-13T21:33:46.000Z",
+    "pushedAt": "2025-01-19T15:23:32.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": "github.com/neilotoole/sq",
     "goImportedBy": 0,
     "createdAt": "2016-02-16T02:01:18.000Z",
-    "updatedAt": "2025-01-18T15:34:13.000Z"
+    "updatedAt": "2025-01-19T17:59:08.000Z"
   },
   {
     "id": "stephenafamo/bob",
@@ -16972,7 +17003,7 @@
       "name": "FiloSottile",
       "avatarUrl": "https://avatars.githubusercontent.com/u/1225294?v=4"
     },
-    "stars": 17934,
+    "stars": 17939,
     "starsDetail": {
       "total": 17803,
       "week": 76,
@@ -16981,7 +17012,7 @@
       "updatedAt": 1736031845
     },
     "license": "BSD 3-Clause \"New\" or \"Revised\" License",
-    "forks": 530,
+    "forks": 529,
     "primaryLanguage": "Go",
     "pushedAt": "2024-12-18T15:26:42.000Z",
     "archived": false,
@@ -16990,7 +17021,7 @@
     "goPackage": "filippo.io/age",
     "goImportedBy": 271,
     "createdAt": "2019-05-18T20:44:54.000Z",
-    "updatedAt": "2025-01-18T15:29:03.000Z"
+    "updatedAt": "2025-01-19T17:54:11.000Z"
   },
   {
     "id": "go-task/task",
@@ -26498,7 +26529,7 @@
       "name": "chapar-rest",
       "avatarUrl": "https://avatars.githubusercontent.com/u/161221508?v=4"
     },
-    "stars": 510,
+    "stars": 511,
     "starsDetail": {
       "total": 505,
       "week": 2,
@@ -26509,14 +26540,14 @@
     "license": "BSD 3-Clause \"New\" or \"Revised\" License",
     "forks": 27,
     "primaryLanguage": "Shell",
-    "pushedAt": "2025-01-16T12:15:45.000Z",
+    "pushedAt": "2025-01-19T13:43:58.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": "github.com/chapar-rest/chapar",
     "goImportedBy": 0,
     "createdAt": "2024-01-12T22:52:45.000Z",
-    "updatedAt": "2025-01-18T15:34:06.000Z"
+    "updatedAt": "2025-01-19T17:59:01.000Z"
   },
   {
     "id": "egonelbre/gophers",
@@ -37791,6 +37822,38 @@
     "updatedAt": "2025-01-18T18:40:01.000Z"
   },
   {
+    "id": "Jacobbrewer1/patcher",
+    "name": "Jacobbrewer1/patcher",
+    "description": "Powerful SQL Query builder that automatically generates SQL queries from structs",
+    "topics": [
+      "go",
+      "go-lib",
+      "go-library",
+      "golang",
+      "golang-library",
+      "sql"
+    ],
+    "owner": {
+      "name": "Jacobbrewer1",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/75381570?v=4"
+    },
+    "stars": 2,
+    "starsDetail": {
+      "total": 2
+    },
+    "license": "Apache License 2.0",
+    "forks": 1,
+    "primaryLanguage": "Makefile",
+    "pushedAt": "2025-01-19T17:07:07.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2024-10-04T07:30:16.000Z",
+    "updatedAt": "2025-01-19T17:41:43.000Z"
+  },
+  {
     "id": "Jagerente/gocfg",
     "name": "Jagerente/gocfg",
     "description": "⚙️ Golang config manager. Control your configurations using tags, unmarshal to structs, implement and inject your own value providers and parsers.",
@@ -38521,7 +38584,7 @@
     "goPackage": "github.com/Noooste/azuretls-client",
     "goImportedBy": 24,
     "createdAt": "2023-05-15T09:41:47.000Z",
-    "updatedAt": "2025-01-18T15:34:09.000Z"
+    "updatedAt": "2025-01-19T17:59:04.000Z"
   },
   {
     "id": "OGFris/GoStats",
@@ -40911,7 +40974,7 @@
     "goPackage": "github.com/adelowo/gulter",
     "goImportedBy": 2,
     "createdAt": "2024-02-13T23:17:20.000Z",
-    "updatedAt": "2025-01-18T15:34:05.000Z"
+    "updatedAt": "2025-01-19T17:58:59.000Z"
   },
   {
     "id": "adelowo/onecache",
@@ -42609,7 +42672,7 @@
     "goPackage": "github.com/andreimerlescu/entpassgen",
     "goImportedBy": 0,
     "createdAt": "2024-07-30T14:55:15.000Z",
-    "updatedAt": "2025-01-18T15:34:10.000Z"
+    "updatedAt": "2025-01-19T17:59:05.000Z"
   },
   {
     "id": "andrewstuart/goq",
@@ -44485,9 +44548,9 @@
       "name": "axzilla",
       "avatarUrl": "https://avatars.githubusercontent.com/u/26936893?v=4"
     },
-    "stars": 270,
+    "stars": 272,
     "starsDetail": {
-      "total": 270
+      "total": 272
     },
     "license": "MIT License",
     "forks": 10,
@@ -44499,7 +44562,7 @@
     "goPackage": "github.com/axzilla/templui",
     "goImportedBy": 0,
     "createdAt": "2024-10-01T14:40:11.000Z",
-    "updatedAt": "2025-01-18T15:34:06.000Z"
+    "updatedAt": "2025-01-19T17:59:00.000Z"
   },
   {
     "id": "aybabtme/portproxy",
@@ -60353,7 +60416,7 @@
     "goPackage": "github.com/jon-codes/getopt",
     "goImportedBy": 0,
     "createdAt": "2024-09-21T19:14:27.000Z",
-    "updatedAt": "2025-01-18T15:34:04.000Z"
+    "updatedAt": "2025-01-19T17:58:59.000Z"
   },
   {
     "id": "jonchun/pathtype",
@@ -65743,7 +65806,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2023-02-04T20:52:13.000Z",
-    "updatedAt": "2025-01-18T15:16:10.000Z"
+    "updatedAt": "2025-01-19T17:53:15.000Z"
   },
   {
     "id": "mlimaloureiro/golog",
@@ -67966,7 +68029,7 @@
     "goPackage": "github.com/nikolaydubina/go-enum-encoding",
     "goImportedBy": 0,
     "createdAt": "2024-03-20T02:47:21.000Z",
-    "updatedAt": "2025-01-18T15:34:05.000Z"
+    "updatedAt": "2025-01-19T17:59:00.000Z"
   },
   {
     "id": "nikolaydubina/go-featureprocessing",
@@ -72955,7 +73018,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-08-31T13:24:08.000Z",
-    "updatedAt": "2025-01-18T15:16:11.000Z"
+    "updatedAt": "2025-01-19T17:53:15.000Z"
   },
   {
     "id": "rhnvrm/simples3",
@@ -79781,7 +79844,7 @@
     "goPackage": "github.com/vadiminshakov/committer",
     "goImportedBy": 0,
     "createdAt": "2020-08-02T09:50:12.000Z",
-    "updatedAt": "2025-01-18T15:34:16.000Z"
+    "updatedAt": "2025-01-19T17:59:10.000Z"
   },
   {
     "id": "vaelen/iot",
@@ -80896,7 +80959,7 @@
     "goPackage": "github.com/webhookx-io/webhookx",
     "goImportedBy": 0,
     "createdAt": "2024-07-16T16:29:33.000Z",
-    "updatedAt": "2025-01-18T15:34:06.000Z"
+    "updatedAt": "2025-01-19T17:59:01.000Z"
   },
   {
     "id": "wellington/go-libsass",
@@ -82827,7 +82890,7 @@
     "goPackage": "github.com/yuseferi/envyaml",
     "goImportedBy": 0,
     "createdAt": "2024-09-18T14:36:39.000Z",
-    "updatedAt": "2025-01-18T15:34:09.000Z"
+    "updatedAt": "2025-01-19T17:59:03.000Z"
   },
   {
     "id": "yuseferi/gocache",

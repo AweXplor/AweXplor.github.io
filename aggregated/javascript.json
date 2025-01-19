@@ -10207,7 +10207,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-02-19T06:30:29.000Z",
-    "updatedAt": "2025-01-18T15:21:04.000Z"
+    "updatedAt": "2025-01-19T17:46:07.000Z"
   },
   {
     "id": "blueimp/JavaScript-MD5",
@@ -12781,7 +12781,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2011-06-03T19:56:33.000Z",
-    "updatedAt": "2025-01-18T15:34:07.000Z"
+    "updatedAt": "2025-01-19T17:59:02.000Z"
   },
   {
     "id": "terser/terser",
@@ -13502,7 +13502,7 @@
       "name": "tighten",
       "avatarUrl": "https://avatars.githubusercontent.com/u/5122936?v=4"
     },
-    "stars": 4000,
+    "stars": 4001,
     "starsDetail": {
       "total": 3902,
       "week": 11,
@@ -13520,7 +13520,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-08-02T21:07:04.000Z",
-    "updatedAt": "2025-01-18T15:27:44.000Z"
+    "updatedAt": "2025-01-19T17:52:52.000Z"
   },
   {
     "id": "FrDH/mmenu-js",
@@ -18310,7 +18310,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-04-23T13:02:33.000Z",
-    "updatedAt": "2025-01-18T15:20:45.000Z"
+    "updatedAt": "2025-01-19T17:45:48.000Z"
   },
   {
     "id": "xojs/xo",
@@ -22334,7 +22334,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-01-05T19:05:31.000Z",
-    "updatedAt": "2025-01-18T15:21:41.000Z"
+    "updatedAt": "2025-01-19T17:47:04.000Z"
   },
   {
     "id": "clappr/clappr",
@@ -22659,6 +22659,44 @@
     "goImportedBy": null,
     "createdAt": "2023-02-13T13:51:45.000Z",
     "updatedAt": "2025-01-19T04:04:43.000Z"
+  },
+  {
+    "id": "mouredev/hello-javascript",
+    "name": "mouredev/hello-javascript",
+    "description": "Curso para aprender el lenguaje de programación JavaScript desde cero y para principiantes. 45 clases, +6 horas en vídeo y 130 ejercicios.",
+    "topics": [
+      "ecmascript",
+      "javascript",
+      "javascript-vanilla",
+      "js",
+      "nodejs",
+      "tutorial",
+      "vanilla-javascript",
+      "vanilla-js"
+    ],
+    "owner": {
+      "name": "mouredev",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/17043402?v=4"
+    },
+    "stars": 3859,
+    "starsDetail": {
+      "total": 3859,
+      "week": 53,
+      "month": 267,
+      "year": 3859,
+      "updatedAt": 1737309561
+    },
+    "license": "Apache License 2.0",
+    "forks": 570,
+    "primaryLanguage": "JavaScript",
+    "pushedAt": "2024-11-22T14:49:48.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2024-07-01T09:30:17.000Z",
+    "updatedAt": "2025-01-19T17:41:43.000Z"
   },
   {
     "id": "brave/brave-browser",
@@ -23958,33 +23996,33 @@
     "updatedAt": "2025-01-19T03:59:24.000Z"
   },
   {
-    "id": "kkevsekk1/AutoX",
-    "name": "kkevsekk1/AutoX",
-    "description": "A UiAutomator on android, does not need root access(安卓平台上的JavaScript自动化工具)",
+    "id": "0xfe/vexflow",
+    "name": "0xfe/vexflow",
+    "description": "A JavaScript library for rendering music notation and guitar tablature.",
     "topics": [],
     "owner": {
-      "name": "kkevsekk1",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/16631944?v=4"
+      "name": "0xfe",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/241299?v=4"
     },
-    "stars": 8270,
+    "stars": 3965,
     "starsDetail": {
-      "total": 7723,
-      "week": 71,
-      "month": 237,
-      "year": 3494,
-      "updatedAt": 1729322549
+      "total": 3965,
+      "week": 4,
+      "month": 23,
+      "year": 268,
+      "updatedAt": 1737309558
     },
     "license": "Other",
-    "forks": 1943,
-    "primaryLanguage": "Nix",
-    "pushedAt": "2025-01-02T15:10:13.000Z",
+    "forks": 668,
+    "primaryLanguage": "Python",
+    "pushedAt": "2024-08-26T20:16:59.000Z",
     "archived": false,
-    "npmPackage": "",
+    "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
-    "createdAt": "2020-07-21T14:05:38.000Z",
-    "updatedAt": "2025-01-05T17:46:30.000Z"
+    "createdAt": "2010-08-03T14:47:36.000Z",
+    "updatedAt": "2025-01-19T17:41:42.000Z"
   },
   {
     "id": "Haehnchen/crypto-trading-bot",
@@ -24666,6 +24704,37 @@
     "goImportedBy": 0,
     "createdAt": "2010-06-09T22:24:38.000Z",
     "updatedAt": "2025-01-19T03:44:56.000Z"
+  },
+  {
+    "id": "WhiskeySockets/Baileys",
+    "name": "WhiskeySockets/Baileys",
+    "description": "Lightweight full-featured typescript/javascript WhatsApp Web API",
+    "topics": [
+      "hacktoberfest"
+    ],
+    "owner": {
+      "name": "WhiskeySockets",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/131354555?v=4"
+    },
+    "stars": 4408,
+    "starsDetail": {
+      "total": 4408,
+      "week": 61,
+      "month": 214,
+      "year": 2533,
+      "updatedAt": 1737309561
+    },
+    "license": "MIT License",
+    "forks": 1514,
+    "primaryLanguage": "Shell",
+    "pushedAt": "2025-01-12T23:47:40.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2022-01-12T20:38:14.000Z",
+    "updatedAt": "2025-01-19T17:41:42.000Z"
   },
   {
     "id": "fingerprintjs/fingerprintjs",
@@ -34615,7 +34684,7 @@
       "name": "vuelidate",
       "avatarUrl": "https://avatars.githubusercontent.com/u/48122861?v=4"
     },
-    "stars": 6900,
+    "stars": 6901,
     "starsDetail": {
       "total": 6868,
       "week": 5,
@@ -34633,7 +34702,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-11-05T14:30:37.000Z",
-    "updatedAt": "2025-01-18T15:20:52.000Z"
+    "updatedAt": "2025-01-19T17:45:55.000Z"
   },
   {
     "id": "waylaidwanderer/node-chatgpt-api",
@@ -45308,12 +45377,12 @@
       "name": "DopplerHQ",
       "avatarUrl": "https://avatars.githubusercontent.com/u/34022344?v=4"
     },
-    "stars": 72679,
+    "stars": 72692,
     "starsDetail": {
-      "total": 72679
+      "total": 72692
     },
     "license": null,
-    "forks": 8970,
+    "forks": 8969,
     "primaryLanguage": "",
     "pushedAt": "2024-07-29T14:21:23.000Z",
     "archived": true,
@@ -45322,7 +45391,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-11-28T09:48:17.000Z",
-    "updatedAt": "2025-01-18T15:21:50.000Z"
+    "updatedAt": "2025-01-19T17:47:13.000Z"
   },
   {
     "id": "EvandroLG/selecting",
@@ -45919,21 +45988,21 @@
       "name": "TanStack",
       "avatarUrl": "https://avatars.githubusercontent.com/u/72518640?v=4"
     },
-    "stars": 43403,
+    "stars": 43413,
     "starsDetail": {
-      "total": 43403
+      "total": 43413
     },
     "license": "MIT License",
-    "forks": 2986,
+    "forks": 2987,
     "primaryLanguage": "CSS",
-    "pushedAt": "2025-01-17T12:20:44.000Z",
+    "pushedAt": "2025-01-19T08:57:20.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-09-10T19:23:58.000Z",
-    "updatedAt": "2025-01-18T15:20:55.000Z"
+    "updatedAt": "2025-01-19T17:45:58.000Z"
   },
   {
     "id": "TheAlgorithms/JavaScript",

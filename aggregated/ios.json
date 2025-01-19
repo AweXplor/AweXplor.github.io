@@ -6375,7 +6375,7 @@
       "name": "exyte",
       "avatarUrl": "https://avatars.githubusercontent.com/u/10406525?v=4"
     },
-    "stars": 1038,
+    "stars": 1039,
     "starsDetail": {
       "total": 1015,
       "week": 10,
@@ -6393,7 +6393,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2022-05-23T07:29:19.000Z",
-    "updatedAt": "2025-01-18T15:22:41.000Z"
+    "updatedAt": "2025-01-19T17:47:15.000Z"
   },
   {
     "id": "0xced/XCDYouTubeKit",
@@ -8286,7 +8286,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2023-02-10T22:48:37.000Z",
-    "updatedAt": "2025-01-18T15:22:55.000Z"
+    "updatedAt": "2025-01-19T17:47:28.000Z"
   },
   {
     "id": "krzysztofzablocki/Sourcery",
@@ -9221,7 +9221,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-04-08T14:57:55.000Z",
-    "updatedAt": "2025-01-18T15:22:44.000Z"
+    "updatedAt": "2025-01-19T17:47:19.000Z"
   },
   {
     "id": "Ramotion/circle-menu",
@@ -19329,7 +19329,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-06-22T18:56:17.000Z",
-    "updatedAt": "2025-01-18T15:22:55.000Z"
+    "updatedAt": "2025-01-19T17:47:28.000Z"
   },
   {
     "id": "SVGKit/SVGKit",
@@ -25862,7 +25862,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-04-11T20:52:23.000Z",
-    "updatedAt": "2025-01-18T15:22:39.000Z"
+    "updatedAt": "2025-01-19T17:47:14.000Z"
   },
   {
     "id": "shu223/PulsingHalo",
@@ -41298,12 +41298,12 @@
       "name": "DopplerHQ",
       "avatarUrl": "https://avatars.githubusercontent.com/u/34022344?v=4"
     },
-    "stars": 72679,
+    "stars": 72692,
     "starsDetail": {
-      "total": 72679
+      "total": 72692
     },
     "license": null,
-    "forks": 8970,
+    "forks": 8969,
     "primaryLanguage": "",
     "pushedAt": "2024-07-29T14:21:23.000Z",
     "archived": true,
@@ -41312,7 +41312,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-11-28T09:48:17.000Z",
-    "updatedAt": "2025-01-18T15:21:50.000Z"
+    "updatedAt": "2025-01-19T17:47:13.000Z"
   },
   {
     "id": "DrewKiino/Atlantis",
@@ -61537,7 +61537,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-12-01T03:59:46.000Z",
-    "updatedAt": "2025-01-18T15:22:51.000Z"
+    "updatedAt": "2025-01-19T17:47:25.000Z"
   },
   {
     "id": "mukeshthawani/TriLabelView",
@@ -66472,7 +66472,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-03-31T19:10:54.000Z",
-    "updatedAt": "2025-01-18T15:22:48.000Z"
+    "updatedAt": "2025-01-19T17:47:22.000Z"
   },
   {
     "id": "sgr-ksmt/Alertift",
@@ -67725,7 +67725,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-07-14T13:20:19.000Z",
-    "updatedAt": "2025-01-18T15:23:00.000Z"
+    "updatedAt": "2025-01-19T17:47:33.000Z"
   },
   {
     "id": "suzuki-0000/AnimatablePlayButton",

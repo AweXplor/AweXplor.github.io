@@ -1125,7 +1125,7 @@
       "name": "LaurentMazare",
       "avatarUrl": "https://avatars.githubusercontent.com/u/1041292?v=4"
     },
-    "stars": 4503,
+    "stars": 4508,
     "starsDetail": {
       "total": 4463,
       "week": 16,
@@ -1143,7 +1143,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-02-16T21:08:44.000Z",
-    "updatedAt": "2025-01-18T15:30:16.000Z"
+    "updatedAt": "2025-01-19T17:55:21.000Z"
   },
   {
     "id": "trekhleb/homemade-machine-learning",
@@ -1273,7 +1273,7 @@
       "name": "pymc-devs",
       "avatarUrl": "https://avatars.githubusercontent.com/u/81121?v=4"
     },
-    "stars": 8829,
+    "stars": 8828,
     "starsDetail": {
       "total": 8811,
       "week": [
@@ -1295,7 +1295,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2009-05-05T09:43:50.000Z",
-    "updatedAt": "2025-01-18T15:16:41.000Z"
+    "updatedAt": "2025-01-19T17:44:20.000Z"
   },
   {
     "id": "JuliaStats/GLM.jl",
@@ -2151,7 +2151,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-12-03T21:48:17.000Z",
-    "updatedAt": "2025-01-18T15:30:16.000Z"
+    "updatedAt": "2025-01-19T17:55:21.000Z"
   },
   {
     "id": "mit-nlp/MITIE",
@@ -2751,7 +2751,7 @@
       "name": "rust-ml",
       "avatarUrl": "https://avatars.githubusercontent.com/u/50020044?v=4"
     },
-    "stars": 3880,
+    "stars": 3883,
     "starsDetail": {
       "total": 3838,
       "week": 14,
@@ -2769,7 +2769,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-04-05T07:03:30.000Z",
-    "updatedAt": "2025-01-18T15:30:17.000Z"
+    "updatedAt": "2025-01-19T17:55:22.000Z"
   },
   {
     "id": "madmaze/pytesseract",
@@ -4039,7 +4039,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-10-26T08:20:56.000Z",
-    "updatedAt": "2025-01-18T15:30:13.000Z"
+    "updatedAt": "2025-01-19T17:55:18.000Z"
   },
   {
     "id": "chaos-genius/chaos_genius",
@@ -5038,7 +5038,7 @@
       "name": "guillaume-be",
       "avatarUrl": "https://avatars.githubusercontent.com/u/27071604?v=4"
     },
-    "stars": 2711,
+    "stars": 2714,
     "starsDetail": {
       "total": 2705,
       "week": 2,
@@ -5056,7 +5056,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2020-01-25T09:40:07.000Z",
-    "updatedAt": "2025-01-18T15:30:15.000Z"
+    "updatedAt": "2025-01-19T17:55:19.000Z"
   },
   {
     "id": "scikit-image/scikit-image",
@@ -6026,7 +6026,7 @@
       "name": "tracel-ai",
       "avatarUrl": "https://avatars.githubusercontent.com/u/111992358?v=4"
     },
-    "stars": 9459,
+    "stars": 9477,
     "starsDetail": {
       "total": 9324,
       "week": 50,
@@ -6035,7 +6035,7 @@
       "updatedAt": 1736032009
     },
     "license": "Apache License 2.0",
-    "forks": 474,
+    "forks": 477,
     "primaryLanguage": "RenderScript",
     "pushedAt": "2025-01-16T20:33:28.000Z",
     "archived": false,
@@ -6044,7 +6044,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2022-07-18T23:11:45.000Z",
-    "updatedAt": "2025-01-18T15:30:14.000Z"
+    "updatedAt": "2025-01-19T17:55:18.000Z"
   },
   {
     "id": "leoxiaobin/deep-high-resolution-net.pytorch",
@@ -6155,7 +6155,7 @@
       "name": "huggingface",
       "avatarUrl": "https://avatars.githubusercontent.com/u/25720743?v=4"
     },
-    "stars": 16321,
+    "stars": 16328,
     "starsDetail": {
       "total": 16195,
       "week": 55,
@@ -6173,7 +6173,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2023-06-19T16:06:31.000Z",
-    "updatedAt": "2025-01-18T15:30:16.000Z"
+    "updatedAt": "2025-01-19T17:55:20.000Z"
   },
   {
     "id": "benedekrozemberczki/pytorch_geometric_temporal",
@@ -7769,7 +7769,7 @@
       "name": "VowpalWabbit",
       "avatarUrl": "https://avatars.githubusercontent.com/u/43754238?v=4"
     },
-    "stars": 8515,
+    "stars": 8516,
     "starsDetail": {
       "total": 8506,
       "week": [
@@ -7791,7 +7791,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2009-07-31T19:36:58.000Z",
-    "updatedAt": "2025-01-18T15:16:34.000Z"
+    "updatedAt": "2025-01-19T17:44:13.000Z"
   },
   {
     "id": "clips/pattern",
@@ -7980,7 +7980,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-05-08T05:14:51.000Z",
-    "updatedAt": "2025-01-18T15:30:17.000Z"
+    "updatedAt": "2025-01-19T17:55:22.000Z"
   },
   {
     "id": "SerpentAI/SerpentAI",
@@ -8125,7 +8125,7 @@
       "name": "coreylowman",
       "avatarUrl": "https://avatars.githubusercontent.com/u/7787278?v=4"
     },
-    "stars": 1767,
+    "stars": 1768,
     "starsDetail": {
       "total": 1762,
       "week": 4,
@@ -8143,7 +8143,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2021-10-12T02:58:54.000Z",
-    "updatedAt": "2025-01-18T15:30:15.000Z"
+    "updatedAt": "2025-01-19T17:55:19.000Z"
   },
   {
     "id": "mljar/mljar-supervised",
@@ -9139,7 +9139,7 @@
       "name": "huggingface",
       "avatarUrl": "https://avatars.githubusercontent.com/u/25720743?v=4"
     },
-    "stars": 9264,
+    "stars": 9266,
     "starsDetail": {
       "total": 9220,
       "week": 26,
@@ -9157,7 +9157,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-11-01T17:52:20.000Z",
-    "updatedAt": "2025-01-18T15:30:16.000Z"
+    "updatedAt": "2025-01-19T17:55:20.000Z"
   },
   {
     "id": "sympy/sympy",
@@ -19854,12 +19854,12 @@
       "name": "opencv",
       "avatarUrl": "https://avatars.githubusercontent.com/u/5009934?v=4"
     },
-    "stars": 80121,
+    "stars": 80135,
     "starsDetail": {
-      "total": 80121
+      "total": 80135
     },
     "license": "Apache License 2.0",
-    "forks": 55941,
+    "forks": 55943,
     "primaryLanguage": "Dockerfile",
     "pushedAt": "2025-01-18T13:15:04.000Z",
     "archived": false,
@@ -19868,7 +19868,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2012-07-19T09:40:17.000Z",
-    "updatedAt": "2025-01-18T15:21:32.000Z"
+    "updatedAt": "2025-01-19T17:46:55.000Z"
   },
   {
     "id": "oxinabox/DataDeps.jl",
