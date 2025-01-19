@@ -7673,7 +7673,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-10-23T07:00:47.000Z",
-    "updatedAt": "2025-01-18T09:00:43.000Z"
+    "updatedAt": "2025-01-19T11:26:03.000Z"
   },
   {
     "id": "scalameta/munit",
@@ -8206,7 +8206,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2020-10-30T21:53:24.000Z",
-    "updatedAt": "2025-01-18T05:45:48.000Z"
+    "updatedAt": "2025-01-19T11:26:03.000Z"
   },
   {
     "id": "typelevel/jawn",
