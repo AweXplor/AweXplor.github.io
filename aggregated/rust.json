@@ -5826,7 +5826,7 @@
       "name": "trynova",
       "avatarUrl": "https://avatars.githubusercontent.com/u/108045716?v=4"
     },
-    "stars": 1037,
+    "stars": 1040,
     "starsDetail": {
       "total": 1008,
       "week": 19,
@@ -5837,14 +5837,14 @@
     "license": "Mozilla Public License 2.0",
     "forks": 38,
     "primaryLanguage": "JavaScript",
-    "pushedAt": "2025-01-17T19:29:53.000Z",
+    "pushedAt": "2025-01-18T22:34:56.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2022-08-24T20:23:44.000Z",
-    "updatedAt": "2025-01-18T05:02:20.000Z"
+    "updatedAt": "2025-01-19T07:24:26.000Z"
   },
   {
     "id": "Canop/bacon",
@@ -27849,7 +27849,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-09-26T17:21:44.000Z",
-    "updatedAt": "2025-01-18T05:02:19.000Z"
+    "updatedAt": "2025-01-19T07:24:26.000Z"
   },
   {
     "id": "bitfield/cargo-testdox",
@@ -32336,7 +32336,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-11-07T13:52:54.000Z",
-    "updatedAt": "2025-01-18T05:56:28.000Z"
+    "updatedAt": "2025-01-19T08:21:43.000Z"
   },
   {
     "id": "ivanceras/rustorm",

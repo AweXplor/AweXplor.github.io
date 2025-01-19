@@ -516,7 +516,7 @@
       "name": "antonmedv",
       "avatarUrl": "https://avatars.githubusercontent.com/u/141232?v=4"
     },
-    "stars": 19197,
+    "stars": 19200,
     "starsDetail": {
       "total": 19161,
       "week": 38,
@@ -534,7 +534,7 @@
     "goPackage": "github.com/antonmedv/fx",
     "goImportedBy": 0,
     "createdAt": "2018-01-25T17:29:43.000Z",
-    "updatedAt": "2025-01-18T05:49:07.000Z"
+    "updatedAt": "2025-01-19T08:13:56.000Z"
   },
   {
     "id": "moovweb/gvm",
@@ -12561,7 +12561,7 @@
     "goPackage": "github.com/itchyny/bed",
     "goImportedBy": 0,
     "createdAt": "2018-04-09T22:06:07.000Z",
-    "updatedAt": "2025-01-18T05:02:21.000Z"
+    "updatedAt": "2025-01-19T07:24:27.000Z"
   },
   {
     "id": "jessevdk/go-flags",
@@ -31296,7 +31296,7 @@
       "name": "goravel",
       "avatarUrl": "https://avatars.githubusercontent.com/u/93197157?v=4"
     },
-    "stars": 3104,
+    "stars": 3105,
     "starsDetail": {
       "total": 3090,
       "week": 19,
@@ -31314,7 +31314,7 @@
     "goPackage": "",
     "goImportedBy": 0,
     "createdAt": "2021-10-26T11:44:00.000Z",
-    "updatedAt": "2025-01-18T05:02:22.000Z"
+    "updatedAt": "2025-01-19T07:24:28.000Z"
   },
   {
     "id": "todotxt/todo.txt",
@@ -36870,21 +36870,21 @@
       "name": "Eyevinn",
       "avatarUrl": "https://avatars.githubusercontent.com/u/7300575?v=4"
     },
-    "stars": 489,
+    "stars": 490,
     "starsDetail": {
-      "total": 489
+      "total": 490
     },
     "license": "MIT License",
     "forks": 86,
     "primaryLanguage": "Makefile",
-    "pushedAt": "2025-01-17T14:24:27.000Z",
+    "pushedAt": "2025-01-18T21:43:38.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": "github.com/Eyevinn/mp4ff",
     "goImportedBy": 0,
     "createdAt": "2020-01-30T16:41:52.000Z",
-    "updatedAt": "2025-01-18T05:02:21.000Z"
+    "updatedAt": "2025-01-19T07:24:27.000Z"
   },
   {
     "id": "FeatureBaseDB/go-pilosa",
@@ -62704,7 +62704,7 @@
     "goPackage": "",
     "goImportedBy": 0,
     "createdAt": "2023-08-08T16:44:43.000Z",
-    "updatedAt": "2025-01-18T05:56:28.000Z"
+    "updatedAt": "2025-01-19T08:21:44.000Z"
   },
   {
     "id": "leonelquinteros/gotext",
@@ -67261,7 +67261,7 @@
     "goPackage": "github.com/naughtygopher/pocache",
     "goImportedBy": 0,
     "createdAt": "2024-10-04T15:38:31.000Z",
-    "updatedAt": "2025-01-18T05:02:20.000Z"
+    "updatedAt": "2025-01-19T07:24:27.000Z"
   },
   {
     "id": "naughtygopher/webgo",
@@ -72178,7 +72178,7 @@
     "goPackage": "github.com/rajnandan1/go-tripper",
     "goImportedBy": 0,
     "createdAt": "2024-03-06T02:21:06.000Z",
-    "updatedAt": "2025-01-18T05:02:20.000Z"
+    "updatedAt": "2025-01-19T07:24:27.000Z"
   },
   {
     "id": "rapito/go-shopify",

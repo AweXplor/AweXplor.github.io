@@ -21,7 +21,7 @@
       "updatedAt": 1736062087
     },
     "license": "MIT License",
-    "forks": 109,
+    "forks": 108,
     "primaryLanguage": "JavaScript",
     "pushedAt": "2024-10-02T21:17:03.000Z",
     "archived": false,
@@ -30,7 +30,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2014-10-21T19:19:27.000Z",
-    "updatedAt": "2025-01-18T05:52:46.000Z"
+    "updatedAt": "2025-01-19T08:17:49.000Z"
   },
   {
     "id": "developit/mitt",
@@ -50,7 +50,7 @@
       "name": "developit",
       "avatarUrl": "https://avatars.githubusercontent.com/u/105127?v=4"
     },
-    "stars": 11026,
+    "stars": 11028,
     "starsDetail": {
       "total": 10990,
       "week": 11,
@@ -68,7 +68,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-01-15T01:10:50.000Z",
-    "updatedAt": "2025-01-18T05:11:41.000Z"
+    "updatedAt": "2025-01-19T07:34:19.000Z"
   },
   {
     "id": "davidmerfield/randomColor",
@@ -118,7 +118,7 @@
       "name": "molefrog",
       "avatarUrl": "https://avatars.githubusercontent.com/u/671276?v=4"
     },
-    "stars": 6900,
+    "stars": 6903,
     "starsDetail": {
       "total": 6859,
       "week": 34,
@@ -127,7 +127,7 @@
       "updatedAt": 1736062098
     },
     "license": "The Unlicense",
-    "forks": 156,
+    "forks": 157,
     "primaryLanguage": "JavaScript",
     "pushedAt": "2025-01-11T05:29:44.000Z",
     "archived": false,
@@ -136,7 +136,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-04-09T17:36:41.000Z",
-    "updatedAt": "2025-01-18T05:52:51.000Z"
+    "updatedAt": "2025-01-19T08:17:54.000Z"
   },
   {
     "id": "remeda/remeda",
@@ -152,7 +152,7 @@
       "name": "remeda",
       "avatarUrl": "https://avatars.githubusercontent.com/u/39049333?v=4"
     },
-    "stars": 4674,
+    "stars": 4678,
     "starsDetail": {
       "total": 4651,
       "week": 18,
@@ -163,14 +163,14 @@
     "license": "MIT License",
     "forks": 143,
     "primaryLanguage": "JavaScript",
-    "pushedAt": "2025-01-17T18:18:38.000Z",
+    "pushedAt": "2025-01-18T10:08:49.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-05-07T08:56:53.000Z",
-    "updatedAt": "2025-01-18T05:52:56.000Z"
+    "updatedAt": "2025-01-19T08:18:00.000Z"
   },
   {
     "id": "marpple/FxTS",
@@ -216,7 +216,7 @@
       "name": "Glench",
       "avatarUrl": "https://avatars.githubusercontent.com/u/451461?v=4"
     },
-    "stars": 1373,
+    "stars": 1374,
     "starsDetail": {
       "total": 1372,
       "week": 3,
@@ -234,7 +234,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2012-12-27T02:07:33.000Z",
-    "updatedAt": "2025-01-18T05:53:06.000Z"
+    "updatedAt": "2025-01-19T08:18:10.000Z"
   },
   {
     "id": "bevacqua/fuzzysearch",
@@ -263,7 +263,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-03-03T19:52:53.000Z",
-    "updatedAt": "2025-01-18T05:53:05.000Z"
+    "updatedAt": "2025-01-19T08:18:09.000Z"
   },
   {
     "id": "selfrefactor/rambda",
@@ -332,7 +332,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-07-31T00:37:40.000Z",
-    "updatedAt": "2025-01-18T05:53:02.000Z"
+    "updatedAt": "2025-01-19T08:18:05.000Z"
   },
   {
     "id": "developit/unfetch",
@@ -369,7 +369,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-02-22T05:59:42.000Z",
-    "updatedAt": "2025-01-18T05:52:54.000Z"
+    "updatedAt": "2025-01-19T08:17:56.000Z"
   },
   {
     "id": "frejs/fre",
@@ -411,7 +411,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-07-28T06:46:46.000Z",
-    "updatedAt": "2025-01-18T05:52:45.000Z"
+    "updatedAt": "2025-01-19T08:17:47.000Z"
   },
   {
     "id": "lukeed/navaid",
@@ -581,7 +581,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2022-08-08T21:29:28.000Z",
-    "updatedAt": "2025-01-18T05:52:49.000Z"
+    "updatedAt": "2025-01-19T08:17:51.000Z"
   },
   {
     "id": "vanjs-org/van",
@@ -612,7 +612,7 @@
       "name": "vanjs-org",
       "avatarUrl": "https://avatars.githubusercontent.com/u/132869025?v=4"
     },
-    "stars": 3967,
+    "stars": 3969,
     "starsDetail": {
       "total": 3951,
       "week": 11,
@@ -630,7 +630,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2023-05-08T05:45:31.000Z",
-    "updatedAt": "2025-01-18T05:52:45.000Z"
+    "updatedAt": "2025-01-19T08:17:48.000Z"
   },
   {
     "id": "vercel/ms",
@@ -683,7 +683,7 @@
       "name": "fabian-hiller",
       "avatarUrl": "https://avatars.githubusercontent.com/u/35291865?v=4"
     },
-    "stars": 6792,
+    "stars": 6797,
     "starsDetail": {
       "total": 6719,
       "week": 33,
@@ -701,7 +701,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2023-07-07T10:31:24.000Z",
-    "updatedAt": "2025-01-18T05:52:57.000Z"
+    "updatedAt": "2025-01-19T08:18:00.000Z"
   },
   {
     "id": "elbywan/wretch",
@@ -828,7 +828,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-08-29T06:34:52.000Z",
-    "updatedAt": "2025-01-18T05:53:01.000Z"
+    "updatedAt": "2025-01-19T08:18:04.000Z"
   },
   {
     "id": "lukeed/regexparam",
@@ -862,7 +862,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-04-08T21:02:42.000Z",
-    "updatedAt": "2025-01-18T05:52:52.000Z"
+    "updatedAt": "2025-01-19T08:17:55.000Z"
   },
   {
     "id": "lukeed/tinydate",
@@ -898,7 +898,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-05-02T01:09:25.000Z",
-    "updatedAt": "2025-01-18T05:52:55.000Z"
+    "updatedAt": "2025-01-19T08:17:58.000Z"
   },
   {
     "id": "lukeed/uid",
@@ -927,7 +927,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2020-03-03T07:51:36.000Z",
-    "updatedAt": "2025-01-18T05:52:58.000Z"
+    "updatedAt": "2025-01-19T08:18:01.000Z"
   },
   {
     "id": "staltz/callbag-basics",
@@ -962,7 +962,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-01-29T10:58:59.000Z",
-    "updatedAt": "2025-01-18T05:52:51.000Z"
+    "updatedAt": "2025-01-19T08:17:53.000Z"
   },
   {
     "id": "storeon/storeon",
@@ -991,7 +991,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-03-16T04:52:02.000Z",
-    "updatedAt": "2025-01-18T05:52:48.000Z"
+    "updatedAt": "2025-01-19T08:17:51.000Z"
   },
   {
     "id": "teafuljs/teaful",
@@ -1033,7 +1033,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2021-03-11T20:18:22.000Z",
-    "updatedAt": "2025-01-18T05:52:49.000Z"
+    "updatedAt": "2025-01-19T08:17:51.000Z"
   },
   {
     "id": "NaturalNode/natural",
@@ -1096,7 +1096,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-05-25T23:17:03.000Z",
-    "updatedAt": "2025-01-18T05:53:00.000Z"
+    "updatedAt": "2025-01-19T08:18:03.000Z"
   },
   {
     "id": "imbrn/v8n",
@@ -1163,7 +1163,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-05-19T12:53:23.000Z",
-    "updatedAt": "2025-01-18T05:52:45.000Z"
+    "updatedAt": "2025-01-19T08:17:48.000Z"
   },
   {
     "id": "lukeed/rosetta",
@@ -1192,7 +1192,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2020-03-19T01:29:35.000Z",
-    "updatedAt": "2025-01-18T05:52:54.000Z"
+    "updatedAt": "2025-01-19T08:17:57.000Z"
   },
   {
     "id": "redom/redom",
@@ -1239,7 +1239,7 @@
       "name": "nanostores",
       "avatarUrl": "https://avatars.githubusercontent.com/u/85066968?v=4"
     },
-    "stars": 5720,
+    "stars": 5723,
     "starsDetail": {
       "total": 5660,
       "week": 26,
@@ -1257,7 +1257,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2020-10-14T19:51:28.000Z",
-    "updatedAt": "2025-01-18T05:52:47.000Z"
+    "updatedAt": "2025-01-19T08:17:50.000Z"
   },
   {
     "id": "justin-schroeder/arrow-js",
@@ -1294,7 +1294,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2022-11-08T22:29:40.000Z",
-    "updatedAt": "2025-01-18T05:52:46.000Z"
+    "updatedAt": "2025-01-19T08:17:48.000Z"
   },
   {
     "id": "ai/nanoid",
@@ -1352,7 +1352,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-08-23T22:00:17.000Z",
-    "updatedAt": "2025-01-18T05:52:53.000Z"
+    "updatedAt": "2025-01-19T08:17:55.000Z"
   },
   {
     "id": "jorgebucaran/hyperapp",
@@ -1447,7 +1447,7 @@
       "name": "lingui",
       "avatarUrl": "https://avatars.githubusercontent.com/u/11225539?v=4"
     },
-    "stars": 4819,
+    "stars": 4820,
     "starsDetail": {
       "total": 4801,
       "week": 17,
@@ -1465,7 +1465,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-01-17T17:26:46.000Z",
-    "updatedAt": "2025-01-18T05:52:55.000Z"
+    "updatedAt": "2025-01-19T08:17:58.000Z"
   },
   {
     "id": "ai/nanoevents",
@@ -1476,7 +1476,7 @@
       "name": "ai",
       "avatarUrl": "https://avatars.githubusercontent.com/u/19343?v=4"
     },
-    "stars": 1508,
+    "stars": 1507,
     "starsDetail": {
       "total": 1504,
       "week": [
@@ -1498,7 +1498,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-09-20T05:47:44.000Z",
-    "updatedAt": "2025-01-18T05:52:47.000Z"
+    "updatedAt": "2025-01-19T08:17:49.000Z"
   },
   {
     "id": "omgovich/colord",
@@ -1527,7 +1527,7 @@
       "name": "omgovich",
       "avatarUrl": "https://avatars.githubusercontent.com/u/206567?v=4"
     },
-    "stars": 1709,
+    "stars": 1708,
     "starsDetail": {
       "total": 1706,
       "week": 1,
@@ -1545,7 +1545,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2020-11-27T10:47:20.000Z",
-    "updatedAt": "2025-01-18T05:52:59.000Z"
+    "updatedAt": "2025-01-19T08:18:02.000Z"
   },
   {
     "id": "aweary/tinytime",
@@ -1578,7 +1578,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-01-19T23:37:50.000Z",
-    "updatedAt": "2025-01-18T05:52:55.000Z"
+    "updatedAt": "2025-01-19T08:17:58.000Z"
   },
   {
     "id": "developit/unistore",
@@ -1614,7 +1614,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-12-06T18:15:34.000Z",
-    "updatedAt": "2025-01-18T05:52:48.000Z"
+    "updatedAt": "2025-01-19T08:17:51.000Z"
   },
   {
     "id": "kbrsh/wade",
@@ -1643,7 +1643,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-05-21T01:53:54.000Z",
-    "updatedAt": "2025-01-18T05:53:02.000Z"
+    "updatedAt": "2025-01-19T08:18:06.000Z"
   },
   {
     "id": "mattyork/fuzzy",
@@ -1672,7 +1672,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2012-07-15T08:31:52.000Z",
-    "updatedAt": "2025-01-18T05:53:04.000Z"
+    "updatedAt": "2025-01-19T08:18:08.000Z"
   },
   {
     "id": "paldepind/flyd",
@@ -1701,7 +1701,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-02-25T21:50:16.000Z",
-    "updatedAt": "2025-01-18T05:52:51.000Z"
+    "updatedAt": "2025-01-19T08:17:53.000Z"
   },
   {
     "id": "GoogleChromeLabs/pointer-tracker",
@@ -1726,7 +1726,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-10-10T18:16:47.000Z",
-    "updatedAt": "2025-01-18T05:53:00.000Z"
+    "updatedAt": "2025-01-19T08:18:04.000Z"
   },
   {
     "id": "MihaiValentin/lunr-languages",
@@ -1758,7 +1758,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2014-04-20T15:41:13.000Z",
-    "updatedAt": "2025-01-18T05:53:04.000Z"
+    "updatedAt": "2025-01-19T08:18:08.000Z"
   },
   {
     "id": "WebReflection/usignal",
@@ -1783,7 +1783,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2022-09-09T07:37:44.000Z",
-    "updatedAt": "2025-01-18T05:52:49.000Z"
+    "updatedAt": "2025-01-19T08:17:52.000Z"
   },
   {
     "id": "antonioru/deep-waters",
@@ -1817,7 +1817,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2020-04-25T14:46:54.000Z",
-    "updatedAt": "2025-01-18T05:52:57.000Z"
+    "updatedAt": "2025-01-19T08:18:00.000Z"
   },
   {
     "id": "cdonohue/polychrome",
@@ -1850,7 +1850,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-03-21T14:06:26.000Z",
-    "updatedAt": "2025-01-18T05:52:59.000Z"
+    "updatedAt": "2025-01-19T08:18:03.000Z"
   },
   {
     "id": "date-fns/date-fns",
@@ -1916,7 +1916,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-12-31T15:13:10.000Z",
-    "updatedAt": "2025-01-18T05:52:50.000Z"
+    "updatedAt": "2025-01-19T08:17:53.000Z"
   },
   {
     "id": "fabiospampinato/flimsy",
@@ -1946,7 +1946,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2022-08-13T14:18:30.000Z",
-    "updatedAt": "2025-01-18T05:52:49.000Z"
+    "updatedAt": "2025-01-19T08:17:52.000Z"
   },
   {
     "id": "fortnightlabs/snowball-js",
@@ -1971,7 +1971,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2011-03-09T23:16:34.000Z",
-    "updatedAt": "2025-01-18T05:53:04.000Z"
+    "updatedAt": "2025-01-19T08:18:07.000Z"
   },
   {
     "id": "fwextensions/quick-score",
@@ -2002,7 +2002,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-07-14T21:40:29.000Z",
-    "updatedAt": "2025-01-18T05:53:06.000Z"
+    "updatedAt": "2025-01-19T08:18:10.000Z"
   },
   {
     "id": "hustcc/onfire.js",
@@ -2032,7 +2032,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-07-15T07:10:34.000Z",
-    "updatedAt": "2025-01-18T05:52:47.000Z"
+    "updatedAt": "2025-01-19T08:17:49.000Z"
   },
   {
     "id": "iamkun/dayjs",
@@ -2108,7 +2108,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-05-10T13:59:53.000Z",
-    "updatedAt": "2025-01-18T05:52:54.000Z"
+    "updatedAt": "2025-01-19T08:17:58.000Z"
   },
   {
     "id": "jedp/porter-stemmer",
@@ -2133,7 +2133,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2011-04-20T03:58:26.000Z",
-    "updatedAt": "2025-01-18T05:53:03.000Z"
+    "updatedAt": "2025-01-19T08:18:07.000Z"
   },
   {
     "id": "jhawthorn/fzy.js",
@@ -2163,7 +2163,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-11-04T00:34:12.000Z",
-    "updatedAt": "2025-01-18T05:53:05.000Z"
+    "updatedAt": "2025-01-19T08:18:09.000Z"
   },
   {
     "id": "jonschlinkert/time-stamp",
@@ -2202,7 +2202,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-05-01T09:01:49.000Z",
-    "updatedAt": "2025-01-18T05:52:56.000Z"
+    "updatedAt": "2025-01-19T08:17:59.000Z"
   },
   {
     "id": "localvoid/ndx",
@@ -2233,7 +2233,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-10-21T11:13:53.000Z",
-    "updatedAt": "2025-01-18T05:53:02.000Z"
+    "updatedAt": "2025-01-19T08:18:06.000Z"
   },
   {
     "id": "lukeed/fromnow",
@@ -2258,7 +2258,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2014-10-22T05:02:50.000Z",
-    "updatedAt": "2025-01-18T05:52:56.000Z"
+    "updatedAt": "2025-01-19T08:17:59.000Z"
   },
   {
     "id": "lukeed/hexoid",
@@ -2283,7 +2283,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2020-03-03T09:32:39.000Z",
-    "updatedAt": "2025-01-18T05:52:58.000Z"
+    "updatedAt": "2025-01-19T08:18:02.000Z"
   },
   {
     "id": "lukeed/matchit",
@@ -2308,7 +2308,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-11-05T18:37:41.000Z",
-    "updatedAt": "2025-01-18T05:52:52.000Z"
+    "updatedAt": "2025-01-19T08:17:55.000Z"
   },
   {
     "id": "lukeed/qss",
@@ -2333,7 +2333,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-10-23T06:26:30.000Z",
-    "updatedAt": "2025-01-18T05:52:52.000Z"
+    "updatedAt": "2025-01-19T08:17:56.000Z"
   },
   {
     "id": "lukeed/uuid",
@@ -2358,7 +2358,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2020-02-28T09:11:03.000Z",
-    "updatedAt": "2025-01-18T05:52:58.000Z"
+    "updatedAt": "2025-01-19T08:18:01.000Z"
   },
   {
     "id": "nanostores/i18n",
@@ -2383,7 +2383,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2021-10-24T01:19:45.000Z",
-    "updatedAt": "2025-01-18T05:52:54.000Z"
+    "updatedAt": "2025-01-19T08:17:57.000Z"
   },
   {
     "id": "nanostores/router",
@@ -2394,9 +2394,9 @@
       "name": "nanostores",
       "avatarUrl": "https://avatars.githubusercontent.com/u/85066968?v=4"
     },
-    "stars": 250,
+    "stars": 251,
     "starsDetail": {
-      "total": 250
+      "total": 251
     },
     "license": "MIT License",
     "forks": 19,
@@ -2408,7 +2408,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2021-06-24T01:08:53.000Z",
-    "updatedAt": "2025-01-18T05:52:52.000Z"
+    "updatedAt": "2025-01-19T08:17:54.000Z"
   },
   {
     "id": "pmndrs/zustand",
@@ -2427,9 +2427,9 @@
       "name": "pmndrs",
       "avatarUrl": "https://avatars.githubusercontent.com/u/45790596?v=4"
     },
-    "stars": 49460,
+    "stars": 49488,
     "starsDetail": {
-      "total": 49460
+      "total": 49488
     },
     "license": "MIT License",
     "forks": 1556,
@@ -2441,7 +2441,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-04-09T09:10:06.000Z",
-    "updatedAt": "2025-01-18T05:52:47.000Z"
+    "updatedAt": "2025-01-19T08:17:50.000Z"
   },
   {
     "id": "preactjs/preact",
@@ -2510,7 +2510,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-07-07T03:34:05.000Z",
-    "updatedAt": "2025-01-18T05:53:01.000Z"
+    "updatedAt": "2025-01-19T08:18:04.000Z"
   },
   {
     "id": "react-component/gesture",
@@ -2535,7 +2535,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-07-19T09:30:18.000Z",
-    "updatedAt": "2025-01-18T05:53:01.000Z"
+    "updatedAt": "2025-01-19T08:18:05.000Z"
   },
   {
     "id": "rmm5t/liquidmetal",
@@ -2564,7 +2564,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2009-02-06T00:16:49.000Z",
-    "updatedAt": "2025-01-18T05:53:06.000Z"
+    "updatedAt": "2025-01-19T08:18:09.000Z"
   },
   {
     "id": "sciactive/tinygesture",
@@ -2603,7 +2603,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-09-07T01:22:17.000Z",
-    "updatedAt": "2025-01-18T05:53:00.000Z"
+    "updatedAt": "2025-01-19T08:18:03.000Z"
   },
   {
     "id": "stayradiated/colr",
@@ -2628,7 +2628,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2014-08-22T08:23:20.000Z",
-    "updatedAt": "2025-01-18T05:52:59.000Z"
+    "updatedAt": "2025-01-19T08:18:02.000Z"
   },
   {
     "id": "thesephist/libsearch",
@@ -2657,7 +2657,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2022-05-29T09:01:29.000Z",
-    "updatedAt": "2025-01-18T05:53:03.000Z"
+    "updatedAt": "2025-01-19T08:18:06.000Z"
   },
   {
     "id": "thoughtspile/banditypes",
@@ -2688,7 +2688,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2023-02-26T19:07:55.000Z",
-    "updatedAt": "2025-01-18T05:52:57.000Z"
+    "updatedAt": "2025-01-19T08:18:00.000Z"
   },
   {
     "id": "truework/gretchen",
@@ -2721,7 +2721,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2020-01-17T22:07:51.000Z",
-    "updatedAt": "2025-01-18T05:52:53.000Z"
+    "updatedAt": "2025-01-19T08:17:56.000Z"
   },
   {
     "id": "vobyjs/oby",
@@ -2751,7 +2751,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2021-11-05T17:30:13.000Z",
-    "updatedAt": "2025-01-18T05:52:50.000Z"
+    "updatedAt": "2025-01-19T08:17:53.000Z"
   },
   {
     "id": "words/stemmer",
@@ -2781,7 +2781,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2014-06-13T17:44:06.000Z",
-    "updatedAt": "2025-01-18T05:53:03.000Z"
+    "updatedAt": "2025-01-19T08:18:07.000Z"
   },
   {
     "id": "wouterrutgers/fuzzy-search",
@@ -2806,6 +2806,6 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-04-17T16:20:11.000Z",
-    "updatedAt": "2025-01-18T05:53:04.000Z"
+    "updatedAt": "2025-01-19T08:18:08.000Z"
   }
 ]
