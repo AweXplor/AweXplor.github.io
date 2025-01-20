@@ -1997,7 +1997,7 @@
     "goPackage": "",
     "goImportedBy": 0,
     "createdAt": "2015-05-06T13:25:25.000Z",
-    "updatedAt": "2025-01-19T14:36:04.000Z"
+    "updatedAt": "2025-01-20T17:09:50.000Z"
   },
   {
     "id": "github/scientist",
@@ -9027,7 +9027,7 @@
     "goPackage": "",
     "goImportedBy": 0,
     "createdAt": "2019-01-13T02:32:55.000Z",
-    "updatedAt": "2025-01-19T14:38:03.000Z"
+    "updatedAt": "2025-01-20T17:11:49.000Z"
   },
   {
     "id": "MiniProfiler/rack-mini-profiler",
@@ -15956,7 +15956,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2022-05-18T05:54:19.000Z",
-    "updatedAt": "2025-01-19T14:39:46.000Z"
+    "updatedAt": "2025-01-20T17:13:30.000Z"
   },
   {
     "id": "a2design-inc/json-compare",
@@ -17491,9 +17491,9 @@
       "name": "drwl",
       "avatarUrl": "https://avatars.githubusercontent.com/u/1362443?v=4"
     },
-    "stars": 240,
+    "stars": 244,
     "starsDetail": {
-      "total": 240
+      "total": 244
     },
     "license": "Other",
     "forks": 24,
@@ -17505,7 +17505,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2022-06-15T03:50:52.000Z",
-    "updatedAt": "2025-01-19T14:32:20.000Z"
+    "updatedAt": "2025-01-20T17:06:10.000Z"
   },
   {
     "id": "dry-rb/dry-cli",
@@ -20081,7 +20081,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2011-05-28T04:41:28.000Z",
-    "updatedAt": "2025-01-19T14:39:46.000Z"
+    "updatedAt": "2025-01-20T17:13:30.000Z"
   },
   {
     "id": "panthomakos/timezone",
@@ -20610,14 +20610,14 @@
     "license": "MIT License",
     "forks": 7,
     "primaryLanguage": "Shell",
-    "pushedAt": "2025-01-18T12:40:02.000Z",
+    "pushedAt": "2025-01-20T09:47:18.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-11-27T01:05:29.000Z",
-    "updatedAt": "2025-01-19T14:32:21.000Z"
+    "updatedAt": "2025-01-20T17:06:11.000Z"
   },
   {
     "id": "ruby-amqp/march_hare",
