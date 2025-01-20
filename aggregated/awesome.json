@@ -1869,7 +1869,7 @@
       "name": "dhamaniasad",
       "avatarUrl": "https://avatars.githubusercontent.com/u/4560482?v=4"
     },
-    "stars": 10179,
+    "stars": 10183,
     "starsDetail": {
       "total": 10153,
       "week": 10,
@@ -1878,7 +1878,7 @@
       "updatedAt": 1736034893
     },
     "license": "Creative Commons Zero v1.0 Universal",
-    "forks": 818,
+    "forks": 819,
     "primaryLanguage": "",
     "pushedAt": "2024-09-15T18:26:53.000Z",
     "archived": false,
@@ -1887,7 +1887,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-08-02T07:27:17.000Z",
-    "updatedAt": "2025-01-19T04:20:19.000Z"
+    "updatedAt": "2025-01-20T06:50:19.000Z"
   },
   {
     "id": "paralax/awesome-honeypots",
@@ -2361,7 +2361,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2014-10-30T08:06:08.000Z",
-    "updatedAt": "2025-01-19T03:45:29.000Z"
+    "updatedAt": "2025-01-20T06:12:22.000Z"
   },
   {
     "id": "robinstickel/awesome-design-principles",
@@ -4283,7 +4283,7 @@
       "name": "markusschanta",
       "avatarUrl": "https://avatars.githubusercontent.com/u/254488?v=4"
     },
-    "stars": 4116,
+    "stars": 4117,
     "starsDetail": {
       "total": 4104,
       "week": 5,
@@ -4294,14 +4294,14 @@
     "license": "Creative Commons Attribution Share Alike 4.0 International",
     "forks": 424,
     "primaryLanguage": "",
-    "pushedAt": "2025-01-18T23:57:52.000Z",
+    "pushedAt": "2025-01-19T23:58:05.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-08-27T22:00:02.000Z",
-    "updatedAt": "2025-01-19T04:20:59.000Z"
+    "updatedAt": "2025-01-20T06:51:03.000Z"
   },
   {
     "id": "timofurrer/awesome-asyncio",
@@ -4320,7 +4320,7 @@
       "name": "timofurrer",
       "avatarUrl": "https://avatars.githubusercontent.com/u/1008252?v=4"
     },
-    "stars": 4692,
+    "stars": 4693,
     "starsDetail": {
       "total": 4682,
       "week": 12,
@@ -4338,7 +4338,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-11-01T10:04:45.000Z",
-    "updatedAt": "2025-01-19T04:19:38.000Z"
+    "updatedAt": "2025-01-20T06:49:33.000Z"
   },
   {
     "id": "danielecook/Awesome-Bioinformatics",
@@ -5599,7 +5599,7 @@
       "name": "tayllan",
       "avatarUrl": "https://avatars.githubusercontent.com/u/5643498?v=4"
     },
-    "stars": 21465,
+    "stars": 21481,
     "starsDetail": {
       "total": 21315,
       "week": 87,
@@ -5608,7 +5608,7 @@
       "updatedAt": 1736034704
     },
     "license": null,
-    "forks": 2709,
+    "forks": 2711,
     "primaryLanguage": "",
     "pushedAt": "2024-11-16T06:34:00.000Z",
     "archived": false,
@@ -5617,7 +5617,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2014-07-16T18:10:01.000Z",
-    "updatedAt": "2025-01-19T04:19:35.000Z"
+    "updatedAt": "2025-01-20T06:49:30.000Z"
   },
   {
     "id": "likedan/Awesome-CoreML-Models",
@@ -5649,7 +5649,7 @@
       "name": "likedan",
       "avatarUrl": "https://avatars.githubusercontent.com/u/8799955?v=4"
     },
-    "stars": 6551,
+    "stars": 6549,
     "starsDetail": {
       "total": 6533,
       "week": 7,
@@ -5667,7 +5667,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-08-22T10:43:47.000Z",
-    "updatedAt": "2025-01-19T04:09:28.000Z"
+    "updatedAt": "2025-01-20T06:38:18.000Z"
   },
   {
     "id": "mcauser/awesome-micropython",
@@ -5753,7 +5753,7 @@
       "name": "awesome-css-group",
       "avatarUrl": "https://avatars.githubusercontent.com/u/38369791?v=4"
     },
-    "stars": 5128,
+    "stars": 5127,
     "starsDetail": {
       "total": 5116,
       "week": 8,
@@ -5771,7 +5771,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-01-31T10:04:29.000Z",
-    "updatedAt": "2025-01-19T03:45:28.000Z"
+    "updatedAt": "2025-01-20T06:12:21.000Z"
   },
   {
     "id": "kjw0612/awesome-deep-vision",
@@ -7583,7 +7583,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-10-01T13:53:01.000Z",
-    "updatedAt": "2025-01-19T04:22:52.000Z"
+    "updatedAt": "2025-01-20T06:53:05.000Z"
   },
   {
     "id": "simskij/awesome-software-architecture",
@@ -8488,7 +8488,7 @@
       "name": "typeddjango",
       "avatarUrl": "https://avatars.githubusercontent.com/u/52535716?v=4"
     },
-    "stars": 1755,
+    "stars": 1756,
     "starsDetail": {
       "total": 1747,
       "week": 1,
@@ -8506,7 +8506,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-09-10T20:57:50.000Z",
-    "updatedAt": "2025-01-19T04:19:56.000Z"
+    "updatedAt": "2025-01-20T06:49:54.000Z"
   },
   {
     "id": "AchoArnold/discount-for-student-dev",
@@ -9219,7 +9219,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2014-09-05T12:17:59.000Z",
-    "updatedAt": "2025-01-19T04:22:04.000Z"
+    "updatedAt": "2025-01-20T06:52:13.000Z"
   },
   {
     "id": "wbkd/awesome-d3",
@@ -9583,7 +9583,7 @@
       "name": "ChristosChristofidis",
       "avatarUrl": "https://avatars.githubusercontent.com/u/7767579?v=4"
     },
-    "stars": 24638,
+    "stars": 24647,
     "starsDetail": {
       "total": 24524,
       "week": 39,
@@ -9601,7 +9601,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-01-02T19:28:35.000Z",
-    "updatedAt": "2025-01-19T04:20:28.000Z"
+    "updatedAt": "2025-01-20T06:50:29.000Z"
   },
   {
     "id": "Siilwyn/awesome-pixel-art",
@@ -10074,7 +10074,7 @@
       "name": "dahlia",
       "avatarUrl": "https://avatars.githubusercontent.com/u/12431?v=4"
     },
-    "stars": 2876,
+    "stars": 2877,
     "starsDetail": {
       "total": 2864,
       "week": 2,
@@ -10092,7 +10092,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2014-09-22T02:13:34.000Z",
-    "updatedAt": "2025-01-19T04:21:11.000Z"
+    "updatedAt": "2025-01-20T06:51:16.000Z"
   },
   {
     "id": "ipfs/awesome-ipfs",
@@ -10870,7 +10870,7 @@
       "name": "dariubs",
       "avatarUrl": "https://avatars.githubusercontent.com/u/3078072?v=4"
     },
-    "stars": 17422,
+    "stars": 17426,
     "starsDetail": {
       "total": 17349,
       "week": 31,
@@ -10888,7 +10888,7 @@
     "goPackage": "",
     "goImportedBy": 0,
     "createdAt": "2015-05-05T10:45:36.000Z",
-    "updatedAt": "2025-01-19T03:58:36.000Z"
+    "updatedAt": "2025-01-20T06:26:36.000Z"
   },
   {
     "id": "Friz-zy/awesome-linux-containers",
@@ -11847,7 +11847,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-12-12T00:44:09.000Z",
-    "updatedAt": "2025-01-19T04:19:21.000Z"
+    "updatedAt": "2025-01-20T06:49:14.000Z"
   },
   {
     "id": "jdorfman/awesome-json-datasets",
@@ -12038,7 +12038,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-01-30T10:14:48.000Z",
-    "updatedAt": "2025-01-19T04:19:21.000Z"
+    "updatedAt": "2025-01-20T06:49:14.000Z"
   },
   {
     "id": "watson/awesome-computer-history",
@@ -14321,12 +14321,12 @@
       "name": "Chalarangelo",
       "avatarUrl": "https://avatars.githubusercontent.com/u/8281875?v=4"
     },
-    "stars": 122377,
+    "stars": 122390,
     "starsDetail": {
-      "total": 122377
+      "total": 122390
     },
     "license": "Creative Commons Attribution 4.0 International",
-    "forks": 12061,
+    "forks": 12062,
     "primaryLanguage": "TypeScript",
     "pushedAt": "2025-01-18T12:10:41.000Z",
     "archived": false,
@@ -14335,7 +14335,7 @@
     "goPackage": null,
     "goImportedBy": 0,
     "createdAt": "2017-11-29T17:35:03.000Z",
-    "updatedAt": "2025-01-19T04:04:20.000Z"
+    "updatedAt": "2025-01-20T06:32:46.000Z"
   },
   {
     "id": "ConstructCommunity/awesome-construct",
@@ -17968,12 +17968,12 @@
       "name": "lukasz-madon",
       "avatarUrl": "https://avatars.githubusercontent.com/u/1547923?v=4"
     },
-    "stars": 36215,
+    "stars": 36239,
     "starsDetail": {
-      "total": 36215
+      "total": 36239
     },
     "license": null,
-    "forks": 4018,
+    "forks": 4019,
     "primaryLanguage": "",
     "pushedAt": "2024-12-05T19:32:19.000Z",
     "archived": false,
@@ -17982,7 +17982,7 @@
     "goPackage": "",
     "goImportedBy": 0,
     "createdAt": "2015-01-02T00:31:34.000Z",
-    "updatedAt": "2025-01-19T03:58:45.000Z"
+    "updatedAt": "2025-01-20T06:26:45.000Z"
   },
   {
     "id": "lunohodov/awesome-astrophotography",
@@ -18821,7 +18821,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2014-10-22T11:11:18.000Z",
-    "updatedAt": "2025-01-19T03:45:28.000Z"
+    "updatedAt": "2025-01-20T06:12:22.000Z"
   },
   {
     "id": "playcanvas/awesome-playcanvas",
@@ -20823,9 +20823,9 @@
       "name": "ziadoz",
       "avatarUrl": "https://avatars.githubusercontent.com/u/645637?v=4"
     },
-    "stars": 31192,
+    "stars": 31194,
     "starsDetail": {
-      "total": 31192
+      "total": 31194
     },
     "license": "Do What The F*ck You Want To Public License",
     "forks": 5087,
@@ -20837,7 +20837,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2013-11-26T03:14:19.000Z",
-    "updatedAt": "2025-01-19T04:19:32.000Z"
+    "updatedAt": "2025-01-20T06:49:27.000Z"
   },
   {
     "id": "zolagonano/awesome-zeronet",
