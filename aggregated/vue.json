@@ -1231,7 +1231,7 @@
       "name": "ecomfe",
       "avatarUrl": "https://avatars.githubusercontent.com/u/2268460?v=4"
     },
-    "stars": 9889,
+    "stars": 9891,
     "starsDetail": {
       "total": 9852,
       "week": 14,
@@ -1249,7 +1249,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-06-17T09:55:24.000Z",
-    "updatedAt": "2025-01-19T17:45:38.000Z"
+    "updatedAt": "2025-01-20T20:19:09.000Z"
   },
   {
     "id": "JetBrains/intellij-plugins",
@@ -3560,7 +3560,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2020-04-25T18:00:18.000Z",
-    "updatedAt": "2025-01-19T17:58:56.000Z"
+    "updatedAt": "2025-01-20T20:31:39.000Z"
   },
   {
     "id": "vuejs/vitepress",
@@ -4414,7 +4414,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-04-17T23:49:17.000Z",
-    "updatedAt": "2025-01-19T17:45:15.000Z"
+    "updatedAt": "2025-01-20T20:18:47.000Z"
   },
   {
     "id": "graphieros/vue-data-ui",
@@ -14050,21 +14050,21 @@
       "name": "tailwindlabs",
       "avatarUrl": "https://avatars.githubusercontent.com/u/67109815?v=4"
     },
-    "stars": 84604,
+    "stars": 84613,
     "starsDetail": {
-      "total": 84604
+      "total": 84613
     },
     "license": "MIT License",
     "forks": 4288,
     "primaryLanguage": "HTML",
-    "pushedAt": "2025-01-19T10:56:36.000Z",
+    "pushedAt": "2025-01-20T18:54:14.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-10-06T14:59:14.000Z",
-    "updatedAt": "2025-01-19T17:50:15.000Z"
+    "updatedAt": "2025-01-20T20:23:28.000Z"
   },
   {
     "id": "technowledgy/vue-postgrest",

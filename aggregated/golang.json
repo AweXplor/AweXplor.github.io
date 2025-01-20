@@ -6012,7 +6012,7 @@
     "goPackage": "github.com/bogdanfinn/tls-client",
     "goImportedBy": 132,
     "createdAt": "2022-07-09T20:21:20.000Z",
-    "updatedAt": "2025-01-19T17:59:05.000Z"
+    "updatedAt": "2025-01-20T20:31:46.000Z"
   },
   {
     "id": "Masterminds/squirrel",
@@ -9853,14 +9853,14 @@
     "license": "MIT License",
     "forks": 102,
     "primaryLanguage": "Dockerfile",
-    "pushedAt": "2025-01-17T18:47:21.000Z",
+    "pushedAt": "2025-01-20T19:06:52.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2021-05-28T09:13:03.000Z",
-    "updatedAt": "2025-01-19T17:41:44.000Z"
+    "updatedAt": "2025-01-20T20:26:18.000Z"
   },
   {
     "id": "go-playground/webhooks",
@@ -13832,14 +13832,14 @@
     "license": "MIT License",
     "forks": 32,
     "primaryLanguage": "Dockerfile",
-    "pushedAt": "2025-01-19T15:23:32.000Z",
+    "pushedAt": "2025-01-20T02:27:33.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": "github.com/neilotoole/sq",
     "goImportedBy": 0,
     "createdAt": "2016-02-16T02:01:18.000Z",
-    "updatedAt": "2025-01-19T17:59:08.000Z"
+    "updatedAt": "2025-01-20T20:31:49.000Z"
   },
   {
     "id": "stephenafamo/bob",
@@ -16438,59 +16438,6 @@
     "updatedAt": "2025-01-20T06:26:13.000Z"
   },
   {
-    "id": "mholt/archiver",
-    "name": "mholt/archiver",
-    "description": "DEPRECATED. Please use mholt/archives instead.",
-    "topics": [
-      "7zip",
-      "archives",
-      "brotli",
-      "bzip2",
-      "compression",
-      "decompression",
-      "extract",
-      "go",
-      "golang",
-      "gzip",
-      "lz4",
-      "rar",
-      "snappy",
-      "streaming",
-      "streams",
-      "tar",
-      "xz",
-      "zip",
-      "zstandard"
-    ],
-    "owner": {
-      "name": "mholt",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/1128849?v=4"
-    },
-    "stars": 4433,
-    "starsDetail": {
-      "total": 4441,
-      "week": 0,
-      "month": 3,
-      "year": [
-        42,
-        41,
-        1704410702
-      ],
-      "updatedAt": 1736033105
-    },
-    "license": "MIT License",
-    "forks": 390,
-    "primaryLanguage": "Go",
-    "pushedAt": "2024-11-19T16:52:17.000Z",
-    "archived": true,
-    "npmPackage": "",
-    "npmLastMonthDownloads": null,
-    "goPackage": "github.com/mholt/archiver/v4",
-    "goImportedBy": 132,
-    "createdAt": "2016-04-08T22:46:55.000Z",
-    "updatedAt": "2025-01-20T06:18:02.000Z"
-  },
-  {
     "id": "nsf/gocode",
     "name": "nsf/gocode",
     "description": "An autocompletion daemon for the Go programming language",
@@ -17003,7 +16950,7 @@
       "name": "FiloSottile",
       "avatarUrl": "https://avatars.githubusercontent.com/u/1225294?v=4"
     },
-    "stars": 17939,
+    "stars": 17948,
     "starsDetail": {
       "total": 17803,
       "week": 76,
@@ -17021,7 +16968,7 @@
     "goPackage": "filippo.io/age",
     "goImportedBy": 271,
     "createdAt": "2019-05-18T20:44:54.000Z",
-    "updatedAt": "2025-01-19T17:54:11.000Z"
+    "updatedAt": "2025-01-20T20:27:12.000Z"
   },
   {
     "id": "go-task/task",
@@ -26547,7 +26494,7 @@
     "goPackage": "github.com/chapar-rest/chapar",
     "goImportedBy": 0,
     "createdAt": "2024-01-12T22:52:45.000Z",
-    "updatedAt": "2025-01-19T17:59:01.000Z"
+    "updatedAt": "2025-01-20T20:31:43.000Z"
   },
   {
     "id": "egonelbre/gophers",
@@ -37845,14 +37792,14 @@
     "license": "Apache License 2.0",
     "forks": 1,
     "primaryLanguage": "Makefile",
-    "pushedAt": "2025-01-19T17:07:07.000Z",
+    "pushedAt": "2025-01-20T08:15:40.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-10-04T07:30:16.000Z",
-    "updatedAt": "2025-01-19T17:41:43.000Z"
+    "updatedAt": "2025-01-20T20:26:18.000Z"
   },
   {
     "id": "Jagerente/gocfg",
@@ -38571,9 +38518,9 @@
       "name": "Noooste",
       "avatarUrl": "https://avatars.githubusercontent.com/u/83548733?v=4"
     },
-    "stars": 197,
+    "stars": 198,
     "starsDetail": {
-      "total": 197
+      "total": 198
     },
     "license": "MIT License",
     "forks": 24,
@@ -38585,7 +38532,7 @@
     "goPackage": "github.com/Noooste/azuretls-client",
     "goImportedBy": 24,
     "createdAt": "2023-05-15T09:41:47.000Z",
-    "updatedAt": "2025-01-19T17:59:04.000Z"
+    "updatedAt": "2025-01-20T20:31:46.000Z"
   },
   {
     "id": "OGFris/GoStats",
@@ -40975,7 +40922,7 @@
     "goPackage": "github.com/adelowo/gulter",
     "goImportedBy": 2,
     "createdAt": "2024-02-13T23:17:20.000Z",
-    "updatedAt": "2025-01-19T17:58:59.000Z"
+    "updatedAt": "2025-01-20T20:31:42.000Z"
   },
   {
     "id": "adelowo/onecache",
@@ -42673,7 +42620,7 @@
     "goPackage": "github.com/andreimerlescu/entpassgen",
     "goImportedBy": 0,
     "createdAt": "2024-07-30T14:55:15.000Z",
-    "updatedAt": "2025-01-19T17:59:05.000Z"
+    "updatedAt": "2025-01-20T20:31:47.000Z"
   },
   {
     "id": "andrewstuart/goq",
@@ -44549,21 +44496,21 @@
       "name": "axzilla",
       "avatarUrl": "https://avatars.githubusercontent.com/u/26936893?v=4"
     },
-    "stars": 272,
+    "stars": 274,
     "starsDetail": {
-      "total": 272
+      "total": 274
     },
     "license": "MIT License",
     "forks": 10,
     "primaryLanguage": "Makefile",
-    "pushedAt": "2025-01-11T01:57:51.000Z",
+    "pushedAt": "2025-01-20T13:39:55.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": "github.com/axzilla/templui",
     "goImportedBy": 0,
     "createdAt": "2024-10-01T14:40:11.000Z",
-    "updatedAt": "2025-01-19T17:59:00.000Z"
+    "updatedAt": "2025-01-20T20:31:42.000Z"
   },
   {
     "id": "aybabtme/portproxy",
@@ -60417,7 +60364,7 @@
     "goPackage": "github.com/jon-codes/getopt",
     "goImportedBy": 0,
     "createdAt": "2024-09-21T19:14:27.000Z",
-    "updatedAt": "2025-01-19T17:58:59.000Z"
+    "updatedAt": "2025-01-20T20:31:41.000Z"
   },
   {
     "id": "jonchun/pathtype",
@@ -65256,6 +65203,52 @@
     "updatedAt": "2025-01-20T06:16:51.000Z"
   },
   {
+    "id": "mholt/archives",
+    "name": "mholt/archives",
+    "description": "Cross-platform library to create & extract archives, compress & decompress files, and walk virtual file systems across various formats",
+    "topics": [
+      "7zip",
+      "archives",
+      "brotli",
+      "bzip2",
+      "compression",
+      "extract",
+      "fs",
+      "go",
+      "golang",
+      "gzip",
+      "lz4",
+      "lzip",
+      "rar",
+      "snappy",
+      "streams",
+      "tar",
+      "xz",
+      "zip",
+      "zlib",
+      "zstandard"
+    ],
+    "owner": {
+      "name": "mholt",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1128849?v=4"
+    },
+    "stars": 127,
+    "starsDetail": {
+      "total": 127
+    },
+    "license": "MIT License",
+    "forks": 6,
+    "primaryLanguage": "Go",
+    "pushedAt": "2025-01-03T19:25:04.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2024-11-18T18:09:50.000Z",
+    "updatedAt": "2025-01-20T20:15:28.000Z"
+  },
+  {
     "id": "mibk/dupl",
     "name": "mibk/dupl",
     "description": "a tool for code clone detection",
@@ -65793,21 +65786,21 @@
       "name": "mlange-42",
       "avatarUrl": "https://avatars.githubusercontent.com/u/44003176?v=4"
     },
-    "stars": 161,
+    "stars": 162,
     "starsDetail": {
-      "total": 161
+      "total": 162
     },
     "license": "MIT License",
     "forks": 8,
     "primaryLanguage": "Python",
-    "pushedAt": "2025-01-15T15:51:10.000Z",
+    "pushedAt": "2025-01-20T12:48:26.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2023-02-04T20:52:13.000Z",
-    "updatedAt": "2025-01-19T17:53:15.000Z"
+    "updatedAt": "2025-01-20T20:26:19.000Z"
   },
   {
     "id": "mlimaloureiro/golog",
@@ -68030,7 +68023,7 @@
     "goPackage": "github.com/nikolaydubina/go-enum-encoding",
     "goImportedBy": 0,
     "createdAt": "2024-03-20T02:47:21.000Z",
-    "updatedAt": "2025-01-19T17:59:00.000Z"
+    "updatedAt": "2025-01-20T20:31:42.000Z"
   },
   {
     "id": "nikolaydubina/go-featureprocessing",
@@ -73019,7 +73012,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-08-31T13:24:08.000Z",
-    "updatedAt": "2025-01-19T17:53:15.000Z"
+    "updatedAt": "2025-01-20T20:26:20.000Z"
   },
   {
     "id": "rhnvrm/simples3",
@@ -79845,7 +79838,7 @@
     "goPackage": "github.com/vadiminshakov/committer",
     "goImportedBy": 0,
     "createdAt": "2020-08-02T09:50:12.000Z",
-    "updatedAt": "2025-01-19T17:59:10.000Z"
+    "updatedAt": "2025-01-20T20:31:52.000Z"
   },
   {
     "id": "vaelen/iot",
@@ -80946,21 +80939,21 @@
       "name": "webhookx-io",
       "avatarUrl": "https://avatars.githubusercontent.com/u/170877594?v=4"
     },
-    "stars": 131,
+    "stars": 132,
     "starsDetail": {
-      "total": 131
+      "total": 132
     },
     "license": "Apache License 2.0",
     "forks": 12,
     "primaryLanguage": "Dockerfile",
-    "pushedAt": "2024-12-31T13:14:12.000Z",
+    "pushedAt": "2025-01-20T17:48:03.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": "github.com/webhookx-io/webhookx",
     "goImportedBy": 0,
     "createdAt": "2024-07-16T16:29:33.000Z",
-    "updatedAt": "2025-01-19T17:59:01.000Z"
+    "updatedAt": "2025-01-20T20:31:43.000Z"
   },
   {
     "id": "wellington/go-libsass",
@@ -82891,7 +82884,7 @@
     "goPackage": "github.com/yuseferi/envyaml",
     "goImportedBy": 0,
     "createdAt": "2024-09-18T14:36:39.000Z",
-    "updatedAt": "2025-01-19T17:59:03.000Z"
+    "updatedAt": "2025-01-20T20:31:45.000Z"
   },
   {
     "id": "yuseferi/gocache",
